@@ -1,0 +1,15 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="7" y="28" width="28" height="14" rx="5" fill="black" fill-opacity="0.1"/>
+<path d="M4 34C4 41 7.64285 41 7.64285 41H34.3571C34.3571 41 38 41 38 34" stroke="black" stroke-width="2"/>
+<path d="M12.5486 33.9986C11.6933 33.1433 11.7348 31.8008 12.6413 31" stroke="black" stroke-width="2"/>
+<path d="M29.6413 33.9986C30.4966 33.1433 30.4551 31.8008 29.5486 31" stroke="black" stroke-width="2"/>
+<path d="M30 18C30 19.1046 29.1046 20 28 20C26.8954 20 26 19.1046 26 18C26 16.8954 26.8954 16 28 16C29.1046 16 30 16.8954 30 18Z" fill="black"/>
+<path d="M16 18C16 19.1046 15.1046 20 14 20C12.8954 20 12 19.1046 12 18C12 16.8954 12.8954 16 14 16C15.1046 16 16 16.8954 16 18Z" fill="black"/>
+<path d="M23.5 23.5L21 25L18.5 23.5" stroke="black" stroke-width="2"/>
+<path d="M16 34H26V32H16V34Z" fill="black"/>
+<path d="M8 16H17V14H8V16Z" fill="black"/>
+<path d="M25 16H34V14H25V16Z" fill="black"/>
+<rect x="29" y="5" width="23" height="4" rx="2" transform="rotate(180 29 5)" fill="black" stroke="black" stroke-width="2"/>
+<rect x="36" y="4.99997" width="5" height="4" rx="2" transform="rotate(180 36 4.99997)" fill="black" stroke="black" stroke-width="2"/>
+<rect x="20" y="0.999969" width="12" height="2" fill="black" stroke="black" stroke-width="2"/>
+</svg>

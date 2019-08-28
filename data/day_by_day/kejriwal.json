@@ -1,0 +1,2193 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=417720,401728,426306,403044,421935,416689,433140,407239,402346,406296,433949,415589,427694,405413,415124,419463,422459,424363,409170,410978,424795,431312,408243,429111,406066,410611,413576,413987,418243,421053,417471,411955,434852,430378,404298,422993,425361,408823,429628,412449",
+    "time": 1560434514,
+    "UTCDateTime": "2019-06-13T14:01:54+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "401728",
+      "date_published": "2019-04-20 18:02:08",
+      "date_added": "2019-04-20 14:37:20",
+      "date_modified": "2019-04-20 15:01:21",
+      "title": "Delhi: Farmer hangs himself at AAP rally, sets off political blame game",
+      "source": "indianexpress.com",
+      "description": "While Congress demanded FIR against Delhi CM Arvind Kejriwal, AAP leadership blamed Delhi police for the suicide.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "congress",
+        "delhi",
+        "harry gallatin"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2NpdGllcy9kZWxoaS9mYXJtZXJzLXN1\naWNpZGUtYXQtYWFwLXJhbGx5LXBvbGl0aWNhbC1ibGFtZS1nYW1lLWJlZ2lucy8=",
+      "short_url": "https://www.google.com/amp/s/indianexpress.com/article/cities/delhi/farmers-suicide-at-aap-rally-political-blame-game-begins/lite/",
+      "engagement": "0",
+      "popularity": "24383.8",
+      "tw_tweets": "13",
+      "tw_reach": "29614",
+      "tw_favorites": "8",
+      "tw_retweets": "8",
+      "tw_since_id": "1119579500855975936",
+      "fb_shares": "21",
+      "fb_comments": "209",
+      "fb_reactions": "698",
+      "popularity_updated": "12",
+      "sentiment": "-1",
+      "screen_name": "dahiyayogesh81",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 18:02",
+      "timestamp_published": "1555776128",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "174",
+          "query": "(AAP AND India) OR (AAP AND Delhi) OR (AAP AND Congress) OR (AAP AND BJP) OR \"Aam Aadmi Party\" OR \"Arvind Kejriwal\" OR ArvindKejriwal"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "402346",
+      "date_published": "2019-04-21 12:04:25",
+      "date_added": "2019-04-21 08:37:10",
+      "date_modified": "2019-04-21 08:47:14",
+      "title": "Sealing drive in Delhi’s Mayapuri was pre scripted by CM Kejriwal; says Manoj Tiwari",
+      "source": "www.topstory.online",
+      "description": "Condemning the Lathi charge on the traders, BJP MP from North east Delhi, Manoj Tiwari said that it was a conspiracy of Kejriwal in order to defame PM Modi through carrying out sealing action. He claimed “Sealing drive was pre scripted and how it should be presented before the people. Arvind Kejriwal had already prepared a tweet and the Radio ad for this purpose,” BJP MP from North east Manoj Tiwari,”",
+      "tags": [
+        "arvind kejriwal",
+        "bjp",
+        "delhi’s",
+        "manoj tiwari",
+        "narendra modi",
+        "north east delhi",
+        "roger sanchez"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy50b3BzdG9yeS5vbmxpbmUvc2VhbGluZy1kcml2ZS1pbi1kZWxoaXMtbWF5YXB1\ncmktd2FzLXByZS1zY3JpcHRlZC1ieS1jbS1rZWpyaXdhbC1zYXlzLW1hbm9qLXRpd2FyaS8=",
+      "short_url": "http://www.topstory.online/sealing-drive-in-delhis-mayapuri-was-pre-scripted-by-cm-kejriwal-says-manoj-tiwari/",
+      "engagement": "0",
+      "popularity": "4370.25",
+      "tw_tweets": "7",
+      "tw_reach": "511",
+      "tw_favorites": "0",
+      "tw_retweets": "2030",
+      "tw_since_id": "1119851866366496769",
+      "fb_shares": "38",
+      "fb_comments": "14",
+      "fb_reactions": "362",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "NARESH33058339",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 12:04",
+      "timestamp_published": "1555841065",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "174",
+          "query": "(AAP AND India) OR (AAP AND Delhi) OR (AAP AND Congress) OR (AAP AND BJP) OR \"Aam Aadmi Party\" OR \"Arvind Kejriwal\" OR ArvindKejriwal"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "403044",
+      "date_published": "2019-04-22 10:50:27",
+      "date_added": "2019-04-22 07:22:43",
+      "date_modified": "2019-04-22 09:07:04",
+      "title": "AAP begins campaigning in Delhi",
+      "source": "www.indiatoday.in",
+      "description": "The six remaining candidates of AAP will file their nominations today. CM Arvind Kejriwal will participate in two roadshows.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "delhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9tYWlsLXRvZGF5L3N0b3J5L2FhcC1iZWdpbnMtY2Ft\ncGFpZ25pbmctaW4tZGVsaGktMTUwNzA2MS0yMDE5LTA0LTIy",
+      "short_url": "https://www.indiatoday.in/mail-today/story/aap-begins-campaigning-in-delhi-1507061-2019-04-22",
+      "engagement": "0",
+      "popularity": "55752.5",
+      "tw_tweets": "8",
+      "tw_reach": "74016",
+      "tw_favorites": "0",
+      "tw_retweets": "3",
+      "tw_since_id": "1120221471320825856",
+      "fb_shares": "4",
+      "fb_comments": "39",
+      "fb_reactions": "54",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "mail_today",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 10:50",
+      "timestamp_published": "1555923027",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "174",
+          "query": "(AAP AND India) OR (AAP AND Delhi) OR (AAP AND Congress) OR (AAP AND BJP) OR \"Aam Aadmi Party\" OR \"Arvind Kejriwal\" OR ArvindKejriwal"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "404298",
+      "date_published": "2019-04-23 17:30:00",
+      "date_added": "2019-04-23 14:02:10",
+      "date_modified": "2019-04-24 20:56:25",
+      "title": "Arvind Kejriwal Beaten Up By AAP MLAs At His Residence Alleges Rebel Party Leader",
+      "source": "swarajyamag.com",
+      "description": "Arvind Kejriwal was allegedly beaten up at his residence by AAP MLAs",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvYXJ2aW5kLWtlanJpd2FsLWJlYXRlbi11cC1i\neS1hYXAtbWxhcy1hdC1oaXMtcmVzaWRlbmNlLWFsbGVnZXMtcmViZWwtcGFydHktbGVhZGVy",
+      "short_url": "https://swarajyamag.com/insta/arvind-kejriwal-beaten-up-by-aap-mlas-at-his-residence-alleges-rebel-party-leader",
+      "engagement": "0",
+      "popularity": "1130900",
+      "tw_tweets": "553",
+      "tw_reach": "737015",
+      "tw_favorites": "10",
+      "tw_retweets": "368141",
+      "tw_since_id": "1121123793584320512",
+      "fb_shares": "1567",
+      "fb_comments": "1147",
+      "fb_reactions": "8431",
+      "popularity_updated": "532",
+      "sentiment": "0",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 17:30",
+      "timestamp_published": "1556033400",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "174",
+          "query": "(AAP AND India) OR (AAP AND Delhi) OR (AAP AND Congress) OR (AAP AND BJP) OR \"Aam Aadmi Party\" OR \"Arvind Kejriwal\" OR ArvindKejriwal"
+        }
+      ],
+      "popularity_logs": "551"
+    },
+    {
+      "id": "405413",
+      "date_published": "2019-04-24 21:45:42",
+      "date_added": "2019-04-24 18:17:13",
+      "date_modified": "2019-04-24 21:46:49",
+      "title": "Arvind Kejriwal To Upload Video While Walking To Prove That He Wasn’t Beaten Up | The Fauxy",
+      "source": "thefauxy.com",
+      "description": "AAP supremo and Delhi CM Arvind Kejriwal were allegedly beaten up by his own party MLAs a few days ago at his own place of residence over a disagreement. Since then he has not made any public appearan | India's Finest, Fastest & Fictitious News Source",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVmYXV4eS5jb20vYXJ2aW5kLWtlanJpd2FsLXRvLXVwbG9hZC12aWRlby13aGls\nZS13YWxraW5nLXRvLXByb3ZlLXRoYXQtaGUtd2FzbnQtYmVhdGVuLXVwLw==",
+      "short_url": "https://thefauxy.com/arvind-kejriwal-to-upload-video-while-walking-to-prove-that-he-wasnt-beaten-up/",
+      "engagement": "0",
+      "popularity": "25527.5",
+      "tw_tweets": "36",
+      "tw_reach": "29513",
+      "tw_favorites": "0",
+      "tw_retweets": "1640",
+      "tw_since_id": "1121472931576422400",
+      "fb_shares": "26",
+      "fb_comments": "14",
+      "fb_reactions": "357",
+      "popularity_updated": "30",
+      "sentiment": "0",
+      "screen_name": "DrJVDubey",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 21:45",
+      "timestamp_published": "1556135142",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "174",
+          "query": "(AAP AND India) OR (AAP AND Delhi) OR (AAP AND Congress) OR (AAP AND BJP) OR \"Aam Aadmi Party\" OR \"Arvind Kejriwal\" OR ArvindKejriwal"
+        }
+      ],
+      "popularity_logs": "51"
+    },
+    {
+      "id": "406066",
+      "date_published": "2019-04-25 20:18:19",
+      "date_added": "2019-04-25 16:51:46",
+      "date_modified": "2019-05-26 11:22:08",
+      "title": "Fearing defeat, Kejriwal says Rahul Gandhi would be solely responsible if BJP comes back to power",
+      "source": "www.indiatvnews.com",
+      "description": "In what can be termed as conceding defeat ahead of the Lok Sabha election 2019 results, Arvind Kejriwal has said that the only person that should be blamed if the BJP comes back to power would be Rahul Gandhi.",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtZWxlY3Rpb25z\nLTIwMTktYXJ2aW5kLWtlanJpd2FsLXNheXMtcmFodWwtZ2FuZGhpLXdvdWxkLWJlLXNvbGVseS1y\nZXNwb25zaWJsZS1pZi1ianAtY29tZXMtYmFjay10by1wb3dlci01MTY0NTk=",
+      "short_url": "https://www.indiatvnews.com/elections/lok-sabha-elections-2019-arvind-kejriwal-says-rahul-gandhi-would-be-solely-responsible-if-bjp-comes-back-to-power-516459",
+      "engagement": "0",
+      "popularity": "1580680",
+      "tw_tweets": "258",
+      "tw_reach": "2065657",
+      "tw_favorites": "15",
+      "tw_retweets": "20096",
+      "tw_since_id": "1132576267386130433",
+      "fb_shares": "36",
+      "fb_comments": "110",
+      "fb_reactions": "297",
+      "popularity_updated": "240",
+      "sentiment": "0",
+      "screen_name": "indiatvnews",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 20:18",
+      "timestamp_published": "1556216299",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "264"
+    },
+    {
+      "id": "406296",
+      "date_published": "2019-04-26 06:59:59",
+      "date_added": "2019-04-26 03:32:02",
+      "date_modified": "2019-04-26 03:32:02",
+      "title": "Take leave till elections and come to Delhi to defeat BJP: CM Arvind Kejriwal’s appeal to party workers",
+      "source": "www.timesnownews.com",
+      "description": "Delhi CM and AAP’s national convener Arvind Kejriwal has urged party workers to take leave till elections and come to Delhi to defeat the BJP.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "delhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9lbGVjdGlvbnMvYXJ0aWNsZS90YWtlLWxlYXZl\nLXRpbGwtZWxlY3Rpb25zLWFuZC1jb21lLXRvLWRlbGhpLXRvLWRlZmVhdC1ianAtY20tYXJ2aW5k\nLWtlanJpd2FsLXMtYXBwZWFsLXRvLXBhcnR5LXdvcmtlcnMvNDA2OTA5",
+      "short_url": "https://www.timesnownews.com/elections/article/take-leave-till-elections-and-come-to-delhi-to-defeat-bjp-cm-arvind-kejriwal-s-appeal-to-party-workers/406909",
+      "engagement": "0",
+      "popularity": "19264.2",
+      "tw_tweets": "5",
+      "tw_reach": "7797",
+      "tw_favorites": "3",
+      "tw_retweets": "6",
+      "tw_since_id": "1121814665539899392",
+      "fb_shares": "251",
+      "fb_comments": "1416",
+      "fb_reactions": "4131",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "manojmarada",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 06:59",
+      "timestamp_published": "1556254799",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "407239",
+      "date_published": "2019-04-27 12:10:11",
+      "date_added": "2019-04-27 08:42:14",
+      "date_modified": "2019-04-27 16:21:51",
+      "title": "Inside story of why AAP-Congress talks failed | Hear it from Arvind Kejriwal",
+      "source": "www.indiatoday.in",
+      "description": "Arvind Kejriwal said Rahul Gandhi was merely pretending that he wants an alliance with AAP but in reality he did not want to join hands with us.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "congress",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nYXJ2aW5kLWtlanJpd2FsLXJhaHVsLWdhbmRoaS1jb25ncmVzcy1hYXAtYWxsaWFuY2UtZmFpbGVk\nLWluc2lkZS1zdG9yeS0xNTExNDE1LTIwMTktMDQtMjc=",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/arvind-kejriwal-rahul-gandhi-congress-aap-alliance-failed-inside-story-1511415-2019-04-27",
+      "engagement": "0",
+      "popularity": "32375000",
+      "tw_tweets": "202",
+      "tw_reach": "43130381",
+      "tw_favorites": "136",
+      "tw_retweets": "17627",
+      "tw_since_id": "1122327917638246400",
+      "fb_shares": "29",
+      "fb_comments": "56",
+      "fb_reactions": "104",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "greatbong",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 12:10",
+      "timestamp_published": "1556359811",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "408243",
+      "date_published": "2019-04-28 20:40:03",
+      "date_added": "2019-04-28 17:12:06",
+      "date_modified": "2019-04-28 17:12:07",
+      "title": "Modi's cabinet most corrupt govt since Independence, ruined country in last 5 years: Kejriwal",
+      "source": "www.indiatoday.in",
+      "description": "Arvind Kejriwal claimed that PM Modi and Amit Shah \"divided India on religious lines\" in five years.",
+      "tags": [
+        "amit shah",
+        "arvind kejriwal",
+        "arvind mithal",
+        "divide india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nbW9kaS1zLWNhYmluZXQtbW9zdC1jb3JydXB0LWdvdnQtc2luY2UtaW5kZXBlbmRlbmNlLXJ1aW5l\nZC1jb3VudHJ5LWluLWxhc3QtNS15ZWFycy1rZWpyaXdhbC0xNDkwOTExLTIwMTktMDMtMzE=",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/modi-s-cabinet-most-corrupt-govt-since-independence-ruined-country-in-last-5-years-kejriwal-1490911-2019-03-31",
+      "engagement": "0",
+      "popularity": "3012300",
+      "tw_tweets": "1469",
+      "tw_reach": "1526791",
+      "tw_favorites": "0",
+      "tw_retweets": "1235729",
+      "tw_since_id": "1122713286892490754",
+      "fb_shares": "470",
+      "fb_comments": "1211",
+      "fb_reactions": "3582",
+      "popularity_updated": "4",
+      "sentiment": "-1",
+      "screen_name": "Ad21Tel",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 20:40",
+      "timestamp_published": "1556476803",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "408823",
+      "date_published": "2019-04-29 16:59:57",
+      "date_added": "2019-04-29 13:32:15",
+      "date_modified": "2019-04-29 18:52:02",
+      "title": "Arvind Kejriwal's wife Sunita registered on two electoral rolls, alleges BJP",
+      "source": "zeenews.india.com",
+      "description": "BJP alleged that Sunita Kejriwal's name is registered on two electoral rolls, one in Sahibabad (Ghaziabad) and another in Chandni Chowk.",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "chandni",
+        "sunita kejriwal",
+        "sunitha upadrashta"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9sb2stc2FiaGEtZ2VuZXJhbC1lbGVjdGlvbnMtMjAx\nOS9hcnZpbmQta2Vqcml3YWxzLXdpZmUtc3VuaXRhLXJlZ2lzdGVyZWQtb24tdHdvLWVsZWN0b3Jh\nbC1yb2xscy1hbGxlZ2VzLWJqcC0yMTk5NjMwLmh0bWw=",
+      "short_url": "https://zeenews.india.com/lok-sabha-general-elections-2019/arvind-kejriwals-wife-sunita-registered-on-two-electoral-rolls-alleges-bjp-2199630.html",
+      "engagement": "0",
+      "popularity": "5703.75",
+      "tw_tweets": "20",
+      "tw_reach": "4804",
+      "tw_favorites": "0",
+      "tw_retweets": "699",
+      "tw_since_id": "1122905835993088000",
+      "fb_shares": "24",
+      "fb_comments": "52",
+      "fb_reactions": "377",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "asf1234",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 16:59",
+      "timestamp_published": "1556549997",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "409170",
+      "date_published": "2019-04-30 04:41:36",
+      "date_added": "2019-04-30 01:17:04",
+      "date_modified": "2019-04-30 01:22:02",
+      "title": "BJP files complaint against Arvind Kejriwal's wife, alleges she holds two voter IDs",
+      "source": "www.timesnownews.com",
+      "description": "Aam Aadmi Party (AAP) candidate from East Delhi Atishi Marlena on April 26 claimed that her opponent Bharatiya Janata Party (BJP) candidate Gautam Gambhir figures twice in electoral rolls.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "east delhi atishi",
+        "gautam gambhir"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9lbGVjdGlvbnMvYXJ0aWNsZS9ianAtZmlsZXMt\nY29tcGxhaW50LWFnYWluc3QtYXJ2aW5kLWtlanJpd2Fscy13aWZlLWFsbGVnZXMtc2hlLWhvbGRz\nLXR3by12b3Rlci1pZHMvNDA5MjMy",
+      "short_url": "https://goo.gl/fb/GxHYZv",
+      "engagement": "0",
+      "popularity": "6088.75",
+      "tw_tweets": "12",
+      "tw_reach": "3834",
+      "tw_favorites": "0",
+      "tw_retweets": "228",
+      "tw_since_id": "1123115061734625282",
+      "fb_shares": "79",
+      "fb_comments": "160",
+      "fb_reactions": "1014",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "757LiveIN",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 04:41",
+      "timestamp_published": "1556592096",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "410611",
+      "date_published": "2019-05-01 20:35:06",
+      "date_added": "2019-05-01 17:07:17",
+      "date_modified": "2019-05-01 17:07:18",
+      "title": "BJP tried to buy atleast 7 AAP MLAs by offering Rs 10 crore to each: Arvind Kejriwal",
+      "source": "www.aninews.in",
+      "description": "New Delhi (India), May 1 (ANI): Delhi Chief Minister Arvind Kejriwal on Wednesday said that BJP has approached as many as seven AAP MLAs and offered Rs 10 crore each to its lawmakers allegedly in its bid to buy them.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "delhi",
+        "india"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYW5pbmV3cy5pbi9uZXdzL25hdGlvbmFsL3BvbGl0aWNzL2JqcC10cmllZC10\nby1idXktYXRsZWFzdC03LWFhcC1tbGFzLWJ5LW9mZmVyaW5nLXJzLTEwLWNyb3JlLXRvLWVhY2gt\nYXJ2aW5kLWtlanJpd2FsMjAxOTA1MDExOTUyMjEv",
+      "short_url": "https://www.aninews.in/news/national/politics/bjp-tried-to-buy-atleast-7-aap-mlas-by-offering-rs-10-crore-to-each-arvind-kejriwal20190501195221/",
+      "engagement": "0",
+      "popularity": "11989200",
+      "tw_tweets": "173",
+      "tw_reach": "15970318",
+      "tw_favorites": "147",
+      "tw_retweets": "7445",
+      "tw_since_id": "1123780264851845122",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Khabri72",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 20:35",
+      "timestamp_published": "1556735706",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "17"
+    },
+    {
+      "id": "410978",
+      "date_published": "2019-05-02 08:30:00",
+      "date_added": "2019-05-02 05:02:26",
+      "date_modified": "2019-05-02 05:22:07",
+      "title": "Arvind Kejriwal plays a distasteful religion card ahead of voting in Delhi",
+      "source": "www.opindia.com",
+      "description": "Drawing parallels between Modi and Hitler, Kejriwal said Modi will also change constitution after coming back to power, just like Hitler did - Latest India News from Opindia.com",
+      "tags": [
+        "adolf hitler",
+        "arvind kejriwal",
+        "arvind mithal",
+        "delhi",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9pLWFtLW1vcmUtY29uY2VybmVkLWZvci1o\naW5kdXMtdGhhbi1tb2RpLWlzLW1vZGkta2lsbHMtbXVzbGltcy1hcnZpbmQta2Vqcml3YWwtbG9z\nZXMtYWxsLXNlbnNlLW9mLW1vcmFsaXR5Lw==",
+      "short_url": "http://bit.ly/2GMVK2g",
+      "engagement": "0",
+      "popularity": "1271560",
+      "tw_tweets": "431",
+      "tw_reach": "1191948",
+      "tw_favorites": "12",
+      "tw_retweets": "250186",
+      "tw_since_id": "1123802594130964480",
+      "fb_shares": "158",
+      "fb_comments": "210",
+      "fb_reactions": "443",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 08:30",
+      "timestamp_published": "1556778600",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "411955",
+      "date_published": "2019-05-03 12:45:01",
+      "date_added": "2019-05-03 09:17:38",
+      "date_modified": "2019-05-03 09:17:38",
+      "title": "Does democracy for PM Narendra Modi mean forming government by buying opposition party's MLAs, asks Arvind Kejriwal | India News - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: NEW DELHI: Delhi chief minister Arvind Kejriwal on Friday took potshots at Prime Minister Narendra Modi after the BJP claimed it was in touch with 14 .",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "india",
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaW5kaWEvZG9lcy1kZW1vY3JhY3kt\nZm9yLXBtLW5hcmVuZHJhLW1vZGktbWVhbi1mb3JtaW5nLWdvdmVybm1lbnQtYnktYnV5aW5nLW9w\ncG9zaXRpb24tcGFydHlzLW1sYXMtYXNrcy1hcnZpbmQta2Vqcml3YWwvYXJ0aWNsZXNob3cvNjkx\nNTcwMTUuY21z",
+      "short_url": "https://zc1.campaign-view.eu/ua/SharedView?od=2109237681596c0f572df4544319e68b8&pno=117b21991ae30cb&pd=132f8853f4253ad",
+      "engagement": "0",
+      "popularity": "19314500",
+      "tw_tweets": "408",
+      "tw_reach": "25703502",
+      "tw_favorites": "162",
+      "tw_retweets": "22767",
+      "tw_since_id": "1124254694422007813",
+      "fb_shares": "78",
+      "fb_comments": "313",
+      "fb_reactions": "519",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "sameherealso",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 12:45",
+      "timestamp_published": "1556880301",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "412449",
+      "date_published": "2019-05-04 05:12:37",
+      "date_added": "2019-05-04 01:47:07",
+      "date_modified": "2019-05-04 01:51:58",
+      "title": "Complaint filed against Arvind Kejriwal for defaming BJP leaders",
+      "source": "www.thehindu.com",
+      "description": "Additional Chief Metropolitan Magistrate Samar Vishal puts up the defamation case, against Arvind Kejriwal, for hearing on May 16.",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "vishal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL25ld3MvY2l0aWVzL0RlbGhpL2NvbXBsYWludC1maWxl\nZC1hZ2FpbnN0LWFydmluZC1rZWpyaXdhbC1mb3ItZGVmYW1pbmctYmpwLWxlYWRlcnMvYXJ0aWNs\nZTI3MDI1OTE4LmVjZQ==",
+      "short_url": "https://www.thehindu.com/news/cities/Delhi/complaint-filed-against-arvind-kejriwal-for-defaming-bjp-leaders/article27025918.ece",
+      "engagement": "0",
+      "popularity": "23048",
+      "tw_tweets": "5",
+      "tw_reach": "29685",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1124459277098164224",
+      "fb_shares": "7",
+      "fb_comments": "57",
+      "fb_reactions": "276",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "ReallyGupta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 05:12",
+      "timestamp_published": "1556939557",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "413576",
+      "date_published": "2019-05-05 17:15:00",
+      "date_added": "2019-05-05 13:47:34",
+      "date_modified": "2019-05-05 13:47:35",
+      "title": "9 attacks in 5 years: Kejriwal blames BJP",
+      "source": "in.finance.yahoo.com",
+      "description": "A day after being slapped by a man during a roadshow, Delhi Chief Minister Arvind Kejriwal on Sunday blamed the BJP for the attack, saying the party was trying to silence voices raised against Prime Minister Narendra Modi and establish dictatorship.",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbi5maW5hbmNlLnlhaG9vLmNvbS9uZXdzLzktYXR0YWNrcy01LXllYXJzLWtlanJp\nd2FsLTEwMDAwMDg0NS5odG1s",
+      "short_url": "https://in.finance.yahoo.com/news/9-attacks-5-years-kejriwal-100000845.html",
+      "engagement": "0",
+      "popularity": "156116",
+      "tw_tweets": "3",
+      "tw_reach": "206736",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1125003456375189504",
+      "fb_shares": "14",
+      "fb_comments": "121",
+      "fb_reactions": "323",
+      "popularity_updated": "2",
+      "sentiment": "-1",
+      "screen_name": "YahooIndia",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 17:15",
+      "timestamp_published": "1557069300",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "413987",
+      "date_published": "2019-05-06 06:59:09",
+      "date_added": "2019-05-06 03:32:12",
+      "date_modified": "2019-05-07 03:22:11",
+      "title": "Attacker arrested; CM Arvind Kejriwal blames BJP, claims threat to life",
+      "source": "www.hindustantimes.com",
+      "description": "The DCP said Chauhan admitted that he was an AAP worker and said was not in contact with leaders of any opposition parties.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2RlbGhpLW5ld3MvYXR0YWNrZXItYXJyZXN0\nZWQtY20tYXJ2aW5kLWtlanJpd2FsLWJsYW1lcy1ianAtY2xhaW1zLXRocmVhdC10by1saWZlL3N0\nb3J5LURNZmliM0t5b2NsTURSN0s2T2o0SE8uaHRtbA==",
+      "short_url": "https://www.hindustantimes.com/delhi-news/attacker-arrested-cm-arvind-kejriwal-blames-bjp-claims-threat-to-life/story-DMfib3KyoclMDR7K6Oj4HO.html",
+      "engagement": "0",
+      "popularity": "19526.8",
+      "tw_tweets": "5",
+      "tw_reach": "25425",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1125570075405242374",
+      "fb_shares": "6",
+      "fb_comments": "39",
+      "fb_reactions": "152",
+      "popularity_updated": "4",
+      "sentiment": "-1",
+      "screen_name": "htdelhi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 06:59",
+      "timestamp_published": "1557118749",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "415124",
+      "date_published": "2019-05-07 16:55:36",
+      "date_added": "2019-05-07 13:28:15",
+      "date_modified": "2019-05-08 01:37:13",
+      "title": "Man who slapped Kejriwal seen in multiple AAP events in the past",
+      "source": "www.opindia.com",
+      "description": "Suresh Chauhan had recently slapped Delhi CM Arvind Kejriwal during a roadshow in Delhi’s Motinagar area. - Latest India News from Opindia.com",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "suresh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW4td2hvLXNsYXBwZWQta2Vqcml3YWwt\nYWFwLXN1cHBvcnRlci1yZWd1bGFyLXJhbGxpZXMtbW9kaS1iaGFrdC8=",
+      "short_url": "https://www.opindia.com/2019/05/man-who-slapped-kejriwal-aap-supporter-regular-rallies-modi-bhakt/",
+      "engagement": "0",
+      "popularity": "220016",
+      "tw_tweets": "207",
+      "tw_reach": "249030",
+      "tw_favorites": "35",
+      "tw_retweets": "21228",
+      "tw_since_id": "1125951184588685313",
+      "fb_shares": "111",
+      "fb_comments": "28",
+      "fb_reactions": "373",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Saurabh_kake",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 16:55",
+      "timestamp_published": "1557240936",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "415589",
+      "date_published": "2019-05-08 09:00:00",
+      "date_added": "2019-05-08 05:32:40",
+      "date_modified": "2019-05-08 05:32:40",
+      "title": "Kejriwal’s Attacker Who Was Dismissed As ‘Modi Bhakt’, Found Attending AAP Event",
+      "source": "swarajyamag.com",
+      "description": "Arvind Kejriwal’s attacker was dismissed as a Modi Bhakt but has been found to have attended AAP rallies",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "event",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEva2Vqcml3YWxzLWF0dGFja2VyLXdoby13YXMt\nZGlzbWlzc2VkLWFzLW1vZGktYmhha3QtZm91bmQtYXR0ZW5kaW5nLWFhcC1ldmVudA==",
+      "short_url": "https://swarajyamag.com/insta/kejriwals-attacker-who-was-dismissed-as-modi-bhakt-found-attending-aap-event",
+      "engagement": "0",
+      "popularity": "2373820",
+      "tw_tweets": "601",
+      "tw_reach": "2833845",
+      "tw_favorites": "6",
+      "tw_retweets": "164362",
+      "tw_since_id": "1126060673929113600",
+      "fb_shares": "133",
+      "fb_comments": "15",
+      "fb_reactions": "423",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 09:00",
+      "timestamp_published": "1557298800",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "416689",
+      "date_published": "2019-05-09 17:05:22",
+      "date_added": "2019-05-09 13:37:42",
+      "date_modified": "2019-05-10 09:28:01",
+      "title": "BJP's Gautam Gambhir challenges AAP leader Atishi over alleged derogatory pamphlets",
+      "source": "zeenews.india.com",
+      "description": "The pamphlet headlined 'Atishi Marlena-Know your candidate', also uses abusive language about Delhi CM Arvind Kejriwal Deputy CM Manish Sisodia.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "cm",
+        "delhi",
+        "gautam gambhir",
+        "manish sisodia"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9sb2stc2FiaGEtZ2VuZXJhbC1lbGVjdGlvbnMtMjAx\nOS9ianBzLWdhdXRhbS1nYW1iaGlyLWNoYWxsZW5nZXMtYWFwLWxlYWRlci1hdGlzaGktb3Zlci1h\nbGxlZ2VkLWRlcm9nYXRvcnktcGFtcGhsZXRzLTIyMDIxNjQuaHRtbA==",
+      "short_url": "https://zeenews.india.com/lok-sabha-general-elections-2019/bjps-gautam-gambhir-challenges-aap-leader-atishi-over-alleged-derogatory-pamphlets-2202164.html",
+      "engagement": "0",
+      "popularity": "28176.8",
+      "tw_tweets": "70",
+      "tw_reach": "22556",
+      "tw_favorites": "0",
+      "tw_retweets": "5469",
+      "tw_since_id": "1126752256290770944",
+      "fb_shares": "58",
+      "fb_comments": "290",
+      "fb_reactions": "947",
+      "popularity_updated": "28",
+      "sentiment": "0",
+      "screen_name": "SuhasChaphalkar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 17:05",
+      "timestamp_published": "1557414322",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "51"
+    },
+    {
+      "id": "417471",
+      "date_published": "2019-05-10 20:30:01",
+      "date_added": "2019-05-10 17:02:12",
+      "date_modified": "2019-05-10 17:02:13",
+      "title": "'I have been taught to respect women': Gautam Gambhir sends defamation notice to Arvind Kejriwal, Atishi Marlena and Sisodia - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Gambhir has denied any relation to the alleged pamphlet and its deplorable contents against AAP candidate Atishi Marlena - Latest India News from Opindia.com",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "atishi marlena",
+        "gautam gambhir",
+        "india",
+        "women"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9ianAtZ2F1dGFtLWJhbWJoaXItc2VuZHMt\nZGVmYW1hdGlvbi1ub3RpY2UtdG8tYXJ2aW5kLWtlanJpd2FsLWF0aXNoaS1tYXJsZW5hLW1hbmlz\naC1zaXNvZGlhLWZvci1hYnVzaXZlLXBhbXBobGV0LWFjY3VzYXRpb24v",
+      "short_url": "http://bit.ly/2VervGJ",
+      "engagement": "0",
+      "popularity": "2865310",
+      "tw_tweets": "413",
+      "tw_reach": "3649878",
+      "tw_favorites": "12",
+      "tw_retweets": "84217",
+      "tw_since_id": "1126891305680818177",
+      "fb_shares": "53",
+      "fb_comments": "25",
+      "fb_reactions": "431",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 20:30",
+      "timestamp_published": "1557513001",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "19"
+    },
+    {
+      "id": "417720",
+      "date_published": "2019-05-11 08:54:42",
+      "date_added": "2019-05-11 05:27:03",
+      "date_modified": "2019-05-11 10:17:17",
+      "title": "‘Pact with Congress would be same as allying with BJP’: Arvind Kejriwal",
+      "source": "www.hindustantimes.com",
+      "description": "The Congress had offered to contest three of Delhi’s seven Lok Sabha seats, leaving four to the AAP, which wanted the alliance extended to Haryana, Punjab and Chandigarh as well .",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "bjp",
+        "congress",
+        "delhi’s"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvcGFjdC13\naXRoLWNvbmctd291bGQtYmUtc2FtZS1hcy1hbGx5aW5nLXdpdGgtYmpwLWFydmluZC1rZWpyaXdh\nbC9zdG9yeS1xWlBWNUczUjVwZ2JOdlIwOE1oU09NLmh0bWw=",
+      "short_url": "http://www.hindustantimes.com/lok-sabha-elections/pact-with-cong-would-be-same-as-allying-with-bjp-arvind-kejriwal/story-qZPV5G3R5pgbNvR08MhSOM.html",
+      "engagement": "0",
+      "popularity": "73793600",
+      "tw_tweets": "1233",
+      "tw_reach": "98100616",
+      "tw_favorites": "349",
+      "tw_retweets": "143118",
+      "tw_since_id": "1127096912514093056",
+      "fb_shares": "77",
+      "fb_comments": "214",
+      "fb_reactions": "500",
+      "popularity_updated": "5",
+      "sentiment": "0",
+      "screen_name": "HindustanTimes",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 08:54",
+      "timestamp_published": "1557557682",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "418243",
+      "date_published": "2019-05-12 02:52:35",
+      "date_added": "2019-05-11 23:27:03",
+      "date_modified": "2019-05-11 23:27:04",
+      "title": "‘Pact with Congress would be same as allying with BJP’: Arvind Kejriwal",
+      "source": "m.hindustantimes.com",
+      "description": "The Congress had offered to contest three of Delhi’s seven Lok Sabha seats, leaving four to the AAP, which wanted the alliance extended to Haryana, Punjab and Chandigarh as well .",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "bjp",
+        "congress",
+        "delhi’s"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9tLmhpbmR1c3RhbnRpbWVzLmNvbS9sb2stc2FiaGEtZWxlY3Rpb25zL3BhY3Qtd2l0\naC1jb25nLXdvdWxkLWJlLXNhbWUtYXMtYWxseWluZy13aXRoLWJqcC1hcnZpbmQta2Vqcml3YWwv\nc3RvcnktcVpQVjVHM1I1cGdiTnZSMDhNaFNPTV9hbXAuaHRtbD9fX3R3aXR0ZXJfaW1wcmVzc2lv\nbj10cnVl",
+      "short_url": "https://m.hindustantimes.com/lok-sabha-elections/pact-with-cong-would-be-same-as-allying-with-bjp-arvind-kejriwal/story-qZPV5G3R5pgbNvR08MhSOM_amp.html?__twitter_impression=true",
+      "engagement": "0",
+      "popularity": "2807.25",
+      "tw_tweets": "3",
+      "tw_reach": "1218",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1127323138067521537",
+      "fb_shares": "78",
+      "fb_comments": "219",
+      "fb_reactions": "519",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "greenfpoa",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 02:52",
+      "timestamp_published": "1557622355",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "419463",
+      "date_published": "2019-05-13 23:03:30",
+      "date_added": "2019-05-13 19:37:06",
+      "date_modified": "2019-05-13 20:36:37",
+      "title": "BJP, RSS responsible for communal violence: Arvind Kejriwal",
+      "source": "in.news.yahoo.com",
+      "description": "Delhi Chief Minister Arvind Kejriwal today slammed the BJP and RSS for instigating communal violence.",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "rss",
+        "violence"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbi5uZXdzLnlhaG9vLmNvbS9ianAtcnNzLXJlc3BvbnNpYmxlLWNvbW11bmFsLXZp\nb2xlbmNlLTIwMDAwMDQ4NC5odG1s",
+      "short_url": "https://in.news.yahoo.com/bjp-rss-responsible-communal-violence-200000484.html",
+      "engagement": "0",
+      "popularity": "80338.5",
+      "tw_tweets": "27",
+      "tw_reach": "107028",
+      "tw_favorites": "0",
+      "tw_retweets": "27",
+      "tw_since_id": "1127990262179885056",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "26",
+      "sentiment": "-1",
+      "screen_name": "Gujaratriotscom",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 23:03",
+      "timestamp_published": "1557781410",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "42"
+    },
+    {
+      "id": "421053",
+      "date_published": "2019-05-16 09:10:14",
+      "date_added": "2019-05-16 05:42:04",
+      "date_modified": "2019-05-19 14:27:28",
+      "title": "Arvind Kejriwal among world’s 50 greatest leaders by Fortune, PM Modi not on list",
+      "source": "indianexpress.com",
+      "description": "47-year-old Aam Aadmi Party chief is ranked 42nd on the list and is the sole leader from India.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "e_so",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2luZGlhL2luZGlhLW5ld3MtaW5kaWEv\nYXJ2aW5kLWtlanJpd2FsLWZvcnR1bmUtbWFnYXppbmUtNTAtbGVhZGVycy1uYXJlbmRyYS1tb2Rp\nLw==",
+      "short_url": "https://indianexpress.com/article/india/india-news-india/arvind-kejriwal-fortune-magazine-50-leaders-narendra-modi/",
+      "engagement": "0",
+      "popularity": "392723",
+      "tw_tweets": "23",
+      "tw_reach": "98523",
+      "tw_favorites": "0",
+      "tw_retweets": "4",
+      "tw_since_id": "1130087102643867648",
+      "fb_shares": "18827",
+      "fb_comments": "19553",
+      "fb_reactions": "101137",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "iMugund",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 09:10",
+      "timestamp_published": "1557990614",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "421935",
+      "date_published": "2019-05-17 15:14:56",
+      "date_added": "2019-05-17 11:47:07",
+      "date_modified": "2019-05-17 11:47:08",
+      "title": "Godse No Terrorist",
+      "source": "www.mediacrooks.com",
+      "description": "When I look back a few years I used to read some folks referring to Arvind Kejriwal  as a modern-day Gandhi. We used to have a good la...",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "rahul gandhi",
+        "terrorism"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5tZWRpYWNyb29rcy5jb20vMjAxNy8xMC9nb2RzZS1uby10ZXJyb3Jpc3QuaHRt\nbA==",
+      "short_url": "http://www.mediacrooks.com/2017/10/godse-no-terrorist.html",
+      "engagement": "0",
+      "popularity": "6233.25",
+      "tw_tweets": "12",
+      "tw_reach": "4392",
+      "tw_favorites": "1",
+      "tw_retweets": "1515",
+      "tw_since_id": "1129343609403105280",
+      "fb_shares": "158",
+      "fb_comments": "14",
+      "fb_reactions": "117",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "ivnsraju65",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 15:14",
+      "timestamp_published": "1558098896",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "422459",
+      "date_published": "2019-05-18 10:48:29",
+      "date_added": "2019-05-18 07:22:07",
+      "date_modified": "2019-05-18 07:22:08",
+      "title": "Muslim votes shifted to Congress in Delhi at last moment: Arvind Kejriwal",
+      "source": "indianexpress.com",
+      "description": "Asked what, in his opinion, the outcome of the Lok Sabha polls will be, Kejriwal said: “If they do not tamper with the EVMs, Modi ji should not come back... but I do not know whether they would do it or not.”",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "congress",
+        "muslim",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvbXVzbGltLXZvdGVzLXNoaWZ0ZWQt\ndG8tY29uZy1pbi1kZWxoaS1hdC1sYXN0LW1vbWVudC1zYXlzLWtlanJpd2FsLTU3MzQ0NjUv",
+      "short_url": "https://indianexpress.com/elections/muslim-votes-shifted-to-cong-in-delhi-at-last-moment-says-kejriwal-5734465/",
+      "engagement": "0",
+      "popularity": "1757380",
+      "tw_tweets": "1209",
+      "tw_reach": "1185209",
+      "tw_favorites": "356",
+      "tw_retweets": "568133",
+      "tw_since_id": "1129971926372196352",
+      "fb_shares": "514",
+      "fb_comments": "1406",
+      "fb_reactions": "4461",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "hmohanty",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 10:48",
+      "timestamp_published": "1558169309",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "422993",
+      "date_published": "2019-05-19 07:14:51",
+      "date_added": "2019-05-19 03:47:23",
+      "date_modified": "2019-05-19 08:37:53",
+      "title": "BJP will get me assassinated like Indira Gandhi, says Arvind Kejriwal",
+      "source": "www.thehindu.com",
+      "description": "Leader of the Opposition in the Delhi Assembly Vijender Gupta condemns the Delhi CM’s accusations.",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "delhi",
+        "indira gandhi",
+        "vijender gupta"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtMjAxOS9ianAtd2ls\nbC1nZXQtbWUtYXNzYXNzaW5hdGVkLWxpa2UtaW5kaXJhLWdhbmRoaS1zYXlzLWFydmluZC1rZWpy\naXdhbC9hcnRpY2xlMjcxNzM2MDEuZWNl",
+      "short_url": "https://www.thehindu.com/elections/lok-sabha-2019/bjp-will-get-me-assassinated-like-indira-gandhi-says-arvind-kejriwal/article27173601.ece",
+      "engagement": "0",
+      "popularity": "47210.8",
+      "tw_tweets": "22",
+      "tw_reach": "51744",
+      "tw_favorites": "0",
+      "tw_retweets": "144",
+      "tw_since_id": "1130097216234954752",
+      "fb_shares": "127",
+      "fb_comments": "862",
+      "fb_reactions": "2544",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "notomarriage",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 07:14",
+      "timestamp_published": "1558242891",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "424363",
+      "date_published": "2019-05-20 18:30:01",
+      "date_added": "2019-05-20 15:02:39",
+      "date_modified": "2019-05-21 05:07:18",
+      "title": "BJP Leader Files Complaint Against Kejriwal Over Attempt To Frame Him In Fake Conspiracy To Kill AAP Supremo",
+      "source": "swarajyamag.com",
+      "description": "Delhi Leader of Opposition Vijender Gupta Files Police Complaint Against Arvind Kejriwal and Manish Sisodia",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "delhi",
+        "manish sisodia",
+        "opposition",
+        "vijender gupta"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvYmpwLWxlYWRlci1maWxlcy1jb21wbGFpbnQt\nYWdhaW5zdC1rZWpyaXdhbC1vdmVyLWF0dGVtcHQtdG8tZnJhbWUtaGltLWluLWZha2UtY29uc3Bp\ncmFjeS10by1raWxsLWFhcC1zdXByZW1v",
+      "short_url": "https://swarajyamag.com/insta/bjp-leader-files-complaint-against-kejriwal-over-attempt-to-frame-him-in-fake-conspiracy-to-kill-aap-supremo",
+      "engagement": "0",
+      "popularity": "257490",
+      "tw_tweets": "16",
+      "tw_reach": "341687",
+      "tw_favorites": "9",
+      "tw_retweets": "654",
+      "tw_since_id": "1130670797259804672",
+      "fb_shares": "12",
+      "fb_comments": "2",
+      "fb_reactions": "83",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 18:30",
+      "timestamp_published": "1558369801",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "424795",
+      "date_published": "2019-05-21 09:49:53",
+      "date_added": "2019-05-21 06:22:20",
+      "date_modified": "2019-05-21 23:46:46",
+      "title": "New Delhi: BJP perform 'Havan' for Arvind Kejriwal's mental stability- News Nation",
+      "source": "www.newsnation.in",
+      "description": "Kejriwal and his four cabinet colleagues – Manish Sisodia, Satyendar Jain, Gopal Rai – have been camping inside Baijal’s office waiting room since last Monday, demanding that he ask the Delhi IAS officials to end their “illegal strike” and approve a doorstep ration delivery scheme. On Monday, Delhi BJP leaders performs 'Havan' for Arvind Kejriwal's mental stability. watch latest india videos",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "delhi",
+        "gopal r"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3c25hdGlvbi5pbi92aWRlb3MvaW5kaWEvbmV3LWRlbGhpLWJqcC1wZXJm\nb3JtLWhhdmFuLWZvci1hcnZpbmQta2Vqcml3YWxzLW1lbnRhbC1zdGFiaWxpdHktOC8zOTg5Ng==",
+      "short_url": "https://www.newsnation.in/videos/india/new-delhi-bjp-perform-havan-for-arvind-kejriwals-mental-stability-8/39896",
+      "engagement": "0",
+      "popularity": "38471.8",
+      "tw_tweets": "53",
+      "tw_reach": "34518",
+      "tw_favorites": "0",
+      "tw_retweets": "8352",
+      "tw_since_id": "1131024955221528576",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "26",
+      "sentiment": "0",
+      "screen_name": "nonexpertvivek",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 09:49",
+      "timestamp_published": "1558424993",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "45"
+    },
+    {
+      "id": "425361",
+      "date_published": "2019-05-22 07:04:47",
+      "date_added": "2019-05-22 03:37:08",
+      "date_modified": "2019-05-23 11:10:04",
+      "title": "BJP leader sends legal notice to Arvind Kejriwal, Manish Sisodia over 'Assassination Plot' remark - Republic World",
+      "source": "www.republicworld.com",
+      "description": "BJP leader Vijender Gupta on Tuesday sent a legal notice to Delhi Chief Minister Arvind Kejriwal and Deputy Chief Minister Manish Sisodia for allegedly attempting to \"frame him\" in relation to an alleged assassination plot against Kejriwal.",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "manish sisodia",
+        "vijender gupta"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLW5ld3MvYmpw\nLWxlYWRlci1zZW5kcy1sZWdhbC1ub3RpY2UtdG8tYXJ2aW5kLWtlanJpd2FsLW1hbmlzaC1zaXNv\nZGlhLW92ZXItYXNzYXNzaW5hdGlvbi1wbG90LXJlbWFyaw==",
+      "short_url": "https://www.republicworld.com/india-news/general-news/bjp-leader-sends-legal-notice-to-arvind-kejriwal-manish-sisodia-over-assassination-plot-remark",
+      "engagement": "0",
+      "popularity": "59528",
+      "tw_tweets": "97",
+      "tw_reach": "40128",
+      "tw_favorites": "0",
+      "tw_retweets": "17564",
+      "tw_since_id": "1131486315818639361",
+      "fb_shares": "129",
+      "fb_comments": "148",
+      "fb_reactions": "1035",
+      "popularity_updated": "77",
+      "sentiment": "0",
+      "screen_name": "Avinash76960275",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-05-2019 07:04",
+      "timestamp_published": "1558501487",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "99"
+    },
+    {
+      "id": "426306",
+      "date_published": "2019-05-23 10:09:58",
+      "date_added": "2019-05-23 06:44:25",
+      "date_modified": "2019-05-23 06:44:25",
+      "title": "Varanasi Lok Sabha Election Result 2019: PM Modi Leads by 20,000 Votes",
+      "source": "www.india.com",
+      "description": "In 2014 Lok Sabha elections, Modi had garnered 5,81,023 votes while Arvind Kejriwal (AAP) got 2,09,238 votes and Rai could manage just 75,614.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWEuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMtMjAxOS1pbmRpYS92YXJh\nbmFzaS1sb2stc2FiaGEtZWxlY3Rpb24tcmVzdWx0LTIwMTktcG0tbW9kaS1sZWFkcy1ieS0yMDAw\nMC12b3Rlcy0zNjY3NDA5Lw==",
+      "short_url": "https://www.india.com/lok-sabha-elections-2019-india/varanasi-lok-sabha-election-result-2019-pm-modi-leads-by-20000-votes-3667409/",
+      "engagement": "0",
+      "popularity": "20032.8",
+      "tw_tweets": "3",
+      "tw_reach": "26586",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1131419476560232448",
+      "fb_shares": "3",
+      "fb_comments": "1",
+      "fb_reactions": "36",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "indiacom",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 10:09",
+      "timestamp_published": "1558598998",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "18"
+    },
+    {
+      "id": "427694",
+      "date_published": "2019-05-24 09:24:47",
+      "date_added": "2019-05-24 05:58:33",
+      "date_modified": "2019-05-24 17:42:37",
+      "title": "Kejriwal loses all 7 Delhi seats to BJP; says 'look forward to working together with PM Modi'",
+      "source": "www.indiatvnews.com",
+      "description": "The Delhi chief minister has been a vocal critic of Modi and has lashed out at him on several occasions during election campaigns, accusing the prime minister of indulging in politics of hatred.  ",
+      "tags": [
+        "arvind kejriwal",
+        "bjp",
+        "delhi",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL25ld3MvaW5kaWEtZWxlY3Rpb24tMjAxOS1rZWpy\naXdhbC1sb3Nlcy1hbGwtNy1kZWxoaS1zZWF0cy10by1ianAtc2F5cy1sb29rLWZvcndhcmQtdG8t\nd29ya2luZy10b2dldGhlci13aXRoLXBtLW1vZGktNTIyMTQz",
+      "short_url": "https://www.indiatvnews.com/news/india-election-2019-kejriwal-loses-all-7-delhi-seats-to-bjp-says-look-forward-to-working-together-with-pm-modi-522143",
+      "engagement": "0",
+      "popularity": "20427.5",
+      "tw_tweets": "40",
+      "tw_reach": "17399",
+      "tw_favorites": "0",
+      "tw_retweets": "873",
+      "tw_since_id": "1131992381765574656",
+      "fb_shares": "131",
+      "fb_comments": "328",
+      "fb_reactions": "2184",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "ShivaKShukla",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 09:24",
+      "timestamp_published": "1558682687",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "429111",
+      "date_published": "2019-05-25 16:50:43",
+      "date_added": "2019-05-25 13:24:03",
+      "date_modified": "2019-05-25 13:24:03",
+      "title": "Outsider to trump card: How BJP’s Hans Raj Hans won big",
+      "source": "indianexpress.com",
+      "description": "Hans said his opponents’ vote share fell because their party leaders — Congress’s Rahul Gandhi and AAP’s Arvind Kejriwal — \r\n'would lie quite often'.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "bjp",
+        "congress",
+        "donald trump",
+        "outsider",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2NpdGllcy9kZWxoaS9vdXRzaWRlci10\nby10cnVtcC1jYXJkLWhvdy1ianBzLWhhbnMtcmFqLWhhbnMtd29uLWJpZy01NzQ1NDg2Lz91dG1f\nc291cmNlPWRsdnIuaXQmdXRtX21lZGl1bT10d2l0dGVy",
+      "short_url": "https://indianexpress.com/article/cities/delhi/outsider-to-trump-card-how-bjps-hans-raj-hans-won-big-5745486/?utm_source=dlvr.it&utm_medium=twitter",
+      "engagement": "0",
+      "popularity": "81.75",
+      "tw_tweets": "3",
+      "tw_reach": "99",
+      "tw_favorites": "0",
+      "tw_retweets": "3",
+      "tw_since_id": "1132245105555886081",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "lt_puran",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 16:50",
+      "timestamp_published": "1558795843",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "429628",
+      "date_published": "2019-05-26 08:15:26",
+      "date_added": "2019-05-26 04:47:13",
+      "date_modified": "2019-06-01 03:52:03",
+      "title": "Kejriwal’s negative campaign cost AAP the polls, says BJP",
+      "source": "www.hindustantimes.com",
+      "description": "Gautam Gambhir said that elections will come and go, but one shouldn’t “lose one’s conscience”.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2RlbGhpLW5ld3Mva2Vqcml3YWwtcy1uZWdh\ndGl2ZS1jYW1wYWlnbi1jb3N0LWFhcC10aGUtcG9sbHMtc2F5cy1ianAvc3RvcnktMHhvdEpJZ2tW\neDlWYUpxdWlncmZLUC5odG1s",
+      "short_url": "https://www.hindustantimes.com/delhi-news/kejriwal-s-negative-campaign-cost-aap-the-polls-says-bjp/story-0xotJIgkVx9VaJquigrfKP.html",
+      "engagement": "0",
+      "popularity": "3518.75",
+      "tw_tweets": "9",
+      "tw_reach": "1553",
+      "tw_favorites": "0",
+      "tw_retweets": "27",
+      "tw_since_id": "1134637554639097856",
+      "fb_shares": "31",
+      "fb_comments": "155",
+      "fb_reactions": "821",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "kamekish",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 08:15",
+      "timestamp_published": "1558851326",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "430378",
+      "date_published": "2019-05-27 08:45:27",
+      "date_added": "2019-05-27 05:17:31",
+      "date_modified": "2019-05-27 05:17:34",
+      "title": "BJP to Ring the Death Knell for AAP in 2020 Assembly Polls - Raman Media Network",
+      "source": "www.ramanmedianetwork.com",
+      "description": "AAP in 2020 Assembly Polls. The people of Delhi will soon throw Kejriwal and AAP out by defeating them in the Assembly election.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "bjp",
+        "william adolphus knell"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5yYW1hbm1lZGlhbmV0d29yay5jb20vYmpwLXRvLXJpbmctdGhlLWRlYXRoLWtu\nZWxsLWZvci1hYXAtaW4tMjAyMC1hc3NlbWJseS1wb2xscy8=",
+      "short_url": "http://www.ramanmedianetwork.com/bjp-to-ring-the-death-knell-for-aap-in-2020-assembly-polls/",
+      "engagement": "0",
+      "popularity": "690.25",
+      "tw_tweets": "3",
+      "tw_reach": "723",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1132847757713035264",
+      "fb_shares": "8",
+      "fb_comments": "13",
+      "fb_reactions": "42",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "rrthakur",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 08:45",
+      "timestamp_published": "1558939527",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "431312",
+      "date_published": "2019-05-28 07:49:22",
+      "date_added": "2019-05-28 04:22:10",
+      "date_modified": "2019-05-28 04:22:12",
+      "title": "Scale of AAP's defeat in Delhi shows that the party needs to recalibrate its understanding of the National Capital - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "The Aam Aadmi Party lost in Delhi chief minister Arvind Kejriwal's New Delhi Assembly constituency to the Bharatiya Janata Party, as the results of the Lok Sabha polls showed. It not only lost the VIP constituency, but came third in the race for votes.",
+      "tags": [
+        "aap",
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "capital bra",
+        "delhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9wb2xpdGljcy9zY2FsZS1vZi1hYXBzLWRlZmVhdC1p\nbi1kZWxoaS1zaG93cy10aGF0LXRoZS1wYXJ0eS1uZWVkcy10by1yZWNhbGlicmF0ZS1pdHMtdW5k\nZXJzdGFuZGluZy1vZi10aGUtbmF0aW9uYWwtY2FwaXRhbC02NzA3NTYxLmh0bWw=",
+      "short_url": "https://www.firstpost.com/politics/scale-of-aaps-defeat-in-delhi-shows-that-the-party-needs-to-recalibrate-its-understanding-of-the-national-capital-6707561.html",
+      "engagement": "0",
+      "popularity": "850",
+      "tw_tweets": "3",
+      "tw_reach": "759",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1133196031582134272",
+      "fb_shares": "27",
+      "fb_comments": "22",
+      "fb_reactions": "72",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "rajasekharsy",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 07:49",
+      "timestamp_published": "1559022562",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "17"
+    },
+    {
+      "id": "433140",
+      "date_published": "2019-05-29 19:45:00",
+      "date_added": "2019-05-29 16:18:25",
+      "date_modified": "2019-05-29 18:22:19",
+      "title": "Narendra Modi Swearing-in Ceremony: Here’s Who All Will be Attending",
+      "source": "www.news18.com",
+      "description": "Several Opposition leaders have been invited for the ceremony, with Delhi Chief Minister Arvind Kejriwal and his Telangana counterpart K Chandrashekar Rao having accepted the invitation.",
+      "tags": [
+        "arvind kejriwal",
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL2luZGlhL25hcmVuZHJhLW1vZGktc3dlYXJpbmct\naW4tY2VyZW1vbnktaGVyZXMtd2hvLWFsbC13aWxsLWJlLWF0dGVuZGluZy0yMTY0MTkxLmh0bWw=",
+      "short_url": "https://www.news18.com/news/india/narendra-modi-swearing-in-ceremony-heres-who-all-will-be-attending-2164191.html",
+      "engagement": "0",
+      "popularity": "904556",
+      "tw_tweets": "138",
+      "tw_reach": "1198230",
+      "tw_favorites": "361",
+      "tw_retweets": "3343",
+      "tw_since_id": "1133960991333466112",
+      "fb_shares": "13",
+      "fb_comments": "4",
+      "fb_reactions": "147",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "news18dotcom",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 19:45",
+      "timestamp_published": "1559151900",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "433949",
+      "date_published": "2019-05-30 16:39:35",
+      "date_added": "2019-05-30 13:12:13",
+      "date_modified": "2019-05-30 13:12:13",
+      "title": "Eye on polls, Manoj Tiwari spends night at Delhi’s oldest slum",
+      "source": "www.newindianexpress.com",
+      "description": "Delhi BJP chief accuses Kejriwal of not implementing Centre’s welfare schemes.",
+      "tags": [
+        "arvind kejriwal",
+        "bjp",
+        "delhi",
+        "manoj tiwari"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9jaXRpZXMvZGVsaGkvMjAxOS9tYXkvMzAv\nZXllLW9uLXBvbGxzLXRpd2FyaS1zcGVuZHMtbmlnaHQtYXQtY2l0eXMtb2xkZXN0LXNsdW0tMTk4\nMzY4MC5odG1s",
+      "short_url": "http://www.newindianexpress.com/cities/delhi/2019/may/30/eye-on-polls-tiwari-spends-night-at-citys-oldest-slum-1983680.html",
+      "engagement": "0",
+      "popularity": "7193.5",
+      "tw_tweets": "4",
+      "tw_reach": "9581",
+      "tw_favorites": "0",
+      "tw_retweets": "1",
+      "tw_since_id": "1134057737531248641",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "RahibaParveen",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 16:39",
+      "timestamp_published": "1559227175",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "17"
+    },
+    {
+      "id": "434852",
+      "date_published": "2019-05-31 15:24:32",
+      "date_added": "2019-05-31 11:56:57",
+      "date_modified": "2019-06-01 12:57:14",
+      "title": "BJP MLA conducts poll on Kejriwal's popularity, left red-faced with final results - Janta Ka Reporter 2.0",
+      "source": "www.jantakareporter.com",
+      "description": "BJP MLA from Delhi decided to conduct poll on Chief Minister Arvind Kejriwal's popularity, left red-faced with final results",
+      "tags": [
+        "arvind kejriwal",
+        "arvind mithal",
+        "bjp",
+        "delhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5qYW50YWthcmVwb3J0ZXIuY29tL2luZGlhL2JqcC1tbGEtY29uZHVjdHMtcG9s\nbC1vbi1rZWpyaXdhbHMtcG9wdWxhcml0eS1sZWZ0LXJlZC1mYWNlZC13aXRoLWZpbmFsLXJlc3Vs\ndHMvMjUwMDM3Lw==",
+      "short_url": "http://www.jantakareporter.com/india/bjp-mla-conducts-poll-on-kejriwals-popularity-left-red-faced-with-final-results/250037/",
+      "engagement": "0",
+      "popularity": "641185",
+      "tw_tweets": "42",
+      "tw_reach": "852778",
+      "tw_favorites": "18",
+      "tw_retweets": "354",
+      "tw_since_id": "1134775198681653250",
+      "fb_shares": "70",
+      "fb_comments": "18",
+      "fb_reactions": "359",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "JantaKaReporter",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 15:24",
+      "timestamp_published": "1559309072",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "42"
+    }
+  ],
+  "ids": [
+    "417720",
+    "401728",
+    "426306",
+    "403044",
+    "421935",
+    "416689",
+    "433140",
+    "407239",
+    "402346",
+    "406296",
+    "433949",
+    "415589",
+    "427694",
+    "405413",
+    "415124",
+    "419463",
+    "422459",
+    "424363",
+    "409170",
+    "410978",
+    "424795",
+    "431312",
+    "408243",
+    "429111",
+    "406066",
+    "410611",
+    "413576",
+    "413987",
+    "418243",
+    "421053",
+    "417471",
+    "411955",
+    "434852",
+    "430378",
+    "404298",
+    "422993",
+    "425361",
+    "408823",
+    "429628",
+    "412449"
+  ],
+  "message": "OK"
+}

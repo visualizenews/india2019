@@ -1,0 +1,3786 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=417666,401466,387521,394201,384937,426788,402851,390352,421811,416703,382988,432837,407639,397665,387749,402555,383860,406347,433387,415433,427477,404859,415314,419264,422819,395157,395635,423893,409103,393436,384212,389662,410887,424718,431129,408243,429280,391614,399336,406075,410346,413674,414573,418424,421080,417258,392104,400005,388791,377124,380015,398018,411983,435132,400184,430928,386057,420091,403846,422938,425467,396730,408806,420780,430021,376549,376767,379669,376291,412895",
+    "time": 1560434366,
+    "UTCDateTime": "2019-06-13T13:59:26+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "376291",
+      "date_published": "2019-03-23 03:49:50",
+      "date_added": "2019-03-22 23:26:18",
+      "date_modified": "2019-03-23 14:01:22",
+      "title": "Actor-turned-politician Prakash Raj greeted with pro-Modi slogans as he went to file his nomination",
+      "source": "www.opindia.com",
+      "description": "Prakash Raj seemed visibly miffed with a large number of Modi supporters welcoming him with pro-Modi slogans in Bengaluru",
+      "tags": [
+        "bengaluru",
+        "mohammad salim al-awa",
+        "narendra modi",
+        "prakash raj",
+        "pushkar jog"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9hY3Rvci10dXJuZWQtcG9saXRpY2lhbi1w\ncmFrYXNoLXJhai1ncmVldGVkLXdpdGgtcHJvLW1vZGktc2xvZ2Fucy1hcy1oZS13ZW50LXRvLWZp\nbGUtaGlzLW5vbWluYXRpb24v",
+      "short_url": "https://www.opindia.com/2019/03/actor-turned-politician-prakash-raj-greeted-with-pro-modi-slogans-as-he-went-to-file-his-nomination/",
+      "engagement": "0",
+      "popularity": "5697490",
+      "tw_tweets": "2664",
+      "tw_reach": "3885498",
+      "tw_favorites": "361",
+      "tw_retweets": "1851804",
+      "tw_since_id": "1109387276042158080",
+      "fb_shares": "98",
+      "fb_comments": "122",
+      "fb_reactions": "939",
+      "popularity_updated": "0",
+      "sentiment": "0",
+      "screen_name": "RamTeja_M",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-03-2019 03:49",
+      "timestamp_published": "1553309390",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "51"
+    },
+    {
+      "id": "376549",
+      "date_published": "2019-03-24 14:05:08",
+      "date_added": "2019-03-24 09:36:38",
+      "date_modified": "2019-05-29 11:02:55",
+      "title": "Letter to a Friend Who Happens To Be a Modi Supporter",
+      "source": "thewire.in",
+      "description": "Common friends have told me not to let politics get in the way of a friendship, but how I am supposed to be good friends with you if you see nothing wrong in demonising an entire community?",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL2xldHRlci10by1hLWZyaWVuZC13aG8taGFwcGVu\ncy10by1iZS1hLW1vZGktc3VwcG9ydGVy",
+      "short_url": "https://thewire.in/politics/letter-to-a-friend-who-happens-to-be-a-modi-supporter",
+      "engagement": "0",
+      "popularity": "12049800",
+      "tw_tweets": "2942",
+      "tw_reach": "14220321",
+      "tw_favorites": "902",
+      "tw_retweets": "900839",
+      "tw_since_id": "1133659395571761154",
+      "fb_shares": "2574",
+      "fb_comments": "1997",
+      "fb_reactions": "8297",
+      "popularity_updated": "86",
+      "sentiment": "0",
+      "screen_name": "prakashvenil",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-03-2019 14:05",
+      "timestamp_published": "1553432708",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "136"
+    },
+    {
+      "id": "376767",
+      "date_published": "2019-03-25 20:35:26",
+      "date_added": "2019-03-25 16:07:12",
+      "date_modified": "2019-03-27 08:37:02",
+      "title": "Rahul Gandhi wants to make India a disaster like Venezuela with Minimum Income Guarantee",
+      "source": "www.mynation.com",
+      "description": "Check how Congress president’s proposed Rs 72,000 dole for 5 crore families will wreak havoc on the economy and how Modi’s schemes are already strengthening poorest of the poor",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL3ZpZXdzL3JhaHVsLWdhbmRoaS13YW50cy1pbmRpYS1k\naXNhc3Rlci1saWtlLXZlbmV6dWVsYS1taW5pbXVtLWluY29tZS1ndWFyYW50ZWUtcG94ZmFx",
+      "short_url": "https://www.mynation.com/views/rahul-gandhi-wants-india-disaster-like-venezuela-minimum-income-guarantee-poxfaq",
+      "engagement": "0",
+      "popularity": "4645660",
+      "tw_tweets": "1528",
+      "tw_reach": "1821861",
+      "tw_favorites": "15",
+      "tw_retweets": "2184339",
+      "tw_since_id": "1110807184080887808",
+      "fb_shares": "212",
+      "fb_comments": "47",
+      "fb_reactions": "274",
+      "popularity_updated": "42",
+      "sentiment": "0",
+      "screen_name": "JajaborManas",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-03-2019 20:35",
+      "timestamp_published": "1553542526",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "71"
+    },
+    {
+      "id": "377124",
+      "date_published": "2019-03-26 09:45:38",
+      "date_added": "2019-03-26 05:17:49",
+      "date_modified": "2019-03-29 06:32:07",
+      "title": "Modi's Skill India Vs RaGa's Kill India - PGurus",
+      "source": "www.pgurus.com",
+      "description": "Modi's Skill India Vs RaGa's Kill India",
+      "tags": [
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucGd1cnVzLmNvbS9tb2Rpcy1za2lsbC1pbmRpYS12cy1yYWdhcy1raWxsLWlu\nZGlhLw==",
+      "short_url": "https://www.pgurus.com/modis-skill-india-vs-ragas-kill-india/",
+      "engagement": "0",
+      "popularity": "1211980",
+      "tw_tweets": "407",
+      "tw_reach": "498337",
+      "tw_favorites": "2",
+      "tw_retweets": "558353",
+      "tw_since_id": "1111500734938468354",
+      "fb_shares": "43",
+      "fb_comments": "14",
+      "fb_reactions": "69",
+      "popularity_updated": "223",
+      "sentiment": "0",
+      "screen_name": "satbhakta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-03-2019 09:45",
+      "timestamp_published": "1553589938",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "254"
+    },
+    {
+      "id": "379669",
+      "date_published": "2019-03-27 21:40:17",
+      "date_added": "2019-03-27 17:12:13",
+      "date_modified": "2019-05-31 15:32:49",
+      "title": "In Modi's Constituency, a Wildlife Sanctuary is Quietly Being Erased",
+      "source": "thewire.in",
+      "description": "If the Centre approves the proposal to denotify the Kachhua Sanctuary in Varanasi, this will be the first protected area to be completely wiped off the map of India since the introduction of the Wildlife Protection Act, 1972.",
+      "tags": [
+        "narendra modi",
+        "varanasi",
+        "wildlife!"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL2Vudmlyb25tZW50L2luLW1vZGlzLWNvbnN0aXR1ZW5jeS1hLXdp\nbGRsaWZlLXNhbmN0dWFyeS1pcy1xdWlldGx5LWJlaW5nLWVyYXNlZA==",
+      "short_url": "https://thewire.in/environment/in-modis-constituency-a-wildlife-sanctuary-is-quietly-being-erased",
+      "engagement": "0",
+      "popularity": "16509100",
+      "tw_tweets": "1323",
+      "tw_reach": "19729738",
+      "tw_favorites": "0",
+      "tw_retweets": "1125373",
+      "tw_since_id": "1134452089763926016",
+      "fb_shares": "1513",
+      "fb_comments": "924",
+      "fb_reactions": "7435",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "NagarajSajjan12",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-03-2019 21:40",
+      "timestamp_published": "1553719217",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "38"
+    },
+    {
+      "id": "380015",
+      "date_published": "2019-03-28 11:00:15",
+      "date_added": "2019-03-28 06:32:16",
+      "date_modified": "2019-03-28 15:27:26",
+      "title": "NSA Ajit Doval gave the go-ahead for ASAT test after PM Modi's approval, says DRDO chief - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Even if the DRDO had stated that they have the capabilities in place for developing such a weapons system, the then government did not proceed with it. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9uc2EtYWppdC1kb3ZhbC1nYXZlLXRoZS1n\nby1haGVhZC1mb3ItYXNhdC10ZXN0LWFmdGVyLXBtLW1vZGlzLWFwcHJvdmFsLXNheXMtZHJkby1j\naGllZi8=",
+      "short_url": "https://www.opindia.com/2019/03/nsa-ajit-doval-gave-the-go-ahead-for-asat-test-after-pm-modis-approval-says-drdo-chief/",
+      "engagement": "0",
+      "popularity": "2326900",
+      "tw_tweets": "1021",
+      "tw_reach": "888599",
+      "tw_favorites": "2",
+      "tw_retweets": "1104714",
+      "tw_since_id": "1111493067834425344",
+      "fb_shares": "237",
+      "fb_comments": "36",
+      "fb_reactions": "771",
+      "popularity_updated": "30",
+      "sentiment": "0",
+      "screen_name": "nageshnvp",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-03-2019 11:00",
+      "timestamp_published": "1553767215",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "56"
+    },
+    {
+      "id": "382988",
+      "date_published": "2019-03-29 13:35:36",
+      "date_added": "2019-03-29 09:07:48",
+      "date_modified": "2019-03-31 00:52:27",
+      "title": "Producers Defend Modi Biopic Before EC, Say No Links to the BJP",
+      "source": "thewire.in",
+      "description": "The Election Commission had sought comments from the film's producers after the opposition filed a complaint asking the poll panel to postpone the release of the film till the Lok Sabha elections were over. ",
+      "tags": [
+        "bjp",
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL25hcmVuZHJhLW1vZGktZmlsbS1lbGVjdGlvbi1j\nb21taXNzaW9uLWJqcA==",
+      "short_url": "https://thewire.in/politics/narendra-modi-film-election-commission-bjp",
+      "engagement": "0",
+      "popularity": "5739230",
+      "tw_tweets": "1287",
+      "tw_reach": "2361555",
+      "tw_favorites": "20",
+      "tw_retweets": "2639754",
+      "tw_since_id": "1112138336788013061",
+      "fb_shares": "178",
+      "fb_comments": "384",
+      "fb_reactions": "2563",
+      "popularity_updated": "28",
+      "sentiment": "0",
+      "screen_name": "SaffronWatch",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-03-2019 13:35",
+      "timestamp_published": "1553862936",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "48"
+    },
+    {
+      "id": "383860",
+      "date_published": "2019-03-30 14:40:16",
+      "date_added": "2019-03-30 10:12:31",
+      "date_modified": "2019-03-30 11:42:07",
+      "title": "PM Modi spends crores on facials, ignores the faceless: Kanhaiya Kumar",
+      "source": "www.indiatoday.in",
+      "description": "Kanhaiya Kumar came down hard on PM Narendra Modi during his interaction with India Today's Rahul Kanwal.",
+      "tags": [
+        "india",
+        "kanhaiya kumar kanhaiya kumar",
+        "narendra modi",
+        "rahul kanwal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nbG9rLXNhYmhhLXBvbGxzLTIwMTkta2FuaGFpeWEta3VtYXItaW50ZXJ2aWV3LW5hcmVuZHJhLW1v\nZGktZmFjaWFsLWluZGlhLXRvZGF5LTE0OTAwODUtMjAxOS0wMy0zMA==",
+      "short_url": "https://ift.tt/2U3XPAm",
+      "engagement": "0",
+      "popularity": "7844430",
+      "tw_tweets": "1644",
+      "tw_reach": "8587701",
+      "tw_favorites": "149",
+      "tw_retweets": "914416",
+      "tw_since_id": "1112074054419271692",
+      "fb_shares": "1396",
+      "fb_comments": "2144",
+      "fb_reactions": "9662",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "all_things_modi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-03-2019 14:40",
+      "timestamp_published": "1553953216",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "384212",
+      "date_published": "2019-03-31 00:10:37",
+      "date_added": "2019-03-30 19:42:16",
+      "date_modified": "2019-03-30 19:42:16",
+      "title": "PM Modi Promised 2 Crore Jobs, We Have not Seen Even 2 Lakh: Manmohan Singh",
+      "source": "www.news18.com",
+      "description": "Recently, in a television interview, PM Modi said even selling pakodas is a form of employment as the person earns Rs 200 at the end of the day.",
+      "tags": [
+        "jobs",
+        "manmohan singh",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL2luZGlhL3BtLW1vZGktcHJvbWlzZWQtMi1jcm9y\nZS1qb2JzLXdlLWhhdmUtbm90LXNlZW4tZXZlbi0yLWxha2gtam9icy1tYW5tb2hhbi1zaW5naC0x\nNjkyOTE5Lmh0bWw=",
+      "short_url": "https://www.news18.com/news/india/pm-modi-promised-2-crore-jobs-we-have-not-seen-even-2-lakh-jobs-manmohan-singh-1692919.html",
+      "engagement": "0",
+      "popularity": "1056060",
+      "tw_tweets": "497",
+      "tw_reach": "946880",
+      "tw_favorites": "0",
+      "tw_retweets": "225472",
+      "tw_since_id": "1112115613810462720",
+      "fb_shares": "138",
+      "fb_comments": "458",
+      "fb_reactions": "2552",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Ajitkumar_Kanan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-03-2019 00:10",
+      "timestamp_published": "1553987437",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "384937",
+      "date_published": "2019-04-01 00:00:00",
+      "date_added": "2019-03-31 20:32:04",
+      "date_modified": "2019-04-01 00:37:01",
+      "title": "While Modi chose Varanasi, Rahul chooses Wayanad: Both made a civilisational point that should not be missed - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rahul Gandhi has now decided to fight from Wayanad, Kerala, in addition to his 'bastion' Amethi in Uttar Pradesh. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "india",
+        "narendra modi",
+        "rahul gandhi",
+        "uttar pradesh",
+        "wayanad"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy93aGlsZS1tb2RpLWNob3NlLXZhcmFuYXNp\nLXJhaHVsLWNob29zZXMtd2F5YW5hZC1ib3RoLW1hZGUtYS1jaXZpbGlzYXRpb25hbC1wb2ludC10\naGF0LXNob3VsZC1ub3QtYmUtbWlzc2VkLw==",
+      "short_url": "http://bit.ly/2CJCsd6",
+      "engagement": "0",
+      "popularity": "3764780",
+      "tw_tweets": "1281",
+      "tw_reach": "3105000",
+      "tw_favorites": "239",
+      "tw_retweets": "948917",
+      "tw_since_id": "1112644960883478528",
+      "fb_shares": "1079",
+      "fb_comments": "322",
+      "fb_reactions": "3513",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-04-2019 00:00",
+      "timestamp_published": "1554069600",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "386057",
+      "date_published": "2019-04-02 07:30:00",
+      "date_added": "2019-04-02 04:01:51",
+      "date_modified": "2019-04-18 03:47:22",
+      "title": "'Journalist' Rajdeep Sardesai shamelessly twists PM Modi's comment on Congress' 'Hindu terror' bogey - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rajdeep Sardesai, the \"journalist\" who had once said that the Parliament attack back in 2000 actually \"excited him\" took to Twitter to shamelessly twist PM Narendra Modi's statement. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "congress",
+        "hindu terror",
+        "journalist",
+        "lil twist",
+        "narendra modi",
+        "parliament",
+        "rajdeep sardesai"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9qb3VybmFsaXN0LXJhamRlZXAtc2FyZGVz\nYWktc2hhbWVsZXNzbHktdHdpc3RzLXBtLW1vZGlzLWNvbW1lbnQtb24tY29uZ3Jlc3MtaGluZHUt\ndGVycm9yLWJvZ2V5Lw==",
+      "short_url": "https://goo.gl/C6WDGr",
+      "engagement": "0",
+      "popularity": "4763880",
+      "tw_tweets": "916",
+      "tw_reach": "2278048",
+      "tw_favorites": "26",
+      "tw_retweets": "2033779",
+      "tw_since_id": "1118691838297354241",
+      "fb_shares": "364",
+      "fb_comments": "301",
+      "fb_reactions": "961",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-04-2019 07:30",
+      "timestamp_published": "1554183000",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "19"
+    },
+    {
+      "id": "387521",
+      "date_published": "2019-04-03 21:25:26",
+      "date_added": "2019-04-03 17:56:40",
+      "date_modified": "2019-04-03 17:56:40",
+      "title": "Manmohan Singh's Cutting Attack On PM Modi Over Black Money, Notes Ban",
+      "source": "www.ndtv.com",
+      "description": "Former Prime Minister Manmohan Singh on Friday sharply criticised the government on demonetisation and jobs data and said the state of affairs in the country were a powerful indictment of the BJP-led government.",
+      "tags": [
+        "black money",
+        "demonetisation",
+        "jobs",
+        "manmohan singh",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9tYW5tb2hhbi1zaW5naHMtY3V0dGluZy1h\ndHRhY2stb24tcG0tbW9kaS1vdmVyLWJsYWNrLW1vbmV5LW5vdGVzLWJhbi0xOTEzMTgw",
+      "short_url": "https://www.ndtv.com/india-news/manmohan-singhs-cutting-attack-on-pm-modi-over-black-money-notes-ban-1913180",
+      "engagement": "0",
+      "popularity": "14703.5",
+      "tw_tweets": "3",
+      "tw_reach": "102",
+      "tw_favorites": "0",
+      "tw_retweets": "1194",
+      "tw_since_id": "1113470070288781312",
+      "fb_shares": "655",
+      "fb_comments": "815",
+      "fb_reactions": "4143",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "RizwanS79482693",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-04-2019 21:25",
+      "timestamp_published": "1554319526",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "387749",
+      "date_published": "2019-04-04 06:18:59",
+      "date_added": "2019-04-04 02:51:48",
+      "date_modified": "2019-04-06 02:27:10",
+      "title": "Expect Modi to repeat 2014 victory: BJP has got its act together while opposition is splintered and wholly unprepared",
+      "source": "timesofindia.indiatimes.com",
+      "description": "I have maintained, since well before the Balakot airstrikes, that Prime Minister Narendra Modi will repeat his 2014 election victory in 2019. This conviction is rooted in many factors. The first factor is Modi himself....",
+      "tags": [
+        "bjp",
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vYmxvZ3MvdG9pLWVkaXQtcGFnZS9l\neHBlY3QtbW9kaS10by1yZXBlYXQtMjAxNC12aWN0b3J5LWJqcC1oYXMtZ290LWl0cy1hY3QtdG9n\nZXRoZXItd2hpbGUtb3Bwb3NpdGlvbi1pcy1zcGxpbnRlcmVkLWFuZC13aG9sbHktdW5wcmVwYXJl\nZC8=",
+      "short_url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/expect-modi-to-repeat-2014-victory-bjp-has-got-its-act-together-while-opposition-is-splintered-and-wholly-unprepared/",
+      "engagement": "0",
+      "popularity": "11658400",
+      "tw_tweets": "1130",
+      "tw_reach": "13700571",
+      "tw_favorites": "167",
+      "tw_retweets": "919471",
+      "tw_since_id": "1114322830437388288",
+      "fb_shares": "227",
+      "fb_comments": "55",
+      "fb_reactions": "824",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "indiaonthe_move",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-04-2019 06:18",
+      "timestamp_published": "1554351539",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "37"
+    },
+    {
+      "id": "388791",
+      "date_published": "2019-04-05 11:20:30",
+      "date_added": "2019-04-05 07:52:05",
+      "date_modified": "2019-04-12 22:56:59",
+      "title": "Rahul Gandhi's assets grew by 1600% under UPA, but 'just' by 70% under Modi government - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rahul Gandhi has now filed his election affidavit while filing his nomination from Wayanad, Kerala which is meant to be his safe seat where his assets have grown to Rs. 15.88 crores - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "narendra modi",
+        "rahul gandhi",
+        "upa",
+        "wayanad"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9yYWh1bC1nYW5kaGktMjAxOS1lbGVjdGlv\nbi1hZmZpZGF2aXQtYXNzZXRzLWdyZXctYnktMTYwMC11bmRlci11cGEtYnV0LWp1c3QtYnktNzAt\ndW5kZXItbW9kaS1nb3Zlcm5tZW50Lw==",
+      "short_url": "https://www.opindia.com/2019/04/rahul-gandhi-2019-election-affidavit-assets-grew-by-1600-under-upa-but-just-by-70-under-modi-government/",
+      "engagement": "0",
+      "popularity": "1394300",
+      "tw_tweets": "627",
+      "tw_reach": "921051",
+      "tw_favorites": "115",
+      "tw_retweets": "462287",
+      "tw_since_id": "1116805861836349442",
+      "fb_shares": "1138",
+      "fb_comments": "310",
+      "fb_reactions": "2668",
+      "popularity_updated": "132",
+      "sentiment": "0",
+      "screen_name": "Manasb2018",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-04-2019 11:20",
+      "timestamp_published": "1554456030",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "153"
+    },
+    {
+      "id": "389662",
+      "date_published": "2019-04-06 12:30:35",
+      "date_added": "2019-04-06 09:02:57",
+      "date_modified": "2019-04-07 03:47:06",
+      "title": "ABP News telecasts PM Modi's interview, where certain portions 'uncomfortable' for the Gandhis were censored out",
+      "source": "www.opindia.com",
+      "description": "ABP News' interview of the PM that was telecast yesterday morning did not feature a crucial part, it was shared only later in the day, what might be the reasons? - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9kaWQtYWJwLW5ld3MtY2Vuc29yLWEtY2xp\ncC1mcm9tLXBtLW1vZGlzLWludGVydmlldy13aGVyZS1oZS1zbGFtbWVkLXRoZW0tYW5kLW1lbnRp\nb25lZC1vcGluZGlhcy1leHBvc2Utb24tcmFodWxzLWRlYWxzLw==",
+      "short_url": "https://www.opindia.com/2019/04/did-abp-news-censor-a-clip-from-pm-modis-interview-where-he-slammed-them-and-mentioned-opindias-expose-on-rahuls-deals/",
+      "engagement": "0",
+      "popularity": "2209440",
+      "tw_tweets": "860",
+      "tw_reach": "701406",
+      "tw_favorites": "0",
+      "tw_retweets": "1114620",
+      "tw_since_id": "1114772940292104192",
+      "fb_shares": "935",
+      "fb_comments": "383",
+      "fb_reactions": "3348",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "nsrao_iitr",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-04-2019 12:30",
+      "timestamp_published": "1554546635",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "390352",
+      "date_published": "2019-04-07 07:55:38",
+      "date_added": "2019-04-07 04:27:10",
+      "date_modified": "2019-04-22 05:22:14",
+      "title": "Proud moment for the Indians! Indonesian President named his grandson \"SriNarendra\" after PM Modi",
+      "source": "m.newshunt.com",
+      "description": "News Gram 24:Our PM is lending us with unending reasons to shower respects to him. There are enough instances",
+      "tags": [
+        "indians",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL20ubmV3c2h1bnQuY29tL2luZGlhL2VuZ2xpc2gtbmV3c3BhcGVycy9uZXdzLWdyYW0t\nMjQvaG9tZS9wcm91ZC1tb21lbnQtZm9yLXRoZS1pbmRpYW5zLWluZG9uZXNpYW4tcHJlc2lkZW50\nLW5hbWVkLWhpcy1ncmFuZHNvbi1zcmluYXJlbmRyYS1hZnRlci1wbS1tb2RpXzg5MDgyMjU2L2Mt\naW4tbC1lbmdsaXNoLW4tbmV3c2dyYW0tbmNhdC1ob21lLWRoU2hhcmVQYXJhbXMtc3MtdHd0LXMt\nd2EtcmQtZg==",
+      "short_url": "http://dhunt.in/49eTz?ss=twt&s=wa",
+      "engagement": "0",
+      "popularity": "741058",
+      "tw_tweets": "282",
+      "tw_reach": "316380",
+      "tw_favorites": "0",
+      "tw_retweets": "335362",
+      "tw_since_id": "1120165295589449728",
+      "fb_shares": "41",
+      "fb_comments": "1",
+      "fb_reactions": "157",
+      "popularity_updated": "139",
+      "sentiment": "1",
+      "screen_name": "Vinay_P10",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-04-2019 07:55",
+      "timestamp_published": "1554616538",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "164"
+    },
+    {
+      "id": "391614",
+      "date_published": "2019-04-08 22:00:29",
+      "date_added": "2019-04-08 18:32:19",
+      "date_modified": "2019-04-08 18:32:19",
+      "title": "PM Modi has no family, who will he do corruption for: Varun Gandhi",
+      "source": "www.indiatoday.in",
+      "description": "Varun Gandhi said that no prime minister has brought glory to India like PM Narendra Modi, including those belonging to his family. Varun Gandhi is the grandson of former Prime Minister Indira Gandhi.",
+      "tags": [
+        "india",
+        "indira",
+        "mahatma gandhi",
+        "narendra modi",
+        "varun gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\ncG0tbW9kaS1oYXMtbm8tZmFtaWx5LXdoby13aWxsLWJlLWRvLWNvcnJ1cHRpb24tZm9yLXZhcnVu\nLWdhbmRoaS0xNDk2NDU2LTIwMTktMDQtMDg=",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/pm-modi-has-no-family-who-will-be-do-corruption-for-varun-gandhi-1496456-2019-04-08",
+      "engagement": "0",
+      "popularity": "370362",
+      "tw_tweets": "144",
+      "tw_reach": "385102",
+      "tw_favorites": "40",
+      "tw_retweets": "41340",
+      "tw_since_id": "1115445369582702592",
+      "fb_shares": "608",
+      "fb_comments": "1170",
+      "fb_reactions": "6688",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "PrateekLawaniya",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-04-2019 22:00",
+      "timestamp_published": "1554753629",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "18"
+    },
+    {
+      "id": "392104",
+      "date_published": "2019-04-09 11:05:43",
+      "date_added": "2019-04-09 07:37:11",
+      "date_modified": "2019-04-09 10:02:31",
+      "title": "From Mayawati's 'Sinking Ship' to Fight Against Corruption, PM Modi Sets the Agenda for 2019 Elections",
+      "source": "www.news18.com",
+      "description": "In an exclusive interview with News18 Network Group Editor-in-Chief Rahul Joshi, PM Modi set the agenda for the upcoming Lok Sabha elections, discussing a host of issues from J&K to the Opposition.",
+      "tags": [
+        "mayawati",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2Zyb20tbWF5YXdhdGlzLXNpbmtp\nbmctc2hpcC10by1maWdodC1hZ2FpbnN0LWNvcnJ1cHRpb24tcG0tbmFyZW5kcmEtbW9kaS1zZXRz\nLXRoZS1hZ2VuZGEtZm9yLTIwMTktZWxlY3Rpb25zLTIwOTQyODkuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/from-mayawatis-sinking-ship-to-fight-against-corruption-pm-narendra-modi-sets-the-agenda-for-2019-elections-2094289.html",
+      "engagement": "0",
+      "popularity": "10206100",
+      "tw_tweets": "1130",
+      "tw_reach": "10905413",
+      "tw_favorites": "27",
+      "tw_retweets": "1350408",
+      "tw_since_id": "1115717106862047233",
+      "fb_shares": "26",
+      "fb_comments": "12",
+      "fb_reactions": "80",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "ShuklaKedarnath",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-04-2019 11:05",
+      "timestamp_published": "1554800743",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "393436",
+      "date_published": "2019-04-10 17:20:45",
+      "date_added": "2019-04-10 13:52:30",
+      "date_modified": "2019-04-12 08:47:15",
+      "title": "Pandit Jasraj among 907 artistes who want you to vote Modi, launch counter strike",
+      "source": "www.mynation.com",
+      "description": "The 907 artistes said they believe that the BJP government had&nbsp;delivered a corruption-free system and should be voted back to power. This came as a counter to Naseeruddin Shah and another 615&nbsp;artistes who had asked the citizens to vote BJP out of power.&nbsp;",
+      "tags": [
+        "bjp",
+        "graham henry",
+        "jasraj",
+        "narendra modi",
+        "naseeruddin"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2VsZWN0aW9ucy85MDctYXJ0aXN0ZXMtYXBwZWFsLXRv\nLXBlb3BsZS10by12b3RlLWZvci1ianAtcHBxcWdp",
+      "short_url": "https://www.mynation.com/elections/907-artistes-appeal-to-people-to-vote-for-bjp-ppqqgi",
+      "engagement": "0",
+      "popularity": "7764990",
+      "tw_tweets": "1274",
+      "tw_reach": "1230334",
+      "tw_favorites": "6",
+      "tw_retweets": "4557681",
+      "tw_since_id": "1116593227279134720",
+      "fb_shares": "371",
+      "fb_comments": "38",
+      "fb_reactions": "1560",
+      "popularity_updated": "52",
+      "sentiment": "0",
+      "screen_name": "NetHindu1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-04-2019 17:20",
+      "timestamp_published": "1554909645",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "73"
+    },
+    {
+      "id": "394201",
+      "date_published": "2019-04-11 15:05:35",
+      "date_added": "2019-04-11 11:37:18",
+      "date_modified": "2019-04-12 21:42:56",
+      "title": "Sinking To A New Low? Kejriwal Asks If Pakistan Killed 40 Soldiers In Pulwama To Help PM Modi Before Polls",
+      "source": "swarajyamag.com",
+      "description": "Kejriwal responding to a tweet by Karnataka CM alleged that Pakistan and Imran Khan are openly supporting PM Modi",
+      "tags": [
+        "abu talib ibn ‘abd al-muttalib",
+        "kejriwal",
+        "narendra modi",
+        "pakistan",
+        "pulwama",
+        "shahid afridi",
+        "soldiers",
+        "tweet"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvc2lua2luZy10by1hLW5ldy1sb3cta2Vqcml3\nYWwtYXNrcy1pZi1wYWtpc3Rhbi1raWxsZWQtNDAtc29sZGllcnMtaW4tcHVsd2FtYS10by1oZWxw\nLXBtLW1vZGktYmVmb3JlLXBvbGxz",
+      "short_url": "https://swarajyamag.com/insta/sinking-to-a-new-low-kejriwal-asks-if-pakistan-killed-40-soldiers-in-pulwama-to-help-pm-modi-before-polls",
+      "engagement": "0",
+      "popularity": "2944930",
+      "tw_tweets": "934",
+      "tw_reach": "1945984",
+      "tw_favorites": "47",
+      "tw_retweets": "987145",
+      "tw_since_id": "1116788175060520964",
+      "fb_shares": "283",
+      "fb_comments": "404",
+      "fb_reactions": "931",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-04-2019 15:05",
+      "timestamp_published": "1554987935",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "395157",
+      "date_published": "2019-04-12 18:55:19",
+      "date_added": "2019-04-12 15:27:03",
+      "date_modified": "2019-04-12 15:27:04",
+      "title": "Prime Minister of India Narendra Modi presented with Order of St Andrew the Apostle the First-Called",
+      "source": "en.kremlin.ru",
+      "description": "Vladimir Putin signed the Executive Order On Awarding Prime Minister of India Narendra Damodardas Modi the Order of St Andrew the Apostle the First-Called.",
+      "tags": [
+        "india",
+        "narendra modi",
+        "vladimir",
+        "vladimir putin"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL2VuLmtyZW1saW4ucnUvYWN0cy9uZXdzLzYwMjcx",
+      "short_url": "http://en.kremlin.ru/acts/news/60271",
+      "engagement": "0",
+      "popularity": "19171500",
+      "tw_tweets": "1382",
+      "tw_reach": "2182131",
+      "tw_favorites": "103",
+      "tw_retweets": "11688139",
+      "tw_since_id": "1117024246423678977",
+      "fb_shares": "95",
+      "fb_comments": "63",
+      "fb_reactions": "352",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "guru_rao",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-04-2019 18:55",
+      "timestamp_published": "1555088119",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "395635",
+      "date_published": "2019-04-13 11:15:31",
+      "date_added": "2019-04-13 07:48:16",
+      "date_modified": "2019-04-13 11:31:52",
+      "title": "Comment la France a effacé la dette fiscale d’un industriel indien associé de Dassault",
+      "source": "www.lemonde.fr",
+      "description": "Anil Ambani, un proche du premier ministre Modi, a bénéficié d’un effacement de plus de 140 millions d’euros en 2015, au moment où Dassault négociait la vente de Rafale à l’Inde.",
+      "tags": [
+        "narendra modi",
+        "rafale"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubGVtb25kZS5mci9lY29ub21pZS9hcnRpY2xlLzIwMTkvMDQvMTMvY29tbWVu\ndC1sYS1mcmFuY2UtYS1lZmZhY2UtbGEtZGV0dGUtZmlzY2FsZS1kLXVuLWluZHVzdHJpZWwtaW5k\naWVuLWFzc29jaWUtZGUtZGFzc2F1bHRfNTQ0OTY1OV8zMjM0Lmh0bWw=",
+      "short_url": "https://www.lemonde.fr/economie/article/2019/04/13/comment-la-france-a-efface-la-dette-fiscale-d-un-industriel-indien-associe-de-dassault_5449659_3234.html",
+      "engagement": "0",
+      "popularity": "7656530",
+      "tw_tweets": "975",
+      "tw_reach": "1221181",
+      "tw_favorites": "0",
+      "tw_retweets": "4450611",
+      "tw_since_id": "1117300034339426304",
+      "fb_shares": "9427",
+      "fb_comments": "2314",
+      "fb_reactions": "16336",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "SKeeranagi",
+      "status": "1",
+      "clicks": "2",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-04-2019 11:15",
+      "timestamp_published": "1555146931",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "396730",
+      "date_published": "2019-04-14 22:25:35",
+      "date_added": "2019-04-14 18:57:04",
+      "date_modified": "2019-04-16 06:47:12",
+      "title": "75-year-old Narendra Modi fan killed by Congress-DMK supporter in Tamil Nadu - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Govindarajan was attacked by Congress-DMK supporter Gopinath when he was campaigning for Modi - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC83NS15ZWFyLW9sZC1uYXJlbmRyYS1tb2Rp\nLWZhbi1raWxsZWQtYnktY29uZ3Jlc3MtZG1rLXN1cHBvcnRlci1pbi10YW1pbC1uYWR1Lw==",
+      "short_url": "http://bit.ly/2P6xH1W",
+      "engagement": "0",
+      "popularity": "1709570",
+      "tw_tweets": "574",
+      "tw_reach": "728811",
+      "tw_favorites": "22",
+      "tw_retweets": "765400",
+      "tw_since_id": "1118012492846776320",
+      "fb_shares": "1532",
+      "fb_comments": "404",
+      "fb_reactions": "4360",
+      "popularity_updated": "334",
+      "sentiment": "0",
+      "screen_name": "mikichill",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-04-2019 22:25",
+      "timestamp_published": "1555273535",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "359"
+    },
+    {
+      "id": "397665",
+      "date_published": "2019-04-15 21:10:34",
+      "date_added": "2019-04-15 17:42:42",
+      "date_modified": "2019-04-15 17:42:42",
+      "title": "Nehru, Indira built Army when Modi didn't even learn to wear pants: Kamal Nath",
+      "source": "www.indiatoday.in",
+      "description": "Madhya Pradesh Chief Minister Kamal Nath's stinging attack on Prime Minister Narendra Modi came days after the pm referred to him as 'bhrasht' Nath, meaning corrupt.",
+      "tags": [
+        "alfred gabriel nathorst",
+        "indira",
+        "jawaharlal nehru",
+        "kamal",
+        "madhya pradesh",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\na2FtYWwtbmF0aC1zYXlzLW5laHJ1LWluZGlyYS1idWlsdC1hcm15LXdoZW4tbW9kaS1kaWRuLXQt\nZXZlbi1sZWFybi10by13ZWFyLXBhbnRzLTE1MDE5NDgtMjAxOS0wNC0xNQ==",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/kamal-nath-says-nehru-indira-built-army-when-modi-didn-t-even-learn-to-wear-pants-1501948-2019-04-15",
+      "engagement": "0",
+      "popularity": "15271900",
+      "tw_tweets": "1399",
+      "tw_reach": "2143021",
+      "tw_favorites": "28",
+      "tw_retweets": "9103753",
+      "tw_since_id": "1118162170456371205",
+      "fb_shares": "413",
+      "fb_comments": "714",
+      "fb_reactions": "2150",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "GokhaleVivek",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-04-2019 21:10",
+      "timestamp_published": "1555355434",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "398018",
+      "date_published": "2019-04-16 08:20:44",
+      "date_added": "2019-04-16 04:52:41",
+      "date_modified": "2019-04-23 03:37:18",
+      "title": "EXCLUSIVE INTERVIEW | Corruption-free government is possible: Prime Minister Narendra Modi",
+      "source": "www.newindianexpress.com",
+      "description": "2014 was about hope for change. 2019 is about the confidence that change has happened and the expectation that more good work will happen, says PM Modi in an exclusive interview with TNIE.",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAxOS9hcHIvMTYvZXhjbHVz\naXZlLWludGVydmlldy0tY29ycnVwdGlvbi1mcmVlLWdvdmVybm1lbnQtaXMtcG9zc2libGUtcHJp\nbWUtbWluaXN0ZXItbmFyZW5kcmEtbW9kaS0xOTY0NzYyLmh0bWw=",
+      "short_url": "http://www.newindianexpress.com/nation/2019/apr/16/exclusive-interview--corruption-free-government-is-possible-prime-minister-narendra-modi-1964762.html",
+      "engagement": "0",
+      "popularity": "2436510",
+      "tw_tweets": "451",
+      "tw_reach": "2677446",
+      "tw_favorites": "106",
+      "tw_retweets": "278464",
+      "tw_since_id": "1120501444350816261",
+      "fb_shares": "521",
+      "fb_comments": "299",
+      "fb_reactions": "3666",
+      "popularity_updated": "130",
+      "sentiment": "0",
+      "screen_name": "shadabarabbani",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-04-2019 08:20",
+      "timestamp_published": "1555395644",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "143"
+    },
+    {
+      "id": "399336",
+      "date_published": "2019-04-17 20:45:18",
+      "date_added": "2019-04-17 17:17:16",
+      "date_modified": "2019-04-20 13:27:21",
+      "title": "How Chowkidar Govind Saroj became actor Janhvi Kapoor and endorsed PM Modi - Alt News",
+      "source": "www.altnews.in",
+      "description": "“I do not understand politics but know that the country needs Modi ji,” read a tweet from a Twitter account ‘realjanhvi’. At the time of writing, the tweet was retweeted over 3,000 times and liked over 12,000. The account’s bio claims that it is the official account of Janhvi Kapoor, the actor …",
+      "tags": [
+        "dorothy talbot",
+        "gary t. k. ng",
+        "jahnavi kapoor",
+        "narendra modi",
+        "pushkar jog"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWx0bmV3cy5pbi9ob3ctY2hvd2tpZGFyLWdvdmluZC1zYXJvai1iZWNhbWUt\nYWN0b3ItamFuaHZpLWthcG9vci1hbmQtZW5kb3JzZWQtcG0tbW9kaS8=",
+      "short_url": "https://t.co/sr2YxmOQWW",
+      "engagement": "0",
+      "popularity": "877988",
+      "tw_tweets": "303",
+      "tw_reach": "888931",
+      "tw_favorites": "3",
+      "tw_retweets": "128705",
+      "tw_since_id": "1119562639745613824",
+      "fb_shares": "1427",
+      "fb_comments": "418",
+      "fb_reactions": "6076",
+      "popularity_updated": "258",
+      "sentiment": "0",
+      "screen_name": "TruthOfGujarat",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-04-2019 20:45",
+      "timestamp_published": "1555526718",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "268"
+    },
+    {
+      "id": "400005",
+      "date_published": "2019-04-18 17:40:30",
+      "date_added": "2019-04-18 14:12:41",
+      "date_modified": "2019-05-05 11:32:47",
+      "title": "2014 was a mandate for hope and aspiration, 2019 is about confidence and acceleration: PM Modi - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: In an exclusive interview to TOI, Prime Minister Narendra Modi speaks to Rajesh Kalra, Diwakar and Rajeev Deshpande on a wide range of issues — from j",
+      "tags": [
+        "diwakar",
+        "india",
+        "narendra modi",
+        "rajeev",
+        "rajesh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaW5kaWEvMjAxNC13YXMtYS1tYW5k\nYXRlLWZvci1ob3BlLWFuZC1hc3BpcmF0aW9uLTIwMTktaXMtYWJvdXQtY29uZmlkZW5jZS1hbmQt\nYWNjZWxlcmF0aW9uLXBtLW1vZGkvYXJ0aWNsZXNob3cvNjg5MjA2ODAuY21z",
+      "short_url": "https://timesofindia.indiatimes.com/india/2014-was-a-mandate-for-hope-and-aspiration-2019-is-about-confidence-and-acceleration-pm-modi/articleshow/68920680.cms",
+      "engagement": "0",
+      "popularity": "10457000",
+      "tw_tweets": "555",
+      "tw_reach": "12548393",
+      "tw_favorites": "22",
+      "tw_retweets": "688721",
+      "tw_since_id": "1124969601224232960",
+      "fb_shares": "803",
+      "fb_comments": "916",
+      "fb_reactions": "3545",
+      "popularity_updated": "148",
+      "sentiment": "0",
+      "screen_name": "kbsanu",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-04-2019 17:40",
+      "timestamp_published": "1555602030",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "160"
+    },
+    {
+      "id": "400184",
+      "date_published": "2019-04-19 00:19:25",
+      "date_added": "2019-04-18 20:52:01",
+      "date_modified": "2019-04-21 20:07:05",
+      "title": "Exclusive: Men in video shared by Rahul Gandhi claim that their statements were twisted, say they support PM Modi - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rahul Gandhi, the Congress president tweeted an excerpt of The Wire video saying that the event of PM Modi washing the sanitation workers' feet was a 'made for media' event - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9leGNsdXNpdmUtbWVuLWluLXZpZGVvLXR3\nZWV0ZWQtYnktcmFodWwtZ2FuZGhpLXRoZS13aXJlLWNsYWltLXRoZWlyLXN0YXRlbWVudHMtd2Vy\nZS10d2lzdGVkLXNheS10aGV5LXN1cHBvcnQtcG0tbW9kaS8=",
+      "short_url": "https://www.opindia.com/2019/04/exclusive-men-in-video-tweeted-by-rahul-gandhi-the-wire-claim-their-statements-were-twisted-say-they-support-pm-modi/",
+      "engagement": "0",
+      "popularity": "882468",
+      "tw_tweets": "308",
+      "tw_reach": "974280",
+      "tw_favorites": "177",
+      "tw_retweets": "99892",
+      "tw_since_id": "1120025335247056897",
+      "fb_shares": "174",
+      "fb_comments": "71",
+      "fb_reactions": "385",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "Hero1Warrior",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-04-2019 00:19",
+      "timestamp_published": "1555625965",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "40"
+    },
+    {
+      "id": "401466",
+      "date_published": "2019-04-20 12:40:29",
+      "date_added": "2019-04-20 09:12:39",
+      "date_modified": "2019-04-20 23:57:40",
+      "title": "PM Modi defends fielding terror accused Sadhvi Pragya from Bhopal, says it will ‘cost Congress’",
+      "source": "indianexpress.com",
+      "description": "In an interview to Times Now, PM Modi referred to the Samjhauta Express verdict to claim that the Congress had defamed a “5,000-old culture that believes in Vasudhaiv Kutumbakam\".",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "nathan theodore fielding",
+        "terror"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvcG0tbW9kaS1kZWZlbmRzLWZpZWxk\naW5nLXRlcnJvci1hY2N1c2VkLXNhZGh2aS1wcmFneWEtZnJvbS1iaG9wYWwtc2F5cy1pdC13aWxs\nLWNvc3QtY29uZ3Jlc3MtNTY4NTQ2MC8=",
+      "short_url": "https://indianexpress.com/elections/pm-modi-defends-fielding-terror-accused-sadhvi-pragya-from-bhopal-says-it-will-cost-congress-5685460/",
+      "engagement": "0",
+      "popularity": "3878750",
+      "tw_tweets": "1242",
+      "tw_reach": "1029030",
+      "tw_favorites": "0",
+      "tw_retweets": "2065103",
+      "tw_since_id": "1119785046175514630",
+      "fb_shares": "319",
+      "fb_comments": "912",
+      "fb_reactions": "2260",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "yield_spread",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 12:40",
+      "timestamp_published": "1555756829",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "402555",
+      "date_published": "2019-04-21 18:15:13",
+      "date_added": "2019-04-21 14:49:31",
+      "date_modified": "2019-04-22 05:22:16",
+      "title": "Political analyst associated with Congress shares badly edited video accusing PM Modi of using an abusive word - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Congress' Gaurav Pandhi has earlier also spread misinformation to attack the central government - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9wb2xpdGljYWwtYW5hbHlzdC1hc3NvY2lh\ndGVkLXdpdGgtY29uZ3Jlc3Mtc2hhcmVzLWJhZGx5LWVkaXRlZC12aWRlby1hY2N1c2luZy1wbS1t\nb2RpLW9mLXVzaW5nLWFuLWFidXNpdmUtd29yZC8=",
+      "short_url": "https://www.opindia.com/2019/04/political-analyst-associated-with-congress-shares-badly-edited-video-accusing-pm-modi-of-using-an-abusive-word/",
+      "engagement": "0",
+      "popularity": "4459820",
+      "tw_tweets": "913",
+      "tw_reach": "1068854",
+      "tw_favorites": "18",
+      "tw_retweets": "2437479",
+      "tw_since_id": "1120262021788983297",
+      "fb_shares": "101",
+      "fb_comments": "82",
+      "fb_reactions": "268",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "nirajntsh",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 18:15",
+      "timestamp_published": "1555863313",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "402851",
+      "date_published": "2019-04-22 04:28:27",
+      "date_added": "2019-04-22 01:02:26",
+      "date_modified": "2019-04-22 04:57:45",
+      "title": "Our nuclear weapons are not for Diwali: PM Modi on Pak's nuclear button threat",
+      "source": "www.indiatoday.in",
+      "description": "PM Modi said, \"Every other day they used to say 'we have nuclear button, we have nuclear button'. What do we have then? Have we kept it for Diwali?\"",
+      "tags": [
+        "narendra modi",
+        "pakistan"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nb3VyLW51Y2xlYXItd2VhcG9ucy1hcmUtbm90LWZvci1kaXdhbGktcG0tbW9kaS1vbi1wYWstbnVj\nbGVhci1idXR0b24tdGhyZWF0LTE1MDY4OTMtMjAxOS0wNC0yMQ==",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/our-nuclear-weapons-are-not-for-diwali-pm-modi-on-pak-nuclear-button-threat-1506893-2019-04-21",
+      "engagement": "0",
+      "popularity": "13247900",
+      "tw_tweets": "1489",
+      "tw_reach": "2964523",
+      "tw_favorites": "1",
+      "tw_retweets": "7341155",
+      "tw_since_id": "1120399863898882048",
+      "fb_shares": "366",
+      "fb_comments": "1193",
+      "fb_reactions": "3321",
+      "popularity_updated": "26",
+      "sentiment": "0",
+      "screen_name": "rsmetacek",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 04:28",
+      "timestamp_published": "1555900107",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "49"
+    },
+    {
+      "id": "403846",
+      "date_published": "2019-04-23 08:09:54",
+      "date_added": "2019-04-23 04:42:42",
+      "date_modified": "2019-04-23 08:18:32",
+      "title": "Jawed Habib, who insulted Hindu Gods, joins BJP; Says he is very happy with the changes brought by Narendra Modi",
+      "source": "www.khabarbar.com",
+      "description": "The Lok Sabha elections 2019 are being held in seven phases. The results of the Lok Sabha election 2019 will be announced on May 23. Read More",
+      "tags": [
+        "bjp",
+        "habib",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cua2hhYmFyYmFyLmNvbS9wb2xpdGljcy9qYXdlZC1oYWJpYi1qb2lucy1ianAv",
+      "short_url": "https://www.khabarbar.com/politics/jawed-habib-joins-bjp/",
+      "engagement": "0",
+      "popularity": "500762",
+      "tw_tweets": "346",
+      "tw_reach": "340721",
+      "tw_favorites": "39",
+      "tw_retweets": "160397",
+      "tw_since_id": "1120584921104277504",
+      "fb_shares": "353",
+      "fb_comments": "204",
+      "fb_reactions": "1305",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "arshpath",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 08:09",
+      "timestamp_published": "1555999794",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "404859",
+      "date_published": "2019-04-24 09:00:34",
+      "date_added": "2019-04-24 05:32:11",
+      "date_modified": "2019-04-25 04:27:05",
+      "title": "Arif Mohammad Khan: 'After politics, people will see the importance of Triple Talak Law and thank Modi for it, Nehru too would be pleased with Modi'",
+      "source": "www.dailyo.in",
+      "description": "Arif Mohammed Khan, former Union Minister in Rajiv Gandhi's govt, who famously resigned at the overturning of the Shah Bano judgment, spoke with Rohit E David about the triple talak law, Narendra Modi and 'secular' vs 'communal' parties.",
+      "tags": [
+        "hack meyers",
+        "jawaharlal nehru",
+        "muhammad",
+        "narendra modi",
+        "shahid afridi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL2xpdGUvcG9saXRpY3MvYXJpZi1tb2hhbW1hZC1raGFuLW5h\ncmVuZHJhLW1vZGktdHJpcGxlLXRhbGFrLXNlY3VsYXJpc20tb3dhaXNpLWNvbmdyZXNzLWJqcC1z\naGFoLWJhbm8tbXVzbGltcy1pbi1pbmRpYS1hcHBlYXNlbWVudC1tdXNsaW0tbGF3LWJvYXJkL3N0\nb3J5LzEvMzA0MTIuaHRtbD9fX3R3aXR0ZXJfaW1wcmVzc2lvbj10cnVl",
+      "short_url": "https://www.dailyo.in/lite/politics/arif-mohammad-khan-narendra-modi-triple-talak-secularism-owaisi-congress-bjp-shah-bano-muslims-in-india-appeasement-muslim-law-board/story/1/30412.html?__twitter_impression=true",
+      "engagement": "0",
+      "popularity": "1915770",
+      "tw_tweets": "633",
+      "tw_reach": "789447",
+      "tw_favorites": "7",
+      "tw_retweets": "870709",
+      "tw_since_id": "1121238354320928770",
+      "fb_shares": "1489",
+      "fb_comments": "366",
+      "fb_reactions": "5651",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "auldtimer",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 09:00",
+      "timestamp_published": "1556089234",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "36"
+    },
+    {
+      "id": "406075",
+      "date_published": "2019-04-25 20:45:25",
+      "date_added": "2019-04-25 17:17:07",
+      "date_modified": "2019-05-17 06:49:00",
+      "title": "Modi returns as the prodigal son of the far right in India",
+      "source": "www.aljazeera.com",
+      "description": "Why the BJP leadership is systematically trying to downplay incidents of Hindu terrorism during this election campaign.",
+      "tags": [
+        "bjp",
+        "campaign",
+        "hindu terrorism",
+        "india",
+        "narendra modi",
+        "prodigal son"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9pbmRlcHRoL29waW5pb24vbW9kaS1yZXR1cm5zLXBy\nb2RpZ2FsLXNvbi1pbmRpYS0xOTA0MjUxMjU1NDU5NTEuaHRtbA==",
+      "short_url": "http://bit.ly/2IHjaJY",
+      "engagement": "0",
+      "popularity": "16347600",
+      "tw_tweets": "1077",
+      "tw_reach": "20976264",
+      "tw_favorites": "229",
+      "tw_retweets": "402994",
+      "tw_since_id": "1129246537664598016",
+      "fb_shares": "496",
+      "fb_comments": "1003",
+      "fb_reactions": "2644",
+      "popularity_updated": "58",
+      "sentiment": "-1",
+      "screen_name": "murraedeus",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 20:45",
+      "timestamp_published": "1556217925",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "80"
+    },
+    {
+      "id": "406347",
+      "date_published": "2019-04-26 09:20:44",
+      "date_added": "2019-04-26 05:52:53",
+      "date_modified": "2019-04-28 00:07:09",
+      "title": "Varanasi uses 1.4 lakh litres of water to wash roads for Modi",
+      "source": "www.telegraphindia.com",
+      "description": "Over 30 per cent of the population goes without piped water in the temple city",
+      "tags": [
+        "narendra modi",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGVsZWdyYXBoaW5kaWEuY29tL2luZGlhL3ZhcmFuYXNpLXVzZXMtMS00LWxh\na2gtbGl0cmVzLW9mLXdhdGVyLXRvLXdhc2gtcm9hZHMtZm9yLW1vZGkvY2lkLzE2ODk0NTE/cmVm\nPXRvcC1zdG9yaWVzX2hvbWUtdGVtcGxhdGU=",
+      "short_url": "https://www.telegraphindia.com/india/varanasi-uses-1-4-lakh-litres-of-water-to-wash-roads-for-modi/cid/1689451?ref=top-stories_home-template",
+      "engagement": "0",
+      "popularity": "3631720",
+      "tw_tweets": "1038",
+      "tw_reach": "982462",
+      "tw_favorites": "11",
+      "tw_retweets": "1895471",
+      "tw_since_id": "1122260171969810432",
+      "fb_shares": "4092",
+      "fb_comments": "3299",
+      "fb_reactions": "14741",
+      "popularity_updated": "83",
+      "sentiment": "0",
+      "screen_name": "Naripjain1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 09:20",
+      "timestamp_published": "1556263244",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "114"
+    },
+    {
+      "id": "407639",
+      "date_published": "2019-04-27 21:55:13",
+      "date_added": "2019-04-27 18:27:02",
+      "date_modified": "2019-05-03 22:17:30",
+      "title": "'Modi Magic': Amartya Sen Says Constant Distractions Key to BJP Govt",
+      "source": "thewire.in",
+      "description": "Citing demonetisation as an example, the economist said Modi uses “magic” to manipulate Indians into believing that he was offering something beneficial.",
+      "tags": [
+        "amartya sen",
+        "bjp",
+        "demonetisation",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL2FtYXJ0eWEtc2VuLXByYWJoYXQtcGF0bmFpay1l\nbGVjdGlvbnMtMjAxOS1ianAtbW9kaQ==",
+      "short_url": "https://thewire.in/politics/amartya-sen-prabhat-patnaik-elections-2019-bjp-modi",
+      "engagement": "0",
+      "popularity": "5146700",
+      "tw_tweets": "859",
+      "tw_reach": "4127135",
+      "tw_favorites": "2",
+      "tw_retweets": "1357695",
+      "tw_since_id": "1124406499365748736",
+      "fb_shares": "1422",
+      "fb_comments": "477",
+      "fb_reactions": "4246",
+      "popularity_updated": "74",
+      "sentiment": "0",
+      "screen_name": "padmanabamsalla",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 21:55",
+      "timestamp_published": "1556394913",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "95"
+    },
+    {
+      "id": "408243",
+      "date_published": "2019-04-28 20:40:03",
+      "date_added": "2019-04-28 17:12:06",
+      "date_modified": "2019-04-28 17:12:07",
+      "title": "Modi's cabinet most corrupt govt since Independence, ruined country in last 5 years: Kejriwal",
+      "source": "www.indiatoday.in",
+      "description": "Arvind Kejriwal claimed that PM Modi and Amit Shah \"divided India on religious lines\" in five years.",
+      "tags": [
+        "amit shah",
+        "arvind kejriwal",
+        "arvind mithal",
+        "divide india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nbW9kaS1zLWNhYmluZXQtbW9zdC1jb3JydXB0LWdvdnQtc2luY2UtaW5kZXBlbmRlbmNlLXJ1aW5l\nZC1jb3VudHJ5LWluLWxhc3QtNS15ZWFycy1rZWpyaXdhbC0xNDkwOTExLTIwMTktMDMtMzE=",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/modi-s-cabinet-most-corrupt-govt-since-independence-ruined-country-in-last-5-years-kejriwal-1490911-2019-03-31",
+      "engagement": "0",
+      "popularity": "3012300",
+      "tw_tweets": "1469",
+      "tw_reach": "1526791",
+      "tw_favorites": "0",
+      "tw_retweets": "1235729",
+      "tw_since_id": "1122713286892490754",
+      "fb_shares": "470",
+      "fb_comments": "1211",
+      "fb_reactions": "3582",
+      "popularity_updated": "4",
+      "sentiment": "-1",
+      "screen_name": "Ad21Tel",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 20:40",
+      "timestamp_published": "1556476803",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "408806",
+      "date_published": "2019-04-29 16:40:09",
+      "date_added": "2019-04-29 13:12:28",
+      "date_modified": "2019-04-30 06:37:03",
+      "title": "Are You Canvassing or Horse Trading? Asks TMC After Modi Claims Mamata's 40 MLAs 'in Touch' With Him",
+      "source": "www.news18.com",
+      "description": "PM Modi in his rally address in Sreerampur had accused the West Bengal CM of nepotism for fielding her nephew Abhishek Banerjee in the ongoing polls.",
+      "tags": [
+        "abhishek banerjee",
+        "aitc",
+        "mamata banerjee",
+        "narendra modi",
+        "nathan theodore fielding",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2FyZS15b3UtY2FudmFzc2luZy1v\nci1ob3JzZS10cmFkaW5nLWFza3MtdG1jLWFmdGVyLW1vZGktd2FybnMtbWFtYXRhLW9mLTQwLW1s\nYXMtaW4tdG91Y2gtd2l0aC1oaW0tMjEyMTYxNy5odG1s",
+      "short_url": "https://www.news18.com/news/politics/are-you-canvassing-or-horse-trading-asks-tmc-after-modi-warns-mamata-of-40-mlas-in-touch-with-him-2121617.html",
+      "engagement": "0",
+      "popularity": "1201990",
+      "tw_tweets": "645",
+      "tw_reach": "565946",
+      "tw_favorites": "0",
+      "tw_retweets": "517016",
+      "tw_since_id": "1123116476418875392",
+      "fb_shares": "82",
+      "fb_comments": "89",
+      "fb_reactions": "423",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "SouzaBenedict",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 16:40",
+      "timestamp_published": "1556548809",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "409103",
+      "date_published": "2019-04-30 01:33:15",
+      "date_added": "2019-04-29 22:06:43",
+      "date_modified": "2019-04-29 22:07:01",
+      "title": "Giant statues of Hindu gods and leaders are making Muslims in India nervous",
+      "source": "theprint.in",
+      "description": "The mammoth public shrines to Hindu nationalism are a pet project of PM Modi and the BJP.",
+      "tags": [
+        "bjp",
+        "giant",
+        "hindu nationalist",
+        "india",
+        "muslims",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVwcmludC5pbi9wb2xpdGljcy9naWFudC1zdGF0dWVzLW9mLWhpbmR1LWdvZHMt\nYW5kLWxlYWRlcnMtYXJlLW1ha2luZy1tdXNsaW1zLWluLWluZGlhLW5lcnZvdXMvMjI3MzIzLw==",
+      "short_url": "https://theprint.in/politics/giant-statues-of-hindu-gods-and-leaders-are-making-muslims-in-india-nervous/227323/",
+      "engagement": "0",
+      "popularity": "8525940",
+      "tw_tweets": "1027",
+      "tw_reach": "3066760",
+      "tw_favorites": "201",
+      "tw_retweets": "4129029",
+      "tw_since_id": "1123243584852037634",
+      "fb_shares": "1083",
+      "fb_comments": "2794",
+      "fb_reactions": "9636",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "aa3132",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 01:33",
+      "timestamp_published": "1556580795",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "410346",
+      "date_published": "2019-05-01 15:17:12",
+      "date_added": "2019-05-01 11:52:14",
+      "date_modified": "2019-05-03 09:36:17",
+      "title": "Poll panel issues notice to sacked BSF jawan contesting on Samajwadi Party ticket in Varanasi",
+      "source": "amp.scroll.in",
+      "description": "However, Tej Bahadur Yadav claimed that the Election Commission was working under the instructions of Prime Minister Narendra Modi.",
+      "tags": [
+        "narendra modi",
+        "samajwadi party",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9hbXAuc2Nyb2xsLmluL2xhdGVzdC85MjE4OTUvcG9sbC1wYW5lbC1pc3N1ZXMtbm90\naWNlLXRvLXNhY2tlZC1ic2YtamF3YW4tY29udGVzdGluZy1mcm9tLXNhbWFqd2FkaS1wYXJ0eS10\naWNrZXQtaW4tdmFyYW5hc2k/X190d2l0dGVyX2ltcHJlc3Npb249dHJ1ZQ==",
+      "short_url": "https://amp.scroll.in/latest/921895/poll-panel-issues-notice-to-sacked-bsf-jawan-contesting-from-samajwadi-party-ticket-in-varanasi?__twitter_impression=true",
+      "engagement": "0",
+      "popularity": "5833060",
+      "tw_tweets": "1196",
+      "tw_reach": "1258980",
+      "tw_favorites": "3",
+      "tw_retweets": "3253402",
+      "tw_since_id": "1124177870685908992",
+      "fb_shares": "544",
+      "fb_comments": "436",
+      "fb_reactions": "2317",
+      "popularity_updated": "97",
+      "sentiment": "0",
+      "screen_name": "kautilyya",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 15:17",
+      "timestamp_published": "1556716632",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "115"
+    },
+    {
+      "id": "410887",
+      "date_published": "2019-05-02 05:18:04",
+      "date_added": "2019-05-02 01:52:12",
+      "date_modified": "2019-05-03 11:23:08",
+      "title": "EC over-rules its officers, gives second clean chit to Modi",
+      "source": "indianexpress.com",
+      "description": "No violation in PM Latur speech invoking Balakot since votes not directly sought: EC",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvZWMtb3Zlci1ydWxlcy1pdHMtb2Zm\naWNlcnMtZ2l2ZXMtc2Vjb25kLWNsZWFuLWNoaXQtdG8tbmFyZW5kcmEtbW9kaS01NzA1ODQ1Lw==",
+      "short_url": "https://indianexpress.com/elections/ec-over-rules-its-officers-gives-second-clean-chit-to-narendra-modi-5705845/",
+      "engagement": "0",
+      "popularity": "5566360",
+      "tw_tweets": "535",
+      "tw_reach": "6744479",
+      "tw_favorites": "24",
+      "tw_retweets": "333290",
+      "tw_since_id": "1124242242422493184",
+      "fb_shares": "609",
+      "fb_comments": "544",
+      "fb_reactions": "2124",
+      "popularity_updated": "21",
+      "sentiment": "0",
+      "screen_name": "decision2019",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 05:18",
+      "timestamp_published": "1556767084",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "411983",
+      "date_published": "2019-05-03 13:25:18",
+      "date_added": "2019-05-03 09:58:02",
+      "date_modified": "2019-05-13 09:47:08",
+      "title": "ONGC cash reserves crash to Rs 167 crore from Rs 9,511 crore in 1.5 years under Modi govt",
+      "source": "theprint.in",
+      "description": "ONGC’s cash & bank balances hit Rs 167 crore in Sept 2018, down from Rs 9,511 crore in March 2017, following the acquisition of HPCL and other govt diktats.",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVwcmludC5pbi9lY29ub215L29uZ2MtY2FzaC1yZXNlcnZlcy1jcmFzaC1ieS1y\ncy05MzQ0LWNyb3JlLWluLTEtNS15ZWFycy8yMzA0NTIv",
+      "short_url": "https://t.co/Ua2r3hxucb",
+      "engagement": "0",
+      "popularity": "2007820",
+      "tw_tweets": "714",
+      "tw_reach": "699662",
+      "tw_favorites": "26",
+      "tw_retweets": "979525",
+      "tw_since_id": "1127842315123535873",
+      "fb_shares": "1900",
+      "fb_comments": "686",
+      "fb_reactions": "3134",
+      "popularity_updated": "54",
+      "sentiment": "0",
+      "screen_name": "sribasavaraju",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 13:25",
+      "timestamp_published": "1556882718",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "77"
+    },
+    {
+      "id": "412895",
+      "date_published": "2019-05-04 19:50:00",
+      "date_added": "2019-05-04 16:22:02",
+      "date_modified": "2019-05-20 00:27:21",
+      "title": "'Your Father's Life Ended As Bhrastachari No 1': PM Modi Attacks Rahul Gandhi",
+      "source": "www.outlookindia.com",
+      "description": "Accusing the Congress and its president Rahul Gandhi of attempting to tarnish his image over the Rafale issue, Modi took a jibe at former prime minister Rajiv Gandhi",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rafale",
+        "rahul gandhi",
+        "rajiv gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3V0bG9va2luZGlhLmNvbS93ZWJzaXRlL3N0b3J5L2luZGlhLW5ld3MteW91\nci1mYXRoZXItbGlmZS1lbmRlZC1hcy1iaHJhc3RhY2hhcmktbm8tMS1wbS1tb2RpLWF0dGFja3Mt\ncmFodWwtZ2FuZGhpLzMyOTgzNQ==",
+      "short_url": "https://www.outlookindia.com/website/story/india-news-your-father-life-ended-as-bhrastachari-no-1-pm-modi-attacks-rahul-gandhi/329835",
+      "engagement": "0",
+      "popularity": "19736100",
+      "tw_tweets": "2266",
+      "tw_reach": "20955884",
+      "tw_favorites": "24",
+      "tw_retweets": "2612985",
+      "tw_since_id": "1130234277621374979",
+      "fb_shares": "5052",
+      "fb_comments": "12042",
+      "fb_reactions": "24872",
+      "popularity_updated": "1346",
+      "sentiment": "0",
+      "screen_name": "sajidqaatil",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 19:50",
+      "timestamp_published": "1556992200",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "173",
+          "query": "\"Swaraj Abhiyan\" OR \"Yogendra Yadav\" OR _YogendraYadav OR _SwarajIndia OR \"Swaraj India\" OR \"Prashant Bhushan\" OR pbhushan1"
+        }
+      ],
+      "popularity_logs": "1366"
+    },
+    {
+      "id": "413674",
+      "date_published": "2019-05-05 19:25:20",
+      "date_added": "2019-05-05 15:58:08",
+      "date_modified": "2019-05-07 10:12:54",
+      "title": "10 Years Of Risking My Life For This Country. Modi Says I Played Video Games: Former Colonel",
+      "source": "newscentral24x7.com",
+      "description": "On May 5, Retired Colonel Ashok Kumar Singh, the managing director of the Chamber of Commerce of Ex-Servicemen and the editor of Fauji Reporter, slammed Prime Minister Narendra Modi for belittling his active years of military service when he mocked cross-border operations carried out during the UPA regime.",
+      "tags": [
+        "apirat kongsompong",
+        "ashok kumar singh",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9uZXdzY2VudHJhbDI0eDcuY29tL3N1cmdpY2FsLXN0cmlrZXMtZXgtY29sb25lbC1h\nc2hvay1rdW1hci1zaW5naC1zbGFtcy1uYXJlbmRyYS1tb2RpLXZpZGVvLWdhbWVzLXVwYS1yZWdp\nbWUtaW5kaWFuLWFybXkv",
+      "short_url": "https://newscentral24x7.com/surgical-strikes-ex-colonel-ashok-kumar-singh-slams-narendra-modi-video-games-upa-regime-indian-army/",
+      "engagement": "0",
+      "popularity": "890199",
+      "tw_tweets": "321",
+      "tw_reach": "725613",
+      "tw_favorites": "48",
+      "tw_retweets": "218621",
+      "tw_since_id": "1125674273257938945",
+      "fb_shares": "2294",
+      "fb_comments": "437",
+      "fb_reactions": "5082",
+      "popularity_updated": "218",
+      "sentiment": "0",
+      "screen_name": "India_Resists",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 19:25",
+      "timestamp_published": "1557077120",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "236"
+    },
+    {
+      "id": "414573",
+      "date_published": "2019-05-06 21:15:44",
+      "date_added": "2019-05-06 17:48:40",
+      "date_modified": "2019-05-07 04:03:31",
+      "title": "SP candidate from Varanasi Tej Bahadur Yadav caught on camera agreeing to kill PM Modi for money - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Sacked BSF soldier and SP candidate from Varanasi Tej Bahadur Yadav was seen offering to kill PM Modi for ₹50 crore in a 2 years old video - Latest India News from Opindia.com",
+      "tags": [
+        "narendra modi",
+        "samajwadi party",
+        "varanasi tej"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9zcC1jYW5kaWRhdGUtZnJvbS12YXJhbmFz\naS10ZWotYmFoYWR1ci15YWRhdi1jYXVnaHQtb24tY2FtZXJhLWFncmVlaW5nLXRvLWtpbGwtcG0t\nbW9kaS1mb3ItbW9uZXkv",
+      "short_url": "http://bit.ly/3042wtx",
+      "engagement": "0",
+      "popularity": "2611180",
+      "tw_tweets": "640",
+      "tw_reach": "584491",
+      "tw_favorites": "180",
+      "tw_retweets": "1446098",
+      "tw_since_id": "1125756906474053632",
+      "fb_shares": "310",
+      "fb_comments": "141",
+      "fb_reactions": "797",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "anandkc2006",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 21:15",
+      "timestamp_published": "1557170144",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "415314",
+      "date_published": "2019-05-07 21:45:41",
+      "date_added": "2019-05-07 18:17:50",
+      "date_modified": "2019-05-10 05:32:24",
+      "title": "Letter vs Letter: After 200 teachers praised Rajiv Gandhi, 600 out with support for Modi",
+      "source": "www.mynation.com",
+      "description": "In a statement, the teachers&nbsp;have said, 'India under Modi has taken bold decisions to strengthen our security in space through latest technology. No more India's response to terror and incursions is meek and weak.'",
+      "tags": [
+        "bold",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3MvYWZ0ZXItMjAwLXRlYWNoZXJzLXBy\nYWlzZWQtcmFqaXYtZ2FuZGhpLTYwMC10ZWFjaGVycy1zdXBwb3J0LW1vZGktaW4tYS1uZXctbGV0\ndGVyLXByNTBhcw==",
+      "short_url": "https://www.mynation.com/india-news/after-200-teachers-praised-rajiv-gandhi-600-teachers-support-modi-in-a-new-letter-pr50as",
+      "engagement": "0",
+      "popularity": "1034740",
+      "tw_tweets": "456",
+      "tw_reach": "623255",
+      "tw_favorites": "5",
+      "tw_retweets": "376112",
+      "tw_since_id": "1126691016327581697",
+      "fb_shares": "218",
+      "fb_comments": "39",
+      "fb_reactions": "925",
+      "popularity_updated": "166",
+      "sentiment": "0",
+      "screen_name": "ronakom",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 21:45",
+      "timestamp_published": "1557258341",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "187"
+    },
+    {
+      "id": "415433",
+      "date_published": "2019-05-08 02:00:02",
+      "date_added": "2019-05-07 22:32:38",
+      "date_modified": "2019-05-08 10:17:14",
+      "title": "121 DU professors write letter extending their support to PM Modi over his remarks on Rajiv Gandhi",
+      "source": "www.opindia.com",
+      "description": "In the letter, the professors express their concern over the 'anti-historical' narrative Congress is trying to set that Rajiv Gandhi's tenure cannot be critically analysed - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi",
+        "rajiv gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS90d2lzdC1pbi10aGUtdGFsZS1ub3ctMTIx\nLWR1LXByb2Zlc3NvcnMtd3JpdGUtbGV0dGVyLWV4dGVuZGluZy10aGVpci1zdXBwb3J0LXRvLXBt\nLW1vZGktb3Zlci1oaXMtcmVtYXJrcy1vbi1yYWppdi1nYW5kaGkv",
+      "short_url": "https://www.opindia.com/2019/05/twist-in-the-tale-now-121-du-professors-write-letter-extending-their-support-to-pm-modi-over-his-remarks-on-rajiv-gandhi/",
+      "engagement": "0",
+      "popularity": "3552990",
+      "tw_tweets": "824",
+      "tw_reach": "496584",
+      "tw_favorites": "0",
+      "tw_retweets": "2110861",
+      "tw_since_id": "1126097195495608322",
+      "fb_shares": "994",
+      "fb_comments": "241",
+      "fb_reactions": "4708",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "greenfpoa",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 02:00",
+      "timestamp_published": "1557273602",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "416703",
+      "date_published": "2019-05-09 17:25:37",
+      "date_added": "2019-05-09 13:57:27",
+      "date_modified": "2019-05-10 22:12:35",
+      "title": "\"You Made Taxis Of IAF Jets, Paying Rs 744,\" Congress Tells PM Modi",
+      "source": "www.ndtv.com",
+      "description": "Prime Minister Narendra Modi's allegation - that former Prime Minister Rajiv Gandhi had used the Navy's aircraft carrier INS Viraat as a personal taxi for going on a family vacation - has been strongly rebutted by the Congress.",
+      "tags": [
+        "congress",
+        "pm modi prime minister narendra modi",
+        "rajiv gandhi",
+        "tax"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLWVsZWN0aW9ucy0yMDE5LWNv\nbmdyZXNzLXRlbGxzLXBtLW1vZGkteW91LW1hZGUtdGF4aXMtb2YtaWFmLWpldHMtcGF5aW5nLXJz\nLTc0NC0yMDM1Mjg5",
+      "short_url": "https://www.ndtv.com/india-news/general-elections-2019-congress-tells-pm-modi-you-made-taxis-of-iaf-jets-paying-rs-744-2035289",
+      "engagement": "0",
+      "popularity": "1170440",
+      "tw_tweets": "570",
+      "tw_reach": "727752",
+      "tw_favorites": "7",
+      "tw_retweets": "411781",
+      "tw_since_id": "1126942639666778113",
+      "fb_shares": "566",
+      "fb_comments": "628",
+      "fb_reactions": "1570",
+      "popularity_updated": "38",
+      "sentiment": "0",
+      "screen_name": "amir_gulzar007",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 17:25",
+      "timestamp_published": "1557415537",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "62"
+    },
+    {
+      "id": "417258",
+      "date_published": "2019-05-10 14:10:12",
+      "date_added": "2019-05-10 10:42:32",
+      "date_modified": "2019-05-10 10:52:22",
+      "title": "Sonia Gandhi's Italian family, whose names appeared in Bofors scam, were onboard INS Viraat",
+      "source": "www.opindia.com",
+      "description": "Prime Minister Narendra Modi stirred a Hornet's nest when recently, he mentioned Rajiv Gandhi's vacation onboard INS Viraat back in 1987 - Latest India News from Opindia.com",
+      "tags": [
+        "1987",
+        "india",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9leGNsdXNpdmUtdGhlLWJvZm9ycy1zY2Ft\nLWFuZ2xlLXRvLXJhaml2LWdhbmRoaXMtdmFjYXRpb24tb24tYm9hcmQtaW5zLXZpcmFhdC8=",
+      "short_url": "https://www.opindia.com/2019/05/exclusive-the-bofors-scam-angle-to-rajiv-gandhis-vacation-on-board-ins-viraat/",
+      "engagement": "0",
+      "popularity": "3916490",
+      "tw_tweets": "1140",
+      "tw_reach": "937222",
+      "tw_favorites": "1",
+      "tw_retweets": "2136892",
+      "tw_since_id": "1127004131866976256",
+      "fb_shares": "906",
+      "fb_comments": "297",
+      "fb_reactions": "1918",
+      "popularity_updated": "7",
+      "sentiment": "0",
+      "screen_name": "manojsirsa",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 14:10",
+      "timestamp_published": "1557490212",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "35"
+    },
+    {
+      "id": "417666",
+      "date_published": "2019-05-11 05:34:49",
+      "date_added": "2019-05-11 02:07:32",
+      "date_modified": "2019-05-11 02:07:32",
+      "title": "PM Modi drops bomb: ‘Give me 5 years, those who looted India will be in jail’",
+      "source": "www.mynation.com",
+      "description": "Without naming them, Narendra Modi promises to go after the scams of Sonia and Rahul Gandhi, Robert Vadra, the Chidambarams and others in election season’s biggest promise\n&nbsp;",
+      "tags": [
+        "miska humaloja",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3MvcG0tbW9kaS1kcm9wcy1ib21iLWdp\ndmUtbWUtNS15ZWFycy1zb25pYS1yYWh1bC1jaGlkYW1iYXJhbS13aG8tbG9vdGVkLWluZGlhLXdp\nbGwtYmUtaW4tamFpbC1wcmE0N28=",
+      "short_url": "https://www.mynation.com/india-news/pm-modi-drops-bomb-give-me-5-years-sonia-rahul-chidambaram-who-looted-india-will-be-in-jail-pra47o",
+      "engagement": "0",
+      "popularity": "2236690",
+      "tw_tweets": "776",
+      "tw_reach": "1282172",
+      "tw_favorites": "25",
+      "tw_retweets": "848998",
+      "tw_since_id": "1127235556579004416",
+      "fb_shares": "60",
+      "fb_comments": "37",
+      "fb_reactions": "240",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "ramadurai_arv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 05:34",
+      "timestamp_published": "1557545689",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "418424",
+      "date_published": "2019-05-12 11:00:23",
+      "date_added": "2019-05-12 07:32:43",
+      "date_modified": "2019-05-15 15:22:18",
+      "title": "Point by Point rebuttal to Time magazine article on Narendra Modi - PGurus",
+      "source": "www.pgurus.com",
+      "description": "Suffice to say, INDIA WILL WRITE IT'S OWN DESTINY, AND NOT THE WEST.",
+      "tags": [
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucGd1cnVzLmNvbS9wb2ludC1ieS1wb2ludC1yZWJ1dHRhbC10by10aW1lLW1h\nZ2F6aW5lLWFydGljbGUtb24tbmFyZW5kcmEtbW9kaS8=",
+      "short_url": "https://t.co/fvl74zZt4S",
+      "engagement": "0",
+      "popularity": "2024400",
+      "tw_tweets": "536",
+      "tw_reach": "1378458",
+      "tw_favorites": "93",
+      "tw_retweets": "647911",
+      "tw_since_id": "1128651419106594816",
+      "fb_shares": "2143",
+      "fb_comments": "522",
+      "fb_reactions": "5305",
+      "popularity_updated": "246",
+      "sentiment": "0",
+      "screen_name": "SomaVisal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 11:00",
+      "timestamp_published": "1557651623",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "271"
+    },
+    {
+      "id": "419264",
+      "date_published": "2019-05-13 17:45:22",
+      "date_added": "2019-05-13 14:17:20",
+      "date_modified": "2019-05-20 23:57:28",
+      "title": "Indian PM Narendra Modi mocked for claiming he used email in 1988",
+      "source": "gulfnews.com",
+      "description": "As Twitter users called out Modi again, we look at the most popular \"modi-isms\"",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9ndWxmbmV3cy5jb20vd29ybGQvYXNpYS9pbmRpYS9pbmRpYW4tcG0tbmFyZW5kcmEt\nbW9kaS1tb2NrZWQtZm9yLWNsYWltaW5nLWhlLXVzZWQtZW1haWwtaW4tMTk4OC0xLjYzOTE0Mzcx",
+      "short_url": "https://gn24.ae/8038211566c7000",
+      "engagement": "0",
+      "popularity": "1346500",
+      "tw_tweets": "425",
+      "tw_reach": "1154975",
+      "tw_favorites": "0",
+      "tw_retweets": "314881",
+      "tw_since_id": "1130592234565382144",
+      "fb_shares": "527",
+      "fb_comments": "567",
+      "fb_reactions": "2187",
+      "popularity_updated": "267",
+      "sentiment": "0",
+      "screen_name": "Misty4SRK",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 17:45",
+      "timestamp_published": "1557762322",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "286"
+    },
+    {
+      "id": "420091",
+      "date_published": "2019-05-14 20:00:30",
+      "date_added": "2019-05-14 16:32:13",
+      "date_modified": "2019-05-28 03:06:56",
+      "title": "Prime Minister Modi's comment on Radars and clouds were spot on. Here is how",
+      "source": "www.opindia.com",
+      "description": "PM Narendra Modi's statement when he said that he suggested going ahead with the Balakot strike on the original date, despite the cloudy weather, because the clouds would permit our aircraft to escape safely, is not wrong - Latest India News from Opindia.com",
+      "tags": [
+        "kyle anderson",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9mYWN0LWNoZWNrLXBtLW1vZGktY29tbWVu\ndC1jbG91ZC1oZWxwZWQtamV0cy10by1lc2NhcGUtc2FmZWx5LWR1cmluZy1iYWxha290LWFpcnN0\ncmlrZS1ub3Qtd3Jvbmcv",
+      "short_url": "https://www.opindia.com/2019/05/fact-check-pm-modi-comment-cloud-helped-jets-to-escape-safely-during-balakot-airstrike-not-wrong/",
+      "engagement": "0",
+      "popularity": "3642340",
+      "tw_tweets": "792",
+      "tw_reach": "1444486",
+      "tw_favorites": "14",
+      "tw_retweets": "1696335",
+      "tw_since_id": "1133176813776064512",
+      "fb_shares": "1360",
+      "fb_comments": "833",
+      "fb_reactions": "3789",
+      "popularity_updated": "59",
+      "sentiment": "0",
+      "screen_name": "rsrikanth05",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-05-2019 20:00",
+      "timestamp_published": "1557856830",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "81"
+    },
+    {
+      "id": "420780",
+      "date_published": "2019-05-15 19:49:59",
+      "date_added": "2019-05-15 16:22:05",
+      "date_modified": "2019-05-18 06:57:46",
+      "title": "Modi Still India’s Best Hope Despite Liberal Hostility - Lokmarg",
+      "source": "lokmarg.com",
+      "description": "The divisions in India did not start with Modi’s BJP, nor were created by him. These were crafted, nurtured and cynically exploited by the Congress",
+      "tags": [
+        "bjp",
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9sb2ttYXJnLmNvbS9tb2RpLXN0aWxsLWluZGlhcy1iZXN0LWhvcGUtZGVzcGl0ZS1s\naWJlcmFsLWhvc3RpbGl0eS8=",
+      "short_url": "https://lokmarg.com/modi-still-indias-best-hope-despite-liberal-hostility/",
+      "engagement": "0",
+      "popularity": "956086",
+      "tw_tweets": "490",
+      "tw_reach": "250512",
+      "tw_favorites": "65",
+      "tw_retweets": "510967",
+      "tw_since_id": "1129611381412515840",
+      "fb_shares": "106",
+      "fb_comments": "27",
+      "fb_reactions": "396",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "NarendarSingh52",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-05-2019 19:49",
+      "timestamp_published": "1557942599",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "421080",
+      "date_published": "2019-05-16 09:55:34",
+      "date_added": "2019-05-16 06:27:12",
+      "date_modified": "2019-05-18 22:07:18",
+      "title": "Mangal Pandey's kin back Modi govt, root for the saffron party",
+      "source": "www.opindia.com",
+      "description": "Fifth generation of Mangal Pandey roots for Modi government, backs BJP - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "india",
+        "mangal",
+        "mangal pandey",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW5nYWwtcGFuZGV5cy1mYW1pbHktcm9v\ndHMtZm9yLW5hcmVuZHJhLW1vZGktYXMtcG0tc2F5cy13ZS1hcmUtc2FmZS1pbi1pbmRpYS1iZWNh\ndXNlLW9mLW1vZGkv",
+      "short_url": "https://www.opindia.com/2019/05/mangal-pandeys-family-roots-for-narendra-modi-as-pm-says-we-are-safe-in-india-because-of-modi/",
+      "engagement": "0",
+      "popularity": "1428490",
+      "tw_tweets": "321",
+      "tw_reach": "870439",
+      "tw_favorites": "2",
+      "tw_retweets": "515295",
+      "tw_since_id": "1129840218096275456",
+      "fb_shares": "147",
+      "fb_comments": "5",
+      "fb_reactions": "911",
+      "popularity_updated": "210",
+      "sentiment": "0",
+      "screen_name": "sunnykhandpur",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 09:55",
+      "timestamp_published": "1557993334",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "232"
+    },
+    {
+      "id": "421811",
+      "date_published": "2019-05-17 11:00:19",
+      "date_added": "2019-05-17 07:32:28",
+      "date_modified": "2019-05-17 17:17:24",
+      "title": "Exclusive Interview | After Rajiv, Modi was first PM to get a blank cheque... he blew it: Rahul Gandhi",
+      "source": "www.newindianexpress.com",
+      "description": "In an exclusive interview to TNIE, the Congress chief says the entire Opposition shares the objective of seeing Modi defeated, and if the voters so decide, he will approach his task with humility.",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAxOS9tYXkvMTYvZXhjbHVz\naXZlLWludGVydmlldy0tYWZ0ZXItcmFqaXYtbW9kaS13YXMtZmlyc3QtcG0tdG8tZ2V0LWEtYmxh\nbmstY2hlcXVlLWhlLWJsZXctaXQtcmFodWwtZ2FuZGhpLTE5Nzc1MDguaHRtbA==",
+      "short_url": "http://www.newindianexpress.com/nation/2019/may/16/exclusive-interview--after-rajiv-modi-was-first-pm-to-get-a-blank-cheque-he-blew-it-rahul-gandhi-1977508.html",
+      "engagement": "0",
+      "popularity": "11802400",
+      "tw_tweets": "1625",
+      "tw_reach": "2909781",
+      "tw_favorites": "20",
+      "tw_retweets": "6411143",
+      "tw_since_id": "1129612731001200642",
+      "fb_shares": "109",
+      "fb_comments": "64",
+      "fb_reactions": "562",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "hasanbaita",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 11:00",
+      "timestamp_published": "1558083619",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "37"
+    },
+    {
+      "id": "422819",
+      "date_published": "2019-05-18 22:20:29",
+      "date_added": "2019-05-18 18:52:18",
+      "date_modified": "2019-05-19 03:47:43",
+      "title": "Man asks Rajdeep Sardesai to name one work done by Congress government in Kashi, he didn't have an answer - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Sardesai was telling people how Varanasi was a Congress bastion and that Modi government does more marketing and less work on the ground. - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "kashi",
+        "narendra modi",
+        "rajdeep sardesai"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW4tYXNrcy1yYWpkZWVwLXNhcmRlc2Fp\nLXRvLW5hbWUtb25lLXdvcmstZG9uZS1ieS1jb25ncmVzcy1nb3Zlcm5tZW50LWluLWthc2hpLWhl\nLWRpZG50LWhhdmUtYW4tYW5zd2VyLw==",
+      "short_url": "http://bit.ly/2YEeWXw",
+      "engagement": "0",
+      "popularity": "517510",
+      "tw_tweets": "175",
+      "tw_reach": "296755",
+      "tw_favorites": "2",
+      "tw_retweets": "191269",
+      "tw_since_id": "1129938074551455744",
+      "fb_shares": "611",
+      "fb_comments": "242",
+      "fb_reactions": "2615",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "SNKBHAT",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 22:20",
+      "timestamp_published": "1558210829",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "422938",
+      "date_published": "2019-05-19 04:48:54",
+      "date_added": "2019-05-19 01:22:17",
+      "date_modified": "2019-05-19 01:22:17",
+      "title": "Narendra Modi’s first press meet: No questions, please",
+      "source": "www.telegraphindia.com",
+      "description": "Thrice today at the BJP headquarters, journalists attempted to ask the Prime Minister questions directly",
+      "tags": [
+        "bjp",
+        "headquarters",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGVsZWdyYXBoaW5kaWEuY29tL2luZGlhL25hcmVuZHJhLW1vZGlzLWZpcnN0\nLXByZXNzLW1lZXQtbm8tcXVlc3Rpb25zLXBsZWFzZS9jaWQvMTY5MDcyNQ==",
+      "short_url": "https://www.telegraphindia.com/india/narendra-modis-first-press-meet-no-questions-please/cid/1690725",
+      "engagement": "0",
+      "popularity": "134251",
+      "tw_tweets": "117",
+      "tw_reach": "41884",
+      "tw_favorites": "1",
+      "tw_retweets": "67272",
+      "tw_since_id": "1130003832753156097",
+      "fb_shares": "146",
+      "fb_comments": "148",
+      "fb_reactions": "495",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "mape73",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 04:48",
+      "timestamp_published": "1558234134",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "423893",
+      "date_published": "2019-05-20 09:35:19",
+      "date_added": "2019-05-20 06:08:04",
+      "date_modified": "2019-05-21 11:28:14",
+      "title": "For Rs 990, you can spend a night at ‘Modi meditation cave’ in Kedarnath | Dehradun News - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "The highlight of the yet-to-be-named cave, situated 1.5 kilometre ahead of the shrine, however, is a small window that offers a spectacular view of th",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vY2l0eS9kZWhyYWR1bi9ub3ctYm9v\nay1rZWRhcm5hdGgtY2F2ZS13aGVyZS1wbS1tZWRpdGF0ZWQtZm9yLWp1c3QtcnMtOTkwLXBlci1u\naWdodC9hcnRpY2xlc2hvdy82OTQwMjM3OS5jbXM=",
+      "short_url": "http://bit.ly/30t9Cb0",
+      "engagement": "0",
+      "popularity": "9182680",
+      "tw_tweets": "347",
+      "tw_reach": "11905136",
+      "tw_favorites": "48",
+      "tw_retweets": "165464",
+      "tw_since_id": "1130766619968442368",
+      "fb_shares": "288",
+      "fb_comments": "293",
+      "fb_reactions": "1712",
+      "popularity_updated": "10",
+      "sentiment": "1",
+      "screen_name": "Gander_News_j2",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 09:35",
+      "timestamp_published": "1558337719",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "424718",
+      "date_published": "2019-05-21 07:15:02",
+      "date_added": "2019-05-21 03:47:12",
+      "date_modified": "2019-05-21 21:22:14",
+      "title": "Sought prompt action after Supreme Court frowned on delays: Ashok Lavasa",
+      "source": "indianexpress.com",
+      "description": "The Indian Express had first reported that Lavasa had, on five occasions, opposed clean chits given to Prime Minister Narendra Modi and BJP president Amit Shah on charges of violating the MCC during their campaign for the Lok Sabha polls.",
+      "tags": [
+        "amit shah",
+        "ashok lavasa",
+        "bjp",
+        "mcc",
+        "narendra modi",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYXNob2stbGF2YXNhLWVsZWN0aW9u\nLWNvbW1pc3Npb24tc3VwcmVtZS1jb3VydC1uYXJlbmRyYS1tb2RpLW1jYy12aW9sYXRpb24tNTcz\nOTQxMy8=",
+      "short_url": "https://indianexpress.com/elections/ashok-lavasa-election-commission-supreme-court-narendra-modi-mcc-violation-5739413/",
+      "engagement": "0",
+      "popularity": "7978270",
+      "tw_tweets": "421",
+      "tw_reach": "10291708",
+      "tw_favorites": "36",
+      "tw_retweets": "171125",
+      "tw_since_id": "1131026057711067136",
+      "fb_shares": "205",
+      "fb_comments": "133",
+      "fb_reactions": "689",
+      "popularity_updated": "22",
+      "sentiment": "0",
+      "screen_name": "decision2019",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 07:15",
+      "timestamp_published": "1558415702",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "46"
+    },
+    {
+      "id": "425467",
+      "date_published": "2019-05-22 11:20:00",
+      "date_added": "2019-05-22 07:52:38",
+      "date_modified": "2019-05-22 22:12:36",
+      "title": "In Visceral Modi Hatred, Opposition Is Willing To Destroy The Credibility Of  Election Commission",
+      "source": "swarajyamag.com",
+      "description": "The opposition is not serving the cause of democracy or its institutions by its repeated attacks on the EC.",
+      "tags": [
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vcG9saXRpY3MvaW4tdmlzY2VyYWwtbW9kaS1oYXRyZWQt\nb3Bwb3NpdGlvbi1pcy13aWxsaW5nLXRvLWRlc3Ryb3ktdGhlLWNyZWRpYmlsaXR5LW9mLWVsZWN0\naW9uLWNvbW1pc3Npb24=",
+      "short_url": "https://swarajyamag.com/politics/in-visceral-modi-hatred-opposition-is-willing-to-destroy-the-credibility-of-election-commission",
+      "engagement": "0",
+      "popularity": "449462",
+      "tw_tweets": "207",
+      "tw_reach": "467796",
+      "tw_favorites": "5",
+      "tw_retweets": "63861",
+      "tw_since_id": "1131322789573451777",
+      "fb_shares": "268",
+      "fb_comments": "179",
+      "fb_reactions": "694",
+      "popularity_updated": "8",
+      "sentiment": "-1",
+      "screen_name": "mrsubramani",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-05-2019 11:20",
+      "timestamp_published": "1558516800",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "426788",
+      "date_published": "2019-05-23 16:35:43",
+      "date_added": "2019-05-23 13:09:08",
+      "date_modified": "2019-05-25 00:22:28",
+      "title": "Nepal Prime Minister congratulates Modi for poll win",
+      "source": "english.mathrubhumi.com",
+      "description": "Kathmandu: Nepalese Prime Minister K P Sharma Oli on Thursday congratulated his Indian ..",
+      "tags": [
+        "narendra modi",
+        "nepalese prime minister k p sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9lbmdsaXNoLm1hdGhydWJodW1pLmNvbS9uZXdzL3dvcmxkL25lcGFsLXByaW1lLW1p\nbmlzdGVyLWNvbmdyYXR1bGF0ZXMtbW9kaS1mb3ItcG9sbC13aW4tMS4zODE2ODk4",
+      "short_url": "https://english.mathrubhumi.com/news/world/nepal-prime-minister-congratulates-modi-for-poll-win-1.3816898",
+      "engagement": "0",
+      "popularity": "253011",
+      "tw_tweets": "155",
+      "tw_reach": "59282",
+      "tw_favorites": "0",
+      "tw_retweets": "138871",
+      "tw_since_id": "1132048735247249415",
+      "fb_shares": "18",
+      "fb_comments": "1",
+      "fb_reactions": "20",
+      "popularity_updated": "72",
+      "sentiment": "0",
+      "screen_name": "AishwaryaSing15",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 16:35",
+      "timestamp_published": "1558622143",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "85"
+    },
+    {
+      "id": "427477",
+      "date_published": "2019-05-24 05:30:33",
+      "date_added": "2019-05-24 02:03:13",
+      "date_modified": "2019-05-24 02:03:14",
+      "title": "Statement by the Prime Minister of Canada on the results of the Indian general election",
+      "source": "pm.gc.ca",
+      "description": "“On behalf of the Government of Canada, I congratulate Prime Minister Narendra Modi on his re-election. Over 39 days of polling, a record number of Indian citizens cast their votes and more women voted than ever before in the world’s largest democracy.",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9wbS5nYy5jYS9lbmcvbmV3cy8yMDE5LzA1LzIzL3N0YXRlbWVudC1wcmltZS1taW5p\nc3Rlci1jYW5hZGEtcmVzdWx0cy1pbmRpYW4tZ2VuZXJhbC1lbGVjdGlvbg==",
+      "short_url": "https://pm.gc.ca/eng/news/2019/05/23/statement-prime-minister-canada-results-indian-general-election",
+      "engagement": "0",
+      "popularity": "1248790",
+      "tw_tweets": "467",
+      "tw_reach": "795126",
+      "tw_favorites": "16",
+      "tw_retweets": "434477",
+      "tw_since_id": "1131923806036025350",
+      "fb_shares": "22",
+      "fb_comments": "6",
+      "fb_reactions": "83",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "paballard",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 05:30",
+      "timestamp_published": "1558668633",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "13"
+    },
+    {
+      "id": "429280",
+      "date_published": "2019-05-25 20:25:45",
+      "date_added": "2019-05-25 16:57:47",
+      "date_modified": "2019-05-25 18:07:17",
+      "title": "Muslim family names newborn Narendra Modi",
+      "source": "www.khaleejtimes.com",
+      "description": "She stood her ground in face of expected opposition from her family.",
+      "tags": [
+        "muslim",
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cua2hhbGVlanRpbWVzLmNvbS9pbnRlcm5hdGlvbmFsL2luZGlhL211c2xpbS1m\nYW1pbHktbmFtZXMtbmV3Ym9ybi1uYXJlbmRyYS1tb2Rp",
+      "short_url": "https://www.khaleejtimes.com/international/india/muslim-family-names-newborn-narendra-modi",
+      "engagement": "0",
+      "popularity": "2659160",
+      "tw_tweets": "720",
+      "tw_reach": "1133704",
+      "tw_favorites": "310",
+      "tw_retweets": "1189141",
+      "tw_since_id": "1132554113135198210",
+      "fb_shares": "1097",
+      "fb_comments": "1443",
+      "fb_reactions": "8027",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "Vnarocks",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 20:25",
+      "timestamp_published": "1558808745",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "430021",
+      "date_published": "2019-05-26 19:05:45",
+      "date_added": "2019-05-26 15:38:34",
+      "date_modified": "2019-05-29 18:22:14",
+      "title": "BJP @BJP4India",
+      "source": "www.periscope.tv",
+      "description": "Public meeting at Ahmedabad, Gujarat. #Modi2Begins",
+      "tags": [
+        "ahmedabad",
+        " gujarat",
+        "bjp",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucGVyaXNjb3BlLnR2L3cvMVlxR29qd2JqZWxLdg==",
+      "short_url": "https://www.periscope.tv/w/1YqGojwbjelKv",
+      "engagement": "0",
+      "popularity": "1596080",
+      "tw_tweets": "249",
+      "tw_reach": "1806767",
+      "tw_favorites": "0",
+      "tw_retweets": "160505",
+      "tw_since_id": "1133769950705868800",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "93",
+      "sentiment": "0",
+      "screen_name": "pankajraaz112",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 19:05",
+      "timestamp_published": "1558890345",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "115"
+    },
+    {
+      "id": "430928",
+      "date_published": "2019-05-27 20:05:10",
+      "date_added": "2019-05-27 16:37:57",
+      "date_modified": "2019-05-29 09:48:06",
+      "title": "Leaders of BIMSTEC countries to attend Narendra Modi's oath-taking ceremony on Thursday, says sources - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "Like SAARC leaders last time, heads of government from neighbouring BIMSTEC countries are likely to attend the swearing-in ceremony of Prime Minister Narendra Modi for his second term on 30 May.",
+      "tags": [
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9pbmRpYS9sZWFkZXJzLW9mLWJpbXN0ZWMtY291bnRy\naWVzLXRvLWF0dGVuZC1uYXJlbmRyYS1tb2Rpcy1vYXRoLXRha2luZy1jZXJlbW9ueS1vbi10aHVy\nc2RheS1zYXlzLXNvdXJjZXMtNjcwOTg4MS5odG1s",
+      "short_url": "https://www.firstpost.com/india/leaders-of-bimstec-countries-to-attend-narendra-modis-oath-taking-ceremony-on-thursday-says-sources-6709881.html",
+      "engagement": "0",
+      "popularity": "169611",
+      "tw_tweets": "130",
+      "tw_reach": "125741",
+      "tw_favorites": "0",
+      "tw_retweets": "49745",
+      "tw_since_id": "1133640517684563968",
+      "fb_shares": "14",
+      "fb_comments": "16",
+      "fb_reactions": "216",
+      "popularity_updated": "78",
+      "sentiment": "0",
+      "screen_name": "Debajit75999352",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 20:05",
+      "timestamp_published": "1558980310",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "94"
+    },
+    {
+      "id": "431129",
+      "date_published": "2019-05-28 01:28:20",
+      "date_added": "2019-05-27 22:02:36",
+      "date_modified": "2019-05-28 06:27:19",
+      "title": "Meet ‘Odisha’s Modi’ Pratap Sarangi: Grassroot Worker Turned BJP MP Who Dedicated Life To Sanskrit, Uplifting Poor",
+      "source": "swarajyamag.com",
+      "description": "Sarangi, probably the only MP to speak fluent Sanskrit, lives in a kutcha house, uses a cycle for commute",
+      "tags": [
+        "bjp",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvbWVldC1vZGlzaGFzLW1vZGktcHJhdGFwLXNh\ncmFuZ2ktZ3Jhc3Nyb290LXdvcmtlci10dXJuZWQtYmpwLW1wLXdoby1kZWRpY2F0ZWQtbGlmZS10\nby1zYW5za3JpdC11cGxpZnRpbmctcG9vcg==",
+      "short_url": "https://swarajyamag.com/insta/meet-odishas-modi-pratap-sarangi-grassroot-worker-turned-bjp-mp-who-dedicated-life-to-sanskrit-uplifting-poor",
+      "engagement": "0",
+      "popularity": "423126",
+      "tw_tweets": "312",
+      "tw_reach": "147067",
+      "tw_favorites": "6",
+      "tw_retweets": "201073",
+      "tw_since_id": "1133237832749727744",
+      "fb_shares": "631",
+      "fb_comments": "76",
+      "fb_reactions": "4128",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "Add2getpositive",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 01:28",
+      "timestamp_published": "1558999700",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "432837",
+      "date_published": "2019-05-29 14:55:09",
+      "date_added": "2019-05-29 11:27:22",
+      "date_modified": "2019-05-30 03:37:31",
+      "title": "After Strong Opposition By Family, Mother Changes Baby’s Name From Narendra Modi To Mohammed Modi",
+      "source": "swarajyamag.com",
+      "description": "Muslim family has changed the name of their baby boy to Mohammed Altaf Alam Modi",
+      "tags": [
+        "alam",
+        "muslim",
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvYWZ0ZXItc3Ryb25nLW9wcG9zaXRpb24tYnkt\nZmFtaWx5LW1vdGhlci1jaGFuZ2VzLWJhYnlzLW5hbWUtZnJvbS1uYXJlbmRyYS1tb2RpLXRvLW1v\naGFtbWVkLW1vZGk=",
+      "short_url": "https://swarajyamag.com/insta/after-strong-opposition-by-family-mother-changes-babys-name-from-narendra-modi-to-mohammed-modi",
+      "engagement": "0",
+      "popularity": "203478",
+      "tw_tweets": "163",
+      "tw_reach": "152851",
+      "tw_favorites": "0",
+      "tw_retweets": "54257",
+      "tw_since_id": "1134025516590063616",
+      "fb_shares": "465",
+      "fb_comments": "291",
+      "fb_reactions": "2452",
+      "popularity_updated": "59",
+      "sentiment": "0",
+      "screen_name": "NiharikaSG",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 14:55",
+      "timestamp_published": "1559134509",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "72"
+    },
+    {
+      "id": "433387",
+      "date_published": "2019-05-30 01:34:41",
+      "date_added": "2019-05-29 22:06:32",
+      "date_modified": "2019-05-30 01:42:37",
+      "title": "Baby boy 'Narendra Modi' renamed as Mohammad Altaf Modi, mother claims community pressure",
+      "source": "www.opindia.com",
+      "description": "Mainaz Begum in UP's Wazirganj had stated that the child was born on 23 May, the day PM Modi won a second term, so she had named her child as Narendra Damodardas Modi. - Latest India News from Opindia.com",
+      "tags": [
+        "india",
+        "mohammad altaf",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tdXNsaW0tbW90aGVyLWNoYW5nZXMtY2hp\nbGRzLW5hbWUtZnJvbS1uYXJlbmRyYS1tb2RpLXRvLW1vaGFtbWVkLWFsdGFmLW1vZGktY2xhaW1z\nLXByZXNzdXJlLWZyb20tZmFtaWx5LWFuZC1jb21tdW5pdHkv",
+      "short_url": "https://www.opindia.com/2019/05/muslim-mother-changes-childs-name-from-narendra-modi-to-mohammed-altaf-modi-claims-pressure-from-family-and-community/",
+      "engagement": "0",
+      "popularity": "1524680",
+      "tw_tweets": "464",
+      "tw_reach": "674151",
+      "tw_favorites": "3",
+      "tw_retweets": "675821",
+      "tw_since_id": "1134085563135320066",
+      "fb_shares": "431",
+      "fb_comments": "204",
+      "fb_reactions": "1505",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "Andec_Tanker",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 01:34",
+      "timestamp_published": "1559172881",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "435132",
+      "date_published": "2019-05-31 23:00:11",
+      "date_added": "2019-05-31 19:32:13",
+      "date_modified": "2019-06-01 11:47:29",
+      "title": "At First Meeting Of Modi Cabinet 2.0, special scheme towards Livestock vaccination cleared - Republic World",
+      "source": "www.republicworld.com",
+      "description": "In the first Cabinet meeting after the allocation of portfolios, Prime Minister Modi's 2.0 government cleared a special scheme for Control of Foot and Mouth Disease (FMD) and Brucellosis common among livestock. ",
+      "tags": [
+        "livestock",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLW5ld3MvYXQt\nZmlyc3QtbWVldGluZy1vZi1tb2RpLWNhYmluZXQtMi1kb3QtMC1zcGVjaWFsLXNjaGVtZS10b3dh\ncmRzLWxpdmVzdG9jay12YWNjaW5hdGlvbi1jbGVhcmVk",
+      "short_url": "https://t.co/ZVaQtBoNF8",
+      "engagement": "0",
+      "popularity": "176708",
+      "tw_tweets": "98",
+      "tw_reach": "171504",
+      "tw_favorites": "0",
+      "tw_retweets": "30751",
+      "tw_since_id": "1134787763142684672",
+      "fb_shares": "69",
+      "fb_comments": "139",
+      "fb_reactions": "601",
+      "popularity_updated": "44",
+      "sentiment": "0",
+      "screen_name": "TaniyaSingh111",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 23:00",
+      "timestamp_published": "1559336411",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "64"
+    }
+  ],
+  "message": "OK"
+}

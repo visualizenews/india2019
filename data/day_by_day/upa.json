@@ -1,0 +1,3768 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=417819,401960,387085,393698,385576,426601,403043,390274,422191,416703,383128,433177,407256,397188,388267,402555,383807,406934,433614,415604,428396,405010,414869,418955,422819,394901,395847,424206,409178,392763,384712,390098,411054,424713,431627,408168,428621,391148,398897,405794,409873,413386,414640,418448,421529,417354,392627,399567,389292,378905,379915,398464,412067,434416,400917,430185,386057,419770,403654,423404,425637,396730,408623,420780,429777,376523,376767,379705,376415,412884",
+    "time": 1560434259,
+    "UTCDateTime": "2019-06-13T13:57:39+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "376415",
+      "date_published": "2019-03-23 18:25:33",
+      "date_added": "2019-03-23 13:56:27",
+      "date_modified": "2019-03-23 13:56:27",
+      "title": "With The Prospect Of A Tough Fight In Amethi, Rahul Gandhi Likely To Contest From Muslim-Dominated Wayanad Seat In Kerala ",
+      "source": "swarajyamag.com",
+      "description": "Both Kerala Congress chief M Ramachandran and former CM of Kerala Oomen Chandy have confirmed the development.",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "m. ramachandran",
+        "muslim"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvd2l0aC1hLXByb3NwZWN0LW9mLWEtdG91Z2gt\nZmlnaHQtaW4tYW1ldGhpLXJhaHVsLWdhbmRoaS1saWtlbHktdG8tY29udGVzdC1mcm9tLW11c2xp\nbS1kb21pbmF0ZWQtd2F5YW5hZC1zZWF0LWluLWtlcmFsYQ==",
+      "short_url": "https://swarajyamag.com/insta/with-a-prospect-of-a-tough-fight-in-amethi-rahul-gandhi-likely-to-contest-from-muslim-dominated-wayanad-seat-in-kerala",
+      "engagement": "0",
+      "popularity": "4323620",
+      "tw_tweets": "2350",
+      "tw_reach": "3948181",
+      "tw_favorites": "425",
+      "tw_retweets": "904335",
+      "tw_since_id": "1109769767450087424",
+      "fb_shares": "235",
+      "fb_comments": "206",
+      "fb_reactions": "961",
+      "popularity_updated": "0",
+      "sentiment": "0",
+      "screen_name": "nkumar_",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-03-2019 18:25",
+      "timestamp_published": "1553361933",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "51"
+    },
+    {
+      "id": "376523",
+      "date_published": "2019-03-24 11:50:25",
+      "date_added": "2019-03-24 07:21:37",
+      "date_modified": "2019-04-01 07:47:10",
+      "title": "Scared of losing Amethi, Rahul Gandhi to contest from Wayanad seat in Kerala",
+      "source": "www.organiser.org",
+      "description": "A few days ago, a senior Congress leader had commented that even a 'broom' fielded under Congress name can win from Wayanad",
+      "tags": [
+        "bikram singh majithia",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3JnYW5pc2VyLm9yZy9FbmN5Yy8yMDE5LzMvMjMvUmFodWwtR2FuZGhpLXRv\nLWNvbnRlc3QtZnJvbS1XYXlhbmFkLXNlYXQtaW4tS2VyYWxhLmh0bWw=",
+      "short_url": "https://www.organiser.org/Encyc/2019/3/23/Rahul-Gandhi-to-contest-from-Wayanad-seat-in-Kerala.html",
+      "engagement": "0",
+      "popularity": "3987500",
+      "tw_tweets": "2448",
+      "tw_reach": "2269007",
+      "tw_favorites": "1",
+      "tw_retweets": "1516741",
+      "tw_since_id": "1112591657331916800",
+      "fb_shares": "559",
+      "fb_comments": "389",
+      "fb_reactions": "2644",
+      "popularity_updated": "22",
+      "sentiment": "0",
+      "screen_name": "AjoyChatterjee",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-03-2019 11:50",
+      "timestamp_published": "1553424625",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "73"
+    },
+    {
+      "id": "376767",
+      "date_published": "2019-03-25 20:35:26",
+      "date_added": "2019-03-25 16:07:12",
+      "date_modified": "2019-03-27 08:37:02",
+      "title": "Rahul Gandhi wants to make India a disaster like Venezuela with Minimum Income Guarantee",
+      "source": "www.mynation.com",
+      "description": "Check how Congress president’s proposed Rs 72,000 dole for 5 crore families will wreak havoc on the economy and how Modi’s schemes are already strengthening poorest of the poor",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL3ZpZXdzL3JhaHVsLWdhbmRoaS13YW50cy1pbmRpYS1k\naXNhc3Rlci1saWtlLXZlbmV6dWVsYS1taW5pbXVtLWluY29tZS1ndWFyYW50ZWUtcG94ZmFx",
+      "short_url": "https://www.mynation.com/views/rahul-gandhi-wants-india-disaster-like-venezuela-minimum-income-guarantee-poxfaq",
+      "engagement": "0",
+      "popularity": "4645660",
+      "tw_tweets": "1528",
+      "tw_reach": "1821861",
+      "tw_favorites": "15",
+      "tw_retweets": "2184339",
+      "tw_since_id": "1110807184080887808",
+      "fb_shares": "212",
+      "fb_comments": "47",
+      "fb_reactions": "274",
+      "popularity_updated": "42",
+      "sentiment": "0",
+      "screen_name": "JajaborManas",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-03-2019 20:35",
+      "timestamp_published": "1553542526",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "71"
+    },
+    {
+      "id": "378905",
+      "date_published": "2019-03-26 22:30:29",
+      "date_added": "2019-03-26 18:02:31",
+      "date_modified": "2019-03-27 17:32:06",
+      "title": "Rahul Gandhi promises Rs.72000 per year for 20% of poorest families under Nyuntam Aay Yojana (NYAY) - Real Report",
+      "source": "realreport.in",
+      "description": "Congress President Rahul Gandhi on Monday promised Rs. 72,000 per year for the country's 20 per cent of poorest families.",
+      "tags": [
+        "bikram singh majithia",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9yZWFscmVwb3J0LmluL3JhaHVsLWdhbmRoaS1wcm9taXNlcy1ycy03MjAwMC1wZXIt\neWVhci1mb3ItMjAtb2YtcG9vcmVzdC1mYW1pbGllcy11bmRlci1taW5pbXVtLWluY29tZS1ndWFy\nYW50ZWUtc2NoZW1lLw==",
+      "short_url": "https://realreport.in/rahul-gandhi-promises-rs-72000-per-year-for-20-of-poorest-families-under-minimum-income-guarantee-scheme/",
+      "engagement": "0",
+      "popularity": "1871230",
+      "tw_tweets": "752",
+      "tw_reach": "1502039",
+      "tw_favorites": "37",
+      "tw_retweets": "495098",
+      "tw_since_id": "1110950183964033024",
+      "fb_shares": "79",
+      "fb_comments": "31",
+      "fb_reactions": "449",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "arulright",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-03-2019 22:30",
+      "timestamp_published": "1553635829",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "379705",
+      "date_published": "2019-03-27 23:10:37",
+      "date_added": "2019-03-27 18:42:07",
+      "date_modified": "2019-03-27 18:42:08",
+      "title": "Modi govt should get all the credit for Mission Shakti in the political battle over space war tech",
+      "source": "www.mynation.com",
+      "description": "ISRO never got too much of attention of the UPA government. During UPA era, ISRO’s budget hardly increased. From around Rs 4,000 crore in 2009 to Rs 5,500 crore in 2014. What is it seeking credit for?",
+      "tags": [
+        "narendra modi",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL3NlY3VyaXR5L21vZGktZ292dC1jcmVkaXQtbWlzc2lv\nbi1zaGFrdGktcG9saXRpY2FsLWJhdHRsZS1zcGFjZS13YXItdGVjaG5vbG9neS1wcDE1dXM=",
+      "short_url": "https://www.mynation.com/security/modi-govt-credit-mission-shakti-political-battle-space-war-technology-pp15us",
+      "engagement": "0",
+      "popularity": "2709210",
+      "tw_tweets": "1170",
+      "tw_reach": "2921532",
+      "tw_favorites": "277",
+      "tw_retweets": "344337",
+      "tw_since_id": "1111146681859485696",
+      "fb_shares": "21",
+      "fb_comments": "1",
+      "fb_reactions": "25",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "AModestIndian",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-03-2019 23:10",
+      "timestamp_published": "1553724637",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "379915",
+      "date_published": "2019-03-28 07:32:52",
+      "date_added": "2019-03-28 03:06:40",
+      "date_modified": "2019-03-28 03:06:41",
+      "title": "Congress claims credit for Mission Shakti, Congress era defence minister says he had no idea - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Congress politicians and Durbaris have gone overboard in their attempts to either downplay the monumental achievement or credit the Congress party for it. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9jb25ncmVzcy1jbGFpbXMtY3JlZGl0LWZv\nci1taXNzaW9uLXNoYWt0aS1jb25ncmVzcy1lcmEtZGVmZW5jZS1taW5pc3Rlci1zYXlzLWhlLWhh\nZC1uby1pZGVhLw==",
+      "short_url": "https://www.opindia.com/2019/03/congress-claims-credit-for-mission-shakti-congress-era-defence-minister-says-he-had-no-idea/",
+      "engagement": "0",
+      "popularity": "4855940",
+      "tw_tweets": "1644",
+      "tw_reach": "2028092",
+      "tw_favorites": "90",
+      "tw_retweets": "2218896",
+      "tw_since_id": "1111343365809831936",
+      "fb_shares": "508",
+      "fb_comments": "276",
+      "fb_reactions": "1316",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Chandrahaas_BJP",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-03-2019 07:32",
+      "timestamp_published": "1553754772",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "383128",
+      "date_published": "2019-03-29 17:29:02",
+      "date_added": "2019-03-29 13:02:25",
+      "date_modified": "2019-03-30 05:41:35",
+      "title": "Arshi Khan, who painted Pakistani flags on her semi-nude body, joins Congress - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Arshi Khan's pics with Pakistan flags were 'leaked' as per her publicist 'Flynn Remedios' who runs shady fake news, pro-Congress website - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "arshi khan",
+        "congress",
+        "india",
+        "pakistan",
+        "remedios varo"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9hcnNoaS1raGFuLXdoby1wYWludGVkLXBh\na2lzdGFuaS1mbGFncy1vbi1oZXItc2VtaS1udWRlLWJvZHktam9pbnMtY29uZ3Jlc3Mv",
+      "short_url": "https://www.opindia.com/2019/03/arshi-khan-who-painted-pakistani-flags-on-her-semi-nude-body-joins-congress/",
+      "engagement": "0",
+      "popularity": "1344860",
+      "tw_tweets": "382",
+      "tw_reach": "1085837",
+      "tw_favorites": "138",
+      "tw_retweets": "350066",
+      "tw_since_id": "1111858292773605376",
+      "fb_shares": "538",
+      "fb_comments": "283",
+      "fb_reactions": "1311",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "veekay122002",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-03-2019 17:29",
+      "timestamp_published": "1553876942",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "14"
+    },
+    {
+      "id": "383807",
+      "date_published": "2019-03-30 13:29:25",
+      "date_added": "2019-03-30 09:02:16",
+      "date_modified": "2019-04-04 07:11:54",
+      "title": "If Congress is voted to power, middle class to bear the brunt of Rahul Gandhi's minimum income guarantee scheme",
+      "source": "www.opindia.com",
+      "description": "Should Congress come to power and minimum income scheme is implemented, middle class will be the greatest sufferers - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "india",
+        "muhammad ali",
+        "opindia.com"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9hcy1jb25ncmVzcy1zdHJhdGVnaXN0cy1y\ndXNoLXRvLWV4cGxhaW4tcmFodWxzLWZyZWUtbW9uZXkteW9qYW5hLW1pZGRsZS1jbGFzcy1yZWFs\naXplcy1kYXJrLWRheXMtYWhlYWQv",
+      "short_url": "https://www.opindia.com/2019/03/as-congress-strategists-rush-to-explain-rahuls-free-money-yojana-middle-class-realizes-dark-days-ahead/",
+      "engagement": "0",
+      "popularity": "2110260",
+      "tw_tweets": "665",
+      "tw_reach": "1115459",
+      "tw_favorites": "0",
+      "tw_retweets": "842473",
+      "tw_since_id": "1113670035082498050",
+      "fb_shares": "1188",
+      "fb_comments": "482",
+      "fb_reactions": "2407",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "manishkumarlive",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-03-2019 13:29",
+      "timestamp_published": "1553948965",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "384712",
+      "date_published": "2019-03-31 16:45:41",
+      "date_added": "2019-03-31 13:17:06",
+      "date_modified": "2019-03-31 13:17:07",
+      "title": "Fact Check: This is the truth about the viral posts questioning Priyanka Gandhi’s religion",
+      "source": "www.indiatoday.in",
+      "description": "India Today’s Anti-Fake News War Room (AFWA) has found that at least one picture in the collage was photo-shopped. The others were taken from different political or religious events that Priyanka had attended.",
+      "tags": [
+        "priyanka gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9mYWN0LWNoZWNrL3N0b3J5L2ZhY3QtY2hlY2stdmly\nYWwtcG9zdHMtcHJpeWFua2EtZ2FuZGhpLXJlbGlnaW9uLTE0OTA0MTMtMjAxOS0wMy0zMQ==",
+      "short_url": "https://www.indiatoday.in/fact-check/story/fact-check-viral-posts-priyanka-gandhi-religion-1490413-2019-03-31",
+      "engagement": "0",
+      "popularity": "10438100",
+      "tw_tweets": "1318",
+      "tw_reach": "11993373",
+      "tw_favorites": "415",
+      "tw_retweets": "957704",
+      "tw_since_id": "1112420466323582976",
+      "fb_shares": "182",
+      "fb_comments": "626",
+      "fb_reactions": "1244",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "AkashRana_INC",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-03-2019 16:45",
+      "timestamp_published": "1554043541",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "385576",
+      "date_published": "2019-04-01 16:09:55",
+      "date_added": "2019-04-01 12:41:48",
+      "date_modified": "2019-04-01 12:41:49",
+      "title": "Facebook says removed pages linked to Congress party ahead of polls",
+      "source": "in.reuters.com",
+      "description": "Facebook Inc said on Monday it was removing 687 pages and accounts linked to Ind...",
+      "tags": [
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbi5yZXV0ZXJzLmNvbS9hcnRpY2xlL2ZhY2Vib29rLWFjY291bnRzLWluZGlhL2Zh\nY2Vib29rLXNheXMtcmVtb3ZlZC1wYWdlcy1saW5rZWQtdG8tY29uZ3Jlc3MtcGFydHktYWhlYWQt\nb2YtcG9sbHMtaWRJTktDTjFSRDFSMg==",
+      "short_url": "https://in.reuters.com/article/facebook-accounts-india/facebook-says-removed-pages-linked-to-congress-party-ahead-of-polls-idINKCN1RD1R2",
+      "engagement": "0",
+      "popularity": "4265830",
+      "tw_tweets": "1406",
+      "tw_reach": "3051164",
+      "tw_favorites": "0",
+      "tw_retweets": "1315950",
+      "tw_since_id": "1112895553808027650",
+      "fb_shares": "234",
+      "fb_comments": "160",
+      "fb_reactions": "532",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Kumar_VinodR",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-04-2019 16:09",
+      "timestamp_published": "1554127795",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "386057",
+      "date_published": "2019-04-02 07:30:00",
+      "date_added": "2019-04-02 04:01:51",
+      "date_modified": "2019-04-18 03:47:22",
+      "title": "'Journalist' Rajdeep Sardesai shamelessly twists PM Modi's comment on Congress' 'Hindu terror' bogey - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rajdeep Sardesai, the \"journalist\" who had once said that the Parliament attack back in 2000 actually \"excited him\" took to Twitter to shamelessly twist PM Narendra Modi's statement. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "congress",
+        "hindu terror",
+        "journalist",
+        "lil twist",
+        "narendra modi",
+        "parliament",
+        "rajdeep sardesai"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9qb3VybmFsaXN0LXJhamRlZXAtc2FyZGVz\nYWktc2hhbWVsZXNzbHktdHdpc3RzLXBtLW1vZGlzLWNvbW1lbnQtb24tY29uZ3Jlc3MtaGluZHUt\ndGVycm9yLWJvZ2V5Lw==",
+      "short_url": "https://goo.gl/C6WDGr",
+      "engagement": "0",
+      "popularity": "4763880",
+      "tw_tweets": "916",
+      "tw_reach": "2278048",
+      "tw_favorites": "26",
+      "tw_retweets": "2033779",
+      "tw_since_id": "1118691838297354241",
+      "fb_shares": "364",
+      "fb_comments": "301",
+      "fb_reactions": "961",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-04-2019 07:30",
+      "timestamp_published": "1554183000",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "19"
+    },
+    {
+      "id": "387085",
+      "date_published": "2019-04-03 11:28:05",
+      "date_added": "2019-04-03 08:01:38",
+      "date_modified": "2019-04-03 14:47:00",
+      "title": "Smriti Irani's bindi gets bigger as she changes husbands: Congress ally Jaydeep Kawade's sexist jibe",
+      "source": "www.indiatoday.in",
+      "description": "Congress ally and PRP leader Jaydeep Kawade has come up with a theory that Smriti Irani's big bindi is directly proportional to the number of husbands she has changed.",
+      "tags": [
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nc21yaXRpLWlyYW5pLWpheWRlZXAta2F3YWRlLXNleGlzdC1iaW5kaS1jb21tZW50LTE0OTE5MzQt\nMjAxOS0wNC0wMg==",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/smriti-irani-jaydeep-kawade-sexist-bindi-comment-1491934-2019-04-02",
+      "engagement": "0",
+      "popularity": "2697330",
+      "tw_tweets": "280",
+      "tw_reach": "3171465",
+      "tw_favorites": "80",
+      "tw_retweets": "210774",
+      "tw_since_id": "1113695969869160449",
+      "fb_shares": "56",
+      "fb_comments": "202",
+      "fb_reactions": "701",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "IndiaMeToo",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-04-2019 11:28",
+      "timestamp_published": "1554283685",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "388267",
+      "date_published": "2019-04-04 19:10:45",
+      "date_added": "2019-04-04 15:42:29",
+      "date_modified": "2019-04-06 05:17:13",
+      "title": "Fact Check: Congress and its IT cell head use images from UPA era to attack PM Modi - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Divya Spandana, Social Media head of the Congress party, recently shared a video on Twitter where she claimed that Prime Minister Modi has 'ruined' the country in 5 years. The 2-minute video is a compilation of images and texts run through the screen at a rapid pace. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "congress",
+        "divya spandana",
+        "narendra modi",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9mYWN0LWNoZWNrLWNvbmdyZXNzLWFuZC1p\ndHMtaXQtY2VsbC1oZWFkLXVzZS1pbWFnZXMtZnJvbS11cGEtZXJhLXRvLWF0dGFjay1wbS1tb2Rp\nLw==",
+      "short_url": "https://www.opindia.com/2019/04/fact-check-congress-and-its-it-cell-head-use-images-from-upa-era-to-attack-pm-modi/",
+      "engagement": "0",
+      "popularity": "924619",
+      "tw_tweets": "361",
+      "tw_reach": "1051228",
+      "tw_favorites": "261",
+      "tw_retweets": "89291",
+      "tw_since_id": "1114365961115582464",
+      "fb_shares": "216",
+      "fb_comments": "51",
+      "fb_reactions": "456",
+      "popularity_updated": "86",
+      "sentiment": "-1",
+      "screen_name": "sickularhunter",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-04-2019 19:10",
+      "timestamp_published": "1554397845",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "104"
+    },
+    {
+      "id": "389292",
+      "date_published": "2019-04-05 23:35:27",
+      "date_added": "2019-04-05 20:07:16",
+      "date_modified": "2019-04-07 02:16:57",
+      "title": "Priyanka Gandhi: 'PM Modi unable to list even one achievement of his rule'",
+      "source": "www.abplive.in",
+      "description": "Congress leader Priyanka Gandhi Vadra on Friday hit out at Prime Minister Narendra Modi, saying he should tell the country what he did in the last five years instead of seeking an account of the work done by former prime ministers Jawaharlal Nehru and Indira Gandhi.",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "priyanka gandhi",
+        "priyanka gandhi vadra"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9sb2stc2FiaGEtZWxlY3Rpb25zLXBtLW1v\nZGktdW5hYmxlLXRvLWxpc3QtZXZlbi1vbmUtYWNoaWV2ZW1lbnQtb2YtaGlzLXJ1bGUtc2F5cy1w\ncml5YW5rYS1nYW5kaGktOTU4Njgx",
+      "short_url": "https://www.abplive.in/election/lok-sabha-elections-pm-modi-unable-to-list-even-one-achievement-of-his-rule-says-priyanka-gandhi-958681",
+      "engagement": "0",
+      "popularity": "119467",
+      "tw_tweets": "133",
+      "tw_reach": "93578",
+      "tw_favorites": "0",
+      "tw_retweets": "32737",
+      "tw_since_id": "1114682172017971200",
+      "fb_shares": "12",
+      "fb_comments": "0",
+      "fb_reactions": "8",
+      "popularity_updated": "94",
+      "sentiment": "0",
+      "screen_name": "mickymalhotra",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-04-2019 23:35",
+      "timestamp_published": "1554500127",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "108"
+    },
+    {
+      "id": "390098",
+      "date_published": "2019-04-06 23:05:44",
+      "date_added": "2019-04-06 19:37:02",
+      "date_modified": "2019-04-08 06:02:20",
+      "title": "Congress leader Nagma caught spreading fake image to peddle anti-Modi agenda",
+      "source": "www.opindia.com",
+      "description": "With first phase of voting just a few days away, it is shocking that Congress leaders indulge in sharing morphed images - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "nagma",
+        "narendra modi",
+        "opindia.com"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9uYWdtYS1tb3JhcmppLWNvbmdyZXNzLWZh\na2UtaW1hZ2UtcGhvdG9zaG9wLXNhbWJpdC1wYXRyYS8=",
+      "short_url": "https://t.co/NuKGYIiZbH",
+      "engagement": "0",
+      "popularity": "1231320",
+      "tw_tweets": "374",
+      "tw_reach": "972607",
+      "tw_favorites": "28",
+      "tw_retweets": "332083",
+      "tw_since_id": "1115102147815694336",
+      "fb_shares": "361",
+      "fb_comments": "125",
+      "fb_reactions": "983",
+      "popularity_updated": "200",
+      "sentiment": "-1",
+      "screen_name": "arijitdas2603",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-04-2019 23:05",
+      "timestamp_published": "1554584744",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "223"
+    },
+    {
+      "id": "390274",
+      "date_published": "2019-04-07 04:56:44",
+      "date_added": "2019-04-07 01:31:51",
+      "date_modified": "2019-04-18 06:13:00",
+      "title": "Across the aisle: Congress manifesto takes battle to BJP",
+      "source": "indianexpress.com",
+      "description": "The BJP has not released its manifesto yet. The first phase of polling is on April 11, barely four days from Sunday. I suspect that the BJP is revising its draft manifesto hurriedly to counter the Congress’s. That is good. Let the BJP engage in a battle of ideas.",
+      "tags": [
+        "aythami artiles",
+        "bjp",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL29waW5pb24vY29sdW1ucy9hY3Jvc3Mt\ndGhlLWFpc2xlLWNvbmdyZXNzLW1hbmlmZXN0by10YWtlcy1iYXR0bGUtdG8tYmpwLWxvay1zYWJo\nYS1lbGVjdGlvbnMtMjAxOS01NjYyNzY4Lw==",
+      "short_url": "http://bit.ly/2WNUh23",
+      "engagement": "0",
+      "popularity": "928646",
+      "tw_tweets": "424",
+      "tw_reach": "739090",
+      "tw_favorites": "3",
+      "tw_retweets": "248650",
+      "tw_since_id": "1118728496258273280",
+      "fb_shares": "50",
+      "fb_comments": "98",
+      "fb_reactions": "253",
+      "popularity_updated": "319",
+      "sentiment": "0",
+      "screen_name": "EditorialBOT",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-04-2019 04:56",
+      "timestamp_published": "1554605804",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "345"
+    },
+    {
+      "id": "391148",
+      "date_published": "2019-04-08 11:40:44",
+      "date_added": "2019-04-08 08:13:03",
+      "date_modified": "2019-04-09 21:32:00",
+      "title": "NYAY: Why the math doesn’t add up",
+      "source": "www.dailyo.in",
+      "description": "Congress leaders, including loquacious P Chidamabarm, have been careful to be as vague about the details of NYAY as possible in the party’s manifesto.",
+      "tags": [
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL3BvbGl0aWNzL255YXktbG9rLXNhYmhhLWVsZWN0aW9ucy0y\nMDE5LXJhaHVsLWdhbmRoaS1uYXJlbmRyYS1tb2RpLXdoeS10aGUtbWF0aC1kb2VzbnQtYWRkLXVw\nL3N0b3J5LzEvMzAyMzMuaHRtbA==",
+      "short_url": "http://ow.ly/DEaR50pu1N1",
+      "engagement": "0",
+      "popularity": "21103500",
+      "tw_tweets": "724",
+      "tw_reach": "27134870",
+      "tw_favorites": "0",
+      "tw_retweets": "500177",
+      "tw_since_id": "1115698434399510528",
+      "fb_shares": "133",
+      "fb_comments": "93",
+      "fb_reactions": "380",
+      "popularity_updated": "36",
+      "sentiment": "0",
+      "screen_name": "IndiaToday",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-04-2019 11:40",
+      "timestamp_published": "1554716444",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "61"
+    },
+    {
+      "id": "392627",
+      "date_published": "2019-04-09 22:15:15",
+      "date_added": "2019-04-09 18:47:11",
+      "date_modified": "2019-04-09 18:47:12",
+      "title": "WATCH- Explosive revelation by Congress, says Rs 3 lakh crore were printed abroad and brought in planes to Hindon air base after demonetisation - Janta Ka Reporter 2.0",
+      "source": "www.jantakareporter.com",
+      "description": "Congress on Tuesday claimed that Rs 3 lakh crore were printed abroad immediately after the demonetisation and brought in planes to Delhi's Hindon air base",
+      "tags": [
+        "congress",
+        "demonetisation",
+        "hindon"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5qYW50YWthcmVwb3J0ZXIuY29tL2luZGlhL3dhdGNoLWV4cGxvc2l2ZS1yZXZl\nbGF0aW9uLWJ5LWNvbmdyZXNzLXNheXMtcnMtMy1sYWtoLWNyb3JlLXdlcmUtcHJpbnRlZC1hYnJv\nYWQtYW5kLWJyb3VnaHQtaW4tcGxhbmVzLXRvLWhpbmRvbi1haXItYmFzZS1hdC1hbWl0LXNoYWhz\nLWluc3RydWN0aW9ucy8yNDExMDMv",
+      "short_url": "http://www.jantakareporter.com/india/watch-explosive-revelation-by-congress-says-rs-3-lakh-crore-were-printed-abroad-and-brought-in-planes-to-hindon-air-base-at-amit-shahs-instructions/241103/",
+      "engagement": "0",
+      "popularity": "1714330",
+      "tw_tweets": "745",
+      "tw_reach": "1971465",
+      "tw_favorites": "312",
+      "tw_retweets": "151579",
+      "tw_since_id": "1115846492818944000",
+      "fb_shares": "972",
+      "fb_comments": "156",
+      "fb_reactions": "2101",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "rahulbasu",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-04-2019 22:15",
+      "timestamp_published": "1554840915",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "17"
+    },
+    {
+      "id": "392763",
+      "date_published": "2019-04-10 02:14:32",
+      "date_added": "2019-04-09 22:47:14",
+      "date_modified": "2019-04-12 01:27:17",
+      "title": "BJP election win will boost chances of Pak-India talks: Imran | The Express Tribune",
+      "source": "tribune.com.pk",
+      "description": "PM says Congress may be too scared to seek a settlement over IoK fearing backlash from the right",
+      "tags": [
+        "abu talib ibn ‘abd al-muttalib",
+        "bjp",
+        "congress",
+        "india",
+        "pakistan"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90cmlidW5lLmNvbS5way9zdG9yeS8xOTQ2ODMzLzEtcG0taW1yYW4tc2F5cy1wZWFj\nZS10YWxrcy1pbmRpYS1saWtlbHktbW9kaS13aW5zLWVsZWN0aW9uLw==",
+      "short_url": "https://tribune.com.pk/story/1946833/1-pm-imran-says-peace-talks-india-likely-modi-wins-election/",
+      "engagement": "0",
+      "popularity": "1148690",
+      "tw_tweets": "607",
+      "tw_reach": "1103165",
+      "tw_favorites": "13",
+      "tw_retweets": "212750",
+      "tw_since_id": "1116481416865435653",
+      "fb_shares": "108",
+      "fb_comments": "150",
+      "fb_reactions": "422",
+      "popularity_updated": "64",
+      "sentiment": "0",
+      "screen_name": "KarachiScribes",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-04-2019 02:14",
+      "timestamp_published": "1554855272",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "84"
+    },
+    {
+      "id": "393698",
+      "date_published": "2019-04-11 00:35:38",
+      "date_added": "2019-04-10 21:07:14",
+      "date_modified": "2019-04-11 10:17:01",
+      "title": "Former Congress leader PC George joins Kerala NDA in big boost for BJP",
+      "source": "www.indiatoday.in",
+      "description": "Former Congress leader and now an Independent MLA PC George has crossed over to support the NDA in the upcoming Lok Sabha elections.",
+      "tags": [
+        "bjp",
+        "congress",
+        "george vi",
+        "nda"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\ncGMtZ2VvcmdlLWpvaW5zLWtlcmFsYS1uZGEtMTQ5ODc5OS0yMDE5LTA0LTEw",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/pc-george-joins-kerala-nda-1498799-2019-04-10",
+      "engagement": "0",
+      "popularity": "1376820",
+      "tw_tweets": "803",
+      "tw_reach": "714723",
+      "tw_favorites": "10",
+      "tw_retweets": "550914",
+      "tw_since_id": "1116269169455042560",
+      "fb_shares": "712",
+      "fb_comments": "699",
+      "fb_reactions": "4553",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "shriparv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-04-2019 00:35",
+      "timestamp_published": "1554935738",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "394901",
+      "date_published": "2019-04-12 14:18:52",
+      "date_added": "2019-04-12 10:51:50",
+      "date_modified": "2019-04-16 03:02:28",
+      "title": "Some Army veterans deny supporting letter that Congress shared to target Modi govt, term it 'fake news'",
+      "source": "www.opindia.com",
+      "description": "Several army veterans have refused signing any such letter about the politicisation of the Indian Army, say consent was never taken and brand it 'fake news' - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9hcm15LXZldGVyYW4tZGVueS13cml0aW5n\nLWxldHRlci1hYm91dC1wb2xpdGljaXNhdGlvbi1vZi1hcm1lZC1mb3JjZWQtdGhhdC1jb25ncmVz\ncy1zaGFyZWQtdG8tdGFyZ2V0LXBtLW1vZGkv",
+      "short_url": "https://www.opindia.com/2019/04/army-veteran-deny-writing-letter-about-politicisation-of-armed-forced-that-congress-shared-to-target-pm-modi/",
+      "engagement": "0",
+      "popularity": "446353",
+      "tw_tweets": "279",
+      "tw_reach": "234696",
+      "tw_favorites": "6",
+      "tw_retweets": "178982",
+      "tw_since_id": "1117955886226595840",
+      "fb_shares": "184",
+      "fb_comments": "46",
+      "fb_reactions": "464",
+      "popularity_updated": "28",
+      "sentiment": "0",
+      "screen_name": "KaushalyaAmrita",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-04-2019 14:18",
+      "timestamp_published": "1555071532",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "49"
+    },
+    {
+      "id": "395847",
+      "date_published": "2019-04-13 16:00:42",
+      "date_added": "2019-04-13 12:32:31",
+      "date_modified": "2019-04-19 02:17:09",
+      "title": "Modi Government \"Most Corrupt\" In History Of India: Prithviraj Chavan",
+      "source": "www.ndtv.com",
+      "description": "Senior Congress leader Prithviraj Chavan has attacked the Narendra Modi government, calling it the \"most corrupt\" in the history of India, and said its performance has been \"abysmal and deplorable\".",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi",
+        "prithviraj chavan"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWVsZWN0aW9ucy1tb2Rp\nLWdvdmVybm1lbnQtbW9zdC1jb3JydXB0LWluLWhpc3Rvcnktb2YtaW5kaWEtcHJpdGh2aXJhai1j\naGF2YW4tMjAyMjU2MA==",
+      "short_url": "https://www.ndtv.com/india-news/lok-sabha-eelections-modi-government-most-corrupt-in-history-of-india-prithviraj-chavan-2022560",
+      "engagement": "0",
+      "popularity": "53288.8",
+      "tw_tweets": "95",
+      "tw_reach": "49104",
+      "tw_favorites": "0",
+      "tw_retweets": "8570",
+      "tw_since_id": "1119031311199625216",
+      "fb_shares": "131",
+      "fb_comments": "300",
+      "fb_reactions": "1096",
+      "popularity_updated": "52",
+      "sentiment": "-1",
+      "screen_name": "DhanadaKanta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-04-2019 16:00",
+      "timestamp_published": "1555164042",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "78"
+    },
+    {
+      "id": "396730",
+      "date_published": "2019-04-14 22:25:35",
+      "date_added": "2019-04-14 18:57:04",
+      "date_modified": "2019-04-16 06:47:12",
+      "title": "75-year-old Narendra Modi fan killed by Congress-DMK supporter in Tamil Nadu - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Govindarajan was attacked by Congress-DMK supporter Gopinath when he was campaigning for Modi - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC83NS15ZWFyLW9sZC1uYXJlbmRyYS1tb2Rp\nLWZhbi1raWxsZWQtYnktY29uZ3Jlc3MtZG1rLXN1cHBvcnRlci1pbi10YW1pbC1uYWR1Lw==",
+      "short_url": "http://bit.ly/2P6xH1W",
+      "engagement": "0",
+      "popularity": "1709570",
+      "tw_tweets": "574",
+      "tw_reach": "728811",
+      "tw_favorites": "22",
+      "tw_retweets": "765400",
+      "tw_since_id": "1118012492846776320",
+      "fb_shares": "1532",
+      "fb_comments": "404",
+      "fb_reactions": "4360",
+      "popularity_updated": "334",
+      "sentiment": "0",
+      "screen_name": "mikichill",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-04-2019 22:25",
+      "timestamp_published": "1555273535",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "359"
+    },
+    {
+      "id": "397188",
+      "date_published": "2019-04-15 12:39:56",
+      "date_added": "2019-04-15 09:12:27",
+      "date_modified": "2019-04-15 09:12:27",
+      "title": "Congress ‘Nyay’ scheme recipe for scam, may burst like balloon: Piyush Goyal",
+      "source": "www.hindustantimes.com",
+      "description": "Attacking the opposition party, the Minister of Railways and Coal said the Congress still seems to be in its old mindset where they believed mere slogans can help them “fool the people”, but they should know that people now cannot be fooled by fancy slogans.",
+      "tags": [
+        "congress",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvY29uZ3Jl\nc3MtbnlheS1zY2hlbWUtcmVjaXBlLWZvci1zY2FtLW1heS1idXJzdC1saWtlLWJhbGxvb24tcGl5\ndXNoLWdveWFsL3N0b3J5LVJLeUd0N29RWnhZQ2ZCVGhudll3OUsuaHRtbA==",
+      "short_url": "https://www.hindustantimes.com/lok-sabha-elections/congress-nyay-scheme-recipe-for-scam-may-burst-like-balloon-piyush-goyal/story-RKyGt7oQZxYCfBThnvYw9K.html",
+      "engagement": "0",
+      "popularity": "1445440",
+      "tw_tweets": "1278",
+      "tw_reach": "464174",
+      "tw_favorites": "0",
+      "tw_retweets": "727451",
+      "tw_since_id": "1117703190990995456",
+      "fb_shares": "194",
+      "fb_comments": "200",
+      "fb_reactions": "1742",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "jaishukla69_BJP",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-04-2019 12:39",
+      "timestamp_published": "1555324796",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "398464",
+      "date_published": "2019-04-16 18:25:17",
+      "date_added": "2019-04-16 14:57:16",
+      "date_modified": "2019-04-18 01:42:29",
+      "title": "'Muslims should unite and vote for Congress to decimate Modi' : Congress leader Navjot Singh Sidhu - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Navjot Singh Sidhu direct appeal to Muslims comes days after Mayawati made a similar pitch in Uttar Pradesh’s Deoband and paid with consequences. The Model Code of Conduct bars candidates from seeking votes on communal or religious lines.  - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "deoband",
+        "mayawati",
+        "muslims",
+        "narendra modi",
+        "navjot singh sidhu",
+        "uttar pradesh’s"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9tdXNsaW1zLXNob3VsZC11bml0ZS1hbmQt\ndm90ZS1mb3ItY29uZ3Jlc3MtdG8tZGVjaW1hdGUtbW9kaS1jb25ncmVzcy1sZWFkZXItbmF2am90\nLXNpbmdoLXNpZGh1Lw==",
+      "short_url": "http://bit.ly/2Io4AXk",
+      "engagement": "0",
+      "popularity": "67801",
+      "tw_tweets": "97",
+      "tw_reach": "65187",
+      "tw_favorites": "3",
+      "tw_retweets": "9219",
+      "tw_since_id": "1118659925117415424",
+      "fb_shares": "317",
+      "fb_comments": "660",
+      "fb_reactions": "1164",
+      "popularity_updated": "28",
+      "sentiment": "0",
+      "screen_name": "rajesh_v_rajan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-04-2019 18:25",
+      "timestamp_published": "1555431917",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "45"
+    },
+    {
+      "id": "398897",
+      "date_published": "2019-04-17 09:39:59",
+      "date_added": "2019-04-17 06:12:19",
+      "date_modified": "2019-04-17 06:12:19",
+      "title": "Congress is minus leadership: Piyush Goyal",
+      "source": "www.dnaindia.com",
+      "description": "Congress is minus leadership: Piyush Goyal - BJP's poll strategy is the welfare of every single voter",
+      "tags": [
+        "bjp",
+        "congress",
+        "piyush goyal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZG5haW5kaWEuY29tL2luZGlhL2ludGVydmlldy1jb25ncmVzcy1pcy1taW51\ncy1sZWFkZXJzaGlwLXBpeXVzaC1nb3lhbC0yNzQwMzgz",
+      "short_url": "http://dnai.in/g4CZ",
+      "engagement": "0",
+      "popularity": "1694260",
+      "tw_tweets": "1312",
+      "tw_reach": "1265478",
+      "tw_favorites": "1",
+      "tw_retweets": "495805",
+      "tw_since_id": "1118518495174692864",
+      "fb_shares": "11",
+      "fb_comments": "3",
+      "fb_reactions": "45",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "TMSEBASTIAN1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-04-2019 09:39",
+      "timestamp_published": "1555486799",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "399567",
+      "date_published": "2019-04-18 05:06:10",
+      "date_added": "2019-04-18 01:42:04",
+      "date_modified": "2019-04-19 01:17:01",
+      "title": "'Liberals' have a meltdown after BJP announces Sadhvi Pragya's candidature",
+      "source": "www.opindia.com",
+      "description": "Sadhvi Pragya has been pitted against Congress' Digvijay Singh. Digvijay Singh is the very politician who proudly launched the book '26/11 - RSS ki Saazish' and has often furthered the 'Hindu Terror' narrative that has been summarily debunked many times. - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "charanjit singh",
+        "congress",
+        "digvijay",
+        "hindu terror",
+        "mohammad salim al-awa",
+        "rss"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9zYWRodmktcHJhZ3lhLXRvLWpvaW5zLWJq\ncC10by1jb250ZXN0LWZyb20tYmhvcGFsLWxpYmVyYWxzLWhhdmUtYS1tZWx0ZG93bi8=",
+      "short_url": "https://www.opindia.com/2019/04/they-lied-and-concocted-hindu-terror-they-jailed-and-tortured-her-now-they-rain-hate-on-her-for-contesting-2019-elections/",
+      "engagement": "0",
+      "popularity": "378356",
+      "tw_tweets": "145",
+      "tw_reach": "220913",
+      "tw_favorites": "0",
+      "tw_retweets": "136196",
+      "tw_since_id": "1119015375755251713",
+      "fb_shares": "477",
+      "fb_comments": "251",
+      "fb_reactions": "2903",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "greenfpoa",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-04-2019 05:06",
+      "timestamp_published": "1555556770",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "16"
+    },
+    {
+      "id": "400917",
+      "date_published": "2019-04-19 20:40:32",
+      "date_added": "2019-04-19 17:12:16",
+      "date_modified": "2019-04-20 03:57:03",
+      "title": "Here is what RVS Mani, bureaucrat of Congress era, has to say about Hemant Karkare and his involvement in 'Saffron terror' narrative - Opindia News",
+      "source": "www.opindia.com",
+      "description": "With reference to Hemant Karkare, RVS Mani makes some startling revelations in his book. - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "hemant karkare",
+        "india",
+        "normani",
+        "saffron terror"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9oZXJlLWlzLXdoYXQtcnZzLW1hbmktYnVy\nZWF1Y3JhdC1vZi1jb25ncmVzcy1lcmEtaGFzLXRvLXNheS1hYm91dC1oZW1hbnQta2Fya2FyZS1h\nbmQtaGlzLWludm9sdmVtZW50LWluLXNhZmZyb24tdGVycm9yLW5hcnJhdGl2ZS8=",
+      "short_url": "https://www.opindia.com/2019/04/here-is-what-rvs-mani-bureaucrat-of-congress-era-has-to-say-about-hemant-karkare-and-his-involvement-in-saffron-terror-narrative/",
+      "engagement": "0",
+      "popularity": "1445270",
+      "tw_tweets": "788",
+      "tw_reach": "555465",
+      "tw_favorites": "14",
+      "tw_retweets": "679861",
+      "tw_since_id": "1119556540447330306",
+      "fb_shares": "1283",
+      "fb_comments": "171",
+      "fb_reactions": "2118",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "SGK19551",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-04-2019 20:40",
+      "timestamp_published": "1555699232",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "401960",
+      "date_published": "2019-04-20 23:25:21",
+      "date_added": "2019-04-20 20:01:41",
+      "date_modified": "2019-04-20 20:06:37",
+      "title": "Congress uses photograph of police officer killed by Muslim mob as example of Hindu lynch mob victim - Opindia News",
+      "source": "www.opindia.com",
+      "description": "In a video titles bhakt charitra, police officer killed by Islamic separatists used as a victim of Hindu lynch mob by Congress party - Latest India News from Opindia.com",
+      "tags": [
+        "albert lynch",
+        "congress",
+        "india",
+        "islamic separatists",
+        "muslim"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9jb25ncmVzcy11c2VzLXBob3RvZ3JhcGgt\nb2YtcG9saWNlLW9mZmljZXIta2lsbGVkLWJ5LW11c2xpbS1tb2ItYXMtZXhhbXBsZS1vZi1oaW5k\ndS1seW5jaC1tb2ItdmljdGltLw==",
+      "short_url": "https://www.opindia.com/2019/04/congress-uses-photograph-of-police-officer-killed-by-muslim-mob-as-example-of-hindu-lynch-mob-victim/",
+      "engagement": "0",
+      "popularity": "4225050",
+      "tw_tweets": "933",
+      "tw_reach": "1870068",
+      "tw_favorites": "55",
+      "tw_retweets": "1877643",
+      "tw_since_id": "1119963714583695361",
+      "fb_shares": "614",
+      "fb_comments": "100",
+      "fb_reactions": "1516",
+      "popularity_updated": "4",
+      "sentiment": "-1",
+      "screen_name": "G_Singh_T",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 23:25",
+      "timestamp_published": "1555795521",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "173",
+          "query": "\"Swaraj Abhiyan\" OR \"Yogendra Yadav\" OR _YogendraYadav OR _SwarajIndia OR \"Swaraj India\" OR \"Prashant Bhushan\" OR pbhushan1"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "402555",
+      "date_published": "2019-04-21 18:15:13",
+      "date_added": "2019-04-21 14:49:31",
+      "date_modified": "2019-04-22 05:22:16",
+      "title": "Political analyst associated with Congress shares badly edited video accusing PM Modi of using an abusive word - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Congress' Gaurav Pandhi has earlier also spread misinformation to attack the central government - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9wb2xpdGljYWwtYW5hbHlzdC1hc3NvY2lh\ndGVkLXdpdGgtY29uZ3Jlc3Mtc2hhcmVzLWJhZGx5LWVkaXRlZC12aWRlby1hY2N1c2luZy1wbS1t\nb2RpLW9mLXVzaW5nLWFuLWFidXNpdmUtd29yZC8=",
+      "short_url": "https://www.opindia.com/2019/04/political-analyst-associated-with-congress-shares-badly-edited-video-accusing-pm-modi-of-using-an-abusive-word/",
+      "engagement": "0",
+      "popularity": "4459820",
+      "tw_tweets": "913",
+      "tw_reach": "1068854",
+      "tw_favorites": "18",
+      "tw_retweets": "2437479",
+      "tw_since_id": "1120262021788983297",
+      "fb_shares": "101",
+      "fb_comments": "82",
+      "fb_reactions": "268",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "nirajntsh",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 18:15",
+      "timestamp_published": "1555863313",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "403043",
+      "date_published": "2019-04-22 10:50:05",
+      "date_added": "2019-04-22 07:22:30",
+      "date_modified": "2019-04-22 07:22:32",
+      "title": "False claim: Congress leaders photographed with the same elderly woman in multiple pictures - Alt News",
+      "source": "www.altnews.in",
+      "description": "A set of images circulating on social media attempts to show Congress leaders embracing the same elderly woman in all the three photographs “ये अम्मा कांग्रेस की रजिस्टर्ड दुखियारी है। (This amma is the registered mourner for Congress),” is the caption accompanying the photographs. ये अम्मा कांग्रेस की रजिस्टर्ड दुखियारी है। Posted by …",
+      "tags": [
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWx0bmV3cy5pbi9mYWxzZS1jbGFpbS1jb25ncmVzcy1sZWFkZXJzLXBob3Rv\nZ3JhcGhlZC13aXRoLXRoZS1zYW1lLWVsZGVybHktd29tYW4taW4tbXVsdGlwbGUtcGljdHVyZXMv",
+      "short_url": "http://bit.ly/2IL3F2Q",
+      "engagement": "0",
+      "popularity": "938371",
+      "tw_tweets": "634",
+      "tw_reach": "688885",
+      "tw_favorites": "0",
+      "tw_retweets": "278137",
+      "tw_since_id": "1120420465380659200",
+      "fb_shares": "392",
+      "fb_comments": "189",
+      "fb_reactions": "1117",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "IPSMF_",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 10:50",
+      "timestamp_published": "1555923005",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "403654",
+      "date_published": "2019-04-23 01:20:15",
+      "date_added": "2019-04-22 21:52:20",
+      "date_modified": "2019-04-23 04:21:14",
+      "title": "Priyanka Chaturvedi Debuts For Shiv Sena With Aditya Thackeray Event",
+      "source": "www.ndtv.com",
+      "description": "Congress's former spokesperson and new entrant to Shiv Sena Priyanka Chaturvedi today shared the stage with the party's youth wing chief Aditya Thackeray.",
+      "tags": [
+        "aditya thackeray",
+        "congress",
+        "priyanka chaturvedi",
+        "shiv sena"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9wcml5YW5rYS1jaGF0dXJ2ZWRpLWRlYnV0\ncy1mb3Itc2hpdi1zZW5hLXdpdGgtYWRpdHlhLXRoYWNrZXJheS1ldmVudC0yMDI2OTg1",
+      "short_url": "https://goo.gl/fb/kcycyV",
+      "engagement": "0",
+      "popularity": "297110000",
+      "tw_tweets": "136",
+      "tw_reach": "396141534",
+      "tw_favorites": "98",
+      "tw_retweets": "30",
+      "tw_since_id": "1120496455456907269",
+      "fb_shares": "12",
+      "fb_comments": "172",
+      "fb_reactions": "1241",
+      "popularity_updated": "134",
+      "sentiment": "0",
+      "screen_name": "ndtvfeed",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 01:20",
+      "timestamp_published": "1555975215",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "149"
+    },
+    {
+      "id": "405010",
+      "date_published": "2019-04-24 12:40:14",
+      "date_added": "2019-04-24 09:12:22",
+      "date_modified": "2019-04-24 09:21:41",
+      "title": "AAP To Install A Statue Outside Congress Head Quarter In Bid To Convince Them For An Alliance | The Fauxy",
+      "source": "thefauxy.com",
+      "description": "The Congress party has yet again rejected Aam Aadmi Party's proposal of forming an alliance in the national capital of New Delhi for the upcoming Lok Sabha elections. Earlier today, Delhi Congress chi | India's Finest, Fastest & Fictitious News Source",
+      "tags": [
+        "aap",
+        "capital bra",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVmYXV4eS5jb20vYWFwLXRvLWluc3RhbGwtYS1zdGF0dWUtb3V0c2lkZS1jb25n\ncmVzcy1oZWFkLXF1YXJ0ZXItaW4tYmlkLXRvLWNvbnZpbmNlLXRoZW0tZm9yLWFuLWFsbGlhbmNl\nLw==",
+      "short_url": "https://thefauxy.com/aap-to-install-a-statue-outside-congress-head-quarter-in-bid-to-convince-them-for-an-alliance/",
+      "engagement": "0",
+      "popularity": "16574.2",
+      "tw_tweets": "7",
+      "tw_reach": "987",
+      "tw_favorites": "0",
+      "tw_retweets": "7469",
+      "tw_since_id": "1120948042478133248",
+      "fb_shares": "120",
+      "fb_comments": "71",
+      "fb_reactions": "1856",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "j_rohitreddy",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 12:40",
+      "timestamp_published": "1556102414",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "174",
+          "query": "(AAP AND India) OR (AAP AND Delhi) OR (AAP AND Congress) OR (AAP AND BJP) OR \"Aam Aadmi Party\" OR \"Arvind Kejriwal\" OR ArvindKejriwal"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "405794",
+      "date_published": "2019-04-25 12:00:35",
+      "date_added": "2019-04-25 08:33:11",
+      "date_modified": "2019-04-28 03:41:59",
+      "title": "Why joining Shiv Sena is a deliberate political gambit by Priyanka Chaturvedi",
+      "source": "www.thenewsminute.com",
+      "description": "Women are all the chatter this 17th Lok Sabha elections. The electric female voter turnouts, surfeit of hype on women's representation from the BJP and Congress, and avant garde electoral feminisation of the BJD and TMC. Not to mention the persisting public discourse around Mayawati, Mamata, Priyanka, and now, Priyanka.",
+      "tags": [
+        "avant",
+        "bjp",
+        "congress",
+        "francesco guardi",
+        "gambit",
+        "priyanka chaturvedi",
+        "shiv sena",
+        "women"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlbmV3c21pbnV0ZS5jb20vYXJ0aWNsZS93aHktam9pbmluZy1zaGl2LXNl\nbmEtZGVsaWJlcmF0ZS1wb2xpdGljYWwtZ2FtYml0LXByaXlhbmthLWNoYXR1cnZlZGktMTAwNjc1",
+      "short_url": "https://www.thenewsminute.com/article/why-joining-shiv-sena-deliberate-political-gambit-priyanka-chaturvedi-100675",
+      "engagement": "0",
+      "popularity": "10675000",
+      "tw_tweets": "387",
+      "tw_reach": "14143134",
+      "tw_favorites": "838",
+      "tw_retweets": "41918",
+      "tw_since_id": "1122281774271221761",
+      "fb_shares": "32",
+      "fb_comments": "204",
+      "fb_reactions": "1328",
+      "popularity_updated": "96",
+      "sentiment": "0",
+      "screen_name": "thenewsminute",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 12:00",
+      "timestamp_published": "1556186435",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "122"
+    },
+    {
+      "id": "406934",
+      "date_published": "2019-04-26 23:45:23",
+      "date_added": "2019-04-26 20:17:14",
+      "date_modified": "2019-04-27 03:32:25",
+      "title": "In Graphs: Modi Government Built More Highways And Rural Roads Than The UPA, And Did So Much Faster",
+      "source": "swarajyamag.com",
+      "description": "Project completion time has also fallen.",
+      "tags": [
+        "narendra modi",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvaW4tZ3JhcGhzLW1vZGktZ292ZXJubWVudC1i\ndWlsdC1tb3JlLWhpZ2h3YXlzLWFuZC1ydXJhbC1yb2Fkcy10aGFuLXRoZS11cGEtYW5kLWRpZC1p\ndC1tdWNoLWZhc3Rlcg==",
+      "short_url": "https://swarajyamag.com/insta/in-graphs-modi-government-built-more-highways-and-rural-roads-than-the-upa-and-did-it-much-faster",
+      "engagement": "0",
+      "popularity": "298163",
+      "tw_tweets": "61",
+      "tw_reach": "387672",
+      "tw_favorites": "90",
+      "tw_retweets": "3921",
+      "tw_since_id": "1121995327337390080",
+      "fb_shares": "100",
+      "fb_comments": "8",
+      "fb_reactions": "503",
+      "popularity_updated": "30",
+      "sentiment": "0",
+      "screen_name": "rohit_kumar008",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 23:45",
+      "timestamp_published": "1556315123",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "46"
+    },
+    {
+      "id": "407256",
+      "date_published": "2019-04-27 12:30:38",
+      "date_added": "2019-04-27 09:03:00",
+      "date_modified": "2019-04-29 02:07:39",
+      "title": "The Congress party supports 'Mr' Yasin Malik, calls him brave for refusing to surrender",
+      "source": "www.opindia.com",
+      "description": "In latest Congress news, senior Congress party leader PC Chacko has called Yasin Malik brave for refusing to surrender. - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "yasin malik"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9jb25ncmVzcy1wYXJ0eS1uZXdzLWxlYWRl\nci1wYy1jaGFja28tc3VwcG9ydHMteWFzaW4tbWFsaWstY2FsbHMtaGltLWJyYXZlLWZvci1yZWZ1\nc2luZy1hcnJlc3QtYnktbW9kaS1nb3Zlcm5tZW50Lw==",
+      "short_url": "https://www.opindia.com/2019/04/congress-party-news-leader-pc-chacko-supports-yasin-malik-calls-him-brave-for-refusing-arrest-by-modi-government/",
+      "engagement": "0",
+      "popularity": "621568",
+      "tw_tweets": "166",
+      "tw_reach": "718470",
+      "tw_favorites": "185",
+      "tw_retweets": "53332",
+      "tw_since_id": "1122653071081738248",
+      "fb_shares": "365",
+      "fb_comments": "89",
+      "fb_reactions": "588",
+      "popularity_updated": "57",
+      "sentiment": "0",
+      "screen_name": "sujaiyanti",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 12:30",
+      "timestamp_published": "1556361038",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "81"
+    },
+    {
+      "id": "408168",
+      "date_published": "2019-04-28 18:10:05",
+      "date_added": "2019-04-28 14:42:34",
+      "date_modified": "2019-05-07 23:08:07",
+      "title": "Republic TV falsely portrays man praising PM Modi as a Congress MLA - Alt News",
+      "source": "www.altnews.in",
+      "description": "“कांग्रेस के विधायक अनिल उपाध्याय भी हुए पीएम मोदी के मुरीद, बंधे तारीफों के पूल (Translated: Congress MLA, Anil Upadhyay also becomes a disciple / fan of Modi, lavishes praise on him)”. The Breaking News headlines telecast on April 27th by Republic TV’s Hello Bharat program, carried a video of a person …",
+      "tags": [
+        "congress",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWx0bmV3cy5pbi9yZXB1YmxpYy10di1mYWxzZWx5LXBvcnRyYXlzLW1hbi1w\ncmFpc2luZy1wbS1tb2RpLWFzLWEtY29uZ3Jlc3MtbWxhLw==",
+      "short_url": "https://www.altnews.in/republic-tv-falsely-portrays-man-praising-pm-modi-as-a-congress-mla/",
+      "engagement": "0",
+      "popularity": "669924",
+      "tw_tweets": "391",
+      "tw_reach": "736512",
+      "tw_favorites": "106",
+      "tw_retweets": "71206",
+      "tw_since_id": "1125869031314087937",
+      "fb_shares": "993",
+      "fb_comments": "329",
+      "fb_reactions": "3190",
+      "popularity_updated": "156",
+      "sentiment": "0",
+      "screen_name": "ManuOjha",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 18:10",
+      "timestamp_published": "1556467805",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "181"
+    },
+    {
+      "id": "408623",
+      "date_published": "2019-04-29 12:09:41",
+      "date_added": "2019-04-29 08:42:11",
+      "date_modified": "2019-05-01 21:36:53",
+      "title": "Vijay Mallya son-in-law campaigns for Congress-NCP candidate Parth Pawar",
+      "source": "www.opindia.com",
+      "description": "Samar Singh, son-in-law of fugitive businessman Vijay Mallya was campaigning for Congress-NCP candidate Parth Pawar, a son of former deputy chief minister Ajit Pawar. - Latest India News from Opindia.com",
+      "tags": [
+        "ajit pawar",
+        "charanjit singh",
+        "congress",
+        "india",
+        "ncp",
+        "vijay mallya"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC92aWpheS1tYWxseWFzLXNvbi1pbi1sYXct\nY2FtcGFpZ25zLWZvci1jb25ncmVzcy1uY3AtY2FuZGlkYXRlLXdoaWxlLXJhaHVsLWdhbmRoaS13\nYW50cy10by1leHRyYWN0LW1vbmV5LWZyb20tbWFsbHlhLXRvLXBheS1mb3ItbnlheS8=",
+      "short_url": "https://www.opindia.com/2019/04/vijay-mallyas-son-in-law-campaigns-for-congress-ncp-candidate-while-rahul-gandhi-wants-to-extract-money-from-mallya-to-pay-for-nyay/",
+      "engagement": "0",
+      "popularity": "2559760",
+      "tw_tweets": "852",
+      "tw_reach": "728847",
+      "tw_favorites": "0",
+      "tw_retweets": "1334651",
+      "tw_since_id": "1123671268522328064",
+      "fb_shares": "1761",
+      "fb_comments": "158",
+      "fb_reactions": "2638",
+      "popularity_updated": "46",
+      "sentiment": "0",
+      "screen_name": "navaneethkrish2",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 12:09",
+      "timestamp_published": "1556532581",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "68"
+    },
+    {
+      "id": "409178",
+      "date_published": "2019-04-30 05:18:04",
+      "date_added": "2019-04-30 01:52:03",
+      "date_modified": "2019-05-01 02:22:24",
+      "title": "Full EC hasn’t discussed any PM complaint since April 5",
+      "source": "indianexpress.com",
+      "description": "In the Supreme Court Monday, senior advocate Abhishek Manu Singhvi, who appeared for Silchar MP and Congress leader Sushmita Dev, mentioned the plea before a bench headed by Chief Justice of India Ranjan Gogoi.",
+      "tags": [
+        "congress",
+        "k-ma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvZWxlY3Rpb24tY29tbWlzc2lvbi1v\nZi1pbmRpYS1uYXJlbmRyYS1tb2RpLW1jYy1zdXByZW1lLWNvdXJ0LWJqcC1jb25ncmVzcy01NzAx\nNzU4Lw==",
+      "short_url": "https://indianexpress.com/elections/election-commission-of-india-narendra-modi-mcc-supreme-court-bjp-congress-5701758/",
+      "engagement": "0",
+      "popularity": "3428490",
+      "tw_tweets": "841",
+      "tw_reach": "4047496",
+      "tw_favorites": "70",
+      "tw_retweets": "260049",
+      "tw_since_id": "1123379452862521344",
+      "fb_shares": "182",
+      "fb_comments": "104",
+      "fb_reactions": "540",
+      "popularity_updated": "26",
+      "sentiment": "0",
+      "screen_name": "decision2019",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 05:18",
+      "timestamp_published": "1556594284",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "48"
+    },
+    {
+      "id": "409873",
+      "date_published": "2019-05-01 00:55:01",
+      "date_added": "2019-04-30 21:27:13",
+      "date_modified": "2019-04-30 21:27:13",
+      "title": "BJP:  Lalu Yadav a victim of BJP's vendetta politics, alleges Congress | India News - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: NEW DELHI: The Congress on Friday accused the Modi government of misusing state institutions to target political opponents. The party claimed, on the",
+      "tags": [
+        "bjp",
+        "congress",
+        "delhi",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaW5kaWEvbGFsdS15YWRhdi1hLXZp\nY3RpbS1vZi1ianBzLXZlbmRldHRhLXBvbGl0aWNzLWFsbGVnZXMtY29uZ3Jlc3MvYXJ0aWNsZXNo\nb3cvNjMzMzcxMDQuY21zP2Zyb209bWRy",
+      "short_url": "https://m.timesofindia.com/india/lalu-yadav-a-victim-of-bjps-vendetta-politics-alleges-congress/articleshow/63337104.cms",
+      "engagement": "0",
+      "popularity": "2669.25",
+      "tw_tweets": "3",
+      "tw_reach": "225",
+      "tw_favorites": "0",
+      "tw_retweets": "1665",
+      "tw_since_id": "1123307284841369600",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "yadavlalu90",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 00:55",
+      "timestamp_published": "1556664901",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "16"
+    },
+    {
+      "id": "411054",
+      "date_published": "2019-05-02 10:30:38",
+      "date_added": "2019-05-02 07:02:17",
+      "date_modified": "2019-05-03 17:12:37",
+      "title": "‘Many surgical strikes during UPA’s tenure’, says former Prime Minister Manmohan Singh",
+      "source": "www.hindustantimes.com",
+      "description": "“Multiple surgical strikes took place during our tenure, too. For us, military operations were meant for strategic deterrence and giving a befitting reply to anti-India forces than to be used for vote garnering exercises,” Singh, 86, said in an interview with Sunetra Choudhury of Hindustan Times",
+      "tags": [
+        "india",
+        "manmohan singh",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvbWFueS1zdXJnaWNhbC1z\ndHJpa2VzLWR1cmluZy11cGEtcy10ZW51cmUtc2F5cy1mb3JtZXItcHJpbWUtbWluaXN0ZXItbWFu\nbW9oYW4tc2luZ2gvc3RvcnktZlFYSUZ2WjBpOGlRUkQ4Qnk1aUtVTi5odG1s",
+      "short_url": "https://www.hindustantimes.com/india-news/many-surgical-strikes-during-upa-s-tenure-says-former-prime-minister-manmohan-singh/story-fQXIFvZ0i8iQRD8By5iKUN.html",
+      "engagement": "0",
+      "popularity": "4371410",
+      "tw_tweets": "1310",
+      "tw_reach": "982657",
+      "tw_favorites": "17",
+      "tw_retweets": "2251776",
+      "tw_since_id": "1124330364397281280",
+      "fb_shares": "12154",
+      "fb_comments": "15216",
+      "fb_reactions": "84464",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "honeygeorge74",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 10:30",
+      "timestamp_published": "1556785838",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "412067",
+      "date_published": "2019-05-03 15:37:49",
+      "date_added": "2019-05-03 12:12:11",
+      "date_modified": "2019-05-29 19:51:32",
+      "title": "Congress collects crucial private data from BPL voters through fake NYAY forms",
+      "source": "www.opindia.com",
+      "description": "Earlier, Rajasthan Congress leader had allegedly printed and distributed fake NYAY forms in Kota, Rajasthan, another Congress-ruled state - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "kota",
+        "rajasthan"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9jb25ncmVzcy1tYWtlcy1icGwtdm90ZXJz\nLWluLW1hZGh5YS1wcmFkZXNoLXRvLWZpbGwtZmFrZS1ueWF5LWZvcm1zLWFhZGhhYXItYW5kLW90\naGVyLWNydWNpYWwtZGV0YWlscy1vYnRhaW5lZC8=",
+      "short_url": "https://www.opindia.com/2019/05/congress-makes-bpl-voters-in-madhya-pradesh-to-fill-fake-nyay-forms-aadhaar-and-other-crucial-details-obtained/",
+      "engagement": "0",
+      "popularity": "1626890",
+      "tw_tweets": "693",
+      "tw_reach": "488389",
+      "tw_favorites": "1",
+      "tw_retweets": "837141",
+      "tw_since_id": "1133791511043301376",
+      "fb_shares": "641",
+      "fb_comments": "128",
+      "fb_reactions": "1080",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Vilchamp",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 15:37",
+      "timestamp_published": "1556890669",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "412884",
+      "date_published": "2019-05-04 19:22:52",
+      "date_added": "2019-05-04 15:56:52",
+      "date_modified": "2019-05-04 18:27:07",
+      "title": "UPA ahead of NDA after first four phases, suggest Intelligence reports",
+      "source": "www.nationalheraldindia.com",
+      "description": "IB reports match the feedback from the ground which suggests that the UPA is ahead of the NDA by at least 30 seats after the first four phases of polling",
+      "tags": [
+        "nda",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmF0aW9uYWxoZXJhbGRpbmRpYS5jb20vaW5kaWEvdXBhLWFoZWFkLW9mLW5k\nYS1hZnRlci1maXJzdC1mb3VyLXBoYXNlcy1zdWdnZXN0LWludGVsbGlnZW5jZS1yZXBvcnRz",
+      "short_url": "https://www.nationalheraldindia.com/india/upa-ahead-of-nda-after-first-four-phases-suggest-intelligence-reports",
+      "engagement": "0",
+      "popularity": "3930870",
+      "tw_tweets": "1030",
+      "tw_reach": "3916408",
+      "tw_favorites": "502",
+      "tw_retweets": "657211",
+      "tw_since_id": "1124930033284526080",
+      "fb_shares": "368",
+      "fb_comments": "247",
+      "fb_reactions": "2122",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "gkzhimomi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 19:22",
+      "timestamp_published": "1556990572",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "413386",
+      "date_published": "2019-05-05 11:41:47",
+      "date_added": "2019-05-05 08:17:08",
+      "date_modified": "2019-05-07 04:41:52",
+      "title": "\"Rajiv Gandhi Is Why I Am Alive\": A Remarkable Story In Atal Bihari Vajpayee's Words",
+      "source": "www.ndtv.com",
+      "description": "Former prime minister Atal Bihari Vajpayee, who died on Thursday, was admired and respected across the political spectrum. Congress leader Rajiv Gandhi, who was known to take on BJP leaders sharply in parliament, made an exception for Atal Bihari Vajpayee, to whom he was always courteous.",
+      "tags": [
+        "bihari lal",
+        "bjp",
+        "congress",
+        "rajiv gandhi",
+        "vajpayee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9yYWppdi1nYW5kaGktaXMtd2h5LWktYW0t\nYWxpdmUtYS1yZW1hcmthYmxlLXN0b3J5LWluLWF0YWwtYmloYXJpLXZhanBheWVlcy13b3Jkcy0x\nOTAxNjY4P2FtcD0x",
+      "short_url": "https://www.ndtv.com/india-news/rajiv-gandhi-is-why-i-am-alive-a-remarkable-story-in-atal-bihari-vajpayees-words-1901668?amp=1",
+      "engagement": "0",
+      "popularity": "9415470",
+      "tw_tweets": "1592",
+      "tw_reach": "2650428",
+      "tw_favorites": "82",
+      "tw_retweets": "4878622",
+      "tw_since_id": "1125589327080243202",
+      "fb_shares": "8804",
+      "fb_comments": "3071",
+      "fb_reactions": "35801",
+      "popularity_updated": "48",
+      "sentiment": "0",
+      "screen_name": "Shiv0hum",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 11:41",
+      "timestamp_published": "1557049307",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "71"
+    },
+    {
+      "id": "414640",
+      "date_published": "2019-05-06 23:55:14",
+      "date_added": "2019-05-06 20:28:01",
+      "date_modified": "2019-05-08 01:43:05",
+      "title": "Congress seeks EC action over Modi's Bhrashtachari No. 1 comment",
+      "source": "www.indiatoday.in",
+      "description": "Congress has written to Election Commission of India (ECI) demanding action against Prime Minister Narendra Modi for violating Model Code of Conduct (MCC) over his \"Bhrashtachari number 1\" statement on late Prime Minister Rajiv Gandhi.",
+      "tags": [
+        "congress",
+        "india",
+        "mcc",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9wcm9ncmFtbWUvbmV3cy10b2RheS92aWRlby9jb25n\ncmVzcy1zZWVrcy1lYy1hY3Rpb24tb3Zlci1tb2RpLXMtYmhyYXNodGFjaGFyaS1uby0xLWNvbW1l\nbnQtMTUxODgyOS0yMDE5LTA1LTA2",
+      "short_url": "https://bit.ly/2H35Qxb",
+      "engagement": "0",
+      "popularity": "841548",
+      "tw_tweets": "353",
+      "tw_reach": "826978",
+      "tw_favorites": "1",
+      "tw_retweets": "146911",
+      "tw_since_id": "1125907443240751105",
+      "fb_shares": "34",
+      "fb_comments": "61",
+      "fb_reactions": "162",
+      "popularity_updated": "52",
+      "sentiment": "0",
+      "screen_name": "joshi_shivankar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 23:55",
+      "timestamp_published": "1557179714",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "74"
+    },
+    {
+      "id": "414869",
+      "date_published": "2019-05-07 08:54:31",
+      "date_added": "2019-05-07 05:27:24",
+      "date_modified": "2019-05-07 14:07:09",
+      "title": "Video fabricated, EC rejects Smriti Irani’s claims of booth capturing in Amethi",
+      "source": "zeenews.india.com",
+      "description": "On Monday, Smriti Irani had tweeted a video in which an elderly woman can be seen claiming that she was forced by the polling officer to caste her vote for the Congress party and not for the BJP.",
+      "tags": [
+        "amethi",
+        "bjp",
+        "caste",
+        "congress",
+        "n.a. irani",
+        "smriti irani"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9sb2stc2FiaGEtZ2VuZXJhbC1lbGVjdGlvbnMtMjAx\nOS92aWRlby1mYWJyaWNhdGVkLWVjLXJlamVjdHMtc21yaXRpLWlyYW5pLXMtY2xhaW1zLW9mLWJv\nb3RoLWNhcHR1cmluZy1pbi1hbWV0aGktMjIwMTYyOS5odG1s",
+      "short_url": "https://zeenews.india.com/lok-sabha-general-elections-2019/video-fabricated-ec-rejects-smriti-irani-s-claims-of-booth-capturing-in-amethi-2201629.html",
+      "engagement": "0",
+      "popularity": "3662480",
+      "tw_tweets": "1372",
+      "tw_reach": "1270863",
+      "tw_favorites": "65",
+      "tw_retweets": "1800029",
+      "tw_since_id": "1125999409282502656",
+      "fb_shares": "697",
+      "fb_comments": "420",
+      "fb_reactions": "2324",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "lsf4you",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 08:54",
+      "timestamp_published": "1557212071",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "35"
+    },
+    {
+      "id": "415604",
+      "date_published": "2019-05-08 09:40:38",
+      "date_added": "2019-05-08 06:12:41",
+      "date_modified": "2019-05-08 06:12:41",
+      "title": "Gurumurthy bomb: ‘Sonia begged Rajiv’s killers LTTE to win over DMK in 2004. This is worst karma’",
+      "source": "www.mynation.com",
+      "description": "Right-wing ideologue tears into Congress’s own dubious history of appeasing Rajiv Gandhi’s killers for political gains, counters Priyanka Vadra’s karma jibe at PM Narendra Modi",
+      "tags": [
+        "congress",
+        "priyanka gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3MvZ3VydW11cnRoeS1kcm9wcy1ib21i\nLXNheXMtc29uaWEtYmVnZ2VkLXJhaml2LWtpbGxlcnMtbHR0ZS10by13aW4tb3Zlci1kbWstaW4t\nMjAwNC10aGlzLWlzLXdvcnN0LWthcm1hLXByNTNueA==",
+      "short_url": "https://www.mynation.com/india-news/gurumurthy-drops-bomb-says-sonia-begged-rajiv-killers-ltte-to-win-over-dmk-in-2004-this-is-worst-karma-pr53nx",
+      "engagement": "0",
+      "popularity": "1192810",
+      "tw_tweets": "606",
+      "tw_reach": "927468",
+      "tw_favorites": "23",
+      "tw_retweets": "330188",
+      "tw_since_id": "1126109168237068290",
+      "fb_shares": "230",
+      "fb_comments": "31",
+      "fb_reactions": "314",
+      "popularity_updated": "2",
+      "sentiment": "-1",
+      "screen_name": "Raju_Modi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 09:40",
+      "timestamp_published": "1557301238",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "416703",
+      "date_published": "2019-05-09 17:25:37",
+      "date_added": "2019-05-09 13:57:27",
+      "date_modified": "2019-05-10 22:12:35",
+      "title": "\"You Made Taxis Of IAF Jets, Paying Rs 744,\" Congress Tells PM Modi",
+      "source": "www.ndtv.com",
+      "description": "Prime Minister Narendra Modi's allegation - that former Prime Minister Rajiv Gandhi had used the Navy's aircraft carrier INS Viraat as a personal taxi for going on a family vacation - has been strongly rebutted by the Congress.",
+      "tags": [
+        "congress",
+        "pm modi prime minister narendra modi",
+        "rajiv gandhi",
+        "tax"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLWVsZWN0aW9ucy0yMDE5LWNv\nbmdyZXNzLXRlbGxzLXBtLW1vZGkteW91LW1hZGUtdGF4aXMtb2YtaWFmLWpldHMtcGF5aW5nLXJz\nLTc0NC0yMDM1Mjg5",
+      "short_url": "https://www.ndtv.com/india-news/general-elections-2019-congress-tells-pm-modi-you-made-taxis-of-iaf-jets-paying-rs-744-2035289",
+      "engagement": "0",
+      "popularity": "1170440",
+      "tw_tweets": "570",
+      "tw_reach": "727752",
+      "tw_favorites": "7",
+      "tw_retweets": "411781",
+      "tw_since_id": "1126942639666778113",
+      "fb_shares": "566",
+      "fb_comments": "628",
+      "fb_reactions": "1570",
+      "popularity_updated": "38",
+      "sentiment": "0",
+      "screen_name": "amir_gulzar007",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 17:25",
+      "timestamp_published": "1557415537",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "62"
+    },
+    {
+      "id": "417354",
+      "date_published": "2019-05-10 17:02:08",
+      "date_added": "2019-05-10 13:37:53",
+      "date_modified": "2019-05-11 09:08:13",
+      "title": "Congress government was soft on terrorism to appease Muslims: frmr RAW officer - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Former RAW officer opens up on Congress government never allowed the agencies to work aggressively against Pakistan - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "muslims",
+        "pakistan",
+        "terrorism"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9wcmV2aW91cy1nb3Z0cy13ZXJlLXNvZnQt\nb24tbXVzbGltLXJhZGljYWxpc2F0aW9uLWFuZC10ZXJyb3ItZHVlLXRvLXBvbGl0aWNhbC1yZWFz\nb25zLWZvcm1lci1yYXctb2ZmaWNlci1yZXZlYWxzLw==",
+      "short_url": "https://www.opindia.com/2019/05/previous-govts-were-soft-on-muslim-radicalisation-and-terror-due-to-political-reasons-former-raw-officer-reveals/",
+      "engagement": "0",
+      "popularity": "2632780",
+      "tw_tweets": "735",
+      "tw_reach": "1515598",
+      "tw_favorites": "24",
+      "tw_retweets": "993038",
+      "tw_since_id": "1127112572954497024",
+      "fb_shares": "795",
+      "fb_comments": "86",
+      "fb_reactions": "1674",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "ajaythapliyal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 17:02",
+      "timestamp_published": "1557500528",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "417819",
+      "date_published": "2019-05-11 12:34:03",
+      "date_added": "2019-05-11 09:07:48",
+      "date_modified": "2019-05-14 05:32:12",
+      "title": "'Dishonouring the Dead': Who can beat the Congress in this dept?",
+      "source": "www.dailyo.in",
+      "description": "From Sardar Patel to PV Narasimha Rao, the list of illustrious leaders reportedly scorned by the Congress, even in their final journeys, is a long one.",
+      "tags": [
+        "congress",
+        "narasimha rao",
+        "vallabhbhai patel"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL3BvbGl0aWNzL3Jhaml2LWdhbmRoaS1yYWh1bC1nYW5kaGkt\nYmhyYXNodGFjaGFyaS1kaXNob25vdXJpbmctdGhlLWRlYWQtc29uaWEtZ2FuZGhpLXB2LW5hcmFz\naW1oYS1yYW8tc2l0YXJhbS1rZXNhcmktbmFyZW5kcmEtbW9kaS9zdG9yeS8xLzMwNjM2Lmh0bWw=",
+      "short_url": "http://ow.ly/IShh30oHAPY",
+      "engagement": "0",
+      "popularity": "4145800",
+      "tw_tweets": "624",
+      "tw_reach": "4225378",
+      "tw_favorites": "7",
+      "tw_retweets": "649836",
+      "tw_since_id": "1128140013042954240",
+      "fb_shares": "177",
+      "fb_comments": "101",
+      "fb_reactions": "325",
+      "popularity_updated": "81",
+      "sentiment": "0",
+      "screen_name": "IndiaTodayFLASH",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 12:34",
+      "timestamp_published": "1557570843",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "103"
+    },
+    {
+      "id": "418448",
+      "date_published": "2019-05-12 11:52:54",
+      "date_added": "2019-05-12 08:26:49",
+      "date_modified": "2019-05-21 03:26:40",
+      "title": "Free Speech Under Fire as Police Arrest BJP Youth Wing Leader for Sharing Mamata Meme",
+      "source": "thewire.in",
+      "description": "Priyanka Sharma has been remanded to 14-day judicial custody.",
+      "tags": [
+        "bjp",
+        "mamata banerjee",
+        "priyanka gandhi",
+        "yash paul sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3JpZ2h0cy9ianAteW91dGgtd2luZy1sZWFkZXItYXJyZXN0ZWQt\nZm9yLXNoYXJpbmctbWVtZS1vZi1tYW1hdGEtYmFuZXJqZWU=",
+      "short_url": "https://t.co/5CVHWkZlob",
+      "engagement": "0",
+      "popularity": "1454200",
+      "tw_tweets": "515",
+      "tw_reach": "1627414",
+      "tw_favorites": "68",
+      "tw_retweets": "151570",
+      "tw_since_id": "1130634221175889921",
+      "fb_shares": "382",
+      "fb_comments": "367",
+      "fb_reactions": "1745",
+      "popularity_updated": "141",
+      "sentiment": "-1",
+      "screen_name": "bombaywallah",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 11:52",
+      "timestamp_published": "1557654774",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "166"
+    },
+    {
+      "id": "418955",
+      "date_published": "2019-05-13 10:49:02",
+      "date_added": "2019-05-13 07:21:52",
+      "date_modified": "2019-05-14 13:47:07",
+      "title": "It doesn't add up: Tracing the Congress’ Utopian road to 100 Lok Sabha seats",
+      "source": "www.dailyo.in",
+      "description": "There is a theory that if the Congress wins 100 Lok Sabha seats, the BJP can be kept down to 200 seats, effectively ending its quest for a second term. The theory is complete nonsense.",
+      "tags": [
+        "bjp",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL3BvbGl0aWNzL2xvay1zYWJoYS0yMDE5LWNvbmdyZXNzLXV0\nb3BpYW4tcm9hZC10by0xMDAtc2VhdHMtYmpwLXNlYXRzLWFic29sdXRlLW1ham9yaXR5LXJhaHVs\nLWdhbmRoaS1uYXJlbmRyYS1tb2RpLW1haGFnYXRoYmFuZGhhbi9zdG9yeS8xLzMwNjQwLmh0bWw=",
+      "short_url": "http://ow.ly/aYjE50u8ZNP",
+      "engagement": "0",
+      "popularity": "1940370",
+      "tw_tweets": "174",
+      "tw_reach": "2563938",
+      "tw_favorites": "88",
+      "tw_retweets": "9127",
+      "tw_since_id": "1128264780328910849",
+      "fb_shares": "65",
+      "fb_comments": "418",
+      "fb_reactions": "1010",
+      "popularity_updated": "66",
+      "sentiment": "0",
+      "screen_name": "hkollar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 10:49",
+      "timestamp_published": "1557737342",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "90"
+    },
+    {
+      "id": "419770",
+      "date_published": "2019-05-14 11:25:19",
+      "date_added": "2019-05-14 07:57:24",
+      "date_modified": "2019-05-16 21:52:11",
+      "title": "Kamal Nath government suspends a professor for predicting a Modi win in 2019 elections",
+      "source": "www.opindia.com",
+      "description": "Kamal Nath-led Congress government in Madhya Pradesh suspended a professor for predicting Modi's win on disciplinary grounds - Latest India News from Opindia.com",
+      "tags": [
+        "alfred gabriel nathorst",
+        "congress",
+        "india",
+        "kamal",
+        "mkhonzeni langa",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9wcm9mZXNzb3ItcHJlZGljdHMtbW9kaS13\naW4taW4tMjAxOS1sb2stc2FiaGEtZWxlY3Rpb25zLWthbWFsLW5hdGgtZ292ZXJubWVudC1zdXNw\nZW5kcy1oaW0v",
+      "short_url": "https://t.co/w7rF7CvcuV",
+      "engagement": "0",
+      "popularity": "750580",
+      "tw_tweets": "284",
+      "tw_reach": "369999",
+      "tw_favorites": "70",
+      "tw_retweets": "312914",
+      "tw_since_id": "1129111597031579648",
+      "fb_shares": "365",
+      "fb_comments": "139",
+      "fb_reactions": "972",
+      "popularity_updated": "150",
+      "sentiment": "0",
+      "screen_name": "Soumya101011",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-05-2019 11:25",
+      "timestamp_published": "1557825919",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "170"
+    },
+    {
+      "id": "420780",
+      "date_published": "2019-05-15 19:49:59",
+      "date_added": "2019-05-15 16:22:05",
+      "date_modified": "2019-05-18 06:57:46",
+      "title": "Modi Still India’s Best Hope Despite Liberal Hostility - Lokmarg",
+      "source": "lokmarg.com",
+      "description": "The divisions in India did not start with Modi’s BJP, nor were created by him. These were crafted, nurtured and cynically exploited by the Congress",
+      "tags": [
+        "bjp",
+        "congress",
+        "india",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9sb2ttYXJnLmNvbS9tb2RpLXN0aWxsLWluZGlhcy1iZXN0LWhvcGUtZGVzcGl0ZS1s\naWJlcmFsLWhvc3RpbGl0eS8=",
+      "short_url": "https://lokmarg.com/modi-still-indias-best-hope-despite-liberal-hostility/",
+      "engagement": "0",
+      "popularity": "956086",
+      "tw_tweets": "490",
+      "tw_reach": "250512",
+      "tw_favorites": "65",
+      "tw_retweets": "510967",
+      "tw_since_id": "1129611381412515840",
+      "fb_shares": "106",
+      "fb_comments": "27",
+      "fb_reactions": "396",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "NarendarSingh52",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-05-2019 19:49",
+      "timestamp_published": "1557942599",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "421529",
+      "date_published": "2019-05-16 22:30:29",
+      "date_added": "2019-05-16 19:02:05",
+      "date_modified": "2019-05-22 17:43:23",
+      "title": "Lok Sabha Polls: \"56-Inch Chest But Where Is Your Heart?\", Priyanka Gandhi Asks PM Modi",
+      "source": "www.ndtv.com",
+      "description": "PM Modi made his \"56-inch chest\" claim while campaigning for the 2014 Lok Sabha polls in Gorakhpur in Uttar Pradesh",
+      "tags": [
+        "narendra modi",
+        "priyanka gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLWVsZWN0aW9ucy0yMDE5LXlv\ndS1ib2FzdGVkLWFib3V0LXlvdXItNTYtaW5jaC1jaGVzdC1idXQtd2hlcmUtaXMteW91ci1oZWFy\ndC1kZW1hbmRzLXByaXlhbmthLTIwMzg3NDA=",
+      "short_url": "https://www.ndtv.com/india-news/general-elections-2019-you-boasted-about-your-56-inch-chest-but-where-is-your-heart-demands-priyanka-2038740",
+      "engagement": "0",
+      "popularity": "323048",
+      "tw_tweets": "424",
+      "tw_reach": "324050",
+      "tw_favorites": "0",
+      "tw_retweets": "52811",
+      "tw_since_id": "1131223252699758593",
+      "fb_shares": "29",
+      "fb_comments": "4",
+      "fb_reactions": "131",
+      "popularity_updated": "30",
+      "sentiment": "0",
+      "screen_name": "ArunDevilz",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 22:30",
+      "timestamp_published": "1558038629",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "50"
+    },
+    {
+      "id": "422191",
+      "date_published": "2019-05-17 21:50:08",
+      "date_added": "2019-05-17 18:22:12",
+      "date_modified": "2019-05-17 19:57:09",
+      "title": "BJP’s arrogance will be its undoing, says Priyanka Gandhi",
+      "source": "www.tribuneindia.com",
+      "description": "Priyanka Gandhi Vadra believes the ruling BJP and its leaders will pay for their arrogance, which reflects in their policies of demonetisation and “poorly implemented” Goods and Services Tax.",
+      "tags": [
+        "bjp",
+        "demonetisation",
+        "eddie jordan",
+        "priyanka gandhi",
+        "tax"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudHJpYnVuZWluZGlhLmNvbS9uZXdzL25hdGlvbi8tYmpwLXMtYXJyb2dhbmNl\nLXdpbGwtYmUtaXRzLXVuZG9pbmcvNzc0MDkzLmh0bWw=",
+      "short_url": "https://www.tribuneindia.com/mobi/news/nation/-bjp-s-arrogance-will-be-its-undoing/774093.html",
+      "engagement": "0",
+      "popularity": "1351870",
+      "tw_tweets": "605",
+      "tw_reach": "779442",
+      "tw_favorites": "6",
+      "tw_retweets": "510777",
+      "tw_since_id": "1129474174345334784",
+      "fb_shares": "67",
+      "fb_comments": "8",
+      "fb_reactions": "152",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "DrDeeptiSachan1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 21:50",
+      "timestamp_published": "1558122608",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "422819",
+      "date_published": "2019-05-18 22:20:29",
+      "date_added": "2019-05-18 18:52:18",
+      "date_modified": "2019-05-19 03:47:43",
+      "title": "Man asks Rajdeep Sardesai to name one work done by Congress government in Kashi, he didn't have an answer - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Sardesai was telling people how Varanasi was a Congress bastion and that Modi government does more marketing and less work on the ground. - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "kashi",
+        "narendra modi",
+        "rajdeep sardesai"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW4tYXNrcy1yYWpkZWVwLXNhcmRlc2Fp\nLXRvLW5hbWUtb25lLXdvcmstZG9uZS1ieS1jb25ncmVzcy1nb3Zlcm5tZW50LWluLWthc2hpLWhl\nLWRpZG50LWhhdmUtYW4tYW5zd2VyLw==",
+      "short_url": "http://bit.ly/2YEeWXw",
+      "engagement": "0",
+      "popularity": "517510",
+      "tw_tweets": "175",
+      "tw_reach": "296755",
+      "tw_favorites": "2",
+      "tw_retweets": "191269",
+      "tw_since_id": "1129938074551455744",
+      "fb_shares": "611",
+      "fb_comments": "242",
+      "fb_reactions": "2615",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "SNKBHAT",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 22:20",
+      "timestamp_published": "1558210829",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "423404",
+      "date_published": "2019-05-19 19:40:24",
+      "date_added": "2019-05-19 16:13:04",
+      "date_modified": "2019-05-20 12:13:24",
+      "title": "Exit polls predict clear majority for PM Modi-led NDA in Lok Sabha; show Cong-led UPA gaining but well behind",
+      "source": "www.hindustantimes.com",
+      "description": "Sunday evening’s exit polls projections were released after voting for the marathon 7-phase national elections ended. An election exit poll, not always known to be correct, is a poll of voters taken immediately after they exit the polling stations.",
+      "tags": [
+        "congress",
+        "lok sabha",
+        "narendra modi",
+        "nda",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvMy1leGl0\nLXBvbGxzLXByZWRpY3QtY2xlYXItbWFqb3JpdHktZm9yLXBtLW1vZGktbGVkLW5kYS9zdG9yeS1k\nWHhjYWllRVpaUGxhVlpnM2lKVTJOLmh0bWw=",
+      "short_url": "https://www.hindustantimes.com/lok-sabha-elections/3-exit-polls-predict-clear-majority-for-pm-modi-led-nda/story-dXxcaieEZZPlaVZg3iJU2N.html",
+      "engagement": "0",
+      "popularity": "20720000",
+      "tw_tweets": "383",
+      "tw_reach": "27427744",
+      "tw_favorites": "527",
+      "tw_retweets": "80603",
+      "tw_since_id": "1130441242926571520",
+      "fb_shares": "711",
+      "fb_comments": "1232",
+      "fb_reactions": "10106",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "pandeyshashi1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 19:40",
+      "timestamp_published": "1558287624",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "424206",
+      "date_published": "2019-05-20 15:00:38",
+      "date_added": "2019-05-20 11:32:43",
+      "date_modified": "2019-05-21 06:17:27",
+      "title": "BJP says Congress in minority in Madhya Pradesh, demands a floor test",
+      "source": "www.opindia.com",
+      "description": "The BJP has claimed that the Congress government in Madhya Pradesh is in minority - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "congress",
+        "india"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS90cm91YmxlLWJyZXdpbmctZm9yLWthbWFs\nLW5hdGgtZ292ZXJubWVudC10aGUtYmpwLWNhbGxzLWZvci1hLXNwZWNpYWwtYXNzZW1ibHktc2Vz\nc2lvbi1kZW1hbmRpbmctZmxvb3ItdGVzdC8=",
+      "short_url": "https://www.opindia.com/2019/05/trouble-brewing-for-kamal-nath-government-the-bjp-calls-for-a-special-assembly-session-demanding-floor-test/",
+      "engagement": "0",
+      "popularity": "561734",
+      "tw_tweets": "288",
+      "tw_reach": "566637",
+      "tw_favorites": "9",
+      "tw_retweets": "89909",
+      "tw_since_id": "1130747810826072064",
+      "fb_shares": "121",
+      "fb_comments": "55",
+      "fb_reactions": "527",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "popcornmsm",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 15:00",
+      "timestamp_published": "1558357238",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "424713",
+      "date_published": "2019-05-21 07:00:00",
+      "date_added": "2019-05-21 03:32:30",
+      "date_modified": "2019-05-21 03:32:31",
+      "title": "Madhya Pradesh: Congress supporter, close to state minister kills 60-year old man for voting in favour of BJP - Opindia News",
+      "source": "www.opindia.com",
+      "description": "According to the Police, Arun Sharma, the accused, also hurled casteist slurs at the victim and accused his entire community of voting for the BJP. - Latest India News from Opindia.com",
+      "tags": [
+        "arun sharma",
+        "bjp",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYWRoeWEtcHJhZGVzaC1jb25ncmVzcy1z\ndXBwb3J0ZXItY2xvc2UtdG8tc3RhdGUtbWluaXN0ZXIta2lsbHMtNjAteWVhci1vbGQtbWFuLWZv\nci12b3RpbmctaW4tZmF2b3VyLW9mLWJqcC8=",
+      "short_url": "http://bit.ly/2WTsTjB",
+      "engagement": "0",
+      "popularity": "1134340",
+      "tw_tweets": "516",
+      "tw_reach": "793422",
+      "tw_favorites": "0",
+      "tw_retweets": "358239",
+      "tw_since_id": "1130716645498875904",
+      "fb_shares": "171",
+      "fb_comments": "33",
+      "fb_reactions": "414",
+      "popularity_updated": "2",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 07:00",
+      "timestamp_published": "1558414800",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "425637",
+      "date_published": "2019-05-22 15:50:39",
+      "date_added": "2019-05-22 12:23:05",
+      "date_modified": "2019-05-22 18:22:23",
+      "title": "‘Congress Created Fear Psychosis Among Muslims, Wants Them To Feel Guilty For Voting BJP’: Congress leader R Roshan Baig’s Son",
+      "source": "swarajyamag.com",
+      "description": "“They’ve created a narrative that minorities should feel guilty if they decide to vote for BJP”",
+      "tags": [
+        "bjp",
+        "congress",
+        "muslims"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvY29uZ3Jlc3MtY3JlYXRlZC1mZWFyLXBzeWNo\nb3Npcy1hbW9uZy1tdXNsaW1zLXdhbnRzLXRoZW0tdG8tZmVlbC1ndWlsdHktZm9yLXZvdGluZy1i\nanAtY29uZ3Jlc3MtbGVhZGVyLXItcm9zaGFuLWJhaWdzLXNvbg==",
+      "short_url": "https://swarajyamag.com/insta/congress-created-fear-psychosis-among-muslims-wants-them-to-feel-guilty-for-voting-bjp-congress-leader-r-roshan-baigs-son",
+      "engagement": "0",
+      "popularity": "416654",
+      "tw_tweets": "284",
+      "tw_reach": "358207",
+      "tw_favorites": "0",
+      "tw_retweets": "97528",
+      "tw_since_id": "1131267928811139073",
+      "fb_shares": "136",
+      "fb_comments": "31",
+      "fb_reactions": "462",
+      "popularity_updated": "16",
+      "sentiment": "-1",
+      "screen_name": "SeemaSi80252530",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-05-2019 15:50",
+      "timestamp_published": "1558533039",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "38"
+    },
+    {
+      "id": "426601",
+      "date_published": "2019-05-23 13:40:40",
+      "date_added": "2019-05-23 10:14:29",
+      "date_modified": "2019-05-27 19:27:20",
+      "title": "Opinion: Don't Blame RG; He Is Not Why Modi Has Crushed Congress",
+      "source": "www.ndtv.com",
+      "description": " ",
+      "tags": [
+        "congress",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vb3Bpbmlvbi9kb250LWJsYW1lLXJnLWhlLWlzLW5vdC13aHkt\nbW9kaS1oYXMtY3J1c2hlZC1jb25ncmVzcy0yMDQxMTIz",
+      "short_url": "https://www.ndtv.com/opinion/dont-blame-rg-he-is-not-why-modi-has-crushed-congress-2041123",
+      "engagement": "0",
+      "popularity": "1541490",
+      "tw_tweets": "593",
+      "tw_reach": "1839525",
+      "tw_favorites": "180",
+      "tw_retweets": "106257",
+      "tw_since_id": "1133061668882112512",
+      "fb_shares": "186",
+      "fb_comments": "172",
+      "fb_reactions": "375",
+      "popularity_updated": "20",
+      "sentiment": "0",
+      "screen_name": "umarzaman45",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 13:40",
+      "timestamp_published": "1558611640",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "36"
+    },
+    {
+      "id": "428396",
+      "date_published": "2019-05-24 22:52:50",
+      "date_added": "2019-05-24 19:26:59",
+      "date_modified": "2019-05-24 19:31:49",
+      "title": "Remya Haridas makes history as Kerala's only Dalit woman MP",
+      "source": "www.livemint.com",
+      "description": "Haridas has been associated with Congress for over two decades.The negative campaign by the communists seemed to have worked in favour of Haridas",
+      "tags": [
+        "campaign",
+        "congress",
+        "dalit"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtZWxlY3Rpb25zL3Jl\nbXlhLWhhcmlkYXMtbWFrZXMtaGlzdG9yeS1hcy1rZXJhbGEtcy1vbmx5LWRhbGl0LXdvbWFuLW1w\nLTE1NTg2MTk5NzMwMDAuaHRtbA==",
+      "short_url": "https://www.livemint.com/elections/lok-sabha-elections/remya-haridas-makes-history-as-kerala-s-only-dalit-woman-mp-1558619973000.html",
+      "engagement": "0",
+      "popularity": "1765820",
+      "tw_tweets": "977",
+      "tw_reach": "1167007",
+      "tw_favorites": "122",
+      "tw_retweets": "584454",
+      "tw_since_id": "1132233067085438976",
+      "fb_shares": "520",
+      "fb_comments": "273",
+      "fb_reactions": "4861",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "americai",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 22:52",
+      "timestamp_published": "1558731170",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "428621",
+      "date_published": "2019-05-25 05:44:01",
+      "date_added": "2019-05-25 02:17:12",
+      "date_modified": "2019-05-25 02:17:12",
+      "title": "Trump invokes emergency powers to sidestep congress and sell arms to Saudi Arabia",
+      "source": "www.independent.co.uk",
+      "description": "Move comes after congress voted to end US support of Saudi military operation in Yemen",
+      "tags": [
+        "congress",
+        "donald trump",
+        "saudi arabia"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kZXBlbmRlbnQuY28udWsvbmV3cy93b3JsZC9hbWVyaWNhcy91cy1wb2xp\ndGljcy90cnVtcC1zYXVkaS1hcmFiaWEtZGVhbC1ib21icy11YWUtYXJtcy10cmFkZS1jb25ncmVz\ncy15ZW1lbi1hODkyOTc0MS5odG1s",
+      "short_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-saudi-arabia-deal-bombs-uae-arms-trade-congress-yemen-a8929741.html",
+      "engagement": "0",
+      "popularity": "3766650",
+      "tw_tweets": "1104",
+      "tw_reach": "3415734",
+      "tw_favorites": "117",
+      "tw_retweets": "472167",
+      "tw_since_id": "1132407047067246592",
+      "fb_shares": "52566",
+      "fb_comments": "41168",
+      "fb_reactions": "121858",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "FixSheltersNow",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 05:44",
+      "timestamp_published": "1558755841",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "429777",
+      "date_published": "2019-05-26 12:25:19",
+      "date_added": "2019-05-26 08:57:56",
+      "date_modified": "2019-05-27 14:02:28",
+      "title": "Maharashtra: BJP Minority Cell Worker Beaten To Death Over Lok Sabha Results, Congress Leader Booked",
+      "source": "swarajyamag.com",
+      "description": "BJP Minority Cell Worker Assaulted to Death in Maharashtra, Congress Leader Booked",
+      "tags": [
+        "bjp",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvbWFoYXJhc2h0cmEtYmpwLW1pbm9yaXR5LWNl\nbGwtd29ya2VyLWJlYXRlbi10by1kZWF0aC1vdmVyLWxvay1zYWJoYS1yZXN1bHRzLWNvbmdyZXNz\nLWxlYWRlci1ib29rZWQ=",
+      "short_url": "https://swarajyamag.com/insta/maharashtra-bjp-minority-cell-worker-beaten-to-death-over-lok-sabha-results-congress-leader-booked",
+      "engagement": "0",
+      "popularity": "1886640",
+      "tw_tweets": "641",
+      "tw_reach": "676811",
+      "tw_favorites": "13",
+      "tw_retweets": "912889",
+      "tw_since_id": "1132979915970760704",
+      "fb_shares": "783",
+      "fb_comments": "201",
+      "fb_reactions": "3013",
+      "popularity_updated": "12",
+      "sentiment": "-1",
+      "screen_name": "apoorvsangwan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 12:25",
+      "timestamp_published": "1558866319",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "430185",
+      "date_published": "2019-05-27 01:17:57",
+      "date_added": "2019-05-26 21:52:08",
+      "date_modified": "2019-06-01 05:22:06",
+      "title": "Experts Explain: Why so many MPs are dynasts",
+      "source": "indianexpress.com",
+      "description": "A record 30% of the new Lok Sabha MPs belong to political families. Among states, Punjab and Bihar have the highest proportions of dynastic MPs. Among parties, Congress remains the most dynastic but BJP is catching up, while CPM is the least dynastic. Two political scientists examine the trends and reasons",
+      "tags": [
+        "bihar",
+        "bjp",
+        "congress",
+        "punjab"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2V4cGxhaW5lZC9leHBlcnRzLWV4cGxh\naW4td2h5LXNvLW1hbnktbXBzLWFyZS1keW5hc3RzLWxvay1zYWJoYS1lbGVjdGlvbi1ianAtY29u\nZ3Jlc3MtcmFodWwtZ2FuZGhpLTU3NDk1NzAv",
+      "short_url": "http://bit.ly/2K4X83r",
+      "engagement": "0",
+      "popularity": "13394300",
+      "tw_tweets": "438",
+      "tw_reach": "17778391",
+      "tw_favorites": "123",
+      "tw_retweets": "38887",
+      "tw_since_id": "1134657187098185728",
+      "fb_shares": "169",
+      "fb_comments": "70",
+      "fb_reactions": "462",
+      "popularity_updated": "163",
+      "sentiment": "0",
+      "screen_name": "IndianExpress",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 01:17",
+      "timestamp_published": "1558912677",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "190"
+    },
+    {
+      "id": "431627",
+      "date_published": "2019-05-28 14:21:34",
+      "date_added": "2019-05-28 10:57:09",
+      "date_modified": "2019-06-01 04:21:27",
+      "title": "3 TMC, 2 Congress MLAs accompany Mukul Roy to Delhi, likely to join BJP today",
+      "source": "www.indiatoday.in",
+      "description": "Three Trinamool Congress, a CPI (M) and two Congress MLAs are likely to join the BJP today. The TMC MLAs left for Delhi with BJP leader Mukul Roy on Monday.",
+      "tags": [
+        "aitc",
+        "bjp",
+        "congress",
+        "cpi",
+        "delhi",
+        "mukul roy"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9zdG9yeS93ZXN0LWJlbmdhbC10bWMtYmpw\nLWNvbmdyZXNzLWpvaW4tbXVrdWwtcm95LW1hbWF0YS1nb3Zlcm5tZW50LTE1MzY0NTktMjAxOS0w\nNS0yOA==",
+      "short_url": "https://www.indiatoday.in/india/story/west-bengal-tmc-bjp-congress-join-mukul-roy-mamata-government-1536459-2019-05-28",
+      "engagement": "0",
+      "popularity": "10265300",
+      "tw_tweets": "2200",
+      "tw_reach": "9291360",
+      "tw_favorites": "109",
+      "tw_retweets": "2180836",
+      "tw_since_id": "1134625814824202241",
+      "fb_shares": "1013",
+      "fb_comments": "639",
+      "fb_reactions": "8611",
+      "popularity_updated": "2110",
+      "sentiment": "0",
+      "screen_name": "mail_today",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 14:21",
+      "timestamp_published": "1559046094",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "2125"
+    },
+    {
+      "id": "433177",
+      "date_published": "2019-05-29 20:31:23",
+      "date_added": "2019-05-29 17:07:04",
+      "date_modified": "2019-06-01 11:11:16",
+      "title": "Will Groom Women Leadership In The Party: Priyanka Chaturvedi",
+      "source": "www.shethepeople.tv",
+      "description": "Priyanka Chaturvedi switched from being Congress’s National Spokesperson to Shiv Sena’s Upneta during Lok Sabha Elections. Read to know more",
+      "tags": [
+        "congress",
+        "priyanka chaturvedi priyanka chaturvedi",
+        "shiv sena",
+        "women"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuc2hldGhlcGVvcGxlLnR2L25ld3Mvc2hpdi1zZW5hLXByaXlhbmthLWNoYXR1\ncnZlZGk=",
+      "short_url": "https://www.shethepeople.tv/news/shiv-sena-priyanka-chaturvedi",
+      "engagement": "0",
+      "popularity": "8662140",
+      "tw_tweets": "272",
+      "tw_reach": "11539774",
+      "tw_favorites": "98",
+      "tw_retweets": "246",
+      "tw_since_id": "1134719113463382016",
+      "fb_shares": "23",
+      "fb_comments": "374",
+      "fb_reactions": "2482",
+      "popularity_updated": "271",
+      "sentiment": "0",
+      "screen_name": "prakashmkhetani",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 20:31",
+      "timestamp_published": "1559154683",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "286"
+    },
+    {
+      "id": "433614",
+      "date_published": "2019-05-30 08:58:17",
+      "date_added": "2019-05-30 05:32:08",
+      "date_modified": "2019-05-30 05:32:09",
+      "title": "63 out of 67 candidates fielded by Congress in Uttar Pradesh lost security deposits in 2019 Lok Sabha elections - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Prominent Congress personalities like Raj Babbar, Salman Khurshid and Acharya Pramod Krishnam lost their security deposits in 2019 Lok Sabha elections - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "deepak acharya",
+        "raj babbar",
+        "salman khurshid",
+        "sunil chhetri"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS82My1vdXQtb2YtNjctY2FuZGlkYXRlcy1m\naWVsZGVkLWJ5LWNvbmdyZXNzLWluLXV0dGFyLXByYWRlc2gtbG9zdC1zZWN1cml0eS1kZXBvc2l0\ncy1pbi0yMDE5LWxvay1zYWJoYS1lbGVjdGlvbnMv",
+      "short_url": "https://www.opindia.com/2019/05/63-out-of-67-candidates-fielded-by-congress-in-uttar-pradesh-lost-security-deposits-in-2019-lok-sabha-elections/",
+      "engagement": "0",
+      "popularity": "29567.5",
+      "tw_tweets": "9",
+      "tw_reach": "13188",
+      "tw_favorites": "0",
+      "tw_retweets": "6992",
+      "tw_since_id": "1134135857395490816",
+      "fb_shares": "711",
+      "fb_comments": "250",
+      "fb_reactions": "3091",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "ImobaNg",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 08:58",
+      "timestamp_published": "1559199497",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "16"
+    },
+    {
+      "id": "434416",
+      "date_published": "2019-05-31 05:00:06",
+      "date_added": "2019-05-31 01:32:26",
+      "date_modified": "2019-06-01 06:42:29",
+      "title": "Patriot Games: How the Congress lost the plot on India's security, and lost the election too",
+      "source": "www.dailyo.in",
+      "description": "The last thing Pakistan wanted was Narendra Modi back as India's PM. They'd have preferred the Congress which is seen as soft on them. But how did Indira Gandhi's party reach such a state?",
+      "tags": [
+        "congress",
+        "del wilkes",
+        "indira gandhi",
+        "narendra modi",
+        "pakistan"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL3BvbGl0aWNzL2hvdy1jb25ncmVzcy1sb3N0LXRoZS1wbG90\nLW9uLW5hdGwtc2VjdXJpdHktbmFyZW5kcmEtbW9kaS1wYWtpc3RhbmktdGVycm9yLXNhbS1waXRy\nb2RhLWJhbGFrb3Qvc3RvcnkvMS8zMDkzMy5odG1s",
+      "short_url": "http://bit.ly/2WaMa3T",
+      "engagement": "0",
+      "popularity": "264151",
+      "tw_tweets": "70",
+      "tw_reach": "345387",
+      "tw_favorites": "0",
+      "tw_retweets": "2762",
+      "tw_since_id": "1134681148062351360",
+      "fb_shares": "66",
+      "fb_comments": "62",
+      "fb_reactions": "264",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "DailyO_",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 05:00",
+      "timestamp_published": "1559271606",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "25"
+    }
+  ],
+  "message": "OK"
+}

@@ -1,0 +1,3824 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=418072,401859,386808,393698,385413,427065,403411,390336,421597,416752,382679,432806,407161,397417,387875,402239,384158,406619,433466,415721,427906,405447,414869,419072,422631,395230,395705,423622,409636,393102,384707,389789,411510,424981,431627,407898,429284,391268,399050,405747,410593,413386,414472,418281,421433,417432,391924,399720,388480,377058,380256,398571,411903,435113,400867,430593,386221,419779,403915,423088,425637,396539,408590,420625,429777,376625,376758,379126,376330,412884",
+    "time": 1560434210,
+    "UTCDateTime": "2019-06-13T13:56:50+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "376330",
+      "date_published": "2019-03-23 09:29:43",
+      "date_added": "2019-03-23 05:01:24",
+      "date_modified": "2019-03-23 05:01:24",
+      "title": "Names of Nearly 40 lakh Maharashtra Voters Missing from List: JD(S)",
+      "source": "www.news18.com",
+      "description": "Out of the 39,27,882 names, 17 lakh voters are Dalits, while 10 lakh are Muslims. This is a conspiracy hatched by the BJP for political gains, said Kolse-Patil, the former judge of Bombay High Court.",
+      "tags": [
+        "bjp",
+        "dalit",
+        "jd"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL25hbWVzLW9mLW5lYXJseS00MC1s\nYWtoLW1haGFyYXNodHJhLXZvdGVycy1taXNzaW5nLWZyb20tbGlzdC1qZHMtMjA3NTEzOS5odG1s",
+      "short_url": "https://www.news18.com/news/politics/names-of-nearly-40-lakh-maharashtra-voters-missing-from-list-jds-2075139.html",
+      "engagement": "0",
+      "popularity": "4314440",
+      "tw_tweets": "2457",
+      "tw_reach": "4346613",
+      "tw_favorites": "183",
+      "tw_retweets": "700713",
+      "tw_since_id": "1109676062672408578",
+      "fb_shares": "112",
+      "fb_comments": "20",
+      "fb_reactions": "206",
+      "popularity_updated": "0",
+      "sentiment": "0",
+      "screen_name": "TheMusalman1927",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-03-2019 09:29",
+      "timestamp_published": "1553329783",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "46"
+    },
+    {
+      "id": "376625",
+      "date_published": "2019-03-24 23:10:30",
+      "date_added": "2019-03-24 18:42:10",
+      "date_modified": "2019-03-28 13:03:04",
+      "title": "Chowkidar’s party stole our code for their site: Andhra start-up accuses BJP of plagiarism",
+      "source": "www.indiatoday.in",
+      "description": "The start-up, W3Layouts, alleged that the party used their template but deliberately removed the backlink which gave the company necessary credit.",
+      "tags": [
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9zdG9yeS9jaG93a2lkYXItcGFydHktc3Rv\nbGUtb3VyLWNvZGUtYW5kaHJhLXN0YXJ0LXVwLWJqcC1wbGFnaWFyaXNtLTE0ODU1NTUtMjAxOS0w\nMy0yNA==",
+      "short_url": "https://www.indiatoday.in/india/story/chowkidar-party-stole-our-code-andhra-start-up-bjp-plagiarism-1485555-2019-03-24",
+      "engagement": "0",
+      "popularity": "12894700",
+      "tw_tweets": "2386",
+      "tw_reach": "12910747",
+      "tw_favorites": "358",
+      "tw_retweets": "2132065",
+      "tw_since_id": "1111236666973278208",
+      "fb_shares": "853",
+      "fb_comments": "597",
+      "fb_reactions": "3296",
+      "popularity_updated": "70",
+      "sentiment": "0",
+      "screen_name": "socialraj84",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-03-2019 23:10",
+      "timestamp_published": "1553465430",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "115"
+    },
+    {
+      "id": "376758",
+      "date_published": "2019-03-25 19:55:34",
+      "date_added": "2019-03-25 15:27:08",
+      "date_modified": "2019-04-13 02:22:22",
+      "title": "\"2 Gujarati Thugs Have Been Fooling People\", Says BJP Leader; Expelled",
+      "source": "www.ndtv.com",
+      "description": "The BJP Monday expelled one of its senior Lucknow-based leaders after he dubbed the party's top leadership as \"Gujarati thugs\" and asked if the BJP has chosen a ''pradhan mantri'' (prime minister) or a prachar mantri (advertisement minister).",
+      "tags": [
+        "bjp",
+        "chosen"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy8yLWd1amFyYXRpLXRodWdzLWhhdmUtYmVl\nbi1mb29saW5nLXBlb3BsZS1zYXlzLWJqcC1sZWFkZXItaXAtc2luZ2gtZXhwZWxsZWQtMjAxMjY1\nNA==",
+      "short_url": "https://t.co/g6kowCsylA",
+      "engagement": "0",
+      "popularity": "18071800",
+      "tw_tweets": "772",
+      "tw_reach": "23879267",
+      "tw_favorites": "173",
+      "tw_retweets": "100541",
+      "tw_since_id": "1116858525504999424",
+      "fb_shares": "1124",
+      "fb_comments": "284",
+      "fb_reactions": "3279",
+      "popularity_updated": "480",
+      "sentiment": "-1",
+      "screen_name": "JoherRaja",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-03-2019 19:55",
+      "timestamp_published": "1553540134",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "158",
+          "query": "\"Jharkhand Vikas Morcha\" OR JharkhandVikasMorcha OR JharkhandVikas"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "509"
+    },
+    {
+      "id": "377058",
+      "date_published": "2019-03-26 07:45:18",
+      "date_added": "2019-03-26 03:17:27",
+      "date_modified": "2019-03-26 03:21:54",
+      "title": "Reality Check: BJP's Mathura Challenge",
+      "source": "www.ndtv.com",
+      "description": "Even as UP Chief Minister Yogi Adityanath and Mathura MP Hema Malini shared stage to launch her campaign for 2019, opinion is divided over whether Hema Malini has delivered the goods. Can BJP's star power tackle gathbandhan's alliance power? Reality Check finds out.",
+      "tags": [
+        "bjp",
+        "campaign",
+        "homer",
+        "lamar odom",
+        "malini",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vdmlkZW8vc2hvd3MvcmVhbGl0eS1jaGVjay9yZWFsaXR5LWNo\nZWNrLWJqcC1zLW1hdGh1cmEtY2hhbGxlbmdlLTUxMDIwNg==",
+      "short_url": "https://www.ndtv.com/video/shows/reality-check/reality-check-bjp-s-mathura-challenge-510206",
+      "engagement": "0",
+      "popularity": "8629680",
+      "tw_tweets": "2380",
+      "tw_reach": "4730027",
+      "tw_favorites": "11",
+      "tw_retweets": "3386449",
+      "tw_since_id": "1110549228487475201",
+      "fb_shares": "28",
+      "fb_comments": "2",
+      "fb_reactions": "12",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "imanusttsunami",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-03-2019 07:45",
+      "timestamp_published": "1553582718",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "35"
+    },
+    {
+      "id": "379126",
+      "date_published": "2019-03-27 07:21:00",
+      "date_added": "2019-03-27 02:56:23",
+      "date_modified": "2019-03-27 05:16:32",
+      "title": "Behind Opposition’s sting video: London firm, Romanian director, and one Catherine",
+      "source": "indianexpress.com",
+      "description": "The Opposition released a sting video showing an alleged BJP functionary purportedly exchanging scrapped notes after demonetisation on a commission of 40 per cent.",
+      "tags": [
+        "bjp",
+        "demonetisation",
+        "london"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYmVoaW5kLW9wcG9zaXRpb25zLXN0\naW5nLXZpZGVvLWxvbmRvbi1maXJtLXJvbWFuaWFuLWRpcmVjdG9yLWFuZC1vbmUtY2F0aGVyaW5l\nLTU2NDQ0OTcv",
+      "short_url": "https://indianexpress.com/elections/behind-oppositions-sting-video-london-firm-romanian-director-and-one-catherine-5644497/",
+      "engagement": "0",
+      "popularity": "3288430",
+      "tw_tweets": "1896",
+      "tw_reach": "1786337",
+      "tw_favorites": "54",
+      "tw_retweets": "1295607",
+      "tw_since_id": "1110963906057400320",
+      "fb_shares": "332",
+      "fb_comments": "130",
+      "fb_reactions": "996",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "RaghuGo17393984",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-03-2019 07:21",
+      "timestamp_published": "1553667660",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "380256",
+      "date_published": "2019-03-28 17:45:45",
+      "date_added": "2019-03-28 13:18:07",
+      "date_modified": "2019-05-14 09:32:59",
+      "title": "In midnight shooting, BJP worker killed in Bengal; 3rd death in a fortnight",
+      "source": "www.hindustantimes.com",
+      "description": "According to the complaint filed with the police, Patanu Mondal (28) was sleeping with his wife and eight-month-old daughter when a few men entered the house and opened fire.",
+      "tags": [
+        "bengal",
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvaW4tbWlkbmlnaHQtc2hv\nb3RpbmctYmpwLXdvcmtlci1raWxsZWQtaW4tYmVuZ2FsLTNyZC1kZWF0aC1pbi1hLWZvcnRuaWdo\ndC9zdG9yeS1RbFBWYnZnalhRSGFXcmk0R1kzODZPLmh0bWw=",
+      "short_url": "https://goo.gl/C8WcLy",
+      "engagement": "0",
+      "popularity": "130278",
+      "tw_tweets": "146",
+      "tw_reach": "56684",
+      "tw_favorites": "0",
+      "tw_retweets": "57282",
+      "tw_since_id": "1128200914588688384",
+      "fb_shares": "165",
+      "fb_comments": "34",
+      "fb_reactions": "551",
+      "popularity_updated": "123",
+      "sentiment": "-1",
+      "screen_name": "SocialMediaBJP1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-03-2019 17:45",
+      "timestamp_published": "1553791545",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "146"
+    },
+    {
+      "id": "382679",
+      "date_published": "2019-03-29 05:02:24",
+      "date_added": "2019-03-29 00:37:40",
+      "date_modified": "2019-03-30 16:07:08",
+      "title": "Filmmakers to issue appeal against voting for the BJP",
+      "source": "www.thehindu.com",
+      "description": "Reasons include unleashing of polarisation and hate politics",
+      "tags": [
+        "bjp",
+        "hate"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtMjAxOS9maWxtbWFr\nZXJzLXRvLWlzc3VlLWFwcGVhbC1hZ2FpbnN0LXZvdGluZy1mb3ItdGhlLWJqcC9hcnRpY2xlMjY2\nNjcyODYuZWNl",
+      "short_url": "https://www.thehindu.com/elections/lok-sabha-2019/filmmakers-to-issue-appeal-against-voting-for-the-bjp/article26667286.ece",
+      "engagement": "0",
+      "popularity": "1253550",
+      "tw_tweets": "795",
+      "tw_reach": "540958",
+      "tw_favorites": "15",
+      "tw_retweets": "535931",
+      "tw_since_id": "1112007939802443776",
+      "fb_shares": "2602",
+      "fb_comments": "2705",
+      "fb_reactions": "13557",
+      "popularity_updated": "26",
+      "sentiment": "-1",
+      "screen_name": "palshailendra01",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-03-2019 05:02",
+      "timestamp_published": "1553832144",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "46"
+    },
+    {
+      "id": "384158",
+      "date_published": "2019-03-30 22:15:46",
+      "date_added": "2019-03-30 17:47:14",
+      "date_modified": "2019-04-03 16:02:16",
+      "title": "BJP chief  Amit Shah’s wife’s income grew 16-fold in 5 years",
+      "source": "www.nationalheraldindia.com",
+      "description": "The declaration was made by BJP chief Amit Shah while filing his nomination papers for the Lok Sabha elections from the Gandhinagar constituency",
+      "tags": [
+        "amit shah",
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmF0aW9uYWxoZXJhbGRpbmRpYS5jb20vZ292ZXJuYW5jZS9ianAtY2hpZWYt\nYW1pdC1zaGFocy13aWZlcy1pbmNvbWUtZ3Jldy0xNi1mb2xkLWluLTUteWVhcnM=",
+      "short_url": "https://www.nationalheraldindia.com/governance/bjp-chief-amit-shahs-wifes-income-grew-16-fold-in-5-years",
+      "engagement": "0",
+      "popularity": "1702100",
+      "tw_tweets": "577",
+      "tw_reach": "1573229",
+      "tw_favorites": "0",
+      "tw_retweets": "302251",
+      "tw_since_id": "1113441182519046144",
+      "fb_shares": "6382",
+      "fb_comments": "3651",
+      "fb_reactions": "19885",
+      "popularity_updated": "489",
+      "sentiment": "0",
+      "screen_name": "rambilasgarg",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-03-2019 22:15",
+      "timestamp_published": "1553980546",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "511"
+    },
+    {
+      "id": "384707",
+      "date_published": "2019-03-31 16:44:51",
+      "date_added": "2019-03-31 13:16:35",
+      "date_modified": "2019-03-31 13:16:35",
+      "title": "Indian elections 2019: Has karma taken a toll on Advani and Joshi or are they victims of their own politics?",
+      "source": "gulfnews.com",
+      "description": "Joint founders of the BJP and once enemies are languishing in the party's old-age home",
+      "tags": [
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9ndWxmbmV3cy5jb20vYW1wL3dvcmxkL2FzaWEvaW5kaWEvaW5kaWFuLWVsZWN0aW9u\ncy0yMDE5LWhhcy1rYXJtYS10YWtlbi1hLXRvbGwtb24tYWR2YW5pLWFuZC1qb3NoaS1vci1hcmUt\ndGhleS12aWN0aW1zLW9mLXRoZWlyLW93bi1wb2xpdGljcy0xLjE1NTQwMjE2NDYzNjE/X190d2l0\ndGVyX2ltcHJlc3Npb249dHJ1ZQ==",
+      "short_url": "https://gulfnews.com/amp/world/asia/india/indian-elections-2019-has-karma-taken-a-toll-on-advani-and-joshi-or-are-they-victims-of-their-own-politics-1.1554021646361?__twitter_impression=true",
+      "engagement": "0",
+      "popularity": "3799640",
+      "tw_tweets": "1282",
+      "tw_reach": "3595660",
+      "tw_favorites": "347",
+      "tw_retweets": "734166",
+      "tw_since_id": "1112497434381287424",
+      "fb_shares": "7",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "najibfarooq",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-03-2019 16:44",
+      "timestamp_published": "1554043491",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "385413",
+      "date_published": "2019-04-01 13:25:20",
+      "date_added": "2019-04-01 09:57:02",
+      "date_modified": "2019-04-10 18:17:18",
+      "title": "Article 35 A will be removed by 2020: Amit Shah, BJP President",
+      "source": "www.jammukashmirnow.com",
+      "description": " While speaking in News18 Agenda India Summit BJP President Amit Shah said scrapping Article 370 and Article 35A is BJP’s commitment since 1950. Shah added both the discriminatory Articles were not scrapped because BJP does not have the majority in Rajya Sabha and he believes that this will be done by 2020. The summit was attended by other leaders like Union minister Nirmala Sitharaman, CPI(M) leader Prakash Karat, and Opposition leaders Kapil Sibal and Manish Tewari among others.On the question",
+      "tags": [
+        "amit shah",
+        "bjp",
+        "india"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuamFtbXVrYXNobWlybm93LmNvbS9FbmN5Yy8yMDE5LzQvMS9BcnRpY2xlLTM1\nLUEtd2lsbC1iZS1yZW1vdmVkLWJ5LTIwMjAtQW1pdC1TaGFoLUJKUC1QcmVzaWRlbnQuaHRtbA==",
+      "short_url": "https://bit.ly/2V7SRz6",
+      "engagement": "0",
+      "popularity": "582853",
+      "tw_tweets": "355",
+      "tw_reach": "412633",
+      "tw_favorites": "3",
+      "tw_retweets": "180575",
+      "tw_since_id": "1116011780982149121",
+      "fb_shares": "131",
+      "fb_comments": "64",
+      "fb_reactions": "757",
+      "popularity_updated": "325",
+      "sentiment": "0",
+      "screen_name": "JammuKashmirNow",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-04-2019 13:25",
+      "timestamp_published": "1554117920",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "342"
+    },
+    {
+      "id": "386221",
+      "date_published": "2019-04-02 11:15:37",
+      "date_added": "2019-04-02 07:47:02",
+      "date_modified": "2019-04-03 07:17:03",
+      "title": "RBI to cut rates again before vote, BJP victory best for economy: Poll",
+      "source": "www.indiatoday.in",
+      "description": "India's growth outlook for the fiscal year ended in March and the current one was cut to 7.1 percent and 7.2 percent, respectively, from 7.3 percent predicted for both three months ago.",
+      "tags": [
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9idXNpbmVzcy9zdG9yeS9yYmktdG8tY3V0LXJhdGVz\nLWFnYWluLWJlZm9yZS12b3RlLWJqcC12aWN0b3J5LWJlc3QtZm9yLWVjb25vbXktcG9sbC0xNDkx\nODY4LTIwMTktMDQtMDI=",
+      "short_url": "https://www.indiatoday.in/business/story/rbi-to-cut-rates-again-before-vote-bjp-victory-best-for-economy-poll-1491868-2019-04-02",
+      "engagement": "0",
+      "popularity": "1760060",
+      "tw_tweets": "468",
+      "tw_reach": "1606956",
+      "tw_favorites": "115",
+      "tw_retweets": "362644",
+      "tw_since_id": "1113308936965324800",
+      "fb_shares": "827",
+      "fb_comments": "260",
+      "fb_reactions": "3458",
+      "popularity_updated": "22",
+      "sentiment": "0",
+      "screen_name": "dvdv14",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-04-2019 11:15",
+      "timestamp_published": "1554196537",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "40"
+    },
+    {
+      "id": "386808",
+      "date_published": "2019-04-03 02:45:20",
+      "date_added": "2019-04-02 23:17:47",
+      "date_modified": "2019-04-02 23:21:56",
+      "title": "#PollVault: BJP Ramps Up Communal Campaign, Congress-AAP Finally Go Separate Ways",
+      "source": "thewire.in",
+      "description": "A repository of the day's major election-related developments.",
+      "tags": [
+        "bjp",
+        "campaign",
+        "congress-aap"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL2VsZWN0aW9ucy0yMDE5LWJqcC1oaW5kdS10ZXJy\nb3I=",
+      "short_url": "https://thewire.in/politics/elections-2019-bjp-hindu-terror",
+      "engagement": "0",
+      "popularity": "299838",
+      "tw_tweets": "153",
+      "tw_reach": "224701",
+      "tw_favorites": "0",
+      "tw_retweets": "87229",
+      "tw_since_id": "1113354810835730433",
+      "fb_shares": "28",
+      "fb_comments": "19",
+      "fb_reactions": "91",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Poole30967822",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-04-2019 02:45",
+      "timestamp_published": "1554252320",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "387875",
+      "date_published": "2019-04-04 10:20:42",
+      "date_added": "2019-04-04 06:52:09",
+      "date_modified": "2019-04-05 05:27:16",
+      "title": "West Bengal: Body found hanging in BJP booth office in Siliguri",
+      "source": "zeenews.india.com",
+      "description": "A body of a 42-year-old man was found hanging at the booth office of Bharatiya Janta Party (BJP) in West Bengal's Siliguri on Thursday morning, causing alarm in the area.",
+      "tags": [
+        "bharatiya janta party",
+        "bjp",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9sb2stc2FiaGEtZ2VuZXJhbC1lbGVjdGlvbnMtMjAx\nOS93ZXN0LWJlbmdhbC1ib2R5LWZvdW5kLWhhbmdpbmctaW4tYmpwLWJvb3RoLW9mZmljZS1pbi1z\naWxpZ3VyaS0yMTkyNDQ3Lmh0bWw=",
+      "short_url": "https://zeenews.india.com/lok-sabha-general-elections-2019/west-bengal-body-found-hanging-in-bjp-booth-office-in-siliguri-2192447.html",
+      "engagement": "0",
+      "popularity": "513584",
+      "tw_tweets": "517",
+      "tw_reach": "250115",
+      "tw_favorites": "1",
+      "tw_retweets": "215708",
+      "tw_since_id": "1114018862708613121",
+      "fb_shares": "122",
+      "fb_comments": "82",
+      "fb_reactions": "639",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "himalayan_bird",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-04-2019 10:20",
+      "timestamp_published": "1554366042",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "38"
+    },
+    {
+      "id": "388480",
+      "date_published": "2019-04-05 01:18:48",
+      "date_added": "2019-04-04 21:51:40",
+      "date_modified": "2019-04-04 21:51:40",
+      "title": "BJP Seeks Action Against Manish Sisodia Over Letters To Voters",
+      "source": "www.ndtv.com",
+      "description": "The BJP has sought action against Delhi Deputy Chief Minister Manish Sisodia for allegedly sending lakhs of letters to voters about the improved state of government schools without permission from the Election Commission, violating the Model Code of Conduct.",
+      "tags": [
+        "bjp",
+        "manish sisodia"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vZGVsaGktbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nYmpwLXNlZWtzLWFjdGlvbi1hZ2FpbnN0LW1hbmlzaC1zaXNvZGlhLW92ZXItbGV0dGVycy10by12\nb3RlcnMtMjAxNzY2Mg==",
+      "short_url": "https://www.ndtv.com/delhi-news/lok-sabha-elections-2019-bjp-seeks-action-against-manish-sisodia-over-letters-to-voters-2017662",
+      "engagement": "0",
+      "popularity": "5275790",
+      "tw_tweets": "984",
+      "tw_reach": "2308414",
+      "tw_favorites": "0",
+      "tw_retweets": "2362263",
+      "tw_since_id": "1114056560907509760",
+      "fb_shares": "19",
+      "fb_comments": "15",
+      "fb_reactions": "11",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "dhirajbhasin2",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-04-2019 01:18",
+      "timestamp_published": "1554419928",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "18"
+    },
+    {
+      "id": "389789",
+      "date_published": "2019-04-06 15:25:41",
+      "date_added": "2019-04-06 11:57:08",
+      "date_modified": "2019-04-08 06:16:41",
+      "title": "Vote Against the BJP and Its Allies, Say Over 700 Theatre Artists",
+      "source": "thewire.in",
+      "description": "The BJP has given a free rein to 'Hindutva goons to indulge in the politics of hate and violence', the artists said.",
+      "tags": [
+        "bjp",
+        "hate",
+        "johannes justus rein",
+        "theatre",
+        "violence"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3RoZS1hcnRzL3RoZWF0cmUtYXJ0aXN0cy1zdGF0ZW1lbnQtYWdh\naW5zdC1ianAtZWxlY3Rpb25z",
+      "short_url": "https://thewire.in/the-arts/theatre-artists-statement-against-bjp-elections",
+      "engagement": "0",
+      "popularity": "834770",
+      "tw_tweets": "503",
+      "tw_reach": "610360",
+      "tw_favorites": "7",
+      "tw_retweets": "209079",
+      "tw_since_id": "1115105761720508416",
+      "fb_shares": "4252",
+      "fb_comments": "3034",
+      "fb_reactions": "20320",
+      "popularity_updated": "179",
+      "sentiment": "-1",
+      "screen_name": "PriyadarD",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-04-2019 15:25",
+      "timestamp_published": "1554557141",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "197"
+    },
+    {
+      "id": "390336",
+      "date_published": "2019-04-07 07:25:14",
+      "date_added": "2019-04-07 03:57:14",
+      "date_modified": "2019-04-07 03:57:15",
+      "title": "Pakistan PM accuses India of war hysteria over downed F-16 claim | The Telegram",
+      "source": "www.thetelegram.com",
+      "description": "By Syed Raza Hassan and Sankalp Phartiyal KARACHI, Pakistan/MUMBAI (Reuters) - Pakistani Prime Minister Imran Khan blamed India's ruling Bharatiya Janata Party (BJP) for",
+      "tags": [
+        "abu talib ibn ‘abd al-muttalib",
+        "bjp",
+        "india",
+        "pakistan",
+        "sankalp reddy",
+        "shahid afridi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhldGVsZWdyYW0uY29tL25ld3Mvd29ybGQvcGFraXN0YW4tcG0tYWNjdXNl\ncy1pbmRpYS1vZi13YXItaHlzdGVyaWEtb3Zlci1kb3duZWQtZi0xNi1jbGFpbS0yOTg3MzEv",
+      "short_url": "https://www.thetelegram.com/news/world/pakistan-pm-accuses-india-of-war-hysteria-over-downed-f-16-claim-298731/",
+      "engagement": "0",
+      "popularity": "9651330",
+      "tw_tweets": "1671",
+      "tw_reach": "1056331",
+      "tw_favorites": "7",
+      "tw_retweets": "5904929",
+      "tw_since_id": "1114891891391258624",
+      "fb_shares": "5",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "SahotaHarminder",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-04-2019 07:25",
+      "timestamp_published": "1554614714",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "391268",
+      "date_published": "2019-04-08 14:35:32",
+      "date_added": "2019-04-08 11:07:04",
+      "date_modified": "2019-04-08 11:47:16",
+      "title": "BJP promises to secure to protect faith, traditions and rituals related to Sabarimala in its manifesto",
+      "source": "www.opindia.com",
+      "description": "BJP promises to secure constitutional protection on issues related to faith and belief in its manifesto - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "india",
+        "sabarimala"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9ianAtbWFuaWZlc3RvLXByb21pc2VzLXRv\nLXNlY3VyZS10by1wcm90ZWN0LWZhaXRoLXRyYWRpdGlvbnMtYW5kLXJpdHVhbHMtcmVsYXRlZC10\nby1zYWJhcmltYWxhLw==",
+      "short_url": "https://www.opindia.com/2019/04/bjp-manifesto-promises-to-secure-to-protect-faith-traditions-and-rituals-related-to-sabarimala/",
+      "engagement": "0",
+      "popularity": "4977350",
+      "tw_tweets": "1275",
+      "tw_reach": "1179268",
+      "tw_favorites": "6",
+      "tw_retweets": "2723460",
+      "tw_since_id": "1115440074517352453",
+      "fb_shares": "435",
+      "fb_comments": "64",
+      "fb_reactions": "2351",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "16menon",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-04-2019 14:35",
+      "timestamp_published": "1554726932",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "32"
+    },
+    {
+      "id": "391924",
+      "date_published": "2019-04-09 06:20:26",
+      "date_added": "2019-04-09 02:52:06",
+      "date_modified": "2019-04-09 19:17:16",
+      "title": "I-T claims Rs 281-crore racket after Kamal Nath kin raids, BJP has advance estimate",
+      "source": "indianexpress.com",
+      "description": "Narender Saluja, Media Coordinator of Madhya Pradesh Chief Minister Kamal Nath, alleged the searches were carried out at the instance of the BJP and were “aimed at maligning the image of the Congress during elections”.",
+      "tags": [
+        "alfred gabriel nathorst",
+        "bjp",
+        "kamal",
+        "madhya pradesh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2luZGlhL2ktdC1jbGFpbXMtcnMtMjgx\nLWNyb3JlLXJhY2tldC1hZnRlci1rYW1hbC1uYXRoLWtpbi1yYWlkcy1ianAtaGFzLWFkdmFuY2Ut\nZXN0aW1hdGUtNTY2NTg4MC8=",
+      "short_url": "https://indianexpress.com/article/india/i-t-claims-rs-281-crore-racket-after-kamal-nath-kin-raids-bjp-has-advance-estimate-5665880/",
+      "engagement": "0",
+      "popularity": "1396910",
+      "tw_tweets": "392",
+      "tw_reach": "239870",
+      "tw_favorites": "5",
+      "tw_retweets": "810455",
+      "tw_since_id": "1115664802083430400",
+      "fb_shares": "119",
+      "fb_comments": "43",
+      "fb_reactions": "246",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "kshitij_17",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-04-2019 06:20",
+      "timestamp_published": "1554783626",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "393102",
+      "date_published": "2019-04-10 11:10:00",
+      "date_added": "2019-04-10 07:42:05",
+      "date_modified": "2019-04-10 07:42:06",
+      "title": "Times of India spreads fake news, says Meerut student Umam Khanam was \"harassed\" for \"not wearing a BJP cap\" - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Times of India journalist Piyush Rai has resorted to false propaganda to target the BJP by reporting that the 22-year old Meerut Law College student, Umam Khanam, was suspended after she refused to wear a BJP cap. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "india",
+        "journalist",
+        "propaganda"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC90aW1lcy1vZi1pbmRpYS1zcHJlYWRzLWZh\na2UtbmV3cy1zYXlzLW1lZXJ1dC1zdHVkZW50LXVtYW0ta2hhbmFtLXdhcy1oYXJhc3NlZC1mb3It\nbm90LXdlYXJpbmctYS1ianAtY2FwLw==",
+      "short_url": "https://www.opindia.com/2019/04/times-of-india-spreads-fake-news-says-meerut-student-umam-khanam-was-harassed-for-not-wearing-a-bjp-cap/",
+      "engagement": "0",
+      "popularity": "3146830",
+      "tw_tweets": "914",
+      "tw_reach": "1010476",
+      "tw_favorites": "175",
+      "tw_retweets": "1590465",
+      "tw_since_id": "1116051528115216386",
+      "fb_shares": "256",
+      "fb_comments": "51",
+      "fb_reactions": "659",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-04-2019 11:10",
+      "timestamp_published": "1554887400",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "18"
+    },
+    {
+      "id": "393698",
+      "date_published": "2019-04-11 00:35:38",
+      "date_added": "2019-04-10 21:07:14",
+      "date_modified": "2019-04-11 10:17:01",
+      "title": "Former Congress leader PC George joins Kerala NDA in big boost for BJP",
+      "source": "www.indiatoday.in",
+      "description": "Former Congress leader and now an Independent MLA PC George has crossed over to support the NDA in the upcoming Lok Sabha elections.",
+      "tags": [
+        "bjp",
+        "congress",
+        "george vi",
+        "nda"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\ncGMtZ2VvcmdlLWpvaW5zLWtlcmFsYS1uZGEtMTQ5ODc5OS0yMDE5LTA0LTEw",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/pc-george-joins-kerala-nda-1498799-2019-04-10",
+      "engagement": "0",
+      "popularity": "1376820",
+      "tw_tweets": "803",
+      "tw_reach": "714723",
+      "tw_favorites": "10",
+      "tw_retweets": "550914",
+      "tw_since_id": "1116269169455042560",
+      "fb_shares": "712",
+      "fb_comments": "699",
+      "fb_reactions": "4553",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "shriparv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-04-2019 00:35",
+      "timestamp_published": "1554935738",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "395230",
+      "date_published": "2019-04-12 21:15:03",
+      "date_added": "2019-04-12 17:47:24",
+      "date_modified": "2019-04-15 09:43:17",
+      "title": "'I Am A Saint, Will Curse You If You Don't Vote For Me', BJP's Sakshi Maharaj Warns Voters",
+      "source": "www.outlookindia.com",
+      "description": "Maharaj courted controversy last month by saying that there no elections would be required after the 2019 elections owing to",
+      "tags": [
+        "bjp",
+        "curse",
+        "saint",
+        "sakshi maharaj"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3V0bG9va2luZGlhLmNvbS93ZWJzaXRlL3N0b3J5L2luZGlhLW5ld3MtaS1h\nbS1hLXNhaW50LXdpbGwtY3Vyc2UteW91LWlmLXlvdS1kb250LXZvdGUtZm9yLW1lLXdhcm5zLWJq\ncHMtc2Frc2hpLW1haGFyYWovMzI4NjI2",
+      "short_url": "https://www.outlookindia.com/website/story/india-news-i-am-a-saint-will-curse-you-if-you-dont-vote-for-me-warns-bjps-sakshi-maharaj/328626",
+      "engagement": "0",
+      "popularity": "2337830",
+      "tw_tweets": "891",
+      "tw_reach": "657685",
+      "tw_favorites": "2",
+      "tw_retweets": "1174781",
+      "tw_since_id": "1117694226601529344",
+      "fb_shares": "4372",
+      "fb_comments": "4749",
+      "fb_reactions": "26575",
+      "popularity_updated": "38",
+      "sentiment": "0",
+      "screen_name": "FaridaPatel",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-04-2019 21:15",
+      "timestamp_published": "1555096503",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "58"
+    },
+    {
+      "id": "395705",
+      "date_published": "2019-04-13 13:05:43",
+      "date_added": "2019-04-13 09:37:52",
+      "date_modified": "2019-04-14 10:01:35",
+      "title": "Rafale bombshell: French authorities cleared Anil Ambani's $162 million debt after NDA deal, says local media",
+      "source": "www.indiatoday.in",
+      "description": "By the time the prime minister announced India's deal to buy 36 Rafale combat aircraft, the total amount owed by Reliance to the French state in taxes was at least 151 million euros, the report said. However, just six months after PM Modi's Rafale announcement, the French tax authorities reportedly waived off Anil Ambani's 143.7 million euros tax debt.",
+      "tags": [
+        "anil kapoor",
+        "nda",
+        "rafale"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9zdG9yeS9yYWZhbGUtZGVhbC1mcmVuY2gt\nYXV0aG9yaXRpZXMtYW5pbC1hbWJhbmktMTYyLTYtbWlsbGlvbi1kb2xsYXItZGVidC1uYXJlbmRy\nYS1tb2RpLTE1MDEwMDAtMjAxOS0wNC0xMw==",
+      "short_url": "https://www.indiatoday.in/india/story/rafale-deal-french-authorities-anil-ambani-162-6-billion-dollar-debt-narendra-modi-1501000-2019-04-13",
+      "engagement": "0",
+      "popularity": "10015600",
+      "tw_tweets": "635",
+      "tw_reach": "9930894",
+      "tw_favorites": "175",
+      "tw_retweets": "1646789",
+      "tw_since_id": "1117337053052710912",
+      "fb_shares": "11024",
+      "fb_comments": "3806",
+      "fb_reactions": "27601",
+      "popularity_updated": "20",
+      "sentiment": "0",
+      "screen_name": "itsminespirit",
+      "status": "1",
+      "clicks": "1",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-04-2019 13:05",
+      "timestamp_published": "1555153543",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "396539",
+      "date_published": "2019-04-14 16:30:10",
+      "date_added": "2019-04-14 13:02:11",
+      "date_modified": "2019-04-14 13:02:12",
+      "title": "‘Amit Shah Is A Devil’: Video Shows Goa Church Priest  Warning Against Voting For BJP; Says God Punished Parrikar With Cancer",
+      "source": "swarajyamag.com",
+      "description": "“If you insult God, you will be punished..Parrikar changed law on holiday of Francis Xavier. He died in pain.”",
+      "tags": [
+        "amit shah",
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvYW1pdC1zaGFoLWlzLWEtZGV2aWwtdmlkZW8t\nc2hvd3MtZ29hLWNodXJjaC1wcmllc3Qtd2FybmluZy1hZ2FpbnN0LXZvdGluZy1mb3ItYmpwLXNh\neXMtZ29kLXB1bmlzaGVkLXBhcnJpa2FyLXdpdGgtY2FuY2Vy",
+      "short_url": "https://swarajyamag.com/insta/amit-shah-is-a-devil-video-shows-goa-church-priest-warning-against-voting-for-bjp-says-god-punished-parrikar-with-cancer",
+      "engagement": "0",
+      "popularity": "4343190",
+      "tw_tweets": "1218",
+      "tw_reach": "1469277",
+      "tw_favorites": "17",
+      "tw_retweets": "2151965",
+      "tw_since_id": "1117694310256975872",
+      "fb_shares": "1258",
+      "fb_comments": "773",
+      "fb_reactions": "3238",
+      "popularity_updated": "2",
+      "sentiment": "-1",
+      "screen_name": "sukantamishra",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-04-2019 16:30",
+      "timestamp_published": "1555252210",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "397417",
+      "date_published": "2019-04-15 16:00:35",
+      "date_added": "2019-04-15 12:32:18",
+      "date_modified": "2019-04-18 19:17:08",
+      "title": "Maneka Gandhi's Latest Shocker Reveals 'ABCD' Grading of Villages Based on Votes for BJP",
+      "source": "www.news18.com",
+      "description": "In Sultanpur, Maneka Gandhi told prospective voters that post elections, there would be an ‘ABCD’ system based on which she will prioritise development for only those villages who register maximum votes for the BJP as a reward.",
+      "tags": [
+        "bjp",
+        "maneka gandhi",
+        "shocker"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL21hbmVrYS1nYW5kaGlzLWxhdGVz\ndC1zaG9ja2VyLXJldmVhbHMtYWJjZC1ncmFkaW5nLW9mLXZpbGxhZ2VzLWJhc2VkLW9uLXZvdGVz\nLWZvci1ianAtMjEwMzIyOS5odG1s",
+      "short_url": "https://www.news18.com/news/politics/maneka-gandhis-latest-shocker-reveals-abcd-grading-of-villages-based-on-votes-for-bjp-2103229.html",
+      "engagement": "0",
+      "popularity": "1362420",
+      "tw_tweets": "670",
+      "tw_reach": "856172",
+      "tw_favorites": "49",
+      "tw_retweets": "472484",
+      "tw_since_id": "1118926023087669250",
+      "fb_shares": "1076",
+      "fb_comments": "814",
+      "fb_reactions": "2840",
+      "popularity_updated": "28",
+      "sentiment": "0",
+      "screen_name": "Mansi_11S",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-04-2019 16:00",
+      "timestamp_published": "1555336835",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "48"
+    },
+    {
+      "id": "398571",
+      "date_published": "2019-04-16 21:00:22",
+      "date_added": "2019-04-16 17:32:13",
+      "date_modified": "2019-04-17 19:02:12",
+      "title": "After Mayawati, Navjot Sidhu appeals to Muslims not to split their votes",
+      "source": "indianexpress.com",
+      "description": "Addressing a rally in Bihar's Katihar Lok Sabha constituency, the Punjab minister said the BJP was running a divisive campaign and cautioned the Muslim voters against splitting their votes.",
+      "tags": [
+        "bihar's katihar lok sabha",
+        "bjp",
+        "campaign",
+        "mayawati",
+        "muslim",
+        "muslims",
+        "navjot singh sidhu"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvbmF2am90LXNpZGh1LW11c2xpbS12\nb3RlcnMtYmloYXItcmFsbHktcG0tbW9kaS01Njc4NDkwLw==",
+      "short_url": "https://indianexpress.com/elections/navjot-sidhu-muslim-voters-bihar-rally-pm-modi-5678490/",
+      "engagement": "0",
+      "popularity": "1121050",
+      "tw_tweets": "444",
+      "tw_reach": "455303",
+      "tw_favorites": "4",
+      "tw_retweets": "510628",
+      "tw_since_id": "1118559891826913282",
+      "fb_shares": "723",
+      "fb_comments": "1119",
+      "fb_reactions": "3893",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "pratibha_er",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-04-2019 21:00",
+      "timestamp_published": "1555441222",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "399050",
+      "date_published": "2019-04-17 13:35:02",
+      "date_added": "2019-04-17 10:07:19",
+      "date_modified": "2019-04-17 13:03:09",
+      "title": "Sadhvi Pragya joins BJP, may contest against Digvijaya Singh from Bhopal",
+      "source": "www.indiatoday.in",
+      "description": "\"I have formally joined the BJP, I will contest elections [Lok Sabha 2019] and will also win,\" Sadhvi Pragya said.",
+      "tags": [
+        "bjp",
+        "digvijaya singh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nc2FkaHZpLXByYWd5YS1ianAtZGlndmlqYXlhLXNpbmdoLWJob3BhbC0xNTAzODI0LTIwMTktMDQt\nMTc=",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/sadhvi-pragya-bjp-digvijaya-singh-bhopal-1503824-2019-04-17",
+      "engagement": "0",
+      "popularity": "9401000",
+      "tw_tweets": "1322",
+      "tw_reach": "4290945",
+      "tw_favorites": "13",
+      "tw_retweets": "4116622",
+      "tw_since_id": "1118715668986126337",
+      "fb_shares": "263",
+      "fb_comments": "573",
+      "fb_reactions": "2001",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "IndiaTodayFLASH",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-04-2019 13:35",
+      "timestamp_published": "1555500902",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "399720",
+      "date_published": "2019-04-18 10:40:16",
+      "date_added": "2019-04-18 07:13:28",
+      "date_modified": "2019-04-18 17:42:55",
+      "title": "Sadhvi Pragya vs Digvijaya Singh: Is BJP playing politics of Hindu extremism?",
+      "source": "www.indiatoday.in",
+      "description": "Malegaon blast accused Sadhvi Pragya Singh Thakur,  who is out on bail, today joined the Bharatiya Janata Party (BJP). And hours after she joined the party, BJP announced her name as its candidate from Bhopal, who will now take on Congress veteran Digvijaya Singh.",
+      "tags": [
+        "bjp",
+        "charanjit singh",
+        "digvijaya singh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9wcm9ncmFtbWUvbmV3cy10b2RheS92aWRlby9zYWRo\ndmktcHJhZ3lhLXZzLWRpZ3ZpamF5YS1zaW5naC1pcy1ianAtcGxheWluZy1wb2xpdGljcy1vZi1o\naW5kdS1leHRyZW1pc20tMTUwNDM1OC0yMDE5LTA0LTE3",
+      "short_url": "https://www.indiatoday.in/programme/news-today/video/sadhvi-pragya-vs-digvijaya-singh-is-bjp-playing-politics-of-hindu-extremism-1504358-2019-04-17",
+      "engagement": "0",
+      "popularity": "7193200",
+      "tw_tweets": "462",
+      "tw_reach": "7307726",
+      "tw_favorites": "65",
+      "tw_retweets": "1140258",
+      "tw_since_id": "1119126251392815104",
+      "fb_shares": "83",
+      "fb_comments": "172",
+      "fb_reactions": "388",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "SaffronWatch",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-04-2019 10:40",
+      "timestamp_published": "1555576816",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "15"
+    },
+    {
+      "id": "400867",
+      "date_published": "2019-04-19 19:30:42",
+      "date_added": "2019-04-19 16:02:30",
+      "date_modified": "2019-05-08 10:13:12",
+      "title": "Pragya Thakur is anti-national. So is the BJP’s decision to field her",
+      "source": "www.hindustantimes.com",
+      "description": "This humiliation of a gallant Ashok Chakra hero by the BJP’s Bhopal Lok Sabha seat candidate is an insult not just to Hemant Karkare’s individual sacrifice; it is a smear on the uniform.",
+      "tags": [
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2NvbHVtbnMvcHJhZ3lhLXRoYWt1ci1pcy1h\nbnRpLW5hdGlvbmFsLXNvLWlzLXRoZS1ianAtcy1kZWNpc2lvbi10by1maWVsZC1oZXIvc3Rvcnkt\nVXZPcVdjSTVlQ2JGa0NoaFR6ZWZOSi5odG1s",
+      "short_url": "https://m.hindustantimes.com/columns/pragya-thakur-is-anti-national-so-is-the-bjp-s-decision-to-field-her/story-UvOqWcI5eCbFkChhTzefNJ.html",
+      "engagement": "0",
+      "popularity": "2294850",
+      "tw_tweets": "983",
+      "tw_reach": "699986",
+      "tw_favorites": "2",
+      "tw_retweets": "1145049",
+      "tw_since_id": "1126036656740544513",
+      "fb_shares": "3715",
+      "fb_comments": "3042",
+      "fb_reactions": "15704",
+      "popularity_updated": "734",
+      "sentiment": "-1",
+      "screen_name": "tahmeedehtesham",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-04-2019 19:30",
+      "timestamp_published": "1555695042",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "749"
+    },
+    {
+      "id": "401859",
+      "date_published": "2019-04-20 21:00:00",
+      "date_added": "2019-04-20 17:32:10",
+      "date_modified": "2019-04-20 19:47:19",
+      "title": "BJP base forced Sadhvi Pragya to apologize, why doesn’t 'secular' voter demand same from 'secular' parties? - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Politicians do not exist in a vacuum. Politicians cater to their supporters. And different parties have different support bases. - Latest India News from Opindia.com",
+      "tags": [
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9ianAtYmFzZS1mb3JjZWQtc2FkaHZpLXBy\nYWd5YS10by1hcG9sb2dpemUtd2h5LWRvZXNudC1zZWN1bGFyLXZvdGVyLWRlbWFuZC1zYW1lLWZy\nb20tc2VjdWxhci1wYXJ0aWVzLw==",
+      "short_url": "http://bit.ly/2W2wtYx",
+      "engagement": "0",
+      "popularity": "1078160",
+      "tw_tweets": "419",
+      "tw_reach": "680451",
+      "tw_favorites": "21",
+      "tw_retweets": "376665",
+      "tw_since_id": "1119675763635232768",
+      "fb_shares": "236",
+      "fb_comments": "90",
+      "fb_reactions": "724",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 21:00",
+      "timestamp_published": "1555786800",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "402239",
+      "date_published": "2019-04-21 08:45:06",
+      "date_added": "2019-04-21 05:17:29",
+      "date_modified": "2019-05-12 16:32:18",
+      "title": "Express Interview with Amit Shah: Voters are no more hostage to leaders, so drawing-room deals don’t work on ground",
+      "source": "indianexpress.com",
+      "description": "BJP president Amit Shah is keeping count: 96 rallies since polls were notified, he will cross his 100th this weekend. On April 19, en route to Gujarat, from where, he says, he’s seeking a public mandate to the ‘highest panchayat (Lok Sabha)’, he spoke with The Indian Express.",
+      "tags": [
+        "amit shah",
+        "bjp",
+        "gujarat",
+        "hostage"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYW1pdC1zaGFoLWludGVydmlldy1s\nb2stc2FiaGEtZWxlY3Rpb25zLWJqcC1uYXJlbmRyYS1tb2RpLXJhZmFsZS1zYWRodmktcHJhZ3lh\nLW11c2xpbXMtY29uZ3Jlc3MtbmF0aW9uYWxpc20tY293LXZpZ2lsYW50aXNtLTU2ODYyMDMv",
+      "short_url": "https://indianexpress.com/elections/amit-shah-interview-lok-sabha-elections-bjp-narendra-modi-rafale-sadhvi-pragya-muslims-congress-nationalism-cow-vigilantism-5686203/",
+      "engagement": "0",
+      "popularity": "11489500",
+      "tw_tweets": "1111",
+      "tw_reach": "11022141",
+      "tw_favorites": "49",
+      "tw_retweets": "2136154",
+      "tw_since_id": "1127581816070656003",
+      "fb_shares": "384",
+      "fb_comments": "276",
+      "fb_reactions": "7084",
+      "popularity_updated": "770",
+      "sentiment": "0",
+      "screen_name": "MihirkJha",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 08:45",
+      "timestamp_published": "1555829106",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "791"
+    },
+    {
+      "id": "403411",
+      "date_published": "2019-04-22 18:59:35",
+      "date_added": "2019-04-22 15:31:52",
+      "date_modified": "2019-04-27 10:56:47",
+      "title": "Hair Stylist Jawed Habib joins BJP",
+      "source": "indianexpress.com",
+      "description": "\"Till date, I was the guard of hair, but from now onwards I am the guard of this country,\" ANI quoted Habib as saying after joining the saffron party.",
+      "tags": [
+        "bjp",
+        "habib"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvaGFpci1zdHlsaXN0LWphd2VkLWhh\nYmliLWpvaW5zLWJqcC01Njg5MDExLw==",
+      "short_url": "http://bit.ly/2vhVSBD",
+      "engagement": "0",
+      "popularity": "1031370",
+      "tw_tweets": "468",
+      "tw_reach": "393748",
+      "tw_favorites": "5",
+      "tw_retweets": "444666",
+      "tw_since_id": "1122061482584207361",
+      "fb_shares": "2034",
+      "fb_comments": "2891",
+      "fb_reactions": "25237",
+      "popularity_updated": "34",
+      "sentiment": "0",
+      "screen_name": "pvssarma",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 18:59",
+      "timestamp_published": "1555952375",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "48"
+    },
+    {
+      "id": "403915",
+      "date_published": "2019-04-23 10:25:14",
+      "date_added": "2019-04-23 06:57:22",
+      "date_modified": "2019-04-26 15:27:07",
+      "title": "In 'election of shame' BJP gets 17 votes from EVM with 9 votes, embarrassed Election Commission changes 'entire set of EVM' in Goa - Janta Ka Reporter 2.0",
+      "source": "www.jantakareporter.com",
+      "description": "In a shocking development, BJP received 17 votes from its quota of 9 votes in an EVM in Goa just before the polling began for third phase of Lok Sabha polls",
+      "tags": [
+        "bjp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5qYW50YWthcmVwb3J0ZXIuY29tL2luZGlhL2luLWVsZWN0aW9uLW9mLXNoYW1l\nLWJqcC1nZXRzLTE3LXZvdGVzLWZyb20tZXZtLXdpdGgtOS12b3Rlcy1lbWJhcnJhc3NlZC1lbGVj\ndGlvbi1jb21taXNzaW9uLWNoYW5nZXMtZW50aXJlLXNldC1vZi1ldm0taW4tZ29hLzI0MzU2OS8=",
+      "short_url": "https://t.co/mQKoEmgw6S",
+      "engagement": "0",
+      "popularity": "2413080",
+      "tw_tweets": "794",
+      "tw_reach": "2495133",
+      "tw_favorites": "256",
+      "tw_retweets": "328285",
+      "tw_since_id": "1121766438165811201",
+      "fb_shares": "6858",
+      "fb_comments": "2328",
+      "fb_reactions": "11999",
+      "popularity_updated": "43",
+      "sentiment": "0",
+      "screen_name": "CRamanaKumar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 10:25",
+      "timestamp_published": "1556007914",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "60"
+    },
+    {
+      "id": "405447",
+      "date_published": "2019-04-24 22:45:21",
+      "date_added": "2019-04-24 19:17:02",
+      "date_modified": "2019-04-27 03:22:32",
+      "title": "BJP's late turn to star power means internal surveys haven't left great hope - NewsX",
+      "source": "www.newsx.com",
+      "description": "BJP's late turn to star power means internal surveys haven't left great hope: If all was well and vikas had indeed visited the country post-2014, why splurge on political greenhorns like Gautam Gambhir and Sunny Deol?",
+      "tags": [
+        "bjp",
+        "gautama buddha",
+        "patel sudhakar reddy"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3c3guY29tL25hdGlvbmFsL2JqcHMtbGF0ZS10dXJuLXRvLXN0YXItcG93\nZXItbWVhbnMtaW50ZXJuYWwtc3VydmV5cy1oYXZlbnQtbGVmdC1ncmVhdC1ob3Bl",
+      "short_url": "https://www.newsx.com/national/bjps-late-turn-to-star-power-means-internal-surveys-havent-left-great-hope",
+      "engagement": "0",
+      "popularity": "2056620",
+      "tw_tweets": "840",
+      "tw_reach": "1180391",
+      "tw_favorites": "474",
+      "tw_retweets": "779567",
+      "tw_since_id": "1121946620768051202",
+      "fb_shares": "78",
+      "fb_comments": "17",
+      "fb_reactions": "197",
+      "popularity_updated": "48",
+      "sentiment": "0",
+      "screen_name": "sourav_sngupta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 22:45",
+      "timestamp_published": "1556138721",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "71"
+    },
+    {
+      "id": "405747",
+      "date_published": "2019-04-25 10:50:37",
+      "date_added": "2019-04-25 07:23:08",
+      "date_modified": "2019-05-06 09:18:03",
+      "title": "Tata Memorial doctors slam BJP Bhopal candidate Pragya Singh Thakur's claim that cow urine can cure Cancer",
+      "source": "mumbaimirror.indiatimes.com",
+      "description": "Tata Memorial director Rajendra Badwe and his team slam BJP’s Bhopal candidate Pragya Thakur for ‘misguiding’ patients; ex-JJ Dean TP Lahane, under whose watch",
+      "tags": [
+        "bjp",
+        "charanjit singh",
+        "cow"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9tdW1iYWltaXJyb3IuaW5kaWF0aW1lcy5jb20vbXVtYmFpL2NvdmVyLXN0b3J5L3do\nYXQtYnVsbC1zYXktdGF0YS1kb2N0b3JzL2FydGljbGVzaG93LzY5MDMzOTYxLmNtcw==",
+      "short_url": "https://mumbaimirror.indiatimes.com/mumbai/cover-story/what-bull-say-tata-doctors/articleshow/69033961.cms",
+      "engagement": "0",
+      "popularity": "3509830",
+      "tw_tweets": "847",
+      "tw_reach": "3029397",
+      "tw_favorites": "10",
+      "tw_retweets": "795512",
+      "tw_since_id": "1125298009745559552",
+      "fb_shares": "4565",
+      "fb_comments": "2208",
+      "fb_reactions": "12385",
+      "popularity_updated": "81",
+      "sentiment": "0",
+      "screen_name": "Akash97Mandal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 10:50",
+      "timestamp_published": "1556182237",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "173",
+          "query": "\"Swaraj Abhiyan\" OR \"Yogendra Yadav\" OR _YogendraYadav OR _SwarajIndia OR \"Swaraj India\" OR \"Prashant Bhushan\" OR pbhushan1"
+        }
+      ],
+      "popularity_logs": "100"
+    },
+    {
+      "id": "406619",
+      "date_published": "2019-04-26 15:05:12",
+      "date_added": "2019-04-26 11:37:42",
+      "date_modified": "2019-04-27 14:32:13",
+      "title": "Punjabi singer Daler Mehndi joins Bharatiya Janata Party",
+      "source": "www.tribuneindia.com",
+      "description": "NEW DELHI: Eminent Punjabi singer Daler Mehndi on Friday joined the BJP at its Delhi office here in the presence of Delhi BJP chief Manoj Tiwari and Union minister Vijay Goel.",
+      "tags": [
+        "bjp",
+        "daler mehndi",
+        "manoj tiwari",
+        "vijay goel"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudHJpYnVuZWluZGlhLmNvbS9uZXdzL3B1bmphYi9wdW5qYWJpLXNpbmdlci1k\nYWxlci1tZWhuZGktam9pbnMtYmhhcmF0aXlhLWphbmF0YS1wYXJ0eS83NjQwOTQuaHRtbA==",
+      "short_url": "https://www.tribuneindia.com/news/punjab/punjabi-singer-daler-mehndi-joins-bharatiya-janata-party/764094.html",
+      "engagement": "0",
+      "popularity": "638803",
+      "tw_tweets": "236",
+      "tw_reach": "617012",
+      "tw_favorites": "24",
+      "tw_retweets": "116900",
+      "tw_since_id": "1122115739920420866",
+      "fb_shares": "19",
+      "fb_comments": "25",
+      "fb_reactions": "146",
+      "popularity_updated": "213",
+      "sentiment": "0",
+      "screen_name": "nailainayat",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 15:05",
+      "timestamp_published": "1556283912",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "225"
+    },
+    {
+      "id": "407161",
+      "date_published": "2019-04-27 09:20:02",
+      "date_added": "2019-04-27 05:52:20",
+      "date_modified": "2019-04-28 17:17:20",
+      "title": "INTERVIEW |  BJP’s political jingles won’t work: Kanhaiya Kumar",
+      "source": "www.newindianexpress.com",
+      "description": "Locked in a fierce battle for the 2019 Lok Sabha elections in Begusarai, former president of the JNU Students Union and CPI candidate Kanhaiya Kumar has taken on Union minister Giriraj Singh.",
+      "tags": [
+        "bjp",
+        "cpi",
+        "giriraj singh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAxOS9hcHIvMjcvaW50ZXJ2\naWV3LS0tYmpwcy1wb2xpdGljYWwtamluZ2xlcy13b250LXdvcmsta2FuaGFpeWEta3VtYXItMTk2\nOTUxMS5odG1s",
+      "short_url": "http://www.newindianexpress.com/nation/2019/apr/27/interview---bjps-political-jingles-wont-work-kanhaiya-kumar-1969511.html",
+      "engagement": "0",
+      "popularity": "2202890",
+      "tw_tweets": "1631",
+      "tw_reach": "2232706",
+      "tw_favorites": "575",
+      "tw_retweets": "347226",
+      "tw_since_id": "1122519755817193472",
+      "fb_shares": "163",
+      "fb_comments": "337",
+      "fb_reactions": "1826",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "18AKGOYAL",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 09:20",
+      "timestamp_published": "1556349602",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "407898",
+      "date_published": "2019-04-28 08:14:13",
+      "date_added": "2019-04-28 04:47:33",
+      "date_modified": "2019-04-29 04:37:36",
+      "title": "With Pragya Thakur in the fray, Hindutva no longer needs to wear a mask",
+      "source": "timesofindia.indiatimes.com",
+      "description": "There’s an intriguing absence of outrage about the fact that an individual accused in a terror case is now the BJP’s Bhopal candidate. Pragya Thakur (‘Sadhvi’ to her followers) remains charged under UAPA, India’s main...",
+      "tags": [
+        "bjp",
+        "terror",
+        "the fray"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vYmxvZ3MvYmxvb2R5LW1hcnkvd2l0\naC1wcmFneWEtdGhha3VyLWluLXRoZS1mcmF5LWhpbmR1dHZhLW5vLWxvbmdlci1uZWVkcy10by13\nZWFyLWEtbWFzay8=",
+      "short_url": "https://timesofindia.indiatimes.com/blogs/bloody-mary/with-pragya-thakur-in-the-fray-hindutva-no-longer-needs-to-wear-a-mask/",
+      "engagement": "0",
+      "popularity": "8531460",
+      "tw_tweets": "716",
+      "tw_reach": "8642598",
+      "tw_favorites": "130",
+      "tw_retweets": "1363061",
+      "tw_since_id": "1122701644062289920",
+      "fb_shares": "285",
+      "fb_comments": "493",
+      "fb_reactions": "980",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "sumonseng",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 08:14",
+      "timestamp_published": "1556432053",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "408590",
+      "date_published": "2019-04-29 11:25:16",
+      "date_added": "2019-04-29 07:57:15",
+      "date_modified": "2019-05-30 05:36:54",
+      "title": "I will quit politics, if Rahul Gandhi loses Amethi: Navjot Singh Sidhu",
+      "source": "economictimes.indiatimes.com",
+      "description": "He rejected the claim that BJP candidate Smriti Irani is giving a tough fight to Rahul Gandhi in Amethi.",
+      "tags": [
+        "amethi",
+        "bjp",
+        "navjot singh sidhu",
+        "rahul gandhi",
+        "smriti irani"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZWxlY3Rpb25zL2xvay1z\nYWJoYS9pbmRpYS9pLXdpbGwtcXVpdC1wb2xpdGljcy1pZi1yYWh1bC1nYW5kaGktbG9zZXMtYW1l\ndGhpLW5hdmpvdC1zaW5naC1zaWRodS9hcnRpY2xlc2hvdy82OTA5MTQ2OC5jbXM=",
+      "short_url": "http://ecoti.in/X0ieuZ",
+      "engagement": "0",
+      "popularity": "9539950",
+      "tw_tweets": "940",
+      "tw_reach": "7028708",
+      "tw_favorites": "131",
+      "tw_retweets": "2841787",
+      "tw_since_id": "1133939154587226112",
+      "fb_shares": "124",
+      "fb_comments": "463",
+      "fb_reactions": "1437",
+      "popularity_updated": "778",
+      "sentiment": "0",
+      "screen_name": "naharoman",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 11:25",
+      "timestamp_published": "1556529916",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "802"
+    },
+    {
+      "id": "409636",
+      "date_published": "2019-04-30 18:00:10",
+      "date_added": "2019-04-30 14:32:14",
+      "date_modified": "2019-04-30 23:42:07",
+      "title": "Rahul Gandhi contempt hearing: Live Updates from Supreme Court",
+      "source": "barandbench.com",
+      "description": "Live updatesf from the hearing in the contempt petition filed by BJP MP Meenakshi Lekhi against Congress President Rahul Gandhi.",
+      "tags": [
+        "bjp",
+        "congress",
+        "meenakshi lekhi",
+        "rahul gandhi",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9iYXJhbmRiZW5jaC5jb20vcmFodWwtZ2FuZGhpLWNvbnRlbXB0LWhlYXJpbmctbGl2\nZS11cGRhdGVzLWZyb20tc3VwcmVtZS1jb3VydC8=",
+      "short_url": "https://barandbench.com/rahul-gandhi-contempt-hearing-live-updates-from-supreme-court/",
+      "engagement": "0",
+      "popularity": "1912340",
+      "tw_tweets": "472",
+      "tw_reach": "1275392",
+      "tw_favorites": "0",
+      "tw_retweets": "635924",
+      "tw_since_id": "1123435669563555842",
+      "fb_shares": "114",
+      "fb_comments": "52",
+      "fb_reactions": "466",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "haritcn",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 18:00",
+      "timestamp_published": "1556640010",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "410593",
+      "date_published": "2019-05-01 20:15:00",
+      "date_added": "2019-05-01 16:47:23",
+      "date_modified": "2019-05-10 17:16:41",
+      "title": "No contradiction between seeing BJP as threat to India & voting NOTA this election",
+      "source": "theprint.in",
+      "description": "NOTA option is ‘No Till An Alternative’ for us – a limited and last resort action this election.",
+      "tags": [
+        "bjp",
+        "india"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVwcmludC5pbi9vcGluaW9uL25vLWNvbnRyYWRpY3Rpb24tYmV0d2Vlbi1zZWVp\nbmctYmpwLWFzLXRocmVhdC10by1pbmRpYS12b3Rpbmctbm90YS10aGlzLWVsZWN0aW9uLzIyOTYw\nMi8=",
+      "short_url": "http://bit.ly/2IStqPu",
+      "engagement": "0",
+      "popularity": "2836290",
+      "tw_tweets": "630",
+      "tw_reach": "2459122",
+      "tw_favorites": "14",
+      "tw_retweets": "660428",
+      "tw_since_id": "1126849813704654850",
+      "fb_shares": "50",
+      "fb_comments": "32",
+      "fb_reactions": "210",
+      "popularity_updated": "48",
+      "sentiment": "0",
+      "screen_name": "ThePrintIndia",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 20:15",
+      "timestamp_published": "1556734500",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "173",
+          "query": "\"Swaraj Abhiyan\" OR \"Yogendra Yadav\" OR _YogendraYadav OR _SwarajIndia OR \"Swaraj India\" OR \"Prashant Bhushan\" OR pbhushan1"
+        }
+      ],
+      "popularity_logs": "64"
+    },
+    {
+      "id": "411510",
+      "date_published": "2019-05-02 21:29:45",
+      "date_added": "2019-05-02 18:03:04",
+      "date_modified": "2019-05-03 03:47:11",
+      "title": "Chhattisgarh: Naxal Terrorist Responsible For Killing BJP MLA, DD Journalist Gunned Down In Encounter",
+      "source": "swarajyamag.com",
+      "description": "The encounter took place in Chhattisgarh’s restive Dantewada district",
+      "tags": [
+        "bjp",
+        "chhattisgarh’s",
+        "dantewada district",
+        "journalist",
+        "terrorism"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvY2hoYXR0aXNnYXJoLW5heGFsLXRlcnJvcmlz\ndC1yZXNwb25zaWJsZS1mb3Ita2lsbGluZy1ianAtbWxhLWRkLWpvdXJuYWxpc3QtZ3VubmVkLWRv\nd24taW4tZW5jb3VudGVy",
+      "short_url": "https://swarajyamag.com/insta/chhattisgarh-naxal-terrorist-responsible-for-killing-bjp-mla-dd-journalist-gunned-down-in-encounter",
+      "engagement": "0",
+      "popularity": "549753",
+      "tw_tweets": "335",
+      "tw_reach": "502397",
+      "tw_favorites": "3",
+      "tw_retweets": "114781",
+      "tw_since_id": "1124161987955445760",
+      "fb_shares": "41",
+      "fb_comments": "1",
+      "fb_reactions": "156",
+      "popularity_updated": "8",
+      "sentiment": "-1",
+      "screen_name": "gladeolie",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 21:29",
+      "timestamp_published": "1556825385",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "411903",
+      "date_published": "2019-05-03 11:14:35",
+      "date_added": "2019-05-03 07:47:08",
+      "date_modified": "2019-05-05 09:47:59",
+      "title": "Pulwama attack a 'BJP conspiracy just like Godhra, claims ex-Gujarat CM Shankersinh Vaghela; alleges govt uses terrorism to win polls - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "Talking to media persons, the former Gujarat chief minister Shankersinh Vaghela said terrorism is used by the BJP government to win elections and a number of terrorist attacks have taken place in the last five years.",
+      "tags": [
+        "bjp",
+        "pulwama terror attack",
+        "shankersinh vaghela",
+        "terrorism"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9wb2xpdGljcy9wdWx3YW1hLWF0dGFjay1hLWJqcC1j\nb25zcGlyYWN5LWp1c3QtbGlrZS1nb2RocmEtY2xhaW1zLWV4LWd1amFyYXQtY20tc2hhbmtlcnNp\nbmgtdmFnaGVsYS1hbGxlZ2VzLWdvdnQtdXNlcy10ZXJyb3Jpc20tdG8td2luLXBvbGxzLTY1NTUy\nNjEuaHRtbA==",
+      "short_url": "https://www.firstpost.com/politics/pulwama-attack-a-bjp-conspiracy-just-like-godhra-claims-ex-gujarat-cm-shankersinh-vaghela-alleges-govt-uses-terrorism-to-win-polls-6555261.html",
+      "engagement": "0",
+      "popularity": "49423",
+      "tw_tweets": "94",
+      "tw_reach": "18219",
+      "tw_favorites": "0",
+      "tw_retweets": "18020",
+      "tw_since_id": "1124943183723450369",
+      "fb_shares": "1277",
+      "fb_comments": "186",
+      "fb_reactions": "2354",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "hasanbaita",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 11:14",
+      "timestamp_published": "1556874875",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "412884",
+      "date_published": "2019-05-04 19:22:52",
+      "date_added": "2019-05-04 15:56:52",
+      "date_modified": "2019-05-04 18:27:07",
+      "title": "UPA ahead of NDA after first four phases, suggest Intelligence reports",
+      "source": "www.nationalheraldindia.com",
+      "description": "IB reports match the feedback from the ground which suggests that the UPA is ahead of the NDA by at least 30 seats after the first four phases of polling",
+      "tags": [
+        "nda",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmF0aW9uYWxoZXJhbGRpbmRpYS5jb20vaW5kaWEvdXBhLWFoZWFkLW9mLW5k\nYS1hZnRlci1maXJzdC1mb3VyLXBoYXNlcy1zdWdnZXN0LWludGVsbGlnZW5jZS1yZXBvcnRz",
+      "short_url": "https://www.nationalheraldindia.com/india/upa-ahead-of-nda-after-first-four-phases-suggest-intelligence-reports",
+      "engagement": "0",
+      "popularity": "3930870",
+      "tw_tweets": "1030",
+      "tw_reach": "3916408",
+      "tw_favorites": "502",
+      "tw_retweets": "657211",
+      "tw_since_id": "1124930033284526080",
+      "fb_shares": "368",
+      "fb_comments": "247",
+      "fb_reactions": "2122",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "gkzhimomi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 19:22",
+      "timestamp_published": "1556990572",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "413386",
+      "date_published": "2019-05-05 11:41:47",
+      "date_added": "2019-05-05 08:17:08",
+      "date_modified": "2019-05-07 04:41:52",
+      "title": "\"Rajiv Gandhi Is Why I Am Alive\": A Remarkable Story In Atal Bihari Vajpayee's Words",
+      "source": "www.ndtv.com",
+      "description": "Former prime minister Atal Bihari Vajpayee, who died on Thursday, was admired and respected across the political spectrum. Congress leader Rajiv Gandhi, who was known to take on BJP leaders sharply in parliament, made an exception for Atal Bihari Vajpayee, to whom he was always courteous.",
+      "tags": [
+        "bihari lal",
+        "bjp",
+        "congress",
+        "rajiv gandhi",
+        "vajpayee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9yYWppdi1nYW5kaGktaXMtd2h5LWktYW0t\nYWxpdmUtYS1yZW1hcmthYmxlLXN0b3J5LWluLWF0YWwtYmloYXJpLXZhanBheWVlcy13b3Jkcy0x\nOTAxNjY4P2FtcD0x",
+      "short_url": "https://www.ndtv.com/india-news/rajiv-gandhi-is-why-i-am-alive-a-remarkable-story-in-atal-bihari-vajpayees-words-1901668?amp=1",
+      "engagement": "0",
+      "popularity": "9415470",
+      "tw_tweets": "1592",
+      "tw_reach": "2650428",
+      "tw_favorites": "82",
+      "tw_retweets": "4878622",
+      "tw_since_id": "1125589327080243202",
+      "fb_shares": "8804",
+      "fb_comments": "3071",
+      "fb_reactions": "35801",
+      "popularity_updated": "48",
+      "sentiment": "0",
+      "screen_name": "Shiv0hum",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 11:41",
+      "timestamp_published": "1557049307",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "71"
+    },
+    {
+      "id": "414472",
+      "date_published": "2019-05-06 18:35:34",
+      "date_added": "2019-05-06 15:07:29",
+      "date_modified": "2019-05-12 07:42:21",
+      "title": "Muslim woman allegedly assaulted by husband after she voted for BJP",
+      "source": "www.opindia.com",
+      "description": "Muslim woman Sahana Khatoon of Chanho, Jharkhand was allegedly assaulted by her husband because she voted for BJP. - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "india",
+        "muslim"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9qaGFya2hhbmQtbXVzbGltLXdvbWFuLWFz\nc2F1bHRlZC1ieS1odXNiYW5kLWZvci12b3RpbmctYmpwLWZpci1sb2RnZWQv",
+      "short_url": "https://www.opindia.com/2019/05/jharkhand-muslim-woman-assaulted-by-husband-for-voting-bjp-fir-lodged/",
+      "engagement": "0",
+      "popularity": "1015980",
+      "tw_tweets": "463",
+      "tw_reach": "960977",
+      "tw_favorites": "17",
+      "tw_retweets": "187983",
+      "tw_since_id": "1127448310300725248",
+      "fb_shares": "1115",
+      "fb_comments": "386",
+      "fb_reactions": "4144",
+      "popularity_updated": "337",
+      "sentiment": "-1",
+      "screen_name": "1_ashuak",
+      "status": "1",
+      "clicks": "1",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 18:35",
+      "timestamp_published": "1557160534",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "357"
+    },
+    {
+      "id": "414869",
+      "date_published": "2019-05-07 08:54:31",
+      "date_added": "2019-05-07 05:27:24",
+      "date_modified": "2019-05-07 14:07:09",
+      "title": "Video fabricated, EC rejects Smriti Irani’s claims of booth capturing in Amethi",
+      "source": "zeenews.india.com",
+      "description": "On Monday, Smriti Irani had tweeted a video in which an elderly woman can be seen claiming that she was forced by the polling officer to caste her vote for the Congress party and not for the BJP.",
+      "tags": [
+        "amethi",
+        "bjp",
+        "caste",
+        "congress",
+        "n.a. irani",
+        "smriti irani"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9sb2stc2FiaGEtZ2VuZXJhbC1lbGVjdGlvbnMtMjAx\nOS92aWRlby1mYWJyaWNhdGVkLWVjLXJlamVjdHMtc21yaXRpLWlyYW5pLXMtY2xhaW1zLW9mLWJv\nb3RoLWNhcHR1cmluZy1pbi1hbWV0aGktMjIwMTYyOS5odG1s",
+      "short_url": "https://zeenews.india.com/lok-sabha-general-elections-2019/video-fabricated-ec-rejects-smriti-irani-s-claims-of-booth-capturing-in-amethi-2201629.html",
+      "engagement": "0",
+      "popularity": "3662480",
+      "tw_tweets": "1372",
+      "tw_reach": "1270863",
+      "tw_favorites": "65",
+      "tw_retweets": "1800029",
+      "tw_since_id": "1125999409282502656",
+      "fb_shares": "697",
+      "fb_comments": "420",
+      "fb_reactions": "2324",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "lsf4you",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 08:54",
+      "timestamp_published": "1557212071",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "35"
+    },
+    {
+      "id": "415721",
+      "date_published": "2019-05-08 12:45:39",
+      "date_added": "2019-05-08 09:17:35",
+      "date_modified": "2019-05-09 13:47:07",
+      "title": "Election 2019: After Leh Journalists' Bribe Claim, CCTV Clip Emerges. BJP Says Will Sue",
+      "source": "www.ndtv.com",
+      "description": "After a group of journalists in Jammu and Kashmir's Leh accused the BJP of \"trying to bribe reporters for favourable coverage\" to influence the national election, a video has emerged of envelopes being handed out to the media at a press conference held in the mountainous town last week.",
+      "tags": [
+        "bjp",
+        "kashmir"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nYWZ0ZXItbGVoLWpvdXJuYWxpc3RzLWJyaWJlLWNsYWltLWNjdHYtY2xpcC1lbWVyZ2VzLWJqcC1z\nYXlzLXdpbGwtc3VlLTIwMzQ1OTI=",
+      "short_url": "https://www.ndtv.com/india-news/lok-sabha-elections-2019-after-leh-journalists-bribe-claim-cctv-clip-emerges-bjp-says-will-sue-2034592",
+      "engagement": "0",
+      "popularity": "585384",
+      "tw_tweets": "372",
+      "tw_reach": "495110",
+      "tw_favorites": "1",
+      "tw_retweets": "140959",
+      "tw_since_id": "1126453077391835137",
+      "fb_shares": "302",
+      "fb_comments": "94",
+      "fb_reactions": "589",
+      "popularity_updated": "293",
+      "sentiment": "0",
+      "screen_name": "KumarKranti7",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 12:45",
+      "timestamp_published": "1557312339",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "313"
+    },
+    {
+      "id": "416752",
+      "date_published": "2019-05-09 18:49:50",
+      "date_added": "2019-05-09 15:22:19",
+      "date_modified": "2019-05-12 16:11:58",
+      "title": "'Saw My Vote for NCP Get Cast to BJP': Sharad Pawar Raises Concern Over Use of EVMs",
+      "source": "www.news18.com",
+      "description": "The NCP and other 20 opposition parties recently approached the Supreme Court seeking a review of its order directing the EC to increase random matching of VVPAT slips with EVMs to five polling booths per Assembly segment.",
+      "tags": [
+        "bjp",
+        "ncp",
+        "opposition",
+        "sharad pawar",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3Nhdy1teS12b3RlLWZvci1uY3At\nZ2V0LWNhc3QtdG8tYmpwLXNoYXJhZC1wYXdhci1yYWlzZXMtY29uY2Vybi1vdmVyLXVzZS1vZi1l\ndm1zLTIxMzUwNzMuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/saw-my-vote-for-ncp-get-cast-to-bjp-sharad-pawar-raises-concern-over-use-of-evms-2135073.html",
+      "engagement": "0",
+      "popularity": "1372150",
+      "tw_tweets": "269",
+      "tw_reach": "823425",
+      "tw_favorites": "84",
+      "tw_retweets": "499326",
+      "tw_since_id": "1127576198408822784",
+      "fb_shares": "326",
+      "fb_comments": "444",
+      "fb_reactions": "1510",
+      "popularity_updated": "42",
+      "sentiment": "0",
+      "screen_name": "news18dotcom",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 18:49",
+      "timestamp_published": "1557420590",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "60"
+    },
+    {
+      "id": "417432",
+      "date_published": "2019-05-10 19:13:24",
+      "date_added": "2019-05-10 15:47:01",
+      "date_modified": "2019-05-11 19:13:04",
+      "title": "West Bengal: TMC leader gets BJP Bengal youth leader arrested for posting Met Gala-themed meme of CM Mamata Banerjee - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Priyanka Sharma, BJP youth leader has been arrested for posting a meme mocking Banerjee on her Facebook Timeline on May 9 - Latest India News from Opindia.com",
+      "tags": [
+        "aitc",
+        "benarjee",
+        "bengal",
+        "bjp",
+        "gala dalí",
+        "india",
+        "mamata banerjee",
+        "priyanka gandhi",
+        "west bengal",
+        "yash paul sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS93ZXN0LWJlbmdhbC10bWMtbGVhZGVyLWdl\ndHMtYmpwLWJlbmdhbC15b3V0aC1sZWFkZXItYXJyZXN0ZWQtZm9yLXBvc3RpbmctbWV0LWdhbGEt\ndGhlbWVkLW1lbWUtb2YtY20tbWFtYXRhLWJhbmVyamVlLw==",
+      "short_url": "https://www.opindia.com/2019/05/west-bengal-tmc-leader-gets-bjp-bengal-youth-leader-arrested-for-posting-met-gala-themed-meme-of-cm-mamata-banerjee/",
+      "engagement": "0",
+      "popularity": "2806750",
+      "tw_tweets": "677",
+      "tw_reach": "2064213",
+      "tw_favorites": "223",
+      "tw_retweets": "828398",
+      "tw_since_id": "1127251116067098626",
+      "fb_shares": "832",
+      "fb_comments": "569",
+      "fb_reactions": "5243",
+      "popularity_updated": "20",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 19:13",
+      "timestamp_published": "1557508404",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "41"
+    },
+    {
+      "id": "418072",
+      "date_published": "2019-05-11 19:45:28",
+      "date_added": "2019-05-11 16:17:53",
+      "date_modified": "2019-05-11 16:17:53",
+      "title": "Gautam Gambhir should not be defensive about ‘bogus pamphlet’, will be happy to help him in court: Swamy",
+      "source": "www.timesnownews.com",
+      "description": "BJP Rajya Sabha MP Subramanian Swamy advised Gautam Gambhir to ignore self-generated anonymous pamphlet and said he will be happy to help him in court.",
+      "tags": [
+        "bjp",
+        "court",
+        "gautam gambhir",
+        "rajya sabha mp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9lbGVjdGlvbnMvYXJ0aWNsZS9nYXV0YW0tZ2Ft\nYmhpci1zaG91bGQtbm90LWJlLWRlZmVuc2l2ZS1hYm91dC1ib2d1cy1wYW1waGxldC13aWxsLWJl\nLWhhcHB5LXRvLWhlbHAtaGltLWluLWNvdXJ0LXN3YW15LzQxNjg5NA==",
+      "short_url": "https://www.timesnownews.com/elections/article/gautam-gambhir-should-not-be-defensive-about-bogus-pamphlet-will-be-happy-to-help-him-in-court-swamy/416894",
+      "engagement": "0",
+      "popularity": "1871310",
+      "tw_tweets": "951",
+      "tw_reach": "828261",
+      "tw_favorites": "62",
+      "tw_retweets": "822616",
+      "tw_since_id": "1127449353793097728",
+      "fb_shares": "584",
+      "fb_comments": "282",
+      "fb_reactions": "5849",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "tony_karyakarta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 19:45",
+      "timestamp_published": "1557596728",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "418281",
+      "date_published": "2019-05-12 04:25:41",
+      "date_added": "2019-05-12 00:57:01",
+      "date_modified": "2019-05-16 18:56:56",
+      "title": "BJP youth wing leader held for Didi (Mamata Banerjee) caricature",
+      "source": "indianexpress.com",
+      "description": "Sharma has been charged under Section 500 of the IPC (defamation), and Sections 66A (offensive messages) and the non-bailable 67A (punishment for publishing or transmitting of material containing sexually explicit act, etc., in electronic form) of the Information Technology Act.",
+      "tags": [
+        "bjp",
+        "didi",
+        "mamata banerjee",
+        "sunil chhetri",
+        "yash paul sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYmpwLXlvdXRoLXdpbmctbGVhZGVy\nLXByaXlhbmthLXNoYXJtYS1oZWxkLWZvci1kaWRpLWNhcmljYXR1cmUtNTcyMzM1Ni8=",
+      "short_url": "http://bit.ly/2JvyF7e",
+      "engagement": "0",
+      "popularity": "4150990",
+      "tw_tweets": "1332",
+      "tw_reach": "1223574",
+      "tw_favorites": "39",
+      "tw_retweets": "2153248",
+      "tw_since_id": "1129067541203177472",
+      "fb_shares": "272",
+      "fb_comments": "93",
+      "fb_reactions": "541",
+      "popularity_updated": "545",
+      "sentiment": "0",
+      "screen_name": "1sttHuman",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 04:25",
+      "timestamp_published": "1557627941",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "573"
+    },
+    {
+      "id": "419072",
+      "date_published": "2019-05-13 13:44:31",
+      "date_added": "2019-05-13 10:17:06",
+      "date_modified": "2019-05-15 03:02:02",
+      "title": "BJP polling agent seen on video ‘influencing’ voters inside Faridabad booth, arrested",
+      "source": "indianexpress.com",
+      "description": "Faridabad polling booth video: In the video, Singh (in a blue t-shirt) is seen walking up to the polling booth on three occasions in less than 1.30 minutes and appears to have reportedly either pointed to the party symbol on the EVM or pressed the button, for at least three voters.",
+      "tags": [
+        "bjp",
+        "faridabad"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvcG9sbGluZy1hZ2VudC1hcnJlc3Rl\nZC1mb3ItaW5mbHVlbmNpbmctdm90ZXJzLWluc2lkZS1mYXJpZGFiYWQtcG9sbGluZy1ib290aC1l\nYy01NzI0NDg2Lw==",
+      "short_url": "http://bit.ly/2JD1ejo",
+      "engagement": "0",
+      "popularity": "5003940",
+      "tw_tweets": "941",
+      "tw_reach": "4319937",
+      "tw_favorites": "35",
+      "tw_retweets": "1171186",
+      "tw_since_id": "1128465188179542016",
+      "fb_shares": "607",
+      "fb_comments": "201",
+      "fb_reactions": "1938",
+      "popularity_updated": "20",
+      "sentiment": "0",
+      "screen_name": "sibi999",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 13:44",
+      "timestamp_published": "1557747871",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "40"
+    },
+    {
+      "id": "419779",
+      "date_published": "2019-05-14 11:39:44",
+      "date_added": "2019-05-14 08:12:14",
+      "date_modified": "2019-05-14 08:12:14",
+      "title": "'Intolerance gang missing?': Netizens question Bollywood's deafening silence on BJP activist Priyanka Sharma's arrest over viral Mamata Banerjee meme - Republic World",
+      "source": "www.republicworld.com",
+      "description": "The Supreme Court on Tuesday will hear a plea filed by BJP Youth Wing Worker Priyanka Sharma against her arrest by West Bengal Police for sharing a morphed picture of Chief Minister Mamata Banerjee.",
+      "tags": [
+        "bjp",
+        "bollywood",
+        "mamata banerjee",
+        "priyanka gandhi",
+        "supreme",
+        "yash paul sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLW5ld3MvaW50\nb2xlcmFuY2UtZ2FuZy1taXNzaW5nLW5ldGl6ZW5zLXF1ZXN0aW9uLWJvbGx5d29vZHMtZGVhZmVu\naW5nLXNpbGVuY2Utb24tYmpwLWFjdGl2aXN0LXByaXlhbmthLXNoYXJtYXMtYXJyZXN0LW92ZXIt\ndmlyYWwtbWFtYXRhLWJhbmVyamVlLW1lbWU=",
+      "short_url": "https://www.republicworld.com/india-news/general-news/intolerance-gang-missing-netizens-question-bollywoods-deafening-silence-on-bjp-activist-priyanka-sharmas-arrest-over-viral-mamata-banerjee-meme",
+      "engagement": "0",
+      "popularity": "2168270",
+      "tw_tweets": "907",
+      "tw_reach": "893384",
+      "tw_favorites": "13",
+      "tw_retweets": "981721",
+      "tw_since_id": "1128569707181666304",
+      "fb_shares": "2758",
+      "fb_comments": "854",
+      "fb_reactions": "7286",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "amgomekar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-05-2019 11:39",
+      "timestamp_published": "1557826784",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "420625",
+      "date_published": "2019-05-15 16:24:15",
+      "date_added": "2019-05-15 12:57:21",
+      "date_modified": "2019-05-16 20:42:10",
+      "title": "Mamata Banerjee: I can capture BJP headquarter in Delhi, your houses in one second",
+      "source": "www.mynation.com",
+      "description": "Bengal chief minister Mamata Banerjee launched a scathing attack on BJP president Amit Shah. The Trinamool chief reportedly asked whether Shah is any God that no one can protest against him.&nbsp;",
+      "tags": [
+        "aitc",
+        "amit shah",
+        "benarjee",
+        "bengal",
+        "bjp",
+        "delhi",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3MvaS1jYW4tY2FwdHVyZS1ianAtaGVh\nZHF1YXJ0ZXItaW4tZGVsaGkteW91ci1ob3VzZXMtaW4tb25lLXNlY29uZC1tYW1hdGEtYmFuZXJq\nZWUtcHJqZTlu",
+      "short_url": "https://www.mynation.com/india-news/i-can-capture-bjp-headquarter-in-delhi-your-houses-in-one-second-mamata-banerjee-prje9n",
+      "engagement": "0",
+      "popularity": "2794890",
+      "tw_tweets": "664",
+      "tw_reach": "559668",
+      "tw_favorites": "26",
+      "tw_retweets": "1579984",
+      "tw_since_id": "1129094083404652544",
+      "fb_shares": "227",
+      "fb_comments": "416",
+      "fb_reactions": "1299",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "nikhildwivedi20",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-05-2019 16:24",
+      "timestamp_published": "1557930255",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "36"
+    },
+    {
+      "id": "421433",
+      "date_published": "2019-05-16 18:45:00",
+      "date_added": "2019-05-16 15:17:19",
+      "date_modified": "2019-05-18 09:08:18",
+      "title": "Mamata lied: TMC student leader who was injured by 'BJP workers' admits he was actually injured earlier - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Mamata Banerjee has been accusing the BJP of causing violence although it appears it was Trinamool who started it. - Latest India News from Opindia.com",
+      "tags": [
+        "aitc",
+        "bjp",
+        "india",
+        "mamata banerjee",
+        "violence"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW1hdGEtbGllZC10bWMtc3R1ZGVudC1s\nZWFkZXItd2hvLXdhcy1pbmp1cmVkLWJ5LWJqcC13b3JrZXJzLWFkbWl0cy1oZS13YXMtYWN0dWFs\nbHktaW5qdXJlZC1lYXJsaWVyLw==",
+      "short_url": "http://bit.ly/2YAykVk",
+      "engagement": "0",
+      "popularity": "1189160",
+      "tw_tweets": "234",
+      "tw_reach": "831193",
+      "tw_favorites": "36",
+      "tw_retweets": "374053",
+      "tw_since_id": "1129644054210404353",
+      "fb_shares": "476",
+      "fb_comments": "81",
+      "fb_reactions": "1395",
+      "popularity_updated": "20",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 18:45",
+      "timestamp_published": "1558025100",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "421597",
+      "date_published": "2019-05-17 01:28:59",
+      "date_added": "2019-05-16 22:02:29",
+      "date_modified": "2019-05-16 22:02:30",
+      "title": "Pragya Singh Thakur has apologised for calling Nathuram Godse a patriot, says BJP",
+      "source": "scroll.in",
+      "description": "She had said that people who were calling him a terrorist will be given a befitting reply in the Lok Sabha elections.",
+      "tags": [
+        "bjp",
+        "charanjit singh",
+        "del wilkes",
+        "lok sabha",
+        "nathuram godse"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zY3JvbGwuaW4vbGF0ZXN0LzkyMzY3Mi9ianBzLWJob3BhbC1jYW5kaWRhdGUtcHJh\nZ3lhLXNpbmdoLXRoYWt1ci1jYWxscy1uYXRodXJhbS1nb2RzZS1hLXBhdHJpb3Q=",
+      "short_url": "https://scroll.in/latest/923672/bjps-bhopal-candidate-pragya-singh-thakur-calls-nathuram-godse-a-patriot",
+      "engagement": "0",
+      "popularity": "2022850",
+      "tw_tweets": "1164",
+      "tw_reach": "642937",
+      "tw_favorites": "0",
+      "tw_retweets": "1020120",
+      "tw_since_id": "1129210883417268224",
+      "fb_shares": "448",
+      "fb_comments": "1060",
+      "fb_reactions": "2509",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "aftabistan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 01:28",
+      "timestamp_published": "1558049339",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "422631",
+      "date_published": "2019-05-18 17:00:00",
+      "date_added": "2019-05-18 13:32:23",
+      "date_modified": "2019-05-21 04:37:08",
+      "title": "That time in 2007 when BJP nearly got banned - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Can you imagine the kind of outpouring of rhetoric that would happen if the BJP were doing this to the Congress today? - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "congress",
+        "india"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOC8xMS90aGF0LXRpbWUtaW4tMjAwNy13aGVuLWJq\ncC1uZWFybHktZ290LWJhbm5lZC8=",
+      "short_url": "https://www.opindia.com/2018/11/that-time-in-2007-when-bjp-nearly-got-banned/",
+      "engagement": "0",
+      "popularity": "1335270",
+      "tw_tweets": "416",
+      "tw_reach": "985689",
+      "tw_favorites": "30",
+      "tw_retweets": "394935",
+      "tw_since_id": "1130662922722529281",
+      "fb_shares": "411",
+      "fb_comments": "73",
+      "fb_reactions": "912",
+      "popularity_updated": "62",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 17:00",
+      "timestamp_published": "1558191600",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "82"
+    },
+    {
+      "id": "423088",
+      "date_published": "2019-05-19 11:15:00",
+      "date_added": "2019-05-19 07:47:33",
+      "date_modified": "2019-05-19 07:47:34",
+      "title": "BJP leader Arjun Singh shot at in political violence in West Bengal's Bhatpara",
+      "source": "www.opindia.com",
+      "description": "West Bengal has been marred by political violence through all phases of the general elections. Incidents of vandalism and political attacks are being reported in the last phase too. - Latest India News from Opindia.com",
+      "tags": [
+        "arjun",
+        "bjp",
+        "charanjit singh",
+        "india",
+        "violence",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS93ZXN0LWJlbmdhbC1tYXJyZWQtYnktdmlv\nbGVuY2UtYmpwLWxlYWRlci1zaG90LWF0LW9mZmljZS12YW5kYWxpc2VkLWFuZC1jYXJzLXNldC1h\nYmxhemUtaW4tYmhhdHBhcmEv",
+      "short_url": "https://www.opindia.com/2019/05/west-bengal-marred-by-violence-bjp-leader-shot-at-office-vandalised-and-cars-set-ablaze-in-bhatpara/",
+      "engagement": "0",
+      "popularity": "1076030",
+      "tw_tweets": "383",
+      "tw_reach": "1092361",
+      "tw_favorites": "3",
+      "tw_retweets": "168017",
+      "tw_since_id": "1130073898924609538",
+      "fb_shares": "288",
+      "fb_comments": "187",
+      "fb_reactions": "1437",
+      "popularity_updated": "2",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 11:15",
+      "timestamp_published": "1558257300",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "423622",
+      "date_published": "2019-05-20 01:30:31",
+      "date_added": "2019-05-19 22:03:08",
+      "date_modified": "2019-05-20 01:37:27",
+      "title": "BJP to Hold the Heartland, Steal the East and Cruise to Victory, Exit Polls Say",
+      "source": "thewire.in",
+      "description": "The surveys pegged the NDA figure anywhere between 267 and 350, most likely to be well past the halfway mark of 272 in the parliament.",
+      "tags": [
+        "bjp",
+        "nda",
+        "parliament"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL2VsZWN0aW9ucy0yMDE5LWV4aXQtcG9sbHMtYmpw",
+      "short_url": "https://thewire.in/politics/elections-2019-exit-polls-bjp",
+      "engagement": "0",
+      "popularity": "16636400",
+      "tw_tweets": "640",
+      "tw_reach": "21619407",
+      "tw_favorites": "301",
+      "tw_retweets": "279912",
+      "tw_since_id": "1130316083821522945",
+      "fb_shares": "34",
+      "fb_comments": "100",
+      "fb_reactions": "297",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Maria_Choudhery",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 01:30",
+      "timestamp_published": "1558308631",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "424981",
+      "date_published": "2019-05-21 15:19:50",
+      "date_added": "2019-05-21 11:52:19",
+      "date_modified": "2019-05-22 19:02:44",
+      "title": "Fact Check: Truth behind the viral video that claims conspiracy by BJP to change EVMs",
+      "source": "www.indiatoday.in",
+      "description": "A sensational video is going viral on social media with the claim that the BJP is conspiring to change the EVMs placed in strong rooms to win the elections by malice.",
+      "tags": [
+        "bjp",
+        "malice",
+        "sensational"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9mYWN0LWNoZWNrL3N0b3J5L2ZhY3QtY2hlY2stdHJ1\ndGgtYmVoaW5kLXRoZS12aXJhbC12aWRlby10aGF0LWNsYWltcy1jb25zcGlyYWN5LWJ5LWJqcC10\nby1jaGFuZ2UtZXZtcy0xNTMwOTkxLTIwMTktMDUtMjE=",
+      "short_url": "https://www.indiatoday.in/fact-check/story/fact-check-truth-behind-the-viral-video-that-claims-conspiracy-by-bjp-to-change-evms-1530991-2019-05-21",
+      "engagement": "0",
+      "popularity": "1423830",
+      "tw_tweets": "440",
+      "tw_reach": "1010590",
+      "tw_favorites": "5",
+      "tw_retweets": "439992",
+      "tw_since_id": "1131243449049444352",
+      "fb_shares": "520",
+      "fb_comments": "445",
+      "fb_reactions": "1409",
+      "popularity_updated": "304",
+      "sentiment": "0",
+      "screen_name": "muthuramanrmb",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 15:19",
+      "timestamp_published": "1558444790",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "332"
+    },
+    {
+      "id": "425637",
+      "date_published": "2019-05-22 15:50:39",
+      "date_added": "2019-05-22 12:23:05",
+      "date_modified": "2019-05-22 18:22:23",
+      "title": "‘Congress Created Fear Psychosis Among Muslims, Wants Them To Feel Guilty For Voting BJP’: Congress leader R Roshan Baig’s Son",
+      "source": "swarajyamag.com",
+      "description": "“They’ve created a narrative that minorities should feel guilty if they decide to vote for BJP”",
+      "tags": [
+        "bjp",
+        "congress",
+        "muslims"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvY29uZ3Jlc3MtY3JlYXRlZC1mZWFyLXBzeWNo\nb3Npcy1hbW9uZy1tdXNsaW1zLXdhbnRzLXRoZW0tdG8tZmVlbC1ndWlsdHktZm9yLXZvdGluZy1i\nanAtY29uZ3Jlc3MtbGVhZGVyLXItcm9zaGFuLWJhaWdzLXNvbg==",
+      "short_url": "https://swarajyamag.com/insta/congress-created-fear-psychosis-among-muslims-wants-them-to-feel-guilty-for-voting-bjp-congress-leader-r-roshan-baigs-son",
+      "engagement": "0",
+      "popularity": "416654",
+      "tw_tweets": "284",
+      "tw_reach": "358207",
+      "tw_favorites": "0",
+      "tw_retweets": "97528",
+      "tw_since_id": "1131267928811139073",
+      "fb_shares": "136",
+      "fb_comments": "31",
+      "fb_reactions": "462",
+      "popularity_updated": "16",
+      "sentiment": "-1",
+      "screen_name": "SeemaSi80252530",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-05-2019 15:50",
+      "timestamp_published": "1558533039",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "38"
+    },
+    {
+      "id": "427065",
+      "date_published": "2019-05-23 21:15:19",
+      "date_added": "2019-05-23 17:48:18",
+      "date_modified": "2019-05-23 17:48:18",
+      "title": "Mamata regime may not survive till November after BJP’s Bengal coup",
+      "source": "www.mynation.com",
+      "description": "BJP has tasted blood in Elections 2019 and the Trinamool regime is not shy of spilling blood. A deadline has been drawn up. One battle ends and a bigger one begins in turbulent Bengal.",
+      "tags": [
+        "aitc",
+        "bjp",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL3ZpZXdzL2xvay1zYWJoYS1lbGVjdGlvbi1yZXN1bHRz\nLTIwMTktbGF0ZXN0LXVwZGF0ZXMtbWFtYXRhLWdvdnQtbWF5LW5vdC1zdXJ2aXZlLXRpbGwtbm92\nZW1iZXItcHJ5ZWg5",
+      "short_url": "https://www.mynation.com/views/lok-sabha-election-results-2019-latest-updates-mamata-govt-may-not-survive-till-november-pryeh9",
+      "engagement": "0",
+      "popularity": "216880",
+      "tw_tweets": "96",
+      "tw_reach": "228344",
+      "tw_favorites": "124",
+      "tw_retweets": "29930",
+      "tw_since_id": "1131614850164056064",
+      "fb_shares": "31",
+      "fb_comments": "12",
+      "fb_reactions": "181",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Hindu_GJ",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 21:15",
+      "timestamp_published": "1558638919",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "17"
+    },
+    {
+      "id": "427906",
+      "date_published": "2019-05-24 13:10:22",
+      "date_added": "2019-05-24 09:43:15",
+      "date_modified": "2019-05-25 08:22:08",
+      "title": "Election Results 2019: \"Want To Work In Cooperation\" With BJP, Says Naveen Patnaik To NDTV",
+      "source": "www.ndtv.com",
+      "description": "Odisha Chief Minister Naveen Patnaik, re-elected with a decisive majority in the assembly election, said he was open to \"constructive cooperation\" from the centre for Odisha's development but that did not mean his support to the BJP was a given.",
+      "tags": [
+        "bjp",
+        "naveen patnaik"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9lbGVjdGlvbi1yZXN1bHRzLTIwMTktbmF2\nZWVuLXBhdG5haWstdG8tbmR0di1zYXlzLXdhbnQtdG8td29yay1pbi1jb29wZXJhdGlvbi13aXRo\nLWJqcC0yMDQyMjY5",
+      "short_url": "https://www.ndtv.com/india-news/election-results-2019-naveen-patnaik-to-ndtv-says-want-to-work-in-cooperation-with-bjp-2042269",
+      "engagement": "0",
+      "popularity": "116382",
+      "tw_tweets": "127",
+      "tw_reach": "96461",
+      "tw_favorites": "0",
+      "tw_retweets": "29190",
+      "tw_since_id": "1132169491339571205",
+      "fb_shares": "9",
+      "fb_comments": "4",
+      "fb_reactions": "42",
+      "popularity_updated": "56",
+      "sentiment": "0",
+      "screen_name": "ChiragMShah1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 13:10",
+      "timestamp_published": "1558696222",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "72"
+    },
+    {
+      "id": "429284",
+      "date_published": "2019-05-25 20:30:14",
+      "date_added": "2019-05-25 17:03:16",
+      "date_modified": "2019-05-28 19:37:36",
+      "title": "People of Jammu, Ladakh want immediate removal of Articles 370, 35A: BJP - The Financial Express",
+      "source": "www.financialexpress.com",
+      "description": "The Jammu and Kashmir unit of the BJP on Saturday claimed that the people of Jammu and Ladakh regions want immediate removal of Article 370 and Article 35A of the Constitution by voting for the party.",
+      "tags": [
+        "bjp",
+        "kashmir"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vaW5kaWEtbmV3cy9wZW9wbGUtb2YtamFt\nbXUtbGFkYWtoLXdhbnQtaW1tZWRpYXRlLXJlbW92YWwtb2YtYXJ0aWNsZXMtMzcwLTM1YS1ianAv\nMTU4OTA4Mi8=",
+      "short_url": "https://www.financialexpress.com/india-news/people-of-jammu-ladakh-want-immediate-removal-of-articles-370-35a-bjp/1589082/",
+      "engagement": "0",
+      "popularity": "2729080",
+      "tw_tweets": "550",
+      "tw_reach": "223987",
+      "tw_favorites": "0",
+      "tw_retweets": "1657180",
+      "tw_since_id": "1133426611095777280",
+      "fb_shares": "4107",
+      "fb_comments": "1345",
+      "fb_reactions": "27631",
+      "popularity_updated": "39",
+      "sentiment": "0",
+      "screen_name": "calokeshlawaniy",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 20:30",
+      "timestamp_published": "1558809014",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "55"
+    },
+    {
+      "id": "429777",
+      "date_published": "2019-05-26 12:25:19",
+      "date_added": "2019-05-26 08:57:56",
+      "date_modified": "2019-05-27 14:02:28",
+      "title": "Maharashtra: BJP Minority Cell Worker Beaten To Death Over Lok Sabha Results, Congress Leader Booked",
+      "source": "swarajyamag.com",
+      "description": "BJP Minority Cell Worker Assaulted to Death in Maharashtra, Congress Leader Booked",
+      "tags": [
+        "bjp",
+        "congress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvbWFoYXJhc2h0cmEtYmpwLW1pbm9yaXR5LWNl\nbGwtd29ya2VyLWJlYXRlbi10by1kZWF0aC1vdmVyLWxvay1zYWJoYS1yZXN1bHRzLWNvbmdyZXNz\nLWxlYWRlci1ib29rZWQ=",
+      "short_url": "https://swarajyamag.com/insta/maharashtra-bjp-minority-cell-worker-beaten-to-death-over-lok-sabha-results-congress-leader-booked",
+      "engagement": "0",
+      "popularity": "1886640",
+      "tw_tweets": "641",
+      "tw_reach": "676811",
+      "tw_favorites": "13",
+      "tw_retweets": "912889",
+      "tw_since_id": "1132979915970760704",
+      "fb_shares": "783",
+      "fb_comments": "201",
+      "fb_reactions": "3013",
+      "popularity_updated": "12",
+      "sentiment": "-1",
+      "screen_name": "apoorvsangwan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 12:25",
+      "timestamp_published": "1558866319",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "430593",
+      "date_published": "2019-05-27 13:19:53",
+      "date_added": "2019-05-27 09:52:34",
+      "date_modified": "2019-05-28 00:47:30",
+      "title": "Kanhaiya Kumar cites violence against minorities, slams BJP govt for inaction",
+      "source": "www.indiatoday.in",
+      "description": "Kanhaiya Kumar said some \"criminals\" have started posting videos of their crimes of social media without hesitation and that the trend has started under the BJP government over the last few years. ",
+      "tags": [
+        "bjp",
+        "kanhaiya kumar",
+        "violence"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9zdG9yeS9rYW5oYWl5YS1rdW1hci1jaXRl\ncy12aW9sZW5jZS1hZ2FpbnN0LW1pbm9yaXRpZXMtc2xhbXMtYmpwLWdvdnQtZm9yLWluYWN0aW9u\nLTE1MzU0NTItMjAxOS0wNS0yNw==",
+      "short_url": "https://www.indiatoday.in/india/story/kanhaiya-kumar-cites-violence-against-minorities-slams-bjp-govt-for-inaction-1535452-2019-05-27",
+      "engagement": "0",
+      "popularity": "247234",
+      "tw_tweets": "218",
+      "tw_reach": "120961",
+      "tw_favorites": "2",
+      "tw_retweets": "95564",
+      "tw_since_id": "1133212243854651393",
+      "fb_shares": "613",
+      "fb_comments": "748",
+      "fb_reactions": "4310",
+      "popularity_updated": "10",
+      "sentiment": "-1",
+      "screen_name": "ManikandaramanP",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 13:19",
+      "timestamp_published": "1558955993",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "431627",
+      "date_published": "2019-05-28 14:21:34",
+      "date_added": "2019-05-28 10:57:09",
+      "date_modified": "2019-06-01 04:21:27",
+      "title": "3 TMC, 2 Congress MLAs accompany Mukul Roy to Delhi, likely to join BJP today",
+      "source": "www.indiatoday.in",
+      "description": "Three Trinamool Congress, a CPI (M) and two Congress MLAs are likely to join the BJP today. The TMC MLAs left for Delhi with BJP leader Mukul Roy on Monday.",
+      "tags": [
+        "aitc",
+        "bjp",
+        "congress",
+        "cpi",
+        "delhi",
+        "mukul roy"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9zdG9yeS93ZXN0LWJlbmdhbC10bWMtYmpw\nLWNvbmdyZXNzLWpvaW4tbXVrdWwtcm95LW1hbWF0YS1nb3Zlcm5tZW50LTE1MzY0NTktMjAxOS0w\nNS0yOA==",
+      "short_url": "https://www.indiatoday.in/india/story/west-bengal-tmc-bjp-congress-join-mukul-roy-mamata-government-1536459-2019-05-28",
+      "engagement": "0",
+      "popularity": "10265300",
+      "tw_tweets": "2200",
+      "tw_reach": "9291360",
+      "tw_favorites": "109",
+      "tw_retweets": "2180836",
+      "tw_since_id": "1134625814824202241",
+      "fb_shares": "1013",
+      "fb_comments": "639",
+      "fb_reactions": "8611",
+      "popularity_updated": "2110",
+      "sentiment": "0",
+      "screen_name": "mail_today",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 14:21",
+      "timestamp_published": "1559046094",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "2125"
+    },
+    {
+      "id": "432806",
+      "date_published": "2019-05-29 14:24:11",
+      "date_added": "2019-05-29 10:57:07",
+      "date_modified": "2019-05-29 10:57:08",
+      "title": "Mamata Banerjee Is Back in Her Street Fighter Role – and That Should Worry the BJP",
+      "source": "thewire.in",
+      "description": "This is the militant politics that honed Mamata Banerjee's skills as a politician.",
+      "tags": [
+        "bjp",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL21hbWF0YS1iYW5lcmplZS1rb2xrYXRhLWRoYXJu\nYS1ianAtbW9kaQ==",
+      "short_url": "https://thewire.in/politics/mamata-banerjee-kolkata-dharna-bjp-modi",
+      "engagement": "0",
+      "popularity": "15668",
+      "tw_tweets": "5",
+      "tw_reach": "885",
+      "tw_favorites": "0",
+      "tw_retweets": "1595",
+      "tw_since_id": "1133657778159902720",
+      "fb_shares": "450",
+      "fb_comments": "675",
+      "fb_reactions": "4403",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "pulkitpurohlt",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 14:24",
+      "timestamp_published": "1559132651",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "433466",
+      "date_published": "2019-05-30 04:20:58",
+      "date_added": "2019-05-30 00:57:12",
+      "date_modified": "2019-05-30 01:02:06",
+      "title": "Post-poll survey: PDP loses its standing in Kashmir, BJP unchallenged in Jammu",
+      "source": "www.thehindu.com",
+      "description": "The election results yet again highlight the polarised nature of the political landscape and the vast differences between the State’s regions",
+      "tags": [
+        "bjp",
+        "jammu",
+        "kashmir",
+        "pdp"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtMjAxOS9wb3N0LXBv\nbGwtc3VydmV5LXBkcC1sb3Nlcy1pdHMtc3RhbmRpbmctaW4ta2FzaG1pci1ianAtdW5jaGFsbGVu\nZ2VkLWluLWphbW11L2FydGljbGUyNzI5ODMxMS5lY2U=",
+      "short_url": "https://www.thehindu.com/elections/lok-sabha-2019/post-poll-survey-pdp-loses-its-standing-in-kashmir-bjp-unchallenged-in-jammu/article27298311.ece",
+      "engagement": "0",
+      "popularity": "502250",
+      "tw_tweets": "474",
+      "tw_reach": "442531",
+      "tw_favorites": "0",
+      "tw_retweets": "112964",
+      "tw_since_id": "1133993720418713600",
+      "fb_shares": "24",
+      "fb_comments": "10",
+      "fb_reactions": "157",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "aftabistan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 04:20",
+      "timestamp_published": "1559182858",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "435113",
+      "date_published": "2019-05-31 22:20:16",
+      "date_added": "2019-05-31 18:52:09",
+      "date_modified": "2019-06-01 17:02:31",
+      "title": "Bengal: BJP Worker Stabbed To Death By Alleged Trinamool Goons For Chanting Jai Shri Ram",
+      "source": "swarajyamag.com",
+      "description": "A BJP worker has been stabbed to death in West Bengal for chanting Jai Shri Ram",
+      "tags": [
+        "aitc",
+        "bengal",
+        "bjp",
+        "shri",
+        "west"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvYmVuZ2FsLWJqcC13b3JrZXItc3RhYmJlZC10\nby1kZWF0aC1ieS1hbGxlZ2VkLXRyaW5hbW9vbC13b3JrZXJzLWZvci1jaGFudGluZy1qYWktc2hy\naS1yYW0=",
+      "short_url": "https://swarajyamag.com/insta/bengal-bjp-worker-stabbed-to-death-by-alleged-trinamool-workers-for-chanting-jai-shri-ram",
+      "engagement": "0",
+      "popularity": "357122",
+      "tw_tweets": "266",
+      "tw_reach": "201170",
+      "tw_favorites": "0",
+      "tw_retweets": "135282",
+      "tw_since_id": "1134864778738855937",
+      "fb_shares": "318",
+      "fb_comments": "89",
+      "fb_reactions": "941",
+      "popularity_updated": "235",
+      "sentiment": "-1",
+      "screen_name": "iamabhijitl",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 22:20",
+      "timestamp_published": "1559334016",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "256"
+    }
+  ],
+  "message": "OK"
+}

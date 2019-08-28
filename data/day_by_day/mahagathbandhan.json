@@ -1,0 +1,3900 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=417984,401523,386977,394189,385284,427091,403157,390442,421745,416141,383138,432346,407481,396855,388124,402328,384107,406514,433938,415892,427579,405281,415297,419424,422781,394518,395980,424104,409766,393481,384683,390119,411504,424946,431107,408044,428992,390915,399303,406022,410346,413290,414573,418594,421385,417404,392104,399921,388799,378867,380317,398571,411994,435146,400691,430538,386580,419858,403844,423416,425457,396548,409027,420437,430028,376610,376713,379538,376406,412512",
+    "time": 1560434303,
+    "UTCDateTime": "2019-06-13T13:58:23+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "376406",
+      "date_published": "2019-03-23 17:15:10",
+      "date_added": "2019-03-23 12:46:26",
+      "date_modified": "2019-03-25 10:51:08",
+      "title": "Amar Singh, former Samajwadi Party leader, now says #MainBhiChowkidar",
+      "source": "www.opindia.com",
+      "description": "Amar Singh had earlier attacked the Samajwadi Party as the \"Namajwadi Party\" and had threatened to expose the secular credentials of the party.",
+      "tags": [
+        "amar khan",
+        "charanjit singh",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9hbWFyLXNpbmdoLWZvcm1lci1zYW1handh\nZGktcGFydHktbGVhZGVyLW5vdy1zYXlzLW1haW5iaGljaG93a2lkYXIv",
+      "short_url": "https://www.opindia.com/2019/03/amar-singh-former-samajwadi-party-leader-now-says-mainbhichowkidar/",
+      "engagement": "0",
+      "popularity": "4485600",
+      "tw_tweets": "1993",
+      "tw_reach": "5689984",
+      "tw_favorites": "6894",
+      "tw_retweets": "137382",
+      "tw_since_id": "1109439257179885574",
+      "fb_shares": "188",
+      "fb_comments": "46",
+      "fb_reactions": "1161",
+      "popularity_updated": "0",
+      "sentiment": "-1",
+      "screen_name": "Symbianian",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-03-2019 17:15",
+      "timestamp_published": "1553357710",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "48"
+    },
+    {
+      "id": "376610",
+      "date_published": "2019-03-24 21:10:17",
+      "date_added": "2019-03-24 16:41:20",
+      "date_modified": "2019-03-24 16:41:20",
+      "title": "BJP IT Cell members are Internet Terrorists, says Akhilesh Yadav - Janta Ka Reporter 2.0",
+      "source": "www.jantakareporter.com",
+      "description": "Former Uttar Pradesh Chief Minister Akhilesh Yadav has coined a new definition for the members of the BJP's IT Cell, calling them Internet Terrorists.",
+      "tags": [
+        "akhilesh yadav",
+        "bjp",
+        "terrorism"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5qYW50YWthcmVwb3J0ZXIuY29tL2luZGlhL2JqcC1pdC1jZWxsLW1lbWJlcnMt\nYXJlLWludGVybmV0LXRlcnJvcmlzdHMtc2F5cy1ha2hpbGVzaC15YWRhdi8yMzgyMTgv",
+      "short_url": "http://www.jantakareporter.com/india/bjp-it-cell-members-are-internet-terrorists-says-akhilesh-yadav/238218/",
+      "engagement": "0",
+      "popularity": "5940350",
+      "tw_tweets": "2595",
+      "tw_reach": "7523654",
+      "tw_favorites": "7618",
+      "tw_retweets": "189048",
+      "tw_since_id": "1109778051934683136",
+      "fb_shares": "278",
+      "fb_comments": "88",
+      "fb_reactions": "1322",
+      "popularity_updated": "0",
+      "sentiment": "0",
+      "screen_name": "dinniepedia",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-03-2019 21:10",
+      "timestamp_published": "1553458217",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "49"
+    },
+    {
+      "id": "376713",
+      "date_published": "2019-03-25 14:04:56",
+      "date_added": "2019-03-25 09:36:20",
+      "date_modified": "2019-03-26 11:16:13",
+      "title": "BIG Battle? Jaya Prada likely to join BJP, may contest against Samajwadi Party strongman Azam Khan in Rampur Lok Sabha election - Republic World",
+      "source": "www.republicworld.com",
+      "description": "In a potential development that may add yet another compelling tussle to the ever-growing list of captivating battles to come in the Lok Sabha elections in Uttar Pradesh, veteran actor Jaya Prada is set to join the BJP and contest against her former party SP in a key seat, as per sources.",
+      "tags": [
+        "azam khan",
+        "bjp",
+        "jaya prada",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vZWxlY3Rpb24tbmV3cy91dHRhci1wcmFkZXNo\nLWxvay1zYWJoYS1lbGVjdGlvbnMvYmlnLWJhdHRsZS1qYXlhLXByYWRhLWxpa2VseS10by1qb2lu\nLWJqcC1tYXktY29udGVzdC1hZ2FpbnN0LXNhbWFqd2FkaS1wYXJ0eS1zdHJvbmdtYW4tYXphbS1r\naGFuLWluLXJhbXB1ci1sb2stc2FiaGEtZWxlY3Rpb24=",
+      "short_url": "https://www.republicworld.com/election-news/uttar-pradesh-lok-sabha-elections/big-battle-jaya-prada-likely-to-join-bjp-may-contest-against-samajwadi-party-strongman-azam-khan-in-rampur-lok-sabha-election",
+      "engagement": "0",
+      "popularity": "2484770",
+      "tw_tweets": "572",
+      "tw_reach": "3222001",
+      "tw_favorites": "371",
+      "tw_retweets": "43770",
+      "tw_since_id": "1110469770187624454",
+      "fb_shares": "24",
+      "fb_comments": "63",
+      "fb_reactions": "650",
+      "popularity_updated": "202",
+      "sentiment": "0",
+      "screen_name": "r_shrimali",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-03-2019 14:04",
+      "timestamp_published": "1553519096",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "240"
+    },
+    {
+      "id": "378867",
+      "date_published": "2019-03-26 20:48:43",
+      "date_added": "2019-03-26 16:22:05",
+      "date_modified": "2019-03-26 17:36:36",
+      "title": "Jaya Prada joins BJP, to contest from the Rampur constituency against Samajwadi Party strongman Azam Khan - Opindia News",
+      "source": "www.opindia.com",
+      "description": "In 2014, BJP had won a remarkable 71 seats to register a historic mandate in Uttar Pradesh. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "azam khan",
+        "bjp",
+        "india",
+        "jaya prada",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9qYXlhLXByYWRhLWpvaW5zLWJqcC10by1j\nb250ZXN0LWZyb20tdGhlLXJhbXB1ci1jb25zdGl0dWVuY3ktYWdhaW5zdC1zYW1handhZGktcGFy\ndHktc3Ryb25nbWFuLWF6YW0ta2hhbi8=",
+      "short_url": "http://bit.ly/2OrMkwC",
+      "engagement": "0",
+      "popularity": "3802610",
+      "tw_tweets": "692",
+      "tw_reach": "4910436",
+      "tw_favorites": "5289",
+      "tw_retweets": "75473",
+      "tw_since_id": "1110564612481667072",
+      "fb_shares": "22",
+      "fb_comments": "7",
+      "fb_reactions": "235",
+      "popularity_updated": "32",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-03-2019 20:48",
+      "timestamp_published": "1553629723",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "52"
+    },
+    {
+      "id": "379538",
+      "date_published": "2019-03-27 17:35:20",
+      "date_added": "2019-03-27 13:07:15",
+      "date_modified": "2019-03-28 10:36:30",
+      "title": "Rebellion breaks out in SP-BSP Mahagathbandhan, as BJP solidifies its position in UP",
+      "source": "rightlog.in",
+      "description": "Had to happen",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "mahagathbandhan",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9yaWdodGxvZy5pbi8yMDE5LzAzL2JzcC1zcC1jYWRyZS0wMS8=",
+      "short_url": "https://rightlog.in/2019/03/bsp-sp-cadre-01/",
+      "engagement": "0",
+      "popularity": "179114",
+      "tw_tweets": "226",
+      "tw_reach": "229387",
+      "tw_favorites": "0",
+      "tw_retweets": "3979",
+      "tw_since_id": "1111185017328140288",
+      "fb_shares": "53",
+      "fb_comments": "15",
+      "fb_reactions": "321",
+      "popularity_updated": "218",
+      "sentiment": "0",
+      "screen_name": "rightlog_in",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-03-2019 17:35",
+      "timestamp_published": "1553704520",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "237"
+    },
+    {
+      "id": "380317",
+      "date_published": "2019-03-28 19:45:26",
+      "date_added": "2019-03-28 15:17:29",
+      "date_modified": "2019-03-28 17:57:44",
+      "title": "Mayawati slams Modi for 'sarab' acronym, says it reflects PM’s nervousness, 'casteist mindset'",
+      "source": "www.abplive.in",
+      "description": "Prime Minister Narendra Modi today dubbed the alliance of the Samajwadi Party, Rashtriya Lok Dal and Bahujan Samaj Party in Uttar Pradesh as 'sarab', saying it is harmful for one's health and the state, prompting a furious reaction from the opposition at the comparison with alcohol.",
+      "tags": [
+        "bahujan samaj party",
+        "mayawati",
+        "narendra modi",
+        "samajwadi party",
+        "uttar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9tYXlhd2F0aS1zbGFtcy1tb2RpLWZvci1z\nYXJhYi1hY3JvbnltLXNheXMtaXQtcmVmbGVjdHMtcG1zLW5lcnZvdXNuZXNzLWNhc3RlaXN0LW1p\nbmRzZXQtOTUyMzEy",
+      "short_url": "https://www.abplive.in/election/mayawati-slams-modi-for-sarab-acronym-says-it-reflects-pms-nervousness-casteist-mindset-952312",
+      "engagement": "0",
+      "popularity": "5168.25",
+      "tw_tweets": "23",
+      "tw_reach": "5537",
+      "tw_favorites": "0",
+      "tw_retweets": "371",
+      "tw_since_id": "1111517551219998720",
+      "fb_shares": "5",
+      "fb_comments": "25",
+      "fb_reactions": "161",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "Munda_Desi_Nerd",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-03-2019 19:45",
+      "timestamp_published": "1553798726",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "383138",
+      "date_published": "2019-03-29 17:49:37",
+      "date_added": "2019-03-29 13:21:55",
+      "date_modified": "2019-03-29 13:21:55",
+      "title": "Andhra bans Prakash Jha's Aarakshan after Punjab, UP",
+      "source": "www.indiatoday.in",
+      "description": "The Mayawati government banned the release of the film Aarakshan for two months on the grounds that its release could create law and order problems in the state. The film is based on the issue of reservation.",
+      "tags": [
+        "mayawati",
+        "prakash"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9tb3ZpZXMvYm9sbHl3b29kL3N0b3J5L3ByYWthc2gt\namhhLWFhcmFrc2hhbi1iYW4tMTM5MTIyLTIwMTEtMDgtMTE=",
+      "short_url": "https://t.co/oc1B8nv8LM",
+      "engagement": "0",
+      "popularity": "3146",
+      "tw_tweets": "2",
+      "tw_reach": "1880",
+      "tw_favorites": "0",
+      "tw_retweets": "1156",
+      "tw_since_id": "1111603816166641666",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "1",
+      "sentiment": "0",
+      "screen_name": "dilipraichura",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-03-2019 17:49",
+      "timestamp_published": "1553878177",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "12"
+    },
+    {
+      "id": "384107",
+      "date_published": "2019-03-30 20:40:38",
+      "date_added": "2019-03-30 16:12:10",
+      "date_modified": "2019-04-02 03:41:18",
+      "title": "Hardoi BJP MP Anshul Verma quits party, hands over resignation to watchman, joins SP - The English Post",
+      "source": "theenglishpost.com",
+      "description": "Lucknow: Miffed over being denied a ticket from Hardoi in Uttar Pradesh, outgoing Lok Sabha member Anshul Verma on Wednesday resigned from the BJP to join the Samajwadi Party (SP). He was inducted into the SP by party President Akhilesh Yadav. The Bharatiya Janata Party (BJP) has fielded former MP Jai Prakash Rawat from Hardoi. Earlier, …",
+      "tags": [
+        "anshul verma",
+        "bjp",
+        "hardoi",
+        "samajwadi party",
+        "uttar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVlbmdsaXNocG9zdC5jb20vaGFyZG9pLWJqcC1tcC1hbnNodWwtdmVybWEtcXVp\ndHMtcGFydHktaGFuZHMtcmVzaWduYXRpb24td2F0Y2htYW4tam9pbnMtc3Av",
+      "short_url": "https://theenglishpost.com/hardoi-bjp-mp-anshul-verma-quits-party-hands-resignation-watchman-joins-sp/",
+      "engagement": "0",
+      "popularity": "12727.5",
+      "tw_tweets": "26",
+      "tw_reach": "14951",
+      "tw_favorites": "0",
+      "tw_retweets": "837",
+      "tw_since_id": "1112891997570793472",
+      "fb_shares": "12",
+      "fb_comments": "22",
+      "fb_reactions": "67",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "Mishthi4u",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-03-2019 20:40",
+      "timestamp_published": "1553974838",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "384683",
+      "date_published": "2019-03-31 16:00:00",
+      "date_added": "2019-03-31 12:31:41",
+      "date_modified": "2019-04-01 12:01:09",
+      "title": "Nishad Party announces dissociation from the SP-BSP alliance, likely to join the NDA - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Sanjay Nishad's son Praveen Nishad had won the Gorakhpur seat in 2018 bypolls while contesting on SP ticket. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "bahujan samaj party",
+        "india",
+        "nda",
+        "praveen",
+        "samajwadi party",
+        "sanjay"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9uaXNoYWQtcGFydHktYW5ub3VuY2VzLWRp\nc3NvY2lhdGlvbi1mcm9tLXRoZS1zcC1ic3AtYWxsaWFuY2UtbGlrZWx5LXRvLWpvaW4tdGhlLW5k\nYS8=",
+      "short_url": "http://bit.ly/2COi76a",
+      "engagement": "0",
+      "popularity": "402425",
+      "tw_tweets": "228",
+      "tw_reach": "514157",
+      "tw_favorites": "15",
+      "tw_retweets": "10718",
+      "tw_since_id": "1112632570901135360",
+      "fb_shares": "22",
+      "fb_comments": "6",
+      "fb_reactions": "188",
+      "popularity_updated": "220",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-03-2019 16:00",
+      "timestamp_published": "1554040800",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "239"
+    },
+    {
+      "id": "385284",
+      "date_published": "2019-04-01 10:39:47",
+      "date_added": "2019-04-01 07:12:02",
+      "date_modified": "2019-04-01 07:12:50",
+      "title": "Lynching accused in front row, Yogi says at Dadri: ‘SP govt tried to curb our emotions’",
+      "source": "indianexpress.com",
+      "description": "Key accused in the lynching case Vishal Singh Rana, the son of local BJP party worker Sanjay Rana, and Puneet were among those in the crowd. Vishal claimed that 16 of the 19 accused were part of the audience.",
+      "tags": [
+        "bjp",
+        "dadri",
+        "jay-z",
+        "samajwadi party",
+        "vishal singh rana",
+        "yogi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvbHluY2hpbmctYWNjdXNlZC1pbi1m\ncm9udC1yb3cteW9naS1hZGl0eWFuYXRoLXNheXMtYXQtZGFkcmktc3AtZ292dC10cmllZC10by1j\ndXJiLW91ci1lbW90aW9ucy01NjUyMDE3Lw==",
+      "short_url": "https://t.co/GZIi4C6OTm",
+      "engagement": "0",
+      "popularity": "3232940",
+      "tw_tweets": "1143",
+      "tw_reach": "3837136",
+      "tw_favorites": "32",
+      "tw_retweets": "233824",
+      "tw_since_id": "1112711205188075521",
+      "fb_shares": "298",
+      "fb_comments": "188",
+      "fb_reactions": "903",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "ManasMitul",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-04-2019 10:39",
+      "timestamp_published": "1554107987",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "386580",
+      "date_published": "2019-04-02 19:15:00",
+      "date_added": "2019-04-02 15:46:40",
+      "date_modified": "2019-04-02 16:36:09",
+      "title": "Remained unmarried for 'upliftment of downtrodden', says Mayawati as she justifies construction of her statues | India News",
+      "source": "www.timesnownews.com",
+      "description": "BSP chief Mayawati said that she decided to remain unmarried in order to work for the 'upliftment of the downtrodden'. She justified the construction of her statues in UP saying it was the will of the people.",
+      "tags": [
+        "bahujan samaj party",
+        "india",
+        "mayawati"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9pbmRpYS9hcnRpY2xlL3JlbWFpbmVkLXVubWFy\ncmllZC1mb3ItdXBsaWZ0bWVudC1vZi1kb3dudHJvZGRlbi1zYXlzLW1heWF3YXRpLWFzLXNoZS1q\ndXN0aWZpZXMtY29uc3RydWN0aW9uLW9mLWhlci1zdGF0dWVzLzM5MzI4Ng==",
+      "short_url": "https://www.timesnownews.com/india/article/remained-unmarried-for-upliftment-of-downtrodden-says-mayawati-as-she-justifies-construction-of-her-statues/393286",
+      "engagement": "0",
+      "popularity": "73741500",
+      "tw_tweets": "25",
+      "tw_reach": "98315562",
+      "tw_favorites": "113",
+      "tw_retweets": "39",
+      "tw_since_id": "1113407916248313857",
+      "fb_shares": "65",
+      "fb_comments": "451",
+      "fb_reactions": "1491",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "TimesNow",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-04-2019 19:15",
+      "timestamp_published": "1554225300",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "386977",
+      "date_published": "2019-04-03 08:39:43",
+      "date_added": "2019-04-03 05:11:43",
+      "date_modified": "2019-04-03 07:31:53",
+      "title": "Mayawati: If Ram statue OK, why not mine? - Times of India ►",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: Riled by the attention a petition questioning construction of her statues along with other Dalit leaders in UP, Mayawati on Tuesday asked why no such",
+      "tags": [
+        "dalit",
+        "india",
+        "mayawati"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaW5kaWEvbWF5YXdhdGktaWYtcmFt\nLXN0YXR1ZS1vay13aHktbm90LW1pbmUvYXJ0aWNsZXNob3cvNjg2OTY0MjcuY21z",
+      "short_url": "https://timesofindia.indiatimes.com/india/mayawati-if-ram-statue-ok-why-not-mine/articleshow/68696427.cms",
+      "engagement": "0",
+      "popularity": "53490800",
+      "tw_tweets": "915",
+      "tw_reach": "71104524",
+      "tw_favorites": "399",
+      "tw_retweets": "86428",
+      "tw_since_id": "1113435775314485250",
+      "fb_shares": "1446",
+      "fb_comments": "2117",
+      "fb_reactions": "10160",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "SatyaTi50606386",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-04-2019 08:39",
+      "timestamp_published": "1554273583",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "388124",
+      "date_published": "2019-04-04 15:45:00",
+      "date_added": "2019-04-04 12:17:02",
+      "date_modified": "2019-04-04 12:57:49",
+      "title": "Jolt To Mahagathbandhan As Nishad Party Joins NDA; Incumbent Gorakhpur MP Enters BJP As Part Of Alliance",
+      "source": "swarajyamag.com",
+      "description": "The Gorakhpur MP a former Samajwadi Party ally, joins BJP",
+      "tags": [
+        "bjp",
+        "gorakhpur",
+        "mahagathbandhan",
+        "nda",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvam9sdC10by1tYWhhZ2F0aGJhbmRoYW4tYXMt\nbmlzaGFkLXBhcnR5LWpvaW5zLW5kYS1pbmN1bWJlbnQtZ29yYWtocHVyLW1wLWVudGVycy1ianAt\nYXMtcGFydC1vZi1hbGxpYW5jZQ==",
+      "short_url": "https://swarajyamag.com/insta/jolt-to-mahagathbandhan-as-nishad-party-joins-nda-incumbent-gorakhpur-mp-enters-bjp-as-part-of-alliance",
+      "engagement": "0",
+      "popularity": "473220",
+      "tw_tweets": "58",
+      "tw_reach": "626024",
+      "tw_favorites": "9",
+      "tw_retweets": "1642",
+      "tw_since_id": "1114075584043184129",
+      "fb_shares": "40",
+      "fb_comments": "8",
+      "fb_reactions": "472",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-04-2019 15:45",
+      "timestamp_published": "1554385500",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "388799",
+      "date_published": "2019-04-05 11:45:16",
+      "date_added": "2019-04-05 08:17:51",
+      "date_modified": "2019-04-05 08:17:51",
+      "title": "3 Surveys Show Who’s Weighing Down BJP in UP. It’s Yogi Adityanath",
+      "source": "www.thequint.com",
+      "description": "It’s not just SP-BSP-RLD effect, multiple surveys show that Yogi Adityanath’s performance is harming BJP in UP ",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlcXVpbnQuY29tL2VsZWN0aW9ucy95b2dpLWFkaXR5YW5hdGgtdW5wb3B1\nbGFyaXR5LWhhcm1pbmctYmpwLXV0dGFyLXByYWRlc2gtbWFoYWdhdGhiYW5kaGFu",
+      "short_url": "https://www.thequint.com/elections/yogi-adityanath-unpopularity-harming-bjp-uttar-pradesh-mahagathbandhan",
+      "engagement": "0",
+      "popularity": "297714",
+      "tw_tweets": "353",
+      "tw_reach": "260256",
+      "tw_favorites": "14",
+      "tw_retweets": "65224",
+      "tw_since_id": "1114082213962895361",
+      "fb_shares": "276",
+      "fb_comments": "266",
+      "fb_reactions": "1348",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Bikashchandra10",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-04-2019 11:45",
+      "timestamp_published": "1554457516",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "390119",
+      "date_published": "2019-04-06 23:41:30",
+      "date_added": "2019-04-06 20:16:52",
+      "date_modified": "2019-04-07 01:11:22",
+      "title": "Akhilesh Yadav Promises 2% Tax on Upper Caste Elites With an Aim to Bridge Economic Disparity",
+      "source": "www.news18.com",
+      "description": "Hitting out at the upper caste groups, SP chief Akhilesh Yadav said the 10% of the total population owns more than 60% of the country’s wealth.",
+      "tags": [
+        "akhilesh yadav",
+        "caste",
+        "samajwadi party",
+        "tax"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2FraGlsZXNoLXlhZGF2LXByb21p\nc2VzLTItdGF4LW9uLXVwcGVyLWNhc3RlLWVsaXRlcy13aXRoLWFuLWFpbS10by1icmlkZ2UtZWNv\nbm9taWMtZGlzcGFyaXR5LTIwOTAzNDkuaHRtbA==",
+      "short_url": "https://www.google.co.in/amp/s/www.news18.com/amp/news/politics/akhilesh-yadav-promises-2-tax-on-upper-caste-elites-with-an-aim-to-bridge-economic-disparity-2090349.html",
+      "engagement": "0",
+      "popularity": "1469070",
+      "tw_tweets": "1010",
+      "tw_reach": "1584009",
+      "tw_favorites": "1235",
+      "tw_retweets": "176812",
+      "tw_since_id": "1114691096787992576",
+      "fb_shares": "914",
+      "fb_comments": "1098",
+      "fb_reactions": "3911",
+      "popularity_updated": "120",
+      "sentiment": "0",
+      "screen_name": "gagantalwar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-04-2019 23:41",
+      "timestamp_published": "1554586890",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "144"
+    },
+    {
+      "id": "390442",
+      "date_published": "2019-04-07 11:45:09",
+      "date_added": "2019-04-07 08:17:05",
+      "date_modified": "2019-04-07 12:01:48",
+      "title": "Why Deoband: With First Joint Rally, SP-BSP Bring Unity Message to All Key Vote Bases in One Place",
+      "source": "www.news18.com",
+      "description": "The top leaders of the SP, BSP and RLD will address the Deoband meeting just days before Saharanpur and seven other western UP constituencies go to the polls in the first phase of the Lok Sabha elections on April 11.",
+      "tags": [
+        "bahujan samaj party",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3doeS1kZW9iYW5kLXdpdGgtZmly\nc3Qtam9pbnQtcmFsbHktc3AtYW5kLWJzcC1icmluZy11bml0eS1tZXNzYWdlLXRvLWFsbC1rZXkt\ndm90ZS1iYXNlcy1pbi1vbmUtcGxhY2UtMjA5MjE3OS5odG1s",
+      "short_url": "https://www.news18.com/news/politics/why-deoband-with-first-joint-rally-sp-and-bsp-bring-unity-message-to-all-key-vote-bases-in-one-place-2092179.html",
+      "engagement": "0",
+      "popularity": "6431770",
+      "tw_tweets": "29",
+      "tw_reach": "8575066",
+      "tw_favorites": "10",
+      "tw_retweets": "216",
+      "tw_since_id": "1114938899892039680",
+      "fb_shares": "2",
+      "fb_comments": "6",
+      "fb_reactions": "38",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "scribe_it",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-04-2019 11:45",
+      "timestamp_published": "1554630309",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "390915",
+      "date_published": "2019-04-08 04:34:00",
+      "date_added": "2019-04-08 01:07:08",
+      "date_modified": "2019-04-08 05:06:46",
+      "title": "NDA will retain power comfortably, BJP+ will defeat SP-BSP-RLD in Uttar Pradesh: Jan ki Baat survey",
+      "source": "www.mynation.com",
+      "description": "Other than predicting a comfortable 300+ seats for the NDA, there are other surprises in the findings of the Pradip Bhandari-led Jan ki Baat survey, like a neck-and-neck between the AIADMK and DMK in Tamil Nadu. Read on for more interesting psephological calculations.\n&nbsp;",
+      "tags": [
+        "bahujan samaj party",
+        "bhandari",
+        "bjp",
+        "nda",
+        "samajwadi party",
+        "uttar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2VsZWN0aW9ucy9uZGEtd2lsbC1yZXRhaW4tcG93ZXIt\nY29tZm9ydGFibHktYmpwLXdpbGwtZGVmZWF0LXNwLWJzcC1ybGQtaW4tdXR0YXItcHJhZGVzaC1q\nYW4ta2ktYmFhdC1zdXJ2ZXktcHBsNmlz",
+      "short_url": "https://www.mynation.com/elections/nda-will-retain-power-comfortably-bjp-will-defeat-sp-bsp-rld-in-uttar-pradesh-jan-ki-baat-survey-ppl6is",
+      "engagement": "0",
+      "popularity": "842397",
+      "tw_tweets": "154",
+      "tw_reach": "1095819",
+      "tw_favorites": "40",
+      "tw_retweets": "13502",
+      "tw_since_id": "1115193816363835393",
+      "fb_shares": "8",
+      "fb_comments": "1",
+      "fb_reactions": "29",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "Dharma2X",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-04-2019 04:34",
+      "timestamp_published": "1554690840",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "392104",
+      "date_published": "2019-04-09 11:05:43",
+      "date_added": "2019-04-09 07:37:11",
+      "date_modified": "2019-04-09 10:02:31",
+      "title": "From Mayawati's 'Sinking Ship' to Fight Against Corruption, PM Modi Sets the Agenda for 2019 Elections",
+      "source": "www.news18.com",
+      "description": "In an exclusive interview with News18 Network Group Editor-in-Chief Rahul Joshi, PM Modi set the agenda for the upcoming Lok Sabha elections, discussing a host of issues from J&K to the Opposition.",
+      "tags": [
+        "mayawati",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2Zyb20tbWF5YXdhdGlzLXNpbmtp\nbmctc2hpcC10by1maWdodC1hZ2FpbnN0LWNvcnJ1cHRpb24tcG0tbmFyZW5kcmEtbW9kaS1zZXRz\nLXRoZS1hZ2VuZGEtZm9yLTIwMTktZWxlY3Rpb25zLTIwOTQyODkuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/from-mayawatis-sinking-ship-to-fight-against-corruption-pm-narendra-modi-sets-the-agenda-for-2019-elections-2094289.html",
+      "engagement": "0",
+      "popularity": "10206100",
+      "tw_tweets": "1130",
+      "tw_reach": "10905413",
+      "tw_favorites": "27",
+      "tw_retweets": "1350408",
+      "tw_since_id": "1115717106862047233",
+      "fb_shares": "26",
+      "fb_comments": "12",
+      "fb_reactions": "80",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "ShuklaKedarnath",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-04-2019 11:05",
+      "timestamp_published": "1554800743",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "393481",
+      "date_published": "2019-04-10 18:12:04",
+      "date_added": "2019-04-10 14:47:04",
+      "date_modified": "2019-04-11 18:11:14",
+      "title": "Analysing ‘Shivpal Factor’ and How it Can Hurt SP-BSP, Help BJP in 15 Uttar Pradesh Seats",
+      "source": "www.news18.com",
+      "description": "Election this time in Firozabad and nearby constituencies in the region often described as 'Yadav Land' is about relations gone sour between the Chacha and Bhatija - Shivpal Yadav and Akhilesh Yadav of the Samajwadi Party.",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "samajwadi party",
+        "shivpal",
+        "yadav"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2FuYWx5c2luZy1zaGl2cGFsLWZh\nY3Rvci1hbmQtaG93LWl0LWNhbi1odXJ0LXNwLWJzcC1oZWxwLWJqcC1pbi0xNS11dHRhci1wcmFk\nZXNoLXNlYXQtMjA5NjEyOS5odG1s",
+      "short_url": "https://t.co/TLfsimmgkR",
+      "engagement": "0",
+      "popularity": "533871",
+      "tw_tweets": "549",
+      "tw_reach": "621908",
+      "tw_favorites": "68",
+      "tw_retweets": "44281",
+      "tw_since_id": "1116346560231686145",
+      "fb_shares": "19",
+      "fb_comments": "12",
+      "fb_reactions": "146",
+      "popularity_updated": "539",
+      "sentiment": "0",
+      "screen_name": "Abhi_Gosavi17",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-04-2019 18:12",
+      "timestamp_published": "1554912724",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "561"
+    },
+    {
+      "id": "394189",
+      "date_published": "2019-04-11 14:55:36",
+      "date_added": "2019-04-11 11:27:08",
+      "date_modified": "2019-04-12 10:52:08",
+      "title": "Opinion: Akhilesh's Problems In Dealing With Tough Ally Mayawati",
+      "source": "www.ndtv.com",
+      "description": " ",
+      "tags": [
+        "mayawati"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vb3Bpbmlvbi9ha2hpbGVzaHMtcHJvYmxlbXMtaW4tZGVhbGlu\nZy13aXRoLXRvdWdoLWFsbHktbWF5YXdhdGktMjAyMTM4Nw==",
+      "short_url": "https://www.ndtv.com/opinion/akhileshs-problems-in-dealing-with-tough-ally-mayawati-2021387",
+      "engagement": "0",
+      "popularity": "1173010",
+      "tw_tweets": "218",
+      "tw_reach": "1533670",
+      "tw_favorites": "226",
+      "tw_retweets": "14705",
+      "tw_since_id": "1116624506892587008",
+      "fb_shares": "38",
+      "fb_comments": "13",
+      "fb_reactions": "62",
+      "popularity_updated": "36",
+      "sentiment": "0",
+      "screen_name": "Akki_Superstarr",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-04-2019 14:55",
+      "timestamp_published": "1554987336",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "57"
+    },
+    {
+      "id": "394518",
+      "date_published": "2019-04-12 02:00:00",
+      "date_added": "2019-04-11 22:33:04",
+      "date_modified": "2019-04-11 22:33:04",
+      "title": "'We Will Give Permanent Jobs to Real Chowkidars': Akhilesh Yadav Takes Swipe at BJP Campaign",
+      "source": "www.news18.com",
+      "description": "Yadav also took a swipe at the saffron party leaders for referring to the BSP-SP-RLD coalition as the “mahamilawat” and said that it was the BJP which had taught them the art of alliance.",
+      "tags": [
+        "akhilesh yadav",
+        "bahujan samaj party",
+        "bjp",
+        "campaign",
+        "jobs",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3dlLXdpbGwtZ2l2ZS1wZXJtYW5l\nbnQtam9icy10by1yZWFsLWNob3draWRhcnMtYWtoaWxlc2gteWFkYXYtdGFrZXMtc3dpcGUtYXQt\nYmpwLWNhbXBhaWduLTIwOTg5NTUuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/we-will-give-permanent-jobs-to-real-chowkidars-akhilesh-yadav-takes-swipe-at-bjp-campaign-2098955.html",
+      "engagement": "0",
+      "popularity": "245414",
+      "tw_tweets": "4",
+      "tw_reach": "326273",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1116698604335321088",
+      "fb_shares": "7",
+      "fb_comments": "76",
+      "fb_reactions": "222",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "news18dotcom",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-04-2019 02:00",
+      "timestamp_published": "1555027200",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "395980",
+      "date_published": "2019-04-13 19:30:02",
+      "date_added": "2019-04-13 16:02:05",
+      "date_modified": "2019-04-13 20:32:11",
+      "title": "BJP will neither get votes of Ali nor Bajrang Bali: Mayawati’s retort to Yogi",
+      "source": "indianexpress.com",
+      "description": "\"It is not me who has invented the caste of Bajrang Bali, but Uttar Pradesh Chief Minister Yogi Adityanath, who has said that Bajrang Bali was a 'vanvasi' and a Dalit,\" Mayawati said at a rally in Badaun.",
+      "tags": [
+        "bjp",
+        "caste",
+        "dalit",
+        "mayawati"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYmpwLXdpbGwtbmVpdGhlci1nZXQt\ndm90ZXMtb2YtYWxpLW5vci1iYWpyYW5nLWJhbGktbWF5YXdhdGkteW9naS1hZGl0eWFuYXRoLTU2\nNzQxMDkv",
+      "short_url": "http://bit.ly/2VHb0Uz",
+      "engagement": "0",
+      "popularity": "4767950",
+      "tw_tweets": "127",
+      "tw_reach": "6351951",
+      "tw_favorites": "55",
+      "tw_retweets": "2126",
+      "tw_since_id": "1117300905790070785",
+      "fb_shares": "20",
+      "fb_comments": "34",
+      "fb_reactions": "215",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "Ambedkar_Sangh",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-04-2019 19:30",
+      "timestamp_published": "1555176602",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "396548",
+      "date_published": "2019-04-14 16:59:44",
+      "date_added": "2019-04-14 13:32:05",
+      "date_modified": "2019-04-16 12:06:13",
+      "title": "Did Dharma Gurus walked for Samajwadi Party with party flag in their hand",
+      "source": "facthunt.in",
+      "description": "The poster is photoshopped. Here is the real image.\n\n\n\nThe image was taken when Acharya Lokesh Muni,&nbsp;Swami Dipankar,&nbsp;Goswami Sushil ji,&nbsp;DR. IMAM UMER ILYASI&nbsp;and&nbsp;Paramjit Singh Chandhok walked on Wagah border with tricolours in their hand.",
+      "tags": [
+        "arjun janya",
+        "chand",
+        "deepak acharya",
+        "graham henry",
+        "paramjit singh",
+        "samajwadi party",
+        "swami dipankar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9mYWN0aHVudC5pbi9ydW1vdXIvMjQvRGlkLURoYXJtYS1HdXJ1cy13YWxrZWQtZm9y\nLVNhbWFqd2FkaS1QYXJ0eS13aXRoLXBhcnR5LWZsYWctaW4tdGhlaXItaGFuZA==",
+      "short_url": "https://facthunt.in/rumour/24/Did-Dharma-Gurus-walked-for-Samajwadi-Party-with-party-flag-in-their-hand",
+      "engagement": "0",
+      "popularity": "160338",
+      "tw_tweets": "194",
+      "tw_reach": "197214",
+      "tw_favorites": "12",
+      "tw_retweets": "8136",
+      "tw_since_id": "1118085538953646081",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "7",
+      "popularity_updated": "190",
+      "sentiment": "0",
+      "screen_name": "swamidipankar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-04-2019 16:59",
+      "timestamp_published": "1555253984",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "211"
+    },
+    {
+      "id": "396855",
+      "date_published": "2019-04-15 02:38:36",
+      "date_added": "2019-04-14 23:11:40",
+      "date_modified": "2019-04-14 23:27:08",
+      "title": "Modern Secularism: While Mayawati stands by her appeal to Muslims, she \"slams\" Yogi Adityanath for appealing to Hindus - Opindia News",
+      "source": "www.opindia.com",
+      "description": "While Mayawati has stuck to her appeal to the Muslim community, she took to Twitter today to slam Uttar Pradesh Chief Minister Yogi Adityanath for saying that he is dividing the electorate between 'Ali' and 'Bajrangbali'. - Latest India News from Opindia.com",
+      "tags": [
+        "mayawati",
+        "muslim",
+        "muslims",
+        "uttar pradesh chief minister",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9tb2Rlcm4tc2VjdWxhcmlzbS13aGlsZS1t\nYXlhd2F0aS1zdGFuZHMtYnktaGVyLWFwcGVhbC10by1tdXNsaW1zLXNoZS1zbGFtcy15b2dpLWFk\naXR5YW5hdGgtZm9yLWFwcGVhbGluZy10by1oaW5kdXMv",
+      "short_url": "https://news360.com/article/493585957",
+      "engagement": "0",
+      "popularity": "20239.2",
+      "tw_tweets": "17",
+      "tw_reach": "17484",
+      "tw_favorites": "0",
+      "tw_retweets": "3370",
+      "tw_since_id": "1117772487821889538",
+      "fb_shares": "225",
+      "fb_comments": "63",
+      "fb_reactions": "618",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "ArunrBits",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-04-2019 02:38",
+      "timestamp_published": "1555288716",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "398571",
+      "date_published": "2019-04-16 21:00:22",
+      "date_added": "2019-04-16 17:32:13",
+      "date_modified": "2019-04-17 19:02:12",
+      "title": "After Mayawati, Navjot Sidhu appeals to Muslims not to split their votes",
+      "source": "indianexpress.com",
+      "description": "Addressing a rally in Bihar's Katihar Lok Sabha constituency, the Punjab minister said the BJP was running a divisive campaign and cautioned the Muslim voters against splitting their votes.",
+      "tags": [
+        "bihar's katihar lok sabha",
+        "bjp",
+        "campaign",
+        "mayawati",
+        "muslim",
+        "muslims",
+        "navjot singh sidhu"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvbmF2am90LXNpZGh1LW11c2xpbS12\nb3RlcnMtYmloYXItcmFsbHktcG0tbW9kaS01Njc4NDkwLw==",
+      "short_url": "https://indianexpress.com/elections/navjot-sidhu-muslim-voters-bihar-rally-pm-modi-5678490/",
+      "engagement": "0",
+      "popularity": "1121050",
+      "tw_tweets": "444",
+      "tw_reach": "455303",
+      "tw_favorites": "4",
+      "tw_retweets": "510628",
+      "tw_since_id": "1118559891826913282",
+      "fb_shares": "723",
+      "fb_comments": "1119",
+      "fb_reactions": "3893",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "pratibha_er",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-04-2019 21:00",
+      "timestamp_published": "1555441222",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "399303",
+      "date_published": "2019-04-17 19:58:12",
+      "date_added": "2019-04-17 16:31:50",
+      "date_modified": "2019-04-17 18:11:09",
+      "title": "Samajwadi Party fields Shatrughan's wife Poonam Sinha from Lucknow - The Financial Express",
+      "source": "www.financialexpress.com",
+      "description": "Poonam Sinha will take on Union Home Minister Rajnath Singh, who is BJP’s candidate from Lucknow Lok Sabha constituency. The Congress has not fielded a candidate from Lucknow so far.",
+      "tags": [
+        "bjp",
+        "congress",
+        "lucknow",
+        "poonam sinha",
+        "rajnath singh",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vZWxlY3Rpb25zL3NhbWFqd2FkaS1wYXJ0\neS1maWVsZHMtc2hhdHJ1Z2hhbnMtd2lmZS1wb29uYW0tc2luaGEtZnJvbS1sdWNrbm93LzE1NTEz\nMzkv",
+      "short_url": "https://www.financialexpress.com/elections/samajwadi-party-fields-shatrughans-wife-poonam-sinha-from-lucknow/1551339/",
+      "engagement": "0",
+      "popularity": "1933830",
+      "tw_tweets": "43",
+      "tw_reach": "2577776",
+      "tw_favorites": "7",
+      "tw_retweets": "38",
+      "tw_since_id": "1118524428034486273",
+      "fb_shares": "6",
+      "fb_comments": "30",
+      "fb_reactions": "135",
+      "popularity_updated": "42",
+      "sentiment": "0",
+      "screen_name": "FinancialXpress",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-04-2019 19:58",
+      "timestamp_published": "1555523892",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "53"
+    },
+    {
+      "id": "399921",
+      "date_published": "2019-04-18 15:55:41",
+      "date_added": "2019-04-18 12:27:55",
+      "date_modified": "2019-04-18 13:21:35",
+      "title": "Congress' Shatrughan Sinha says 'family first,' campaigns for his Samajwadi Party leader wife, Poonam Sinha",
+      "source": "www.opindia.com",
+      "description": "Shatrughan Sinha has defended campaigning for his Samajwadi Party leader wife by saying 'family first' - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "poonam sinha",
+        "samajwadi party",
+        "shatrughan sinha"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9zaGF0cnVnaGFuLXNpbmhhLXBvb25hbS1z\naW5oYS1zYW1handhZGktcGFydHktbHVja25vdy1hY2hhcnlhLXByYW1vZC8=",
+      "short_url": "https://www.opindia.com/2019/04/shatrughan-sinha-poonam-sinha-samajwadi-party-lucknow-acharya-pramod/",
+      "engagement": "0",
+      "popularity": "317284",
+      "tw_tweets": "37",
+      "tw_reach": "414561",
+      "tw_favorites": "0",
+      "tw_retweets": "1276",
+      "tw_since_id": "1118838385865572352",
+      "fb_shares": "197",
+      "fb_comments": "313",
+      "fb_reactions": "1416",
+      "popularity_updated": "24",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-04-2019 15:55",
+      "timestamp_published": "1555595741",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "400691",
+      "date_published": "2019-04-19 15:40:16",
+      "date_added": "2019-04-19 12:12:09",
+      "date_modified": "2019-04-19 18:27:14",
+      "title": "Mayawati stated that PM Modi's caste is a 'fake' backward caste and Mulayam Singh is backward by birth",
+      "source": "www.opindia.com",
+      "description": "While hailing SP chief Mulayam Singh Yadav for bringing people of all classes under his party, Mayawati asserted that Mulayam Singh, by birth, truly belongs to the backward community, unlike PM Modi who belongs to a \"fake\" backward community. - Latest India News from Opindia.com",
+      "tags": [
+        "caste",
+        "charanjit singh",
+        "mayawati",
+        "mulayam singh",
+        "mulayam singh yadav",
+        "narendra modi",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9wbS1tb2RpLWJlbG9uZ3MtdG8tYS1mYWtl\nLWJhY2t3YXJkLWNhc3RlLW11bGF5YW1zLWNhc3RlLWlzLWdlbnVpbmVseS1iYWNrd2FyZC1tYXlh\nd2F0aS8=",
+      "short_url": "https://www.opindia.com/2019/04/pm-modi-belongs-to-a-fake-backward-caste-mulayams-caste-is-genuinely-backward-mayawati/",
+      "engagement": "0",
+      "popularity": "109371",
+      "tw_tweets": "35",
+      "tw_reach": "140189",
+      "tw_favorites": "20",
+      "tw_retweets": "1232",
+      "tw_since_id": "1119442557925117952",
+      "fb_shares": "105",
+      "fb_comments": "214",
+      "fb_reactions": "691",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "j_malkani",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-04-2019 15:40",
+      "timestamp_published": "1555681216",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "401523",
+      "date_published": "2019-04-20 13:50:19",
+      "date_added": "2019-04-20 10:22:27",
+      "date_modified": "2019-04-24 22:11:10",
+      "title": "Formed Anti-Romeo Squad for people like Azam Khan: Yogi Adityanath - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Yogi Adityanath launched a scathing attack against senior Samajwadi Party leader Azam Khan for his obscene remark against Jaya Prada, BJP candidate from Rampur. - Latest India News from Opindia.com",
+      "tags": [
+        "azam khan",
+        "bjp",
+        "india",
+        "jaya prada",
+        "rampur",
+        "romeo miller",
+        "samajwadi party",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9mb3JtZWQtYW50aS1yb21lby1zcXVhZC1m\nb3ItcGVvcGxlLWxpa2UtYXphbS1raGFuLXlvZ2ktYWRpdHlhbmF0aC8=",
+      "short_url": "https://t.co/djKevwy5gF",
+      "engagement": "0",
+      "popularity": "535562",
+      "tw_tweets": "567",
+      "tw_reach": "280066",
+      "tw_favorites": "0",
+      "tw_retweets": "214369",
+      "tw_since_id": "1121128458120122368",
+      "fb_shares": "169",
+      "fb_comments": "51",
+      "fb_reactions": "1282",
+      "popularity_updated": "549",
+      "sentiment": "0",
+      "screen_name": "DrNehaMecwan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 13:50",
+      "timestamp_published": "1555761019",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "575"
+    },
+    {
+      "id": "402328",
+      "date_published": "2019-04-21 11:25:48",
+      "date_added": "2019-04-21 07:57:34",
+      "date_modified": "2019-04-22 14:26:12",
+      "title": "'The Wire' journalists caught wrongly attributing Mayawati's casteist remark to Yogi Adityanath",
+      "source": "www.opindia.com",
+      "description": "Rohini Singh, who is notoriously known for her propaganda, along with her colleague Prashant Kanojia, has yet again posted fake news to target the UP Chief Minister Yogi Adityanath. - Latest India News from Opindia.com",
+      "tags": [
+        "mayawati",
+        "propaganda",
+        "yogi adityanath",
+        "yogi adityanath rohini singh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9zYW1handhZGktcGFydHktZnJpZW5kbHkt\nam91cm5hbGlzdC1hc3NvY2lhdGVkLXdpdGgtdGhlLXdpcmUtY2F1Z2h0LXNwcmVhZGluZy1saWVz\nLWFib3V0LXlvZ2ktYWRpdHlhbmF0aC1kZWxldGVzLXR3ZWV0LWFmdGVyLWdldHRpbmctY2F1Z2h0\nLw==",
+      "short_url": "https://www.opindia.com/2019/04/samajwadi-party-friendly-journalist-associated-with-the-wire-caught-spreading-lies-about-yogi-adityanath-deletes-tweet-after-getting-caught/",
+      "engagement": "0",
+      "popularity": "1137610",
+      "tw_tweets": "667",
+      "tw_reach": "625032",
+      "tw_favorites": "27",
+      "tw_retweets": "443291",
+      "tw_since_id": "1120293344045948929",
+      "fb_shares": "450",
+      "fb_comments": "62",
+      "fb_reactions": "905",
+      "popularity_updated": "200",
+      "sentiment": "0",
+      "screen_name": "illuminatistine",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 11:25",
+      "timestamp_published": "1555838748",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        },
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "217"
+    },
+    {
+      "id": "403157",
+      "date_published": "2019-04-22 13:01:57",
+      "date_added": "2019-04-22 09:36:49",
+      "date_modified": "2019-04-28 03:07:09",
+      "title": "Dynasty Vs Democracy: How feudal political families have ruined India's governance and representation",
+      "source": "www.dailyo.in",
+      "description": "So feudal is our politics now, even single politicians like Mamata Banerjee and Mayawati have 'heirs'. This has ruined inner-party democracy and lowered standards of national governance too.",
+      "tags": [
+        "mamata banerjee",
+        "mayawati"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL3BvbGl0aWNzL2R5bmFzdGljLXBvbGl0aWNzLXJhaHVsLWdh\nbmRoaS1uZXBvdGlzbS1ianAtbmFyZW5kcmEtbW9kaS1hYmhpc2hlay1iYW5lcmplZS10bWMtbWF5\nYXdhdGktcy1uZXBoZXctZG1rLW9tYXItYWJkdWxsYWgtaW5lZmZpY2llbmN5L3N0b3J5LzEvMzAz\nODIuaHRtbA==",
+      "short_url": "https://www.dailyo.in/politics/dynastic-politics-rahul-gandhi-nepotism-bjp-narendra-modi-abhishek-banerjee-tmc-mayawati-s-nephew-dmk-omar-abdullah-inefficiency/story/1/30382.html",
+      "engagement": "0",
+      "popularity": "5408480",
+      "tw_tweets": "386",
+      "tw_reach": "7143396",
+      "tw_favorites": "354",
+      "tw_retweets": "32804",
+      "tw_since_id": "1122305631287951360",
+      "fb_shares": "51",
+      "fb_comments": "79",
+      "fb_reactions": "302",
+      "popularity_updated": "105",
+      "sentiment": "-1",
+      "screen_name": "suchithkc",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 13:01",
+      "timestamp_published": "1555930917",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "118"
+    },
+    {
+      "id": "403844",
+      "date_published": "2019-04-23 08:08:55",
+      "date_added": "2019-04-23 04:42:12",
+      "date_modified": "2019-04-23 06:06:17",
+      "title": "In UP, stakes high for Samajwadi Party in Lok Sabha Phase 3 elections 2019",
+      "source": "www.hindustantimes.com",
+      "description": "The seats going to the polls on Tuesday include Moaradabad, Rampur, Sambhal, Firozabad, Mainpuri, Etah, Badaun, Aonla, Bareilly and Pilibhit.",
+      "tags": [
+        "badaun",
+        " aonla",
+        "bareilly",
+        "etah",
+        "firozabad",
+        "mainpuri",
+        "pilibhit",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvaW4tdXAt\nc3Rha2VzLWhpZ2gtZm9yLXNhbWFqd2FkaS1wYXJ0eS1pbi1sb2stc2FiaGEtcGhhc2UtMy1lbGVj\ndGlvbnMtMjAxOS9zdG9yeS1FVXhtaW9WVU5lNUZ6ejVycVlPZ2xJLmh0bWw=",
+      "short_url": "http://www.hindustantimes.com/lok-sabha-elections/in-up-stakes-high-for-samajwadi-party-in-lok-sabha-phase-3-elections-2019/story-EUxmioVUNe5Fzz5rqYOglI.html",
+      "engagement": "0",
+      "popularity": "10161100",
+      "tw_tweets": "40",
+      "tw_reach": "13547970",
+      "tw_favorites": "6",
+      "tw_retweets": "0",
+      "tw_since_id": "1120575529608835072",
+      "fb_shares": "2",
+      "fb_comments": "10",
+      "fb_reactions": "28",
+      "popularity_updated": "36",
+      "sentiment": "0",
+      "screen_name": "HindustanTimes",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 08:08",
+      "timestamp_published": "1555999735",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "52"
+    },
+    {
+      "id": "405281",
+      "date_published": "2019-04-24 19:05:40",
+      "date_added": "2019-04-24 15:37:11",
+      "date_modified": "2019-04-24 15:37:12",
+      "title": "Previous governments failed to demonstrate India's defence capability in space: PM Narendra Modi - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: BALASORE: Prime Minister Narendra Modi on Tuesday slammed the Congress for failing to demonstrate India's defence capability in space, claiming that t.",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vYXJ0aWNsZXNob3cvNjkwMDY5NzEu\nY21zP3V0bV9zb3VyY2U9Y29udGVudG9maW50ZXJlc3QmdXRtX21lZGl1bT10ZXh0JnV0bV9jYW1w\nYWlnbj1jcHBzdA==",
+      "short_url": "https://timesofindia.indiatimes.com/articleshow/69006971.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "engagement": "0",
+      "popularity": "7827640",
+      "tw_tweets": "1383",
+      "tw_reach": "10059457",
+      "tw_favorites": "264",
+      "tw_retweets": "185288",
+      "tw_since_id": "1121257760908124160",
+      "fb_shares": "117",
+      "fb_comments": "343",
+      "fb_reactions": "1044",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Rajeevk45109675",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 19:05",
+      "timestamp_published": "1556125540",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "406022",
+      "date_published": "2019-04-25 18:50:14",
+      "date_added": "2019-04-25 15:22:29",
+      "date_modified": "2019-04-25 15:22:32",
+      "title": "Modi Varanasi roadshow LIVE Updates: Saffron tide engulfs city as PM's thunderous roadshow continues",
+      "source": "www.indiatvnews.com",
+      "description": "PM Modi Varanasi roadshow Live Updates: Prime Minister Narendra Modi has begun his roadshow in Varanasi, for what promises to be this election's biggest spectacle. Stay tuned for our Live Coverage of PM Modi Varanasi roadshow:",
+      "tags": [
+        "modi varanasi",
+        "narendra modi",
+        "pm modi varanasi",
+        "saffron",
+        "samajwadi party",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtZWxlY3Rpb25z\nLTIwMTktcG0tbmFyZW5kcmEtbW9kaS12YXJhbmFzaS1yb2Fkc2hvdy1saXZlLXVwZGF0ZXMtNTE2\nMzE1",
+      "short_url": "https://goo.gl/fb/Sc7ptS",
+      "engagement": "0",
+      "popularity": "21530400",
+      "tw_tweets": "188",
+      "tw_reach": "28700078",
+      "tw_favorites": "1261",
+      "tw_retweets": "1296",
+      "tw_since_id": "1121446277806313472",
+      "fb_shares": "44",
+      "fb_comments": "51",
+      "fb_reactions": "754",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "757LiveIN",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 18:50",
+      "timestamp_published": "1556211014",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "406514",
+      "date_published": "2019-04-26 13:00:17",
+      "date_added": "2019-04-26 09:32:48",
+      "date_modified": "2019-04-27 01:47:02",
+      "title": "Congress more keen on forming UP govt in 2022, rather than halting BJP: Akhilesh Yadav - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "News News: Elections News: ​​ The SP chief's remarks assume significance against the backdrop of Congress president Rahul Gandhi himself asserting that his party will form the g",
+      "tags": [
+        "akhilesh yadav",
+        "bjp",
+        "congress",
+        "india",
+        "rahul gandhi",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vZWxlY3Rpb25zL25ld3MvY29uZ3Jl\nc3MtbW9yZS1rZWVuLW9uLWZvcm1pbmctdXAtZ292dC1pbi0yMDIyLXJhdGhlci10aGFuLWhhbHRp\nbmctYmpwLWFraGlsZXNoL2FydGljbGVzaG93LzY5MDU0MDQzLmNtcw==",
+      "short_url": "https://timesofindia.indiatimes.com/elections/news/congress-more-keen-on-forming-up-govt-in-2022-rather-than-halting-bjp-akhilesh/articleshow/69054043.cms",
+      "engagement": "0",
+      "popularity": "11563600",
+      "tw_tweets": "144",
+      "tw_reach": "15384237",
+      "tw_favorites": "1",
+      "tw_retweets": "16386",
+      "tw_since_id": "1121963255155417088",
+      "fb_shares": "11",
+      "fb_comments": "62",
+      "fb_reactions": "214",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "RakeshA12572734",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 13:00",
+      "timestamp_published": "1556276417",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "407481",
+      "date_published": "2019-04-27 18:45:00",
+      "date_added": "2019-04-27 15:17:18",
+      "date_modified": "2019-04-27 15:36:22",
+      "title": "Yogi Adityanath said, in his government, terrorists will either go to jail or die",
+      "source": "www.opindia.com",
+      "description": "He had also said that terrorist attacks in Ayodhya and Kashi took place during the rule of Samajwadi Party. - Latest India News from Opindia.com",
+      "tags": [
+        "ayodhya",
+        "india",
+        "samajwadi party",
+        "terrorism",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC95b2dpLWFkaXR5YW5hdGgtc2F5cy11bmRl\nci1vdXQtZ292dC10ZXJyb3Jpc3RzLWVpdGhlci1kaWUtb3ItZ28tdG8tamFpbC1zcC1kcm9wcGVk\nLWNhc2VzLWFnYWluc3QtdGVycm9yaXN0cy8=",
+      "short_url": "https://www.opindia.com/2019/04/yogi-adityanath-says-under-out-govt-terrorists-either-die-or-go-to-jail-sp-dropped-cases-against-terrorists/",
+      "engagement": "0",
+      "popularity": "1191030",
+      "tw_tweets": "156",
+      "tw_reach": "1567393",
+      "tw_favorites": "476",
+      "tw_retweets": "8893",
+      "tw_since_id": "1122196431975124992",
+      "fb_shares": "109",
+      "fb_comments": "31",
+      "fb_reactions": "531",
+      "popularity_updated": "10",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 18:45",
+      "timestamp_published": "1556383500",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "408044",
+      "date_published": "2019-04-28 13:10:19",
+      "date_added": "2019-04-28 09:43:42",
+      "date_modified": "2019-04-28 09:43:42",
+      "title": "Modi an upper-caste when he was Gujarat CM, turned into OBC for electoral gains: Mayawati",
+      "source": "www.nationalheraldindia.com",
+      "description": "“He was an upper caste when he was Gujarat Chief Minister. Later he got his caste included in the OBC (other backward class) category,” she said at a hurriedly-convened press conference here.",
+      "tags": [
+        "caste",
+        "mayawati",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmF0aW9uYWxoZXJhbGRpbmRpYS5jb20vcG9saXRpY3MvbW9kaS1hbi11cHBl\nci1jYXN0ZS13aGVuLWhlLXdhcy1ndWphcmF0LWNtLXR1cm5lZC1pbnRvLW9iYy1mb3ItZWxlY3Rv\ncmFsLWdhaW5zLW1heWF3YXRp",
+      "short_url": "https://www.nationalheraldindia.com/politics/modi-an-upper-caste-when-he-was-gujarat-cm-turned-into-obc-for-electoral-gains-mayawati",
+      "engagement": "0",
+      "popularity": "100208",
+      "tw_tweets": "253",
+      "tw_reach": "73684",
+      "tw_favorites": "10",
+      "tw_retweets": "28220",
+      "tw_since_id": "1122461564601237504",
+      "fb_shares": "221",
+      "fb_comments": "74",
+      "fb_reactions": "742",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Puneetvizh",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 13:10",
+      "timestamp_published": "1556449819",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "409027",
+      "date_published": "2019-04-29 21:39:49",
+      "date_added": "2019-04-29 18:12:19",
+      "date_modified": "2019-04-29 18:42:03",
+      "title": "SP fields Tej Bahadur Yadav, ex-BSF jawan who complained of food quality, against Modi in Varanasi",
+      "source": "indianexpress.com",
+      "description": "In 2017, a video featuring Yadav in army fatigue went viral after he alleged that poor quality food was being served to security forces serving at the border",
+      "tags": [
+        "narendra modi",
+        "samajwadi party",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYnNmLWphd2FuLXRlai1iYWhhZHVy\nLXlhZGF2LXZhcmFuYXNpLW5hcmVuZHJhLW1vZGktc2FtYWp3YWRpLXBhcnR5LTU3MDA3NzMv",
+      "short_url": "https://indianexpress.com/elections/bsf-jawan-tej-bahadur-yadav-varanasi-narendra-modi-samajwadi-party-5700773/",
+      "engagement": "0",
+      "popularity": "601157",
+      "tw_tweets": "682",
+      "tw_reach": "607206",
+      "tw_favorites": "0",
+      "tw_retweets": "88251",
+      "tw_since_id": "1122914668563951616",
+      "fb_shares": "544",
+      "fb_comments": "628",
+      "fb_reactions": "4400",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "varunsathiapal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 21:39",
+      "timestamp_published": "1556566789",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "409766",
+      "date_published": "2019-04-30 21:14:04",
+      "date_added": "2019-04-30 17:47:06",
+      "date_modified": "2019-04-30 18:26:38",
+      "title": "ECI puts 48-hour prohibition on Azam Khan from campaigning activities",
+      "source": "www.thehindu.com",
+      "description": "The Samajwadi Party candidate Azam Khan had given highly provocative speeches against the district election machinery and also on religious lines",
+      "tags": [
+        "azam khan",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtMjAxOS9lY2ktcHV0\ncy00OC1ob3VyLXByb2hpYml0aW9uLW9uLWF6YW0ta2hhbi1mcm9tLWNhbXBhaWduaW5nLWFjdGl2\naXRpZXMvYXJ0aWNsZTI2OTk0NDkwLmVjZT9ob21lcGFnZT10cnVl",
+      "short_url": "https://trib.al/FYQ7zjW",
+      "engagement": "0",
+      "popularity": "91066100",
+      "tw_tweets": "79",
+      "tw_reach": "121418457",
+      "tw_favorites": "688",
+      "tw_retweets": "534",
+      "tw_since_id": "1123473200711651328",
+      "fb_shares": "7",
+      "fb_comments": "69",
+      "fb_reactions": "237",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "the_hindu",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 21:14",
+      "timestamp_published": "1556651644",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "36"
+    },
+    {
+      "id": "410346",
+      "date_published": "2019-05-01 15:17:12",
+      "date_added": "2019-05-01 11:52:14",
+      "date_modified": "2019-05-03 09:36:17",
+      "title": "Poll panel issues notice to sacked BSF jawan contesting on Samajwadi Party ticket in Varanasi",
+      "source": "amp.scroll.in",
+      "description": "However, Tej Bahadur Yadav claimed that the Election Commission was working under the instructions of Prime Minister Narendra Modi.",
+      "tags": [
+        "narendra modi",
+        "samajwadi party",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9hbXAuc2Nyb2xsLmluL2xhdGVzdC85MjE4OTUvcG9sbC1wYW5lbC1pc3N1ZXMtbm90\naWNlLXRvLXNhY2tlZC1ic2YtamF3YW4tY29udGVzdGluZy1mcm9tLXNhbWFqd2FkaS1wYXJ0eS10\naWNrZXQtaW4tdmFyYW5hc2k/X190d2l0dGVyX2ltcHJlc3Npb249dHJ1ZQ==",
+      "short_url": "https://amp.scroll.in/latest/921895/poll-panel-issues-notice-to-sacked-bsf-jawan-contesting-from-samajwadi-party-ticket-in-varanasi?__twitter_impression=true",
+      "engagement": "0",
+      "popularity": "5833060",
+      "tw_tweets": "1196",
+      "tw_reach": "1258980",
+      "tw_favorites": "3",
+      "tw_retweets": "3253402",
+      "tw_since_id": "1124177870685908992",
+      "fb_shares": "544",
+      "fb_comments": "436",
+      "fb_reactions": "2317",
+      "popularity_updated": "97",
+      "sentiment": "0",
+      "screen_name": "kautilyya",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 15:17",
+      "timestamp_published": "1556716632",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "115"
+    },
+    {
+      "id": "411504",
+      "date_published": "2019-05-02 21:24:47",
+      "date_added": "2019-05-02 17:57:14",
+      "date_modified": "2019-05-03 17:27:33",
+      "title": "Lok Sabha elections: Rahul Gandhi says Congress is helping BSP, SP in Uttar Pradesh",
+      "source": "scroll.in",
+      "description": "In an interview with NDTV, the Congress chief asserted that he never gave the impression that Priyanka Gandhi Vadra would contest the polls from Varanasi.",
+      "tags": [
+        "bahujan samaj party",
+        "congress",
+        "mahatma gandhi",
+        "priyanka",
+        "rahul gandhi",
+        "samajwadi party",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zY3JvbGwuaW4vbGF0ZXN0LzkyMjExMC9sb2stc2FiaGEtZWxlY3Rpb25zLXJhaHVs\nLWdhbmRoaS1zYXlzLWNvbmdyZXNzLWlzLWhlbHBpbmctYnNwLXNwLWluLXV0dGFyLXByYWRlc2g=",
+      "short_url": "https://scroll.in/latest/922110/lok-sabha-elections-rahul-gandhi-says-congress-is-helping-bsp-sp-in-uttar-pradesh",
+      "engagement": "0",
+      "popularity": "53390.8",
+      "tw_tweets": "34",
+      "tw_reach": "64316",
+      "tw_favorites": "0",
+      "tw_retweets": "3174",
+      "tw_since_id": "1124334239284023296",
+      "fb_shares": "7",
+      "fb_comments": "40",
+      "fb_reactions": "108",
+      "popularity_updated": "30",
+      "sentiment": "0",
+      "screen_name": "95Praveensharma",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 21:24",
+      "timestamp_published": "1556825087",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "50"
+    },
+    {
+      "id": "411994",
+      "date_published": "2019-05-03 13:45:00",
+      "date_added": "2019-05-03 10:17:38",
+      "date_modified": "2019-05-03 13:31:12",
+      "title": "Refusing to be a Docile Force in UP, Congress May Dent Prospects of Both SP-BSP and BJP in Phase 5",
+      "source": "www.news18.com",
+      "description": "The poll calculations of SP-BSP were  disturbed by the fact that Congress decided to go aggressive in UP rather than being a docile third force.",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "calculations of",
+        "congress",
+        "disturbed",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3JlZnVzaW5nLXRvLWJlLWEtZG9j\naWxlLXRoaXJkLWZvcmNlLWluLXVwLWNvbmdyZXNzLW1heS1kZW50LXByb3NwZWN0cy1vZi1ib3Ro\nLXNwLWJzcC1hbmQtYmpwLWluLXBoYXNlLTUtMjEyNjMwOS5odG1s",
+      "short_url": "https://www.news18.com/news/politics/refusing-to-be-a-docile-third-force-in-up-congress-may-dent-prospects-of-both-sp-bsp-and-bjp-in-phase-5-2126309.html",
+      "engagement": "0",
+      "popularity": "104404",
+      "tw_tweets": "207",
+      "tw_reach": "91606",
+      "tw_favorites": "17",
+      "tw_retweets": "23616",
+      "tw_since_id": "1124335053562044416",
+      "fb_shares": "8",
+      "fb_comments": "0",
+      "fb_reactions": "15",
+      "popularity_updated": "82",
+      "sentiment": "-1",
+      "screen_name": "newsfacto1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 13:45",
+      "timestamp_published": "1556883900",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "102"
+    },
+    {
+      "id": "412512",
+      "date_published": "2019-05-04 08:05:27",
+      "date_added": "2019-05-04 04:37:31",
+      "date_modified": "2019-05-04 04:37:32",
+      "title": "Goal is to oust Modi govt, gathbandhan will come together at right time: Sam Pitroda",
+      "source": "www.aninews.in",
+      "description": "New Delhi [India], May 04 (ANI): A day after Samajwadi Party (SP) chief Akhilesh Yadav and Bahujan Samaj Party (BSP) chief Mayawati slammed Congress, the party's key strategist Sam Pitroda has indicated that the 'gathbandhan' or alliance of opposition parties will come together at the \"right time\".",
+      "tags": [
+        "akhilesh yadav",
+        "bahujan samaj party",
+        "congress",
+        "delhi",
+        "india",
+        "mayawati",
+        "narendra modi",
+        "sam pitroda",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYW5pbmV3cy5pbi9uZXdzL25hdGlvbmFsL3BvbGl0aWNzL2dvYWwtaXMtdG8t\nb3VzdC1tb2RpLWdvdnQtZ2F0aGJhbmRoYW4td2lsbC1jb21lLXRvZ2V0aGVyLWF0LXJpZ2h0LXRp\nbWUtc2FtLXBpdHJvZGEyMDE5MDUwNDA3NTY1NS8=",
+      "short_url": "https://www.aninews.in/news/national/politics/goal-is-to-oust-modi-govt-gathbandhan-will-come-together-at-right-time-sam-pitroda20190504075655/",
+      "engagement": "0",
+      "popularity": "4520490",
+      "tw_tweets": "417",
+      "tw_reach": "5961589",
+      "tw_favorites": "134",
+      "tw_retweets": "32478",
+      "tw_since_id": "1124532949125218305",
+      "fb_shares": "3",
+      "fb_comments": "0",
+      "fb_reactions": "9",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Khabri72",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 08:05",
+      "timestamp_published": "1556949927",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "413290",
+      "date_published": "2019-05-05 09:14:39",
+      "date_added": "2019-05-05 05:47:01",
+      "date_modified": "2019-05-06 03:38:24",
+      "title": "Your dad was ‘Mr Clean’, but ended life as a ‘bhrashtachari’: PM Modi to Rahul Gandhi",
+      "source": "indianexpress.com",
+      "description": "Speaking at another rally, in Basti, Modi said the Congress, SP and BSP were the biggest examples of how principles are trampled for power, and that after the results, the two parties won’t even recognise each other.",
+      "tags": [
+        "bahujan samaj party",
+        "basti",
+        "congress",
+        "narendra modi",
+        "rahul gandhi",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvbG9rLXNhYmhhLWVsZWN0aW9ucy0y\nMDE5LXBtLW1vZGktcmFodWwtZ2FuZGhpLW1heWF3YXRpLXV0dGFyLXByYWRlc2gtcmFsbHktNTcx\nMDc4My8=",
+      "short_url": "https://t.co/fZYe2BzHaz",
+      "engagement": "0",
+      "popularity": "248321",
+      "tw_tweets": "179",
+      "tw_reach": "270832",
+      "tw_favorites": "150",
+      "tw_retweets": "14308",
+      "tw_since_id": "1125229495483428864",
+      "fb_shares": "909",
+      "fb_comments": "2967",
+      "fb_reactions": "6197",
+      "popularity_updated": "25",
+      "sentiment": "0",
+      "screen_name": "SSayz",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 09:14",
+      "timestamp_published": "1557040479",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "47"
+    },
+    {
+      "id": "414573",
+      "date_published": "2019-05-06 21:15:44",
+      "date_added": "2019-05-06 17:48:40",
+      "date_modified": "2019-05-07 04:03:31",
+      "title": "SP candidate from Varanasi Tej Bahadur Yadav caught on camera agreeing to kill PM Modi for money - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Sacked BSF soldier and SP candidate from Varanasi Tej Bahadur Yadav was seen offering to kill PM Modi for ₹50 crore in a 2 years old video - Latest India News from Opindia.com",
+      "tags": [
+        "narendra modi",
+        "samajwadi party",
+        "varanasi tej"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9zcC1jYW5kaWRhdGUtZnJvbS12YXJhbmFz\naS10ZWotYmFoYWR1ci15YWRhdi1jYXVnaHQtb24tY2FtZXJhLWFncmVlaW5nLXRvLWtpbGwtcG0t\nbW9kaS1mb3ItbW9uZXkv",
+      "short_url": "http://bit.ly/3042wtx",
+      "engagement": "0",
+      "popularity": "2611180",
+      "tw_tweets": "640",
+      "tw_reach": "584491",
+      "tw_favorites": "180",
+      "tw_retweets": "1446098",
+      "tw_since_id": "1125756906474053632",
+      "fb_shares": "310",
+      "fb_comments": "141",
+      "fb_reactions": "797",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "anandkc2006",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 21:15",
+      "timestamp_published": "1557170144",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "415297",
+      "date_published": "2019-05-07 21:20:21",
+      "date_added": "2019-05-07 17:52:23",
+      "date_modified": "2019-05-09 03:36:23",
+      "title": "NDTV’s Ravish Kumar seen on the stage of a SP-BSP rally in UP attended by Akhilesh Yadav and Mayawati - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Ravish Kumar was standing on the stage when mahagathbandhan leaders were addressing an election rally - Latest India News from Opindia.com",
+      "tags": [
+        "akhilesh yadav",
+        "bahujan samaj party",
+        "mahagathbandhan",
+        "mayawati",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9uZHR2cy1yYXZpc2gta3VtYXItc2Vlbi1v\nbi10aGUtc3RhZ2Utb2YtYS1zcC1ic3AtcmFsbHktaW4tdXAtYXR0ZW5kZWQtYnktYWtoaWxlc2gt\neWFkYXYtYW5kLW1heWF3YXRpLw==",
+      "short_url": "http://bit.ly/2V6ZLDO",
+      "engagement": "0",
+      "popularity": "4086650",
+      "tw_tweets": "1013",
+      "tw_reach": "4020014",
+      "tw_favorites": "2136",
+      "tw_retweets": "690018",
+      "tw_since_id": "1126167219501699072",
+      "fb_shares": "3187",
+      "fb_comments": "2079",
+      "fb_reactions": "9376",
+      "popularity_updated": "504",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 21:20",
+      "timestamp_published": "1557256821",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "524"
+    },
+    {
+      "id": "415892",
+      "date_published": "2019-05-08 17:11:12",
+      "date_added": "2019-05-08 13:46:55",
+      "date_modified": "2019-05-08 20:52:19",
+      "title": "'Our Ambitions Don't Clash': Akhilesh Backs Mayawati for PM, Says Has Her Support to be UP CM",
+      "source": "in.news.yahoo.com",
+      "description": "The SP chief said after joining the alliance, he had discovered 'wonderful' qualities about Mayawati, such as her discipline and focus.",
+      "tags": [
+        "mayawati",
+        "samajwadi party",
+        "the clash"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbi5uZXdzLnlhaG9vLmNvbS9hcG9zLWFtYml0aW9ucy1kb24tYXBvcy10LTA5MjQw\nMTMzMS5odG1s",
+      "short_url": "https://in.news.yahoo.com/apos-ambitions-don-apos-t-092401331.html",
+      "engagement": "0",
+      "popularity": "2327100",
+      "tw_tweets": "51",
+      "tw_reach": "3101364",
+      "tw_favorites": "0",
+      "tw_retweets": "12",
+      "tw_since_id": "1126194523359473664",
+      "fb_shares": "10",
+      "fb_comments": "122",
+      "fb_reactions": "304",
+      "popularity_updated": "50",
+      "sentiment": "0",
+      "screen_name": "YahooIndia",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 17:11",
+      "timestamp_published": "1557328272",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "69"
+    },
+    {
+      "id": "416141",
+      "date_published": "2019-05-09 01:00:00",
+      "date_added": "2019-05-08 21:32:21",
+      "date_modified": "2019-05-09 03:02:08",
+      "title": "BJP ‘robbed’ Akhilesh’s home: Maya",
+      "source": "www.hindustantimes.com",
+      "description": "Blaming the BJP for causing a rift between Shivpal Yadav and his nephew SP chief Akhilesh Yadav, she said, “The BJP also robbed Akhilesh Yadav’s home.",
+      "tags": [
+        "akhilesh yadav",
+        "bjp",
+        "robert home",
+        "samajwadi party",
+        "shivpal yadav"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvYmpwLXJv\nYmJlZC1ha2hpbGVzaC1zLWhvbWUtbWF5YS9zdG9yeS1LRGVoTktvdHhrVW9lSlRWNWNsMEpLLmh0\nbWw=",
+      "short_url": "http://bit.ly/2J6ZW0B",
+      "engagement": "0",
+      "popularity": "25341900",
+      "tw_tweets": "6",
+      "tw_reach": "33788838",
+      "tw_favorites": "2",
+      "tw_retweets": "0",
+      "tw_since_id": "1126433080623808514",
+      "fb_shares": "9",
+      "fb_comments": "19",
+      "fb_reactions": "106",
+      "popularity_updated": "4",
+      "sentiment": "-1",
+      "screen_name": "htTweets",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 01:00",
+      "timestamp_published": "1557356400",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "417404",
+      "date_published": "2019-05-10 18:25:14",
+      "date_added": "2019-05-10 14:58:34",
+      "date_modified": "2019-05-23 06:09:02",
+      "title": "Elections in India",
+      "source": "www.elections.in",
+      "description": "Lok Sabha Elections in India - Samajwadi Party Releases First List of Candidates for Lok Sabha Elections 2019  and BSP as well announces 6 candidates for Chattisgarh seats",
+      "tags": [
+        "bahujan samaj party",
+        "india",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5lbGVjdGlvbnMuaW4v",
+      "short_url": "http://elections.in",
+      "engagement": "0",
+      "popularity": "110572",
+      "tw_tweets": "37",
+      "tw_reach": "71200",
+      "tw_favorites": "0",
+      "tw_retweets": "1989",
+      "tw_since_id": "1131410772557348864",
+      "fb_shares": "1237",
+      "fb_comments": "365",
+      "fb_reactions": "22425",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "madhumaddy3793",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 18:25",
+      "timestamp_published": "1557505514",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "41"
+    },
+    {
+      "id": "417984",
+      "date_published": "2019-05-11 17:21:11",
+      "date_added": "2019-05-11 13:57:18",
+      "date_modified": "2019-05-20 17:21:56",
+      "title": "Elections 2019 - \"Mayawati National Symbol, I Respect And Love Her\": Rahul Gandhi To NDTV",
+      "source": "www.ndtv.com",
+      "description": "Despite the frequent brickbats from Bahujan Samaj Party chief Mayawati amid the ongoing election season, Congress president Rahul Gandhi on Saturday told NDTV that he \"respected her contribution to the country\" and considered her \"a national symbol\".",
+      "tags": [
+        "bahujan samaj party",
+        "congress",
+        "mayawati",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9yYWh1bC1nYW5kaGktaW50ZXJ2aWV3LXRv\nLW5kdHYtb24tbWF5d2F0aS1tYXlhd2F0aS1hLW5hdGlvbmFsLXN5bWJvbC1pLXJlc3BlY3QtYW5k\nLWxvdmUtaGVyLWdlbmVyYWwtMjAzNjIxNQ==",
+      "short_url": "https://t.co/y9iCGZuCKj",
+      "engagement": "0",
+      "popularity": "18186300",
+      "tw_tweets": "377",
+      "tw_reach": "24128497",
+      "tw_favorites": "32",
+      "tw_retweets": "59125",
+      "tw_since_id": "1130491513362796545",
+      "fb_shares": "93",
+      "fb_comments": "48",
+      "fb_reactions": "242",
+      "popularity_updated": "285",
+      "sentiment": "0",
+      "screen_name": "mathanrj",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 17:21",
+      "timestamp_published": "1557588071",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "310"
+    },
+    {
+      "id": "418594",
+      "date_published": "2019-05-12 16:45:53",
+      "date_added": "2019-05-12 13:21:44",
+      "date_modified": "2019-05-12 18:16:11",
+      "title": "SP-BSP incapable of handling goons, how will they combat terrorism: PM Modi",
+      "source": "www.aninews.in",
+      "description": "Deoria (Uttar Pradesh) [India], May 12 (ANI): Sharpening his attack against the Samajwadi Party (SP) and Bahujan Samaj Party (BSP), Prime Minister Narendra Modi on Sunday asked how parties that are incapable of handling \"roadside goons\" can combat terrorism.",
+      "tags": [
+        "bahujan samaj party",
+        "india",
+        "narendra modi",
+        "pradesh",
+        "samajwadi party",
+        "terrorism"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYW5pbmV3cy5pbi9uZXdzL25hdGlvbmFsL3BvbGl0aWNzL3NwLWJzcC1pbmNh\ncGFibGUtb2YtaGFuZGxpbmctZ29vbnMtaG93LXdpbGwtdGhleS1jb21iYXQtdGVycm9yaXNtLXBt\nLW1vZGkyMDE5MDUxMjE1MDYzMi8=",
+      "short_url": "https://t.co/ret0EF8JTx",
+      "engagement": "0",
+      "popularity": "1809540",
+      "tw_tweets": "121",
+      "tw_reach": "2411523",
+      "tw_favorites": "0",
+      "tw_retweets": "121",
+      "tw_since_id": "1127532844874485760",
+      "fb_shares": "6",
+      "fb_comments": "24",
+      "fb_reactions": "231",
+      "popularity_updated": "120",
+      "sentiment": "0",
+      "screen_name": "kailashwg",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 16:45",
+      "timestamp_published": "1557672353",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "140"
+    },
+    {
+      "id": "419424",
+      "date_published": "2019-05-13 21:23:33",
+      "date_added": "2019-05-13 17:57:16",
+      "date_modified": "2019-05-14 07:21:10",
+      "title": "Mahagathbandhan candidate absconding after being accused of rape, SP-BSP leaders say people will still vote for him - Opindia News",
+      "source": "www.opindia.com",
+      "description": "BSP candidate from Ghosh, Atul Rai is missing from campaigning as he absconding following rape charges against him - Latest India News from Opindia.com",
+      "tags": [
+        "bahujan samaj party",
+        "ghosh",
+        " atul rai",
+        "india",
+        "mahagathbandhan",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYWhhZ2F0aGJhbmRoYW4tY2FuZGlkYXRl\nLWFic2NvbmRpbmctYWZ0ZXItYmVpbmctYWNjdXNlZC1vZi1yYXBlLXNwLWJzcC1sZWFkZXJzLXNh\neS1wZW9wbGUtd2lsbC1zdGlsbC12b3RlLWZvci1oaW0v",
+      "short_url": "http://bit.ly/2VoyuNe",
+      "engagement": "0",
+      "popularity": "6493300",
+      "tw_tweets": "365",
+      "tw_reach": "8528448",
+      "tw_favorites": "4677",
+      "tw_retweets": "60707",
+      "tw_since_id": "1128143937364004864",
+      "fb_shares": "114",
+      "fb_comments": "23",
+      "fb_reactions": "245",
+      "popularity_updated": "140",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 21:23",
+      "timestamp_published": "1557775413",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "158"
+    },
+    {
+      "id": "419858",
+      "date_published": "2019-05-14 13:44:09",
+      "date_added": "2019-05-14 10:17:16",
+      "date_modified": "2019-05-15 09:21:14",
+      "title": "SP-BSP Candidate From UP’s Ghosi Accused of Rape, Goes ‘Missing’",
+      "source": "www.thequint.com",
+      "description": "In April, the SP-BSP alliance’s Ghosi candidate, Atul Rai, was accused of rape by a college student from Varanasi.",
+      "tags": [
+        "bahujan samaj party",
+        "samajwadi party",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlcXVpbnQuY29tL25ld3MvcG9saXRpY3Mvc3AtYnNwLWNhbmRpZGF0ZS1n\naG9zaS1hY2N1c2VkLXJhcGUtZ29lcy1taXNzaW5n",
+      "short_url": "https://www.thequint.com/news/politics/sp-bsp-candidate-ghosi-accused-rape-goes-missing",
+      "engagement": "0",
+      "popularity": "42700700",
+      "tw_tweets": "201",
+      "tw_reach": "56929745",
+      "tw_favorites": "2508",
+      "tw_retweets": "394",
+      "tw_since_id": "1128211884501389313",
+      "fb_shares": "18",
+      "fb_comments": "3",
+      "fb_reactions": "38",
+      "popularity_updated": "200",
+      "sentiment": "-1",
+      "screen_name": "TheQuint",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-05-2019 13:44",
+      "timestamp_published": "1557834249",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "218"
+    },
+    {
+      "id": "420437",
+      "date_published": "2019-05-15 11:20:26",
+      "date_added": "2019-05-15 07:52:08",
+      "date_modified": "2019-05-16 05:46:41",
+      "title": "Why Mayawati is Right in Questioning Modi on His Wife | NewsClick",
+      "source": "www.newsclick.in",
+      "description": "While the dalit leader has raised a vital social issue – of abandoned wives—that Indian politics has always avoided, the BJP’s reaction to her smacks of a savarna mindset.",
+      "tags": [
+        "bjp",
+        "dalit",
+        "mayawati",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3c2NsaWNrLmluL01heWF3YXRpLU1vZGktRWxlY3Rpb25zLTIwMTktQkpQ\nLUJTUA==",
+      "short_url": "https://www.newsclick.in/Mayawati-Modi-Elections-2019-BJP-BSP",
+      "engagement": "0",
+      "popularity": "3664950",
+      "tw_tweets": "143",
+      "tw_reach": "4838791",
+      "tw_favorites": "0",
+      "tw_retweets": "23506",
+      "tw_since_id": "1128900788720427008",
+      "fb_shares": "48",
+      "fb_comments": "4",
+      "fb_reactions": "148",
+      "popularity_updated": "60",
+      "sentiment": "0",
+      "screen_name": "waglenikhil",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-05-2019 11:20",
+      "timestamp_published": "1557912026",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "80"
+    },
+    {
+      "id": "421385",
+      "date_published": "2019-05-16 17:54:20",
+      "date_added": "2019-05-16 14:26:44",
+      "date_modified": "2019-05-16 14:31:41",
+      "title": "Muslim voter in two minds, didn't vote strategically in Uttar Pradesh: Salman Khurshid",
+      "source": "www.abplive.in",
+      "description": "Unlike in the Bihar Assembly elections, the Muslim vote has split between the Congress and the SP-BSP alliance in the Lok Sabha elections in Uttar Pradesh, former External Affairs Minister Salman Khurshid says.",
+      "tags": [
+        "bahujan samaj party",
+        "bihar",
+        "congress",
+        "muslim",
+        "salm",
+        "salman khurshid",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nbXVzbGltLXZvdGUtZnJhZ21lbnRlZC1pbi11dHRhci1wcmFkZXNoLXNheXMtc2FsbWFuLWtodXJz\naGlkLTk5MDk0Ng==",
+      "short_url": "https://www.abplive.in/election/lok-sabha-elections-2019-muslim-vote-fragmented-in-uttar-pradesh-says-salman-khurshid-990946",
+      "engagement": "0",
+      "popularity": "1474090",
+      "tw_tweets": "440",
+      "tw_reach": "1893755",
+      "tw_favorites": "300",
+      "tw_retweets": "35171",
+      "tw_since_id": "1129051749744963584",
+      "fb_shares": "11",
+      "fb_comments": "19",
+      "fb_reactions": "92",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Abhishek_Patni",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 17:54",
+      "timestamp_published": "1558022060",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "421745",
+      "date_published": "2019-05-17 08:45:56",
+      "date_added": "2019-05-17 05:22:02",
+      "date_modified": "2019-05-23 17:32:02",
+      "title": "When there was talk on SP-BSP alliance, I said even if I have to walk two steps behind (BSP),  I will do it. This is a gathbandhan for the future: Akhilesh Yadav",
+      "source": "indianexpress.com",
+      "description": "Akhilesh Yadav said, \"There is nothing special about the BJP. They have only cheated the country. When the BJP came to power, the country was under a debt of Rs 35 lakh crore. In the last five years, it has gone up to Rs 70 lakh crore. Where did this Rs 35 lakh crore go?\"",
+      "tags": [
+        "akhilesh yadav akhilesh yadav",
+        "bahujan samaj party",
+        "bjp",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYWtoaWxlc2gteWFkYXYtc2FtYWp3\nYWRpLXBhcnR5LWJhaHVqYW4tc2FtYWotcGFydHktbG9rLXNhYmhhLWVsZWN0aW9ucy1wdWx3YW1h\nLWJhbGFrb3QtNTczMTg1NC8=",
+      "short_url": "https://indianexpress.com/elections/akhilesh-yadav-samajwadi-party-bahujan-samaj-party-lok-sabha-elections-pulwama-balakot-5731854/",
+      "engagement": "0",
+      "popularity": "3705650",
+      "tw_tweets": "1431",
+      "tw_reach": "4811636",
+      "tw_favorites": "15",
+      "tw_retweets": "62573",
+      "tw_since_id": "1131540594147450880",
+      "fb_shares": "36",
+      "fb_comments": "55",
+      "fb_reactions": "622",
+      "popularity_updated": "1396",
+      "sentiment": "-1",
+      "screen_name": "Tirkeymukti",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 08:45",
+      "timestamp_published": "1558075556",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        },
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "1419"
+    },
+    {
+      "id": "422781",
+      "date_published": "2019-05-18 21:29:33",
+      "date_added": "2019-05-18 18:02:19",
+      "date_modified": "2019-05-18 18:07:30",
+      "title": "After Mayawati’s Varanasi tweet against PM Modi, BJP files complaint with EC",
+      "source": "www.hindustantimes.com",
+      "description": "On Saturday, hours before the last phase of voting for the Lok Sabha polls begins, the BJP accused the BSP chief of posting tweets to influence voters after campaigning ended for the seventh phase.",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "mayawati",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvYWZ0ZXItbWF5YXdhdGkt\ncy12YXJhbmFzaS10d2VldC1hZ2FpbnN0LXBtLW1vZGktYmpwLWZpbGVzLWNvbXBsYWludC13aXRo\nLWVjL3N0b3J5LTJPaEdkMENCbFpaa1M5b2tNbWY3Z1AuaHRtbA==",
+      "short_url": "http://bit.ly/2JNiMJp",
+      "engagement": "0",
+      "popularity": "358918",
+      "tw_tweets": "517",
+      "tw_reach": "362876",
+      "tw_favorites": "199",
+      "tw_retweets": "56912",
+      "tw_since_id": "1129817086249717760",
+      "fb_shares": "20",
+      "fb_comments": "60",
+      "fb_reactions": "214",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "abhishek4333gma",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 21:29",
+      "timestamp_published": "1558207773",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "423416",
+      "date_published": "2019-05-19 19:51:00",
+      "date_added": "2019-05-19 16:27:11",
+      "date_modified": "2019-05-19 19:46:10",
+      "title": "Exit polls for Lok Sabha elections 2019: NDA to get majority, some gain for SP-BSP in UP",
+      "source": "indianexpress.com",
+      "description": "At least two exit polls have predicted a big win for the BJP-led NDA.  The Republic Bharat-Jan ki baat exit polls predicted the NDA will win more than 300 seats. Times Now-VMR predicted the NDA will win 306 and UPA 132 seats.",
+      "tags": [
+        "bahujan samaj party",
+        "bharat shah",
+        "bjp",
+        "nda",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvZXhpdC1wb2xscy1sb2stc2FiaGEt\nZWxlY3Rpb25zLTIwMTktYmpwLWNvbmdyZXNzLW5leHQtZ292ZXJubWVudC1wcmVkaWN0aW9ucy01\nNzM2MjcwLw==",
+      "short_url": "https://indianexpress.com/elections/exit-polls-lok-sabha-elections-2019-bjp-congress-next-government-predictions-5736270/",
+      "engagement": "0",
+      "popularity": "70845.2",
+      "tw_tweets": "108",
+      "tw_reach": "90010",
+      "tw_favorites": "17",
+      "tw_retweets": "0",
+      "tw_since_id": "1130159077600817153",
+      "fb_shares": "43",
+      "fb_comments": "188",
+      "fb_reactions": "1176",
+      "popularity_updated": "84",
+      "sentiment": "0",
+      "screen_name": "SEOArpitBhargav",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 19:51",
+      "timestamp_published": "1558288260",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "104"
+    },
+    {
+      "id": "424104",
+      "date_published": "2019-05-20 13:04:29",
+      "date_added": "2019-05-20 09:38:02",
+      "date_modified": "2019-05-20 13:41:17",
+      "title": "Yogi Adityanath Sacks SBSP Chief OP Rajbhar From Cabinet After He Turned Rebel And Supported SP-BSP, Congress",
+      "source": "swarajyamag.com",
+      "description": "CM Yogi Adityanath Recommends Expulsion of Erstwhile Ally SBSP’s Chief OP Rajbhar From UP Cabinet",
+      "tags": [
+        "bahujan samaj party",
+        "congress",
+        "samajwadi party",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEveW9naS1hZGl0eWFuYXRoLXNhY2tzLXNic3At\nY2hpZWYtb3AtcmFqYmhhci1mcm9tLWNhYmluZXQtYWZ0ZXItaGUtdHVybmVkLXJlYmVsLWFuZC1z\ndXBwb3J0ZWQtc3AtYnNwLWNvbmdyZXNz",
+      "short_url": "https://swarajyamag.com/insta/yogi-adityanath-sacks-sbsp-chief-op-rajbhar-from-cabinet-after-he-turned-rebel-and-supported-sp-bsp-congress",
+      "engagement": "0",
+      "popularity": "6739700",
+      "tw_tweets": "312",
+      "tw_reach": "8895764",
+      "tw_favorites": "11505",
+      "tw_retweets": "37127",
+      "tw_since_id": "1130521312731049991",
+      "fb_shares": "13",
+      "fb_comments": "3",
+      "fb_reactions": "149",
+      "popularity_updated": "116",
+      "sentiment": "0",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 13:04",
+      "timestamp_published": "1558350269",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "138"
+    },
+    {
+      "id": "424946",
+      "date_published": "2019-05-21 14:20:44",
+      "date_added": "2019-05-21 10:53:19",
+      "date_modified": "2019-05-21 15:38:43",
+      "title": "‘BJP Will Be Wiped Off, Exit Polls Are Wrong’: AAP Leader Plans Government Formation Strategy At Centre",
+      "source": "swarajyamag.com",
+      "description": "AAP leader Sanjay Singh on Tuesday (21 May) met with SP chief to discuss strategy after election results are out.",
+      "tags": [
+        "aap",
+        "bjp",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvYmpwLXdpbGwtYmUtd2lwZWQtb2ZmLWV4aXQt\ncG9sbHMtYXJlLXdyb25nLWFhcC1sZWFkZXItcGxhbnMtZ292ZXJubWVudC1mb3JtYXRpb24tc3Ry\nYXRlZ3ktYXQtY2VudHJl",
+      "short_url": "https://swarajyamag.com/insta/bjp-will-be-wiped-off-exit-polls-are-wrong-aap-leader-plans-government-formation-strategy-at-centre",
+      "engagement": "0",
+      "popularity": "261438",
+      "tw_tweets": "7",
+      "tw_reach": "340998",
+      "tw_favorites": "0",
+      "tw_retweets": "50",
+      "tw_since_id": "1130829457801981952",
+      "fb_shares": "51",
+      "fb_comments": "328",
+      "fb_reactions": "2077",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 14:20",
+      "timestamp_published": "1558441244",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "425457",
+      "date_published": "2019-05-22 10:52:35",
+      "date_added": "2019-05-22 07:27:13",
+      "date_modified": "2019-05-22 16:56:11",
+      "title": "Armed with binoculars, a supply of food, how SP-BSP men are guarding EVM strong rooms | Meerut News - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "MEERUT: Amid talks of EVM rigging surfacing from some quarters of UP, an army of EVM ‘chowkidars’ consisting UP alliance workers and supporters is sta.",
+      "tags": [
+        "bahujan samaj party",
+        "india",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vY2l0eS9tZWVydXQvYXJtZWQtd2l0\naC1iaW5vY3VsYXJzLWEtc3VwcGx5LW9mLWZvb2QtaG93LXNwLWJzcC1tZW4tYXJlLWd1YXJkaW5n\nLWV2bS1zdHJvbmctcm9vbXMvYXJ0aWNsZXNob3cvNjk0MzUxMDIuY21z",
+      "short_url": "https://timesofindia.indiatimes.com/city/meerut/armed-with-binoculars-a-supply-of-food-how-sp-bsp-men-are-guarding-evm-strong-rooms/articleshow/69435102.cms",
+      "engagement": "0",
+      "popularity": "466233",
+      "tw_tweets": "652",
+      "tw_reach": "440973",
+      "tw_favorites": "0",
+      "tw_retweets": "89625",
+      "tw_since_id": "1131082934289555456",
+      "fb_shares": "20",
+      "fb_comments": "17",
+      "fb_reactions": "145",
+      "popularity_updated": "90",
+      "sentiment": "0",
+      "screen_name": "jahansapur",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-05-2019 10:52",
+      "timestamp_published": "1558515155",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "111"
+    },
+    {
+      "id": "427091",
+      "date_published": "2019-05-23 21:43:56",
+      "date_added": "2019-05-23 18:17:43",
+      "date_modified": "2019-05-24 20:17:00",
+      "title": "Results 2019: More Muslim MPs But Just 2 in Congress; MIM Rises",
+      "source": "www.thequint.com",
+      "description": "Congress will have only 2 Muslim MPs in the Lok Sabha but number of AIMIM, IUML, SP, BSP, TMC Muslim MPs increased",
+      "tags": [
+        "aitc",
+        "bahujan samaj party",
+        "congress",
+        "muslim",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlcXVpbnQuY29tL2VsZWN0aW9ucy9tb3JlLW11c2xpbS1tcHMtbG9rLXNh\nYmhhLWFpbWltLWl1bWwtb3dhaXNpLWltdGlhei1qYWxlZWwtZWxlY3Rpb25zLTIwMTk=",
+      "short_url": "https://www.thequint.com/elections/more-muslim-mps-lok-sabha-aimim-iuml-owaisi-imtiaz-jaleel-elections-2019",
+      "engagement": "0",
+      "popularity": "3467380",
+      "tw_tweets": "420",
+      "tw_reach": "4507494",
+      "tw_favorites": "14",
+      "tw_retweets": "46195",
+      "tw_since_id": "1131984686241210369",
+      "fb_shares": "358",
+      "fb_comments": "380",
+      "fb_reactions": "6790",
+      "popularity_updated": "408",
+      "sentiment": "0",
+      "screen_name": "RaisinaSeries",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 21:43",
+      "timestamp_published": "1558640636",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "421"
+    },
+    {
+      "id": "427579",
+      "date_published": "2019-05-24 07:35:33",
+      "date_added": "2019-05-24 04:08:23",
+      "date_modified": "2019-05-24 04:08:24",
+      "title": "Smriti Irani savours her huge victory against Rahul Gandhi in Amethi with a couplet",
+      "source": "www.hindustantimes.com",
+      "description": "Her job in Amethi hadn’t been made any easy by the Samajwadi Party-Bahujan Samajwadi Party alliance that decided against fielding any candidates in Amethi and Rae Bareli, the seats represented in parliament for years by Congress chief Rahul Gandhi and mother Sonia.",
+      "tags": [
+        "amethi",
+        "rahul gandhi",
+        "samajwadi party",
+        "smriti irani"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvc21yaXRp\nLWlyYW5pLXNhdm91cnMtaGVyLWh1Z2UtdmljdG9yeS1hZ2FpbnN0LXJhaHVsLWdhbmRoaS1pbi1h\nbWV0aGktd2l0aC1hLWNvdXBsZXQvc3RvcnktZTZVY2NxajhZdFZKNEl0OENJd2Z2SS5odG1s",
+      "short_url": "https://www.hindustantimes.com/lok-sabha-elections/smriti-irani-savours-her-huge-victory-against-rahul-gandhi-in-amethi-with-a-couplet/story-e6Uccqj8YtVJ4It8CIwfvI.html",
+      "engagement": "0",
+      "popularity": "5083110",
+      "tw_tweets": "5",
+      "tw_reach": "6772336",
+      "tw_favorites": "25",
+      "tw_retweets": "2",
+      "tw_since_id": "1132033902900592641",
+      "fb_shares": "39",
+      "fb_comments": "152",
+      "fb_reactions": "1492",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "NishantNavendu",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 07:35",
+      "timestamp_published": "1558676133",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "16"
+    },
+    {
+      "id": "428992",
+      "date_published": "2019-05-25 13:50:55",
+      "date_added": "2019-05-25 10:27:21",
+      "date_modified": "2019-05-25 23:31:30",
+      "title": "Samajwadi Party cancels appointment of all its TV panellists",
+      "source": "indianexpress.com",
+      "description": "Asked about the reason for the decision, Chaudhary claimed that it is the party’s “decision and the reasons can’t be disclosed”.",
+      "tags": [
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvc2FtYWp3YWRpLXBhcnR5LWNhbmNl\nbHMtYXBwb2ludG1lbnQtb2YtYWxsLWl0cy10di1wYW5lbGxpc3RzLTU3NDc5OTkv",
+      "short_url": "https://indianexpress.com/elections/samajwadi-party-cancels-appointment-of-all-its-tv-panellists-5747999/",
+      "engagement": "0",
+      "popularity": "39873100",
+      "tw_tweets": "245",
+      "tw_reach": "53161296",
+      "tw_favorites": "414",
+      "tw_retweets": "306",
+      "tw_since_id": "1132388271282040834",
+      "fb_shares": "22",
+      "fb_comments": "33",
+      "fb_reactions": "378",
+      "popularity_updated": "244",
+      "sentiment": "0",
+      "screen_name": "IndianExpress",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 13:50",
+      "timestamp_published": "1558785055",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "264"
+    },
+    {
+      "id": "430028",
+      "date_published": "2019-05-26 19:35:45",
+      "date_added": "2019-05-26 16:08:04",
+      "date_modified": "2019-05-28 10:12:54",
+      "title": "BJP touches 50% vote share in Uttar Pradesh; busts Mahagathbandhan's caste-communal code myth",
+      "source": "www.organiser.org",
+      "description": "Priyanka Gandhi proved to be a non-starter, Rahul a damp squib for Congress, which lost Amethi also to BJP’s Smriti Irani. The SP-BSP-RLD Combine bites the dust, while the RLD completely eliminated",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "caste",
+        "congress",
+        "mahagathbandhan",
+        "priyanka gandhi",
+        "rahul gandhi",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3JnYW5pc2VyLm9yZy9FbmN5Yy8yMDE5LzUvMjYvQkpQLXJlcGVhdHMtMjAx\nNC1sYW5kc2xpZGUtaW4tVVAuaHRtbA==",
+      "short_url": "https://www.organiser.org/Encyc/2019/5/26/BJP-repeats-2014-landslide-in-UP.html",
+      "engagement": "0",
+      "popularity": "647134",
+      "tw_tweets": "92",
+      "tw_reach": "823831",
+      "tw_favorites": "0",
+      "tw_retweets": "18481",
+      "tw_since_id": "1133284280656977921",
+      "fb_shares": "101",
+      "fb_comments": "64",
+      "fb_reactions": "471",
+      "popularity_updated": "50",
+      "sentiment": "0",
+      "screen_name": "gprasadadv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 19:35",
+      "timestamp_published": "1558892145",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "72"
+    },
+    {
+      "id": "430538",
+      "date_published": "2019-05-27 12:07:23",
+      "date_added": "2019-05-27 08:42:05",
+      "date_modified": "2019-05-29 19:42:25",
+      "title": "'Ready to Sacrifice Everything to Safeguard Country's Values': Sonia Gandhi in Letter to Voters of Rae Bareli",
+      "source": "www.news18.com",
+      "description": "In a letter addressed to the people of Rae Bareli, the Congress leader also thanked the Samajwadi Party and the Bahujan Samaj Party aliance that did not field any candidate against her.",
+      "tags": [
+        "bahujan samaj party",
+        "congress",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3JlYWR5LXRvLXNhY3JpZmljZS1l\ndmVyeXRoaW5nLXRvLXNhZmVndWFyZC1jb3VudHJ5cy12YWx1ZXMtc29uaWEtZ2FuZGhpLWluLWxl\ndHRlci10by12b3RlcnMtb2YtcmFlLWJhcmVsaS0yMTYwNTQ5Lmh0bWw=",
+      "short_url": "https://www.news18.com/news/politics/ready-to-sacrifice-everything-to-safeguard-countrys-values-sonia-gandhi-in-letter-to-voters-of-rae-bareli-2160549.html",
+      "engagement": "0",
+      "popularity": "45421.5",
+      "tw_tweets": "77",
+      "tw_reach": "40492",
+      "tw_favorites": "0",
+      "tw_retweets": "2850",
+      "tw_since_id": "1133789419306180608",
+      "fb_shares": "231",
+      "fb_comments": "1024",
+      "fb_reactions": "3387",
+      "popularity_updated": "70",
+      "sentiment": "0",
+      "screen_name": "mohitdatta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 12:07",
+      "timestamp_published": "1558951643",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "86"
+    },
+    {
+      "id": "431107",
+      "date_published": "2019-05-28 00:45:06",
+      "date_added": "2019-05-27 21:17:30",
+      "date_modified": "2019-05-27 21:26:41",
+      "title": "Will Not Step Back From Sacrificing Whatever I Have Got: Sonia Gandhi",
+      "source": "www.outlookindia.com",
+      "description": "In a letter addressed to the people of Rae Bareli, the Congress leader Sonia Gandhi also thanked the Samajwadi Party and the Bahujan Samaj Party, which did not field any candidate against her.",
+      "tags": [
+        "bahujan samaj party",
+        "congress",
+        "rahul gandhi",
+        "samajwadi party",
+        "sonia"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3V0bG9va2luZGlhLmNvbS93ZWJzaXRlL3N0b3J5L2luZGlhLW5ld3Mtd2ls\nbC1ub3Qtc3RlcC1iYWNrLWZyb20tc2FjcmlmaWNpbmctd2hhdGV2ZXItaS1oYXZlLWdvdC1zb25p\nYS1nYW5kaGkvMzMxMDA3",
+      "short_url": "https://www.outlookindia.com/website/story/india-news-will-not-step-back-from-sacrificing-whatever-i-have-got-sonia-gandhi/331007",
+      "engagement": "0",
+      "popularity": "6543.75",
+      "tw_tweets": "8",
+      "tw_reach": "5970",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1133138188535554048",
+      "fb_shares": "40",
+      "fb_comments": "115",
+      "fb_reactions": "747",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "Anil_Alex",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 00:45",
+      "timestamp_published": "1558997106",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "432346",
+      "date_published": "2019-05-29 04:05:08",
+      "date_added": "2019-05-29 00:37:46",
+      "date_modified": "2019-05-29 02:06:28",
+      "title": "PM Modi in Aligarh: People want change, BJP tightening the noose around corruption",
+      "source": "www.indiatoday.in",
+      "description": "After lambasting the Congress- Samajwadi party alliance and Dalit leader Mayawati at a rally in Meerut on Saturday ahead of the Uttar Pradesh Assembly elections, Prime Minister Narendra Modi addresses yet another rally in Aligarh.",
+      "tags": [
+        "aligarh",
+        "bjp",
+        "congress",
+        "dalit",
+        "mayawati",
+        "meerut",
+        "narendra modi",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9hc3NlbWJseS1lbGVjdGlvbnMtMjAxNy9zdG9yeS9h\nc3NlbWJseS1lbGVjdGlvbnMtMjAxNy11dHRhci1wcmFkZXNoLWFzc2VtYmx5LWVsZWN0aW9uLTIw\nMTctcG0tbmFyZW5kcmEtbW9kaS1zYW1handhZGktcGFydHktY29uZ3Jlc3MtOTU5MDU2LTIwMTct\nMDItMDU=",
+      "short_url": "http://indiatoday.intoday.in/story/assembly-elections-2017-uttar-pradesh-assembly-election-2017-pm-narendra-modi-samajwadi-party-congress/1/875242.html",
+      "engagement": "0",
+      "popularity": "6250",
+      "tw_tweets": "25",
+      "tw_reach": "3700",
+      "tw_favorites": "0",
+      "tw_retweets": "2300",
+      "tw_since_id": "1133501988627394560",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "24",
+      "sentiment": "0",
+      "screen_name": "PritiBala2015",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 04:05",
+      "timestamp_published": "1559095508",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "45"
+    },
+    {
+      "id": "433938",
+      "date_published": "2019-05-30 16:30:29",
+      "date_added": "2019-05-30 13:02:35",
+      "date_modified": "2019-05-30 13:02:35",
+      "title": "It was Reverse Consolidation of Votes That Helped BJP Cut Through SP-BSP's Caste Arithmetic in UP",
+      "source": "www.news18.com",
+      "description": "An analysis shows that SP-BSP alliance won only those seats in Uttar Pradesh where the population of their core voters—Muslims and Scheduled Castes—together cross the mark of 50 per cent or more.",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "caste",
+        "muslims",
+        "reverse",
+        "samajwadi party",
+        "uttar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2l0LXdhcy1yZXZlcnNlLWNvbnNv\nbGlkYXRpb24tb2Ytdm90ZXMtdGhhdC1oZWxwZWQtYmpwLWJsb3ctYXdheS1zcC1ic3BzLWNhc3Rl\nLWFyaXRobWV0aWMtaW4tdXAtMjE2NDg5OS5odG1s",
+      "short_url": "https://www.news18.com/news/politics/it-was-reverse-consolidation-of-votes-that-helped-bjp-blow-away-sp-bsps-caste-arithmetic-in-up-2164899.html",
+      "engagement": "0",
+      "popularity": "1219.75",
+      "tw_tweets": "4",
+      "tw_reach": "741",
+      "tw_favorites": "0",
+      "tw_retweets": "1",
+      "tw_since_id": "1134056187932995584",
+      "fb_shares": "21",
+      "fb_comments": "24",
+      "fb_reactions": "245",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "harimurali",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 16:30",
+      "timestamp_published": "1559226629",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "15"
+    },
+    {
+      "id": "435146",
+      "date_published": "2019-05-31 23:37:13",
+      "date_added": "2019-05-31 20:12:05",
+      "date_modified": "2019-06-01 16:26:12",
+      "title": "Rahul Gandhi’s Amethi defeat: SP-BSP didn’t cooperate, Congress panel told",
+      "source": "www.hindustantimes.com",
+      "description": "The SP and BSP which had formed an alliance to fight the Lok Sabha polls did not field any candidate in Amethi.  The Congress panel that comprises senior party leaders Zubair Khan and KL Sharma started holding assembly segment-wise consultations on Friday.",
+      "tags": [
+        "bahujan samaj party",
+        "congress",
+        "michael jordan",
+        "rahul gandhi",
+        "samajwadi party"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvY29uZ3Jlc3MtcGFuZWwt\nYmxhbWVzLXNwLWJzcC1mb3ItYW1ldGhpLWxvc3Mvc3RvcnktVERjWHJaVHV5RklkMFVidWJDamE4\nSy5odG1s",
+      "short_url": "https://www.hindustantimes.com/india-news/congress-panel-blames-sp-bsp-for-amethi-loss/story-TDcXrZTuyFId0UbubCja8K.html",
+      "engagement": "0",
+      "popularity": "21434900",
+      "tw_tweets": "640",
+      "tw_reach": "28557460",
+      "tw_favorites": "243",
+      "tw_retweets": "7657",
+      "tw_since_id": "1134748311783526400",
+      "fb_shares": "120",
+      "fb_comments": "181",
+      "fb_reactions": "1633",
+      "popularity_updated": "519",
+      "sentiment": "0",
+      "screen_name": "payaniga0",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 23:37",
+      "timestamp_published": "1559338633",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        },
+        {
+          "id": "150",
+          "query": "\"National Democratic Alliance\" OR NationalDemocraticAlliance"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "534"
+    }
+  ],
+  "message": "OK"
+}

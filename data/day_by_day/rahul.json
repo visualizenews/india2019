@@ -1,0 +1,3845 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=417666,401699,387058,394227,385700,426866,403300,390429,421811,416532,383342,432884,407597,397197,387880,402428,383544,406755,433629,415433,427706,404631,415277,418978,422654,394734,395919,424361,409636,393547,384504,389695,410972,424922,431856,408185,428499,391479,399211,405570,410274,413758,413834,418658,421488,417258,392104,399777,388791,376994,380365,398128,412282,434982,400184,430536,386321,419971,403633,423188,425644,396359,408590,420420,429634,376600,376703,379464,376392,412573",
+    "time": 1560434395,
+    "UTCDateTime": "2019-06-13T13:59:55+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "376392",
+      "date_published": "2019-03-23 15:45:46",
+      "date_added": "2019-03-23 11:16:35",
+      "date_modified": "2019-05-23 03:33:05",
+      "title": "‘This election is a fight for the soul of India’",
+      "source": "m.telegraphindia.com",
+      "description": "Rahul clears several misconceptions, particularly about his perceived anti-corporate stance, in an exclusive interview",
+      "tags": [
+        "india",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9tLnRlbGVncmFwaGluZGlhLmNvbS9pbmRpYS90aGlzLWVsZWN0aW9uLWlzLWEtZmln\naHQtZm9yLXRoZS1zb3VsLW9mLWluZGlhLXRoZS1wZW9wbGUtd2lsbC1kZWZlYXQtbW9kaS9jaWQv\nMTY4NzMzOA==",
+      "short_url": "https://m.telegraphindia.com/india/this-election-is-a-fight-for-the-soul-of-india-the-people-will-defeat-modi/cid/1687338",
+      "engagement": "0",
+      "popularity": "24216000",
+      "tw_tweets": "3034",
+      "tw_reach": "8205100",
+      "tw_favorites": "18",
+      "tw_retweets": "12000549",
+      "tw_since_id": "1131371802339397632",
+      "fb_shares": "1750",
+      "fb_comments": "2405",
+      "fb_reactions": "21497",
+      "popularity_updated": "235",
+      "sentiment": "0",
+      "screen_name": "Munavvar_4u",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-03-2019 15:45",
+      "timestamp_published": "1553352346",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "282"
+    },
+    {
+      "id": "376600",
+      "date_published": "2019-03-24 20:08:58",
+      "date_added": "2019-03-24 15:42:17",
+      "date_modified": "2019-03-26 02:42:10",
+      "title": "Why The Smriti Irani Versus Rahul Gandhi Battle Is The Battle Of New India Versus The Old",
+      "source": "swarajyamag.com",
+      "description": "Gandhi is the symbol of the feudal patriarchal mindset of old India, while Irani is a self-made politician.",
+      "tags": [
+        "bikram singh majithia",
+        "india",
+        "mohammad salim al-awa",
+        "n.a. irani",
+        "rahul gandhi",
+        "smriti irani"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vcG9saXRpY3Mvd2h5LXRoZS1zbXJpdGktaXJhbmktdmVy\nc3VzLXJhaHVsLWdhbmRoaS1iYXR0bGUtaXMtdGhlLWJhdHRsZS1vZi1uZXctaW5kaWEtdmVyc3Vz\nLXRoZS1vbGQ=",
+      "short_url": "https://swarajyamag.com/politics/why-the-smriti-irani-versus-rahul-gandhi-battle-is-the-battle-of-new-india-versus-the-old",
+      "engagement": "0",
+      "popularity": "4223880",
+      "tw_tweets": "2463",
+      "tw_reach": "3065118",
+      "tw_favorites": "13",
+      "tw_retweets": "1279301",
+      "tw_since_id": "1110355585634127872",
+      "fb_shares": "241",
+      "fb_comments": "92",
+      "fb_reactions": "1262",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "chembolly",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-03-2019 20:08",
+      "timestamp_published": "1553454538",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "53"
+    },
+    {
+      "id": "376703",
+      "date_published": "2019-03-25 13:09:56",
+      "date_added": "2019-03-25 08:41:20",
+      "date_modified": "2019-03-27 05:31:35",
+      "title": "Images of Ursula Andress from James Bond movie resurface as Sonia Gandhi's photographs - Alt News",
+      "source": "www.altnews.in",
+      "description": "“चमचों की राजमाता “सोनिया गाँधी”अपने दिनों में कांग्रेस को मजबूत बनाती हुई ,,,,,,,,,,,कुछ दुलर्भ फोटो चमचों की आँखें चकाचौंध करने के लिए…तौबा तुम्हारे ये नजारे (The leader of Bootlickers, “Sonia Gandhi” is making Congress strong in her country. Some rare pictures to dazzle the eyes of bootlickers. Gosh what an imagery.),” is the caption shared …",
+      "tags": [
+        "james bond",
+        "rahul gandhi",
+        "sonia",
+        "ursula andress"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWx0bmV3cy5pbi9pbWFnZXMtb2YtdXJzdWxhLWFuZHJlc3MtZnJvbS1qYW1l\ncy1ib25kLW1vdmllLXJlc3VyZmFjZS1hcy1zb25pYS1nYW5kaGlzLXBob3RvZ3JhcGhzLw==",
+      "short_url": "https://www.altnews.in/images-of-ursula-andress-from-james-bond-movie-resurface-as-sonia-gandhis-photographs/",
+      "engagement": "0",
+      "popularity": "1529270",
+      "tw_tweets": "1038",
+      "tw_reach": "1496853",
+      "tw_favorites": "98",
+      "tw_retweets": "263551",
+      "tw_since_id": "1110760608683581441",
+      "fb_shares": "753",
+      "fb_comments": "472",
+      "fb_reactions": "3242",
+      "popularity_updated": "119",
+      "sentiment": "0",
+      "screen_name": "proud_Indian12",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-03-2019 13:09",
+      "timestamp_published": "1553515796",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "158"
+    },
+    {
+      "id": "376994",
+      "date_published": "2019-03-26 05:29:23",
+      "date_added": "2019-03-26 01:02:14",
+      "date_modified": "2019-03-26 01:11:19",
+      "title": "RaGa’s Minimum Income Scheme Is Either Fiscally Irresponsible Or  Con-Job, Or Both",
+      "source": "swarajyamag.com",
+      "description": "Rahul’s scheme works only with a lot of assumptions, has a great fiscal impact and lower beneficial footprint.",
+      "tags": [
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vcG9saXRpY3MvcmFnYXMtbWluaW11bS1pbmNvbWUtc2No\nZW1lLWlzLWVpdGhlci1maXNjYWxseS1pcnJlc3BvbnNpYmxlLW9yLWNvbi1qb2Itb3ItYm90aA==",
+      "short_url": "https://swarajyamag.com/politics/ragas-minimum-income-scheme-is-either-fiscally-irresponsible-or-con-job-or-both",
+      "engagement": "0",
+      "popularity": "3852850",
+      "tw_tweets": "1579",
+      "tw_reach": "4234782",
+      "tw_favorites": "632",
+      "tw_retweets": "446771",
+      "tw_since_id": "1110538074616983552",
+      "fb_shares": "565",
+      "fb_comments": "241",
+      "fb_reactions": "1122",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "popcornmsm",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-03-2019 05:29",
+      "timestamp_published": "1553574563",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "379464",
+      "date_published": "2019-03-27 15:45:14",
+      "date_added": "2019-03-27 11:17:36",
+      "date_modified": "2019-03-27 11:17:36",
+      "title": "Rahul inspired from Rs 300 proposal of Bose, Nehru?",
+      "source": "www.deccanherald.com",
+      "description": "When Congress president Rahul Gandhi promised 'NYAY' for the downtrodden, he appeared to have taken a leaf out of an idea Subhash Chandra Bose and his great grandfather Jawaharlal Nehru.",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "jawaharlal nehru",
+        "rahul gandhi",
+        "subhas chandra bose"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGVjY2FuaGVyYWxkLmNvbS9uYXRpb25hbC9yYWh1bC1pbnNwaXJlZC1mcm9t\nLXJzLTMwMC1wcm9wb3NhbC1vZi1ib3NlLW5laHJ1LTcyNTQ0NS5odG1s",
+      "short_url": "https://www.deccanherald.com/national/rahul-inspired-from-rs-300-proposal-of-bose-nehru-725445.html",
+      "engagement": "0",
+      "popularity": "2246710",
+      "tw_tweets": "687",
+      "tw_reach": "2747416",
+      "tw_favorites": "362",
+      "tw_retweets": "123045",
+      "tw_since_id": "1110948875861282816",
+      "fb_shares": "66",
+      "fb_comments": "21",
+      "fb_reactions": "149",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "sreeparna_c",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-03-2019 15:45",
+      "timestamp_published": "1553697914",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "15"
+    },
+    {
+      "id": "380365",
+      "date_published": "2019-03-28 21:39:25",
+      "date_added": "2019-03-28 17:12:28",
+      "date_modified": "2019-04-04 21:31:53",
+      "title": "Congress to Give 3-Year Blanket Pass to New Ventures, Abolish Angel Tax: Rahul Gandhi",
+      "source": "thewire.in",
+      "description": "\"For the first three years of setting up a new business, we are going to free you up from red tape. You will not need to ask for permission for anything,\" Gandhi said.",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "new ventures",
+        " abolish",
+        "rahul gandhi",
+        "tax"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL2NvbmdyZXNzLW5ldy12ZW50dXJlcy1hYm9saXNo\nLWFuZ2VsLXRheC1yYWh1bC1nYW5kaGk=",
+      "short_url": "https://thewire.in/politics/congress-new-ventures-abolish-angel-tax-rahul-gandhi",
+      "engagement": "0",
+      "popularity": "3395440",
+      "tw_tweets": "1136",
+      "tw_reach": "3413097",
+      "tw_favorites": "258",
+      "tw_retweets": "550755",
+      "tw_since_id": "1113885779279908872",
+      "fb_shares": "395",
+      "fb_comments": "478",
+      "fb_reactions": "2670",
+      "popularity_updated": "20",
+      "sentiment": "0",
+      "screen_name": "crguna",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-03-2019 21:39",
+      "timestamp_published": "1553805565",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "41"
+    },
+    {
+      "id": "383342",
+      "date_published": "2019-03-29 22:17:32",
+      "date_added": "2019-03-29 17:51:33",
+      "date_modified": "2019-03-30 07:21:57",
+      "title": "Rahul Gandhi’s economist advisor says high inflation is good for economy, NYAY scheme will be funded by high taxes and inflation - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rahul Gandhi's advisor and economist Abhijit Banerjee said that NYAY scheme will be funded by high taxes, and it will replace other schemes - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "bikram singh majithia",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9yYWh1bC1nYW5kaGlzLWVjb25vbWlzdC1h\nZHZpc29yLXNheXMtaGlnaC1pbmZsYXRpb24taXMtZ29vZC1mb3ItZWNvbm9teS1ueWF5LXNjaGVt\nZS13aWxsLWJlLWZ1bmRlZC1ieS1oaWdoLXRheGVzLWFuZC1pbmZsYXRpb24v",
+      "short_url": "https://www.opindia.com/2019/03/rahul-gandhis-economist-advisor-says-high-inflation-is-good-for-economy-nyay-scheme-will-be-funded-by-high-taxes-and-inflation/",
+      "engagement": "0",
+      "popularity": "2098180",
+      "tw_tweets": "1013",
+      "tw_reach": "933605",
+      "tw_favorites": "30",
+      "tw_retweets": "921011",
+      "tw_since_id": "1111921969111298049",
+      "fb_shares": "1764",
+      "fb_comments": "1023",
+      "fb_reactions": "3953",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "vevck",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-03-2019 22:17",
+      "timestamp_published": "1553894252",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "383544",
+      "date_published": "2019-03-30 04:50:02",
+      "date_added": "2019-03-30 00:22:08",
+      "date_modified": "2019-03-30 03:46:55",
+      "title": "National Herald case: SC fixes April 23 for final hearing of I-T case against Sonia, Rahul",
+      "source": "www.thehindubusinessline.com",
+      "description": "The Supreme Court on Friday said it will hear from April 23 the final arguments on an appeal filed by Congress President Rahul Gandhi and his mother Sonia against the Delhi High Court order allowing r",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "delhi high court",
+        "rahul gandhi",
+        "sonia",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlaGluZHVidXNpbmVzc2xpbmUuY29tL25ld3MvbmF0aW9uYWwtaGVyYWxk\nLWNhc2Utc2MtZml4ZXMtYXByaWwtMjMtZm9yLWZpbmFsLWhlYXJpbmdvZi1pLXQtY2FzZS1hZ2Fp\nbnN0c29uaWEtcmFodWwvYXJ0aWNsZTI2Njc5OTkwLmVjZQ==",
+      "short_url": "https://www.thehindubusinessline.com/news/national-herald-case-sc-fixes-april-23-for-final-hearingof-i-t-case-againstsonia-rahul/article26679990.ece",
+      "engagement": "0",
+      "popularity": "13677300",
+      "tw_tweets": "1552",
+      "tw_reach": "16954432",
+      "tw_favorites": "24",
+      "tw_retweets": "639842",
+      "tw_since_id": "1111900448359800832",
+      "fb_shares": "20",
+      "fb_comments": "0",
+      "fb_reactions": "21",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "ganeshmahnar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-03-2019 04:50",
+      "timestamp_published": "1553917802",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "384504",
+      "date_published": "2019-03-31 11:10:14",
+      "date_added": "2019-03-31 07:42:09",
+      "date_modified": "2019-04-04 23:26:25",
+      "title": "Scathing sting: Congress leader says Rahul Gandhi will win from Wayanad because Hindus are a minority in the constituency - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Congress Party has finally arrived at a decision to field Rahul Gandhi from Wayanad Lok Sabha constituency as it is believed to be a traditional Congress bastion comprising of over 50 per cent of minority votes. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "rahul gandhi",
+        "sting",
+        "wayanad"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9zY2F0aGluZy1zdGluZy1jb25ncmVzcy1s\nZWFkZXItc2F5cy1yYWh1bC1nYW5kaGktd2lsbC13aW4tZnJvbS13YXlhbmFkLWJlY2F1c2UtbXVz\nbGltLWNocmlzdGlhbi1tYWpvcml0eS1oaW5kdS1taW5vcml0eS1pbi10aGUtY29uc3RpdHVlbmN5\nLw==",
+      "short_url": "https://www.opindia.com/2019/03/scathing-sting-congress-leader-says-rahul-gandhi-will-win-from-wayanad-because-muslim-christian-majority-hindu-minority-in-the-constituency/",
+      "engagement": "0",
+      "popularity": "1454870",
+      "tw_tweets": "651",
+      "tw_reach": "1039545",
+      "tw_favorites": "5",
+      "tw_retweets": "438463",
+      "tw_since_id": "1113909660233404423",
+      "fb_shares": "1908",
+      "fb_comments": "822",
+      "fb_reactions": "4671",
+      "popularity_updated": "99",
+      "sentiment": "0",
+      "screen_name": "Techie13315432",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-03-2019 11:10",
+      "timestamp_published": "1554023414",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "119"
+    },
+    {
+      "id": "385700",
+      "date_published": "2019-04-01 18:50:39",
+      "date_added": "2019-04-01 15:22:07",
+      "date_modified": "2019-04-19 17:12:02",
+      "title": "Rahul Gandhi is Joining Hands With Muslim Fundamentalists in Wayanad, Says CPM",
+      "source": "www.news18.com",
+      "description": "In a stinging attack on the Congress, CPM leader Kodiyeri Balakrishnan termed Rahul Gandhi’s candidature from Wayanad a “Himalayan blunder”.",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "kodiyeri balakrishnan",
+        "muslim",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3JhaHVsLWdhbmRoaS1pcy1qb2lu\naW5nLWhhbmRzLXdpdGgtbXVzbGltLWZ1bmRhbWVudGFsaXN0cy1pbi13YXlhbmFkLXNheXMtY3Bt\nLTIwODM5NjkuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/rahul-gandhi-is-joining-hands-with-muslim-fundamentalists-in-wayanad-says-cpm-2083969.html",
+      "engagement": "0",
+      "popularity": "2548190",
+      "tw_tweets": "936",
+      "tw_reach": "1135811",
+      "tw_favorites": "61",
+      "tw_retweets": "1123935",
+      "tw_since_id": "1119256451640217600",
+      "fb_shares": "1034",
+      "fb_comments": "528",
+      "fb_reactions": "2571",
+      "popularity_updated": "78",
+      "sentiment": "0",
+      "screen_name": "khamaniyo",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-04-2019 18:50",
+      "timestamp_published": "1554137439",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "95"
+    },
+    {
+      "id": "386321",
+      "date_published": "2019-04-02 13:25:19",
+      "date_added": "2019-04-02 09:57:11",
+      "date_modified": "2019-04-03 06:21:58",
+      "title": "NYAY, Farmers Among 5 Focus Areas In Congress Manifesto: Highlights",
+      "source": "www.ndtv.com",
+      "description": "Congress president Rahul Gandhi will release his party's election manifesto for the 2019 Lok Sabha elections. Mr Gandhi has been making a slew of promises that include Rs 72,000 each year under his party's 'Nyay' scheme to five crore poorest families, single slab Goods and Services Tax (GST) and filling 22 lakh government vacancies, among others.",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "farmers",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9yYWh1bC1nYW5kaGktcmVsZWFzZXMtY29u\nZ3Jlc3MtcG9sbC1tYW5pZmVzdG8tZm9yLWVsZWN0aW9ucy1oaWdobGlnaHRzLTIwMTYzNzg=",
+      "short_url": "https://www.ndtv.com/india-news/rahul-gandhi-releases-congress-poll-manifesto-for-elections-highlights-2016378",
+      "engagement": "0",
+      "popularity": "1809790",
+      "tw_tweets": "1010",
+      "tw_reach": "1706852",
+      "tw_favorites": "2",
+      "tw_retweets": "352223",
+      "tw_since_id": "1113306595608416256",
+      "fb_shares": "41",
+      "fb_comments": "7",
+      "fb_reactions": "85",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "pahade_sunil",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-04-2019 13:25",
+      "timestamp_published": "1554204319",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "387058",
+      "date_published": "2019-04-03 10:54:58",
+      "date_added": "2019-04-03 07:26:42",
+      "date_modified": "2019-04-13 06:02:19",
+      "title": "Rahul Gandhi has four passports, his other name is Raul Vinci, says Subramanian Swamy",
+      "source": "www.moneycontrol.com",
+      "description": "The BJP MP stated there is a chapel inside Rahul’s house, which is visited by a Malayali priest every Sunday, who comes and perform rites to atone his sins.",
+      "tags": [
+        "bikram singh majithia",
+        "bjp",
+        "leonardo da vinci",
+        "rahul gandhi",
+        "raúl",
+        "subramanian swamy"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL3BvbGl0aWNzL3JhaHVsLWdhbmRoaS1o\nYXMtZm91ci1wYXNzcG9ydHMtaGlzLW90aGVyLW5hbWUtaXMtcmF1bC12aW5jaS1zYXlzLXN1YnJh\nbWFuaWFuLXN3YW15LTM3NDc2MjEuaHRtbA==",
+      "short_url": "https://www.moneycontrol.com/news/politics/rahul-gandhi-has-four-passports-his-other-name-is-raul-vinci-says-subramanian-swamy-3747621.html",
+      "engagement": "0",
+      "popularity": "791624",
+      "tw_tweets": "539",
+      "tw_reach": "460747",
+      "tw_favorites": "6",
+      "tw_retweets": "291749",
+      "tw_since_id": "1116914097793249285",
+      "fb_shares": "755",
+      "fb_comments": "477",
+      "fb_reactions": "2224",
+      "popularity_updated": "285",
+      "sentiment": "0",
+      "screen_name": "JangliRaja",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-04-2019 10:54",
+      "timestamp_published": "1554281698",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "299"
+    },
+    {
+      "id": "387880",
+      "date_published": "2019-04-04 10:30:19",
+      "date_added": "2019-04-04 07:02:06",
+      "date_modified": "2019-04-04 08:07:25",
+      "title": "Congress asks Muslim league not to use their flags in Rahul's Wayanad campaign as it might harm prospects in North India: Report - Opindia News %",
+      "source": "www.opindia.com",
+      "description": "Apparently, Congress has chosen Wayanad Lok Sabha seat for the Gandhi scion expecting that the Muslim votes will be consolidated in favour of Gandhi. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "campaign",
+        "chosen",
+        "congress",
+        "india",
+        "muslim",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9jb25ncmVzcy1hc2tzLW11c2xpbS1sZWFn\ndWUtbm90LXRvLXVzZS10aGVpci1mbGFncy1pbi1yYWh1bHMtd2F5YW5hZC1jYW1wYWlnbi1hcy1p\ndC1taWdodC1oYXJtLXByb3NwZWN0cy1pbi1ub3J0aC1pbmRpYS1yZXBvcnQv",
+      "short_url": "http://bit.ly/2uJ7VYo",
+      "engagement": "0",
+      "popularity": "2630230",
+      "tw_tweets": "1099",
+      "tw_reach": "1478432",
+      "tw_favorites": "9",
+      "tw_retweets": "1002775",
+      "tw_since_id": "1113726773030739968",
+      "fb_shares": "1974",
+      "fb_comments": "466",
+      "fb_reactions": "4679",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "pateltejas555",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-04-2019 10:30",
+      "timestamp_published": "1554366619",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "388791",
+      "date_published": "2019-04-05 11:20:30",
+      "date_added": "2019-04-05 07:52:05",
+      "date_modified": "2019-04-12 22:56:59",
+      "title": "Rahul Gandhi's assets grew by 1600% under UPA, but 'just' by 70% under Modi government - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rahul Gandhi has now filed his election affidavit while filing his nomination from Wayanad, Kerala which is meant to be his safe seat where his assets have grown to Rs. 15.88 crores - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "narendra modi",
+        "rahul gandhi",
+        "upa",
+        "wayanad"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9yYWh1bC1nYW5kaGktMjAxOS1lbGVjdGlv\nbi1hZmZpZGF2aXQtYXNzZXRzLWdyZXctYnktMTYwMC11bmRlci11cGEtYnV0LWp1c3QtYnktNzAt\ndW5kZXItbW9kaS1nb3Zlcm5tZW50Lw==",
+      "short_url": "https://www.opindia.com/2019/04/rahul-gandhi-2019-election-affidavit-assets-grew-by-1600-under-upa-but-just-by-70-under-modi-government/",
+      "engagement": "0",
+      "popularity": "1394300",
+      "tw_tweets": "627",
+      "tw_reach": "921051",
+      "tw_favorites": "115",
+      "tw_retweets": "462287",
+      "tw_since_id": "1116805861836349442",
+      "fb_shares": "1138",
+      "fb_comments": "310",
+      "fb_reactions": "2668",
+      "popularity_updated": "132",
+      "sentiment": "0",
+      "screen_name": "Manasb2018",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-04-2019 11:20",
+      "timestamp_published": "1554456030",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "153"
+    },
+    {
+      "id": "389695",
+      "date_published": "2019-04-06 13:14:10",
+      "date_added": "2019-04-06 09:47:04",
+      "date_modified": "2019-04-06 23:46:52",
+      "title": "WATCH | Rahul Gandhi's top aide Sam Pitroda insults Indians, calls them \"monkeys\" who don't know how to use mobile phones - Republic World",
+      "source": "www.republicworld.com",
+      "description": "Rahul Gandhi's top aide and senior Congress loyalist Sam Pitroda has yet again made a controversial statement.  Pitroda has insulted every Indian citizen by calling them \"monkeys\" who don't know how to best use the mobile phone.",
+      "tags": [
+        "congress",
+        "indians",
+        "rahul gandhi",
+        "sam pitroda"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLW5ld3Mvd2F0\nY2gtcmFodWwtZ2FuZGhpcy10b3AtYWlkZS1zYW0tcGl0cm9kYS1pbnN1bHRzLWluZGlhbnMtY2Fs\nbHMtdGhlbS1tb25rZXlzLXdoby1kb250LWtub3ctaG93LXRvLXVzZS1tb2JpbGUtcGhvbmVz",
+      "short_url": "https://www.republicworld.com/india-news/general-news/watch-rahul-gandhis-top-aide-sam-pitroda-insults-indians-calls-them-monkeys-who-dont-know-how-to-use-mobile-phones",
+      "engagement": "0",
+      "popularity": "2748040",
+      "tw_tweets": "815",
+      "tw_reach": "1018808",
+      "tw_favorites": "5",
+      "tw_retweets": "1308316",
+      "tw_since_id": "1114719512480235521",
+      "fb_shares": "2423",
+      "fb_comments": "1793",
+      "fb_reactions": "4757",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "Pulp_fiction_20",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-04-2019 13:14",
+      "timestamp_published": "1554549250",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "390429",
+      "date_published": "2019-04-07 11:10:37",
+      "date_added": "2019-04-07 07:42:15",
+      "date_modified": "2019-04-09 04:52:14",
+      "title": "Congress workers thrash journalist for clicking photos of empty chairs in a rally",
+      "source": "www.opindia.com",
+      "description": "Even as Rahul Gandhi continues to indulge in empty photo-ops where he is seen \"helping injured\" journalists, at an election meeting in Tamil Nadu, a photo-journalist was thrashed by Congress workers for taking pictures of empty chairs - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "congress",
+        "journalist",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9jb25ncmVzcy13b3JrZXJzLWJlYXQtdXAt\nam91cm5hbGlzdC1ldmVuLWFzLXJhaHVsLWdhbmRoaS1kb2VzLWRyYW1hLW9mLWhlbHBpbmctaW5q\ndXJlZC1qb3VybmFsaXN0cy8=",
+      "short_url": "https://www.opindia.com/2019/04/congress-workers-beat-up-journalist-even-as-rahul-gandhi-does-drama-of-helping-injured-journalists/",
+      "engagement": "0",
+      "popularity": "649084",
+      "tw_tweets": "240",
+      "tw_reach": "771232",
+      "tw_favorites": "53",
+      "tw_retweets": "43655",
+      "tw_since_id": "1115446414165692416",
+      "fb_shares": "644",
+      "fb_comments": "126",
+      "fb_reactions": "1387",
+      "popularity_updated": "151",
+      "sentiment": "0",
+      "screen_name": "Rahulphysio",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-04-2019 11:10",
+      "timestamp_published": "1554628237",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "173"
+    },
+    {
+      "id": "391479",
+      "date_published": "2019-04-08 19:15:01",
+      "date_added": "2019-04-08 15:46:50",
+      "date_modified": "2019-04-08 16:16:49",
+      "title": "Election Tracker LIVE: Varun Gandhi Hasn't Paid Over Rs 38,000 Phone Bill, BSNL Writes to Poll Officer",
+      "source": "www.news18.com",
+      "description": "Election Tracker LIVE: BJP parliamentarian Varun Gandhi's has dues of Rs 38,616 against his Pilibhit office telephone number. The state-owned telecommunications Bharat Sanchar Nigam Limited (BSNL) has written a letter in this regard to district election officer, informing them that despite",
+      "tags": [
+        "bharat shah",
+        "bjp",
+        "rahul gandhi",
+        "varun gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9uLXRyYWNrZXItbGl2\nZS12YXJ1bi1nYW5kaGktaGFzbnQtcGFpZC1vdmVyLXJzLTM4MDAwLXBob25lLWJpbGwtYnNubC13\ncml0ZXMtdG8tcGlsaWJoaXQtcG9sbC1vZmZpY2VyLTIwOTI5NzUuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/election-tracker-live-concept-of-nyay-at-core-of-congress-campaign-says-rahul-gandhi-2092975.html",
+      "engagement": "0",
+      "popularity": "1263280",
+      "tw_tweets": "1155",
+      "tw_reach": "1202248",
+      "tw_favorites": "130",
+      "tw_retweets": "235546",
+      "tw_since_id": "1115324585661095936",
+      "fb_shares": "607",
+      "fb_comments": "232",
+      "fb_reactions": "2242",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "newsfacto1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-04-2019 19:15",
+      "timestamp_published": "1554743701",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "392104",
+      "date_published": "2019-04-09 11:05:43",
+      "date_added": "2019-04-09 07:37:11",
+      "date_modified": "2019-04-09 10:02:31",
+      "title": "From Mayawati's 'Sinking Ship' to Fight Against Corruption, PM Modi Sets the Agenda for 2019 Elections",
+      "source": "www.news18.com",
+      "description": "In an exclusive interview with News18 Network Group Editor-in-Chief Rahul Joshi, PM Modi set the agenda for the upcoming Lok Sabha elections, discussing a host of issues from J&K to the Opposition.",
+      "tags": [
+        "mayawati",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2Zyb20tbWF5YXdhdGlzLXNpbmtp\nbmctc2hpcC10by1maWdodC1hZ2FpbnN0LWNvcnJ1cHRpb24tcG0tbmFyZW5kcmEtbW9kaS1zZXRz\nLXRoZS1hZ2VuZGEtZm9yLTIwMTktZWxlY3Rpb25zLTIwOTQyODkuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/from-mayawatis-sinking-ship-to-fight-against-corruption-pm-narendra-modi-sets-the-agenda-for-2019-elections-2094289.html",
+      "engagement": "0",
+      "popularity": "10206100",
+      "tw_tweets": "1130",
+      "tw_reach": "10905413",
+      "tw_favorites": "27",
+      "tw_retweets": "1350408",
+      "tw_since_id": "1115717106862047233",
+      "fb_shares": "26",
+      "fb_comments": "12",
+      "fb_reactions": "80",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "ShuklaKedarnath",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-04-2019 11:05",
+      "timestamp_published": "1554800743",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "393547",
+      "date_published": "2019-04-10 19:45:38",
+      "date_added": "2019-04-10 16:17:19",
+      "date_modified": "2019-04-11 21:27:09",
+      "title": "1 family sticking to power for 60 years is not 'NYAY': Ranvir Shorey slams artists who appealed against PM Modi - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Ranvir Shorey slammed Congress and Gandhi dynasty claiming those who tethered on to power for 60 years are now talking about 'NYAY'. - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "narendra modi",
+        "rahul gandhi",
+        "ranvir shorey"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC8xLWZhbWlseS1zdGlja2luZy10by1wb3dl\nci1mb3ItNjAteWVhcnMtaXMtbm90LW55YXktcmFudmlyLXNob3JleS1zbGFtcy1hcnRpc3RzLXdo\nby1hcHBlYWxlZC1hZ2FpbnN0LXBtLW1vZGkv",
+      "short_url": "https://www.opindia.com/2019/04/1-family-sticking-to-power-for-60-years-is-not-nyay-ranvir-shorey-slams-artists-who-appealed-against-pm-modi/",
+      "engagement": "0",
+      "popularity": "5575650",
+      "tw_tweets": "1118",
+      "tw_reach": "742438",
+      "tw_favorites": "32",
+      "tw_retweets": "3322363",
+      "tw_since_id": "1116421930926727179",
+      "fb_shares": "2854",
+      "fb_comments": "402",
+      "fb_reactions": "11867",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Naveend05588496",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-04-2019 19:45",
+      "timestamp_published": "1554918338",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "394227",
+      "date_published": "2019-04-11 15:35:31",
+      "date_added": "2019-04-11 12:07:32",
+      "date_modified": "2019-04-12 05:56:20",
+      "title": "Congress cries 'possible assassination attempt' on Rahul Gandhi, MHA inquiry reveals it was mobile phone flash",
+      "source": "www.opindia.com",
+      "description": "As per reports, MHA has verified with the SPG and there is no threat to Rahul Gandhi's life - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "dwyane wade",
+        "india",
+        "opindia.com",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9wb3NzaWJsZS1hc3Nhc3NpbmF0aW9uLWF0\ndGVtcHQtb24tcmFodWwtZ2FuZGhpLXR1cm5lZC1vdXQtdG8tYmUtY2FtZXJhLWZsYXNoLWJ5LWFp\nY2MtcGhvdG9ncmFwaGVyLw==",
+      "short_url": "https://www.opindia.com/2019/04/possible-assassination-attempt-on-rahul-gandhi-turned-out-to-be-camera-flash-by-aicc-photographer/",
+      "engagement": "0",
+      "popularity": "3152020",
+      "tw_tweets": "978",
+      "tw_reach": "2239141",
+      "tw_favorites": "24",
+      "tw_retweets": "977717",
+      "tw_since_id": "1116579818097627137",
+      "fb_shares": "365",
+      "fb_comments": "411",
+      "fb_reactions": "1437",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "nirwamehta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-04-2019 15:35",
+      "timestamp_published": "1554989731",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "394734",
+      "date_published": "2019-04-12 11:00:00",
+      "date_added": "2019-04-12 07:31:58",
+      "date_modified": "2019-04-12 07:32:02",
+      "title": "Sonia Gandhi is mistaken if she thinks she can defeat Modi in 2019 just because she defeated Atal Bihari Vajpayee in 2014",
+      "source": "www.opindia.com",
+      "description": "Sonia Gandhi, former Congress President and mother to the current one, in response to a question on the invincibility of PM Narendra Modi, has remarked that people assumed the Atal Bihari Vajpayee was invincible in 2004 as well but the UPA managed to secure a win. - Latest India News from Opindia.com",
+      "tags": [
+        "bihari lal",
+        "congress",
+        "narendra modi",
+        "rahul gandhi",
+        "sonia",
+        "vajpayee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9uYXJlbmRyYS1tb2RpLWlzLW5vLXZhanBh\neWVlLWhlcmUtaXMtd2h5LXNvbmlhLWdhbmRoaS1pcy13cm9uZy1hbmQtd2h5LWJqcHMtZGVmZWF0\nLWluLTIwMTktaXMtZXh0cmVtZWx5LXVubGlrZWx5Lw==",
+      "short_url": "http://bit.ly/2X0u2FK",
+      "engagement": "0",
+      "popularity": "2325300",
+      "tw_tweets": "957",
+      "tw_reach": "2204455",
+      "tw_favorites": "24",
+      "tw_retweets": "445315",
+      "tw_since_id": "1116691719414636546",
+      "fb_shares": "184",
+      "fb_comments": "54",
+      "fb_reactions": "1091",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-04-2019 11:00",
+      "timestamp_published": "1555059600",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "395919",
+      "date_published": "2019-04-13 18:00:27",
+      "date_added": "2019-04-13 14:32:05",
+      "date_modified": "2019-04-14 22:22:19",
+      "title": "Cambridge varsity confirms Rahul&rsquo;s qualifications",
+      "source": "www.thehindu.com",
+      "description": "Hasan Suroor\nControversy “extremely unfortunate”\nLONDON: The Cambridge University on Tuesday confirmed that Rahul Gandhi was a student at Trinity College from October 1994 to July 1995 and was awa",
+      "tags": [
+        "hasan",
+        "rahul gandhi",
+        "university"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL3RvZGF5cy1wYXBlci90cC1pbnRlcm5hdGlvbmFsL0Nh\nbWJyaWRnZS12YXJzaXR5LWNvbmZpcm1zLVJhaHVscnNxdW9zLXF1YWxpZmljYXRpb25zL2FydGlj\nbGUxNjYyNjI5Ny5lY2U=",
+      "short_url": "https://www.thehindu.com/todays-paper/tp-international/Cambridge-varsity-confirms-Rahulrsquos-qualifications/article16626297.ece",
+      "engagement": "0",
+      "popularity": "3764370",
+      "tw_tweets": "1658",
+      "tw_reach": "2813048",
+      "tw_favorites": "62",
+      "tw_retweets": "1100533",
+      "tw_since_id": "1117522596176596992",
+      "fb_shares": "240",
+      "fb_comments": "218",
+      "fb_reactions": "436",
+      "popularity_updated": "56",
+      "sentiment": "0",
+      "screen_name": "BinoyJana10",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-04-2019 18:00",
+      "timestamp_published": "1555171227",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "85"
+    },
+    {
+      "id": "396359",
+      "date_published": "2019-04-14 09:39:59",
+      "date_added": "2019-04-14 06:12:02",
+      "date_modified": "2019-04-17 19:42:52",
+      "title": "Sonia Gandhi, Rahul Gandhi languish at bottom of MP rankings",
+      "source": "www.indiatoday.in",
+      "description": "The Congress president had 52 per cent attendance and spent Rs 19.6 crore of the total Rs 25 crore available to MPs under the MPLADS scheme for development work in his constituency.",
+      "tags": [
+        "congress",
+        "rahul gandhi",
+        "sonia"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nc29uaWEtcmFodWwtZ2FuZGhpLW1wLXJhbmtpbmdzLWxvay1zYWJoYS1tcGxhZHMtMTUwMTQwNy0y\nMDE5LTA0LTE0",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/sonia-rahul-gandhi-mp-rankings-lok-sabha-mplads-1501407-2019-04-14",
+      "engagement": "0",
+      "popularity": "2857890",
+      "tw_tweets": "879",
+      "tw_reach": "1368975",
+      "tw_favorites": "259",
+      "tw_retweets": "1210985",
+      "tw_since_id": "1118569842297032704",
+      "fb_shares": "1327",
+      "fb_comments": "806",
+      "fb_reactions": "3798",
+      "popularity_updated": "79",
+      "sentiment": "0",
+      "screen_name": "PrateekLawaniya",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-04-2019 09:39",
+      "timestamp_published": "1555227599",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "95"
+    },
+    {
+      "id": "397197",
+      "date_published": "2019-04-15 12:45:18",
+      "date_added": "2019-04-15 09:17:42",
+      "date_modified": "2019-04-15 10:07:52",
+      "title": "Supreme Court sends notice to Rahul Gandhi for dragging the SC in his 'chowkidar chor hai' campaign",
+      "source": "www.opindia.com",
+      "description": "Rahul Gandhi is accused of replacing his personal statement as Supreme Court's order and trying to create prejudice - Latest India News from Opindia.com",
+      "tags": [
+        "campaign",
+        "india",
+        "rahul gandhi",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9zdXByZW1lLWNvdXJ0LXNlbmRzLW5vdGlj\nZS10by1yYWh1bC1nYW5kaGktZm9yLWRyYWdnaW5nLXRoZS1zYy1pbi1oaXMtY2hvd2tpZGFyLWNo\nb3ItaGFpLWNhbXBhaWduLw==",
+      "short_url": "https://www.opindia.com/2019/04/supreme-court-sends-notice-to-rahul-gandhi-for-dragging-the-sc-in-his-chowkidar-chor-hai-campaign/",
+      "engagement": "0",
+      "popularity": "604162",
+      "tw_tweets": "800",
+      "tw_reach": "405099",
+      "tw_favorites": "6",
+      "tw_retweets": "195115",
+      "tw_since_id": "1117707208140017664",
+      "fb_shares": "688",
+      "fb_comments": "214",
+      "fb_reactions": "2123",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "j_malkani",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-04-2019 12:45",
+      "timestamp_published": "1555325118",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "43"
+    },
+    {
+      "id": "398128",
+      "date_published": "2019-04-16 11:15:28",
+      "date_added": "2019-04-16 07:47:22",
+      "date_modified": "2019-04-19 09:47:39",
+      "title": "Mommy media and nanny ecosystem try to mediate between warring children, AAP and Congress - Opindia News",
+      "source": "www.opindia.com",
+      "description": "The entire nanny ecosystem jumped in to try and pacify the situation between the two warring children: Rahul Gandhi and Arvind Kejriwal - Latest India News from Opindia.com",
+      "tags": [
+        "aap",
+        "arvind mithal",
+        "betty ford",
+        "congress",
+        "india",
+        "kejriwal",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9qb3VybmFsaXN0LWNvbW1lbnRhdG9ycy1w\ncmV0ZW5kaW5nLXRvLWJlLW5ldXJhbC1tZWRpYXRlLWJldHdlZW4tcmFodWwtZ2FuZGhpLWFydmlu\nZC1rZWpyaXdhbC0yMDE5LWRlbGhpLWFsbGlhbmNlLw==",
+      "short_url": "https://www.opindia.com/2019/04/journalist-commentators-pretending-to-be-neural-mediate-between-rahul-gandhi-arvind-kejriwal-2019-delhi-alliance/",
+      "engagement": "0",
+      "popularity": "2011770",
+      "tw_tweets": "591",
+      "tw_reach": "2107840",
+      "tw_favorites": "0",
+      "tw_retweets": "285338",
+      "tw_since_id": "1119144552122568705",
+      "fb_shares": "195",
+      "fb_comments": "42",
+      "fb_reactions": "777",
+      "popularity_updated": "491",
+      "sentiment": "0",
+      "screen_name": "IndianSongoku",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-04-2019 11:15",
+      "timestamp_published": "1555406128",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "507"
+    },
+    {
+      "id": "399211",
+      "date_published": "2019-04-17 17:20:26",
+      "date_added": "2019-04-17 13:52:43",
+      "date_modified": "2019-04-17 13:52:44",
+      "title": "Rahul meets Sreedhanya, first person from a Wayanad tribe to clear civil service exam",
+      "source": "www.thenewsminute.com",
+      "description": "“I don't want to have a relationship for a couple of months. I want to have a lifelong relationship with you,” said the Indian National Congress (INC) President, Rahul Gandhi as he addressed a mammoth gathering at Sulthan Bathery in Wayanad district of Kerala on Wednesday morning. Rahul Gandhi also met the family of Sree Dhanya, who became the first person from Kerala’s Kurichiya tribal community to crack civil services exam.",
+      "tags": [
+        "congress",
+        "rahul gandhi",
+        "wayanad"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlbmV3c21pbnV0ZS5jb20vYXJ0aWNsZS9yYWh1bC12aXNpdHMtc3JlZWRo\nYW55YS1maXJzdC1wZXJzb24td2F5YW5hZC10cmliZS1jbGVhci1jaXZpbC1zZXJ2aWNlLWV4YW0t\nMTAwMTky",
+      "short_url": "https://www.thenewsminute.com/article/rahul-visits-sreedhanya-first-person-wayanad-tribe-clear-civil-service-exam-100192",
+      "engagement": "0",
+      "popularity": "1532160",
+      "tw_tweets": "787",
+      "tw_reach": "1216292",
+      "tw_favorites": "109",
+      "tw_retweets": "406752",
+      "tw_since_id": "1118533179999125504",
+      "fb_shares": "222",
+      "fb_comments": "190",
+      "fb_reactions": "3529",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "mobsindiapvtltd",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-04-2019 17:20",
+      "timestamp_published": "1555514426",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "18"
+    },
+    {
+      "id": "399777",
+      "date_published": "2019-04-18 12:20:22",
+      "date_added": "2019-04-18 08:52:43",
+      "date_modified": "2019-04-21 22:22:36",
+      "title": "Rahul Gandhi's Wayanad actually has more links to Ramayana than Amit Shah's 'Pakistan'",
+      "source": "theprint.in",
+      "description": "So entrenched is Wayanad with the Ramayana — a result of an oral tradition rendered by the district's tribals — that 30 places are named after the epic.",
+      "tags": [
+        "amit shah",
+        "pakistan",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVwcmludC5pbi9wb2xpdGljcy9yYWh1bC1nYW5kaGlzLXdheWFuYWQtYWN0dWFs\nbHktaGFzLW1vcmUtbGlua3MtdG8tcmFtYXlhbmEtdGhhbi1hbWl0LXNoYWhzLXBha2lzdGFuLzIy\nMjI2OS8=",
+      "short_url": "https://theprint.in/politics/rahul-gandhis-wayanad-actually-has-more-links-to-ramayana-than-amit-shahs-pakistan/222269/",
+      "engagement": "0",
+      "popularity": "176135",
+      "tw_tweets": "124",
+      "tw_reach": "85029",
+      "tw_favorites": "4",
+      "tw_retweets": "73852",
+      "tw_since_id": "1120057995566690305",
+      "fb_shares": "113",
+      "fb_comments": "51",
+      "fb_reactions": "478",
+      "popularity_updated": "20",
+      "sentiment": "0",
+      "screen_name": "pritagr",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-04-2019 12:20",
+      "timestamp_published": "1555582822",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "29"
+    },
+    {
+      "id": "400184",
+      "date_published": "2019-04-19 00:19:25",
+      "date_added": "2019-04-18 20:52:01",
+      "date_modified": "2019-04-21 20:07:05",
+      "title": "Exclusive: Men in video shared by Rahul Gandhi claim that their statements were twisted, say they support PM Modi - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Rahul Gandhi, the Congress president tweeted an excerpt of The Wire video saying that the event of PM Modi washing the sanitation workers' feet was a 'made for media' event - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9leGNsdXNpdmUtbWVuLWluLXZpZGVvLXR3\nZWV0ZWQtYnktcmFodWwtZ2FuZGhpLXRoZS13aXJlLWNsYWltLXRoZWlyLXN0YXRlbWVudHMtd2Vy\nZS10d2lzdGVkLXNheS10aGV5LXN1cHBvcnQtcG0tbW9kaS8=",
+      "short_url": "https://www.opindia.com/2019/04/exclusive-men-in-video-tweeted-by-rahul-gandhi-the-wire-claim-their-statements-were-twisted-say-they-support-pm-modi/",
+      "engagement": "0",
+      "popularity": "882468",
+      "tw_tweets": "308",
+      "tw_reach": "974280",
+      "tw_favorites": "177",
+      "tw_retweets": "99892",
+      "tw_since_id": "1120025335247056897",
+      "fb_shares": "174",
+      "fb_comments": "71",
+      "fb_reactions": "385",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "Hero1Warrior",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-04-2019 00:19",
+      "timestamp_published": "1555625965",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "40"
+    },
+    {
+      "id": "401699",
+      "date_published": "2019-04-20 17:30:04",
+      "date_added": "2019-04-20 14:03:25",
+      "date_modified": "2019-04-22 08:04:55",
+      "title": "Exposed: Why Rahul Gandhi used Raul Vinci name in Cambridge Certificate? Have two Indian passports with British & Italian citizenships - PGurus",
+      "source": "www.pgurus.com",
+      "description": "The multiple passport issue of Rahul Gandhi comes to haunt him at the most inopportune moment as Amethi Returning Officer postpones scrutiny of his application",
+      "tags": [
+        "cambridge",
+        "leonardo da vinci",
+        "rahul gandhi",
+        "raúl"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucGd1cnVzLmNvbS9leHBvc2VkLXdoeS1yYWh1bC1nYW5kaGktdXNlZC1yYXVs\nLXZpbmNpLW5hbWUtaW4tY2FtYnJpZGdlLWNlcnRpZmljYXRlLWhhdmUtdHdvLWluZGlhbi1wYXNz\ncG9ydHMtd2l0aC1icml0aXNoLWl0YWxpYW4tY2l0aXplbnNoaXBzLw==",
+      "short_url": "https://www.pgurus.com/exposed-why-rahul-gandhi-used-raul-vinci-name-in-cambridge-certificate-have-two-indian-passports-with-british-italian-citizenships/",
+      "engagement": "0",
+      "popularity": "4390400",
+      "tw_tweets": "867",
+      "tw_reach": "680733",
+      "tw_favorites": "7",
+      "tw_retweets": "2564135",
+      "tw_since_id": "1120205631787397121",
+      "fb_shares": "4425",
+      "fb_comments": "1028",
+      "fb_reactions": "9001",
+      "popularity_updated": "22",
+      "sentiment": "0",
+      "screen_name": "Param28lko",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 17:30",
+      "timestamp_published": "1555774204",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "402428",
+      "date_published": "2019-04-21 14:10:29",
+      "date_added": "2019-04-21 10:43:20",
+      "date_modified": "2019-05-02 12:37:40",
+      "title": "Cambridge University confirms that Rahul Gandhi did his M.Phil using the name Raul Vinci - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Cambridge University confirms that Rahul Gandhi did his MPhil using the name Raul Vinci - Latest India News from Opindia.com",
+      "tags": [
+        "india",
+        "leonardo da vinci",
+        "rahul gandhi",
+        "raúl"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9jYW1icmlkZ2UtdW5pdmVyc2l0eS1jb25m\naXJtcy10aGF0LXJhaHVsLWdhbmRoaS1kaWQtaGlzLW0tcGhpbC11c2luZy10aGUtbmFtZS1yYXVs\nLXZpbmNpLw==",
+      "short_url": "https://www.opindia.com/2019/04/cambridge-university-confirms-that-rahul-gandhi-did-his-m-phil-using-the-name-raul-vinci/",
+      "engagement": "0",
+      "popularity": "2943900",
+      "tw_tweets": "861",
+      "tw_reach": "1368401",
+      "tw_favorites": "16",
+      "tw_retweets": "1253179",
+      "tw_since_id": "1123898865919365121",
+      "fb_shares": "3713",
+      "fb_comments": "1509",
+      "fb_reactions": "11035",
+      "popularity_updated": "693",
+      "sentiment": "0",
+      "screen_name": "ShekharMathur77",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 14:10",
+      "timestamp_published": "1555848629",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "709"
+    },
+    {
+      "id": "403300",
+      "date_published": "2019-04-22 15:50:16",
+      "date_added": "2019-04-22 12:22:12",
+      "date_modified": "2019-04-25 07:32:05",
+      "title": "Arnab Goswami's Republic TV caught lying on Rahul Gandhi's response to Supreme Court - Janta Ka Reporter 2.0",
+      "source": "www.jantakareporter.com",
+      "description": "Arnab Goswami's Republic TV has been caught lying on Rahul Gandhi's response to Supreme Court, other media outlets also carried misleading headlines",
+      "tags": [
+        "rahul gandhi",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5qYW50YWthcmVwb3J0ZXIuY29tL2VudGVydGFpbm1lbnQvYXJuYWItZ29zd2Ft\naXMtcmVwdWJsaWMtdHYtY2F1Z2h0LWx5aW5nLW9uLXJhaHVsLWdhbmRoaXMtcmVzcG9uc2UtdG8t\nc3VwcmVtZS1jb3VydC8yNDM0NzMv",
+      "short_url": "http://www.jantakareporter.com/entertainment/arnab-goswamis-republic-tv-caught-lying-on-rahul-gandhis-response-to-supreme-court/243473/",
+      "engagement": "0",
+      "popularity": "1096170",
+      "tw_tweets": "473",
+      "tw_reach": "908332",
+      "tw_favorites": "7",
+      "tw_retweets": "272396",
+      "tw_since_id": "1121284810956099585",
+      "fb_shares": "604",
+      "fb_comments": "485",
+      "fb_reactions": "1454",
+      "popularity_updated": "296",
+      "sentiment": "0",
+      "screen_name": "IndiaInMyBlood_",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 15:50",
+      "timestamp_published": "1555941016",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "316"
+    },
+    {
+      "id": "403633",
+      "date_published": "2019-04-23 00:58:53",
+      "date_added": "2019-04-22 21:31:19",
+      "date_modified": "2019-04-23 05:27:18",
+      "title": "Rahul Gandhi retracts statement where he said SC admitted 'chowkidaar ne chori karwayi' in the Rafale Deal",
+      "source": "www.opindia.com",
+      "description": "In his response to criminal contempt notice on him attributing 'chowkidar ne chori karwayi' statement to the SC, Rahul Gandhi had ow said that he made the statement in the heat of election campaigning - Latest India News from Opindia.com",
+      "tags": [
+        "hernán senillosa",
+        "rafale deal",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9jaG93a2lkYXItY2hvci1oYWktYnViYmxl\nLWJ1cnN0cy1yYWh1bC1nYW5kaGktdGVsbHMtc2MtdGhhdC1oZS1hdHRyaWJ1dGVkLXN0YXRlbWVu\ndC10by1yYWZhbGUtanVkZ2VtZW50LWluLWhlYXQtb2YtY2FtcGFpZ25pbmcv",
+      "short_url": "https://www.opindia.com/2019/04/chowkidar-chor-hai-bubble-bursts-rahul-gandhi-tells-sc-that-he-attributed-statement-to-rafale-judgement-in-heat-of-campaigning/",
+      "engagement": "0",
+      "popularity": "40806.2",
+      "tw_tweets": "34",
+      "tw_reach": "7744",
+      "tw_favorites": "0",
+      "tw_retweets": "10635",
+      "tw_since_id": "1120604158736777217",
+      "fb_shares": "1939",
+      "fb_comments": "807",
+      "fb_reactions": "5614",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "YadavRatnam",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 00:58",
+      "timestamp_published": "1555973933",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "19"
+    },
+    {
+      "id": "404631",
+      "date_published": "2019-04-24 01:41:41",
+      "date_added": "2019-04-23 22:16:50",
+      "date_modified": "2019-04-23 22:16:52",
+      "title": "My Nation spreads fake news about \"Rahul Gandhi stumped by a 14-year-old girl\" in Dubai - Alt News",
+      "source": "www.altnews.in",
+      "description": "“Rahul Gandhi dumbfounded in Dubai by little girl’s questions” reads the headline of a story on the ‘My Nation’ portal. The article claims that during Rahul Gandhi’s recent visit to Dubai, a 14-year old girl asked him two questions that stumped him. According to the article, the questions embarrassed the Congress President who …",
+      "tags": [
+        "dubai",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWx0bmV3cy5pbi9teS1uYXRpb24tc3ByZWFkcy1mYWtlLW5ld3MtYWJvdXQt\ncmFodWwtZ2FuZGhpLXN0dW1wZWQtYnktYS0xNC15ZWFyLW9sZC1naXJsLWluLWR1YmFpLw==",
+      "short_url": "https://www.altnews.in/my-nation-spreads-fake-news-about-rahul-gandhi-stumped-by-a-14-year-old-girl-in-dubai/",
+      "engagement": "0",
+      "popularity": "84853.5",
+      "tw_tweets": "3",
+      "tw_reach": "291",
+      "tw_favorites": "0",
+      "tw_retweets": "3054",
+      "tw_since_id": "1120782314815086592",
+      "fb_shares": "5825",
+      "fb_comments": "3504",
+      "fb_reactions": "25860",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "dafearedbeard",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 01:41",
+      "timestamp_published": "1556062901",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "16"
+    },
+    {
+      "id": "405570",
+      "date_published": "2019-04-25 03:33:50",
+      "date_added": "2019-04-25 00:07:18",
+      "date_modified": "2019-04-27 01:02:23",
+      "title": "Modi brand sells, Rahul name is a liability - PGurus",
+      "source": "www.pgurus.com",
+      "description": "Like the BJP but unlike the Congress, leading regional parties to are depending on their respective leaders’ charisma to see them through.",
+      "tags": [
+        "bjp",
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucGd1cnVzLmNvbS9tb2RpLWJyYW5kLXNlbGxzLXJhaHVsLW5hbWUtaXMtYS1s\naWFiaWxpdHkv",
+      "short_url": "https://www.pgurus.com/modi-brand-sells-rahul-name-is-a-liability/",
+      "engagement": "0",
+      "popularity": "840499",
+      "tw_tweets": "520",
+      "tw_reach": "979363",
+      "tw_favorites": "249",
+      "tw_retweets": "69651",
+      "tw_since_id": "1121911712809013250",
+      "fb_shares": "80",
+      "fb_comments": "8",
+      "fb_reactions": "236",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "nimish12345",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 03:33",
+      "timestamp_published": "1556156030",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "406755",
+      "date_published": "2019-04-26 18:15:00",
+      "date_added": "2019-04-26 14:47:21",
+      "date_modified": "2019-04-27 05:17:31",
+      "title": "Rahul Gandhi camp and Priyanka Gandhi Vadra camp at odds: Sibling rivalry taking an ugly turn? - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Sibling rivalry appears to have taken an ugly turn within the Nehru-Gandhi Parivar after Priyanka Gandhi Vadra chickened out from contesting from Varanasi against PM Modi - Latest India News from Opindia.com",
+      "tags": [
+        "jawaharlal nehru",
+        "mahatma gandhi",
+        "modi",
+        "priyanka",
+        "priyanka gandhi",
+        "rahul gandhi",
+        "varanasi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC8yMDE5LWxvay1zYWJoYS1lbGVjdGlvbnMt\ncHJpeWFua2EtZ2FuZGhpLXZhZHJhLW5vdC10by1jb250ZXN0LWZyb20tdmFyYW5hc2ktYWdhaW5z\ndC1wbS1tb2RpLWNvbmdyZXNzLWNhbXBzLWdpdmUtZGlmZmVyZW50LXJlYXNvbi8=",
+      "short_url": "https://www.opindia.com/2019/04/2019-lok-sabha-elections-priyanka-gandhi-vadra-not-to-contest-from-varanasi-against-pm-modi-congress-camps-give-different-reason/",
+      "engagement": "0",
+      "popularity": "473233",
+      "tw_tweets": "162",
+      "tw_reach": "479337",
+      "tw_favorites": "6",
+      "tw_retweets": "74729",
+      "tw_since_id": "1122063087354273793",
+      "fb_shares": "132",
+      "fb_comments": "69",
+      "fb_reactions": "444",
+      "popularity_updated": "16",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 18:15",
+      "timestamp_published": "1556295300",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "32"
+    },
+    {
+      "id": "407597",
+      "date_published": "2019-04-27 21:15:00",
+      "date_added": "2019-04-27 17:47:05",
+      "date_modified": "2019-04-28 09:12:46",
+      "title": "48 hours before polling, fake forms of NYAY Yojana with Rahul Gandhi's face surface in Rajasthan",
+      "source": "www.opindia.com",
+      "description": "Political activists in Rajasthan's Kota were found distributing fake forms of NYAY Yojana, asking people to fill the forms to get Rs 72,000",
+      "tags": [
+        "rahul gandhi",
+        "rajasthan",
+        "rajasthan's"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9mYWtlLWZvcm1zLW9mLW55YXkteW9qYW5h\nLXdpdGgtY29uZ3Jlc3Mtc3ltYm9sLWFuZC1yYWh1bC1nYW5kaGlzLWZhY2Utc3VyZmFjZS1pbi1y\nYWphc3RoYW4tdmlsbGFnZXJzLXJhaXNlLWFsYXJtLXJlcG9ydC8=",
+      "short_url": "https://www.opindia.com/2019/04/fake-forms-of-nyay-yojana-with-congress-symbol-and-rahul-gandhis-face-surface-in-rajasthan-villagers-raise-alarm-report/",
+      "engagement": "0",
+      "popularity": "580233",
+      "tw_tweets": "151",
+      "tw_reach": "677343",
+      "tw_favorites": "28",
+      "tw_retweets": "46949",
+      "tw_since_id": "1122545869557911552",
+      "fb_shares": "182",
+      "fb_comments": "77",
+      "fb_reactions": "454",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 21:15",
+      "timestamp_published": "1556392500",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "408185",
+      "date_published": "2019-04-28 18:45:00",
+      "date_added": "2019-04-28 15:17:32",
+      "date_modified": "2019-05-02 11:32:21",
+      "title": "Rahul Gandhi knew that Rajasthan Congress leader had printed and distributed 50,000 fake NYAY forms - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Congress leader from Kota Rakhi Gautam had shown 'prototype NYAY form' to Rahul Gandhi on April 25 - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "gautama buddha",
+        "india",
+        "kota",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9yYWh1bC1nYW5kaGkta25ldy10aGF0LXJh\namFzdGhhbi1jb25ncmVzcy1sZWFkZXItaGFkLXByaW50ZWQtYW5kLWRpc3RyaWJ1dGVkLTUwMDAw\nLWZha2UtbnlheS1mb3Jtcy8=",
+      "short_url": "http://bit.ly/2UOrqsV",
+      "engagement": "0",
+      "popularity": "2140760",
+      "tw_tweets": "670",
+      "tw_reach": "1698327",
+      "tw_favorites": "29",
+      "tw_retweets": "576035",
+      "tw_since_id": "1123882292840210433",
+      "fb_shares": "354",
+      "fb_comments": "68",
+      "fb_reactions": "577",
+      "popularity_updated": "34",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 18:45",
+      "timestamp_published": "1556469900",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "59"
+    },
+    {
+      "id": "408590",
+      "date_published": "2019-04-29 11:25:16",
+      "date_added": "2019-04-29 07:57:15",
+      "date_modified": "2019-05-30 05:36:54",
+      "title": "I will quit politics, if Rahul Gandhi loses Amethi: Navjot Singh Sidhu",
+      "source": "economictimes.indiatimes.com",
+      "description": "He rejected the claim that BJP candidate Smriti Irani is giving a tough fight to Rahul Gandhi in Amethi.",
+      "tags": [
+        "amethi",
+        "bjp",
+        "navjot singh sidhu",
+        "rahul gandhi",
+        "smriti irani"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZWxlY3Rpb25zL2xvay1z\nYWJoYS9pbmRpYS9pLXdpbGwtcXVpdC1wb2xpdGljcy1pZi1yYWh1bC1nYW5kaGktbG9zZXMtYW1l\ndGhpLW5hdmpvdC1zaW5naC1zaWRodS9hcnRpY2xlc2hvdy82OTA5MTQ2OC5jbXM=",
+      "short_url": "http://ecoti.in/X0ieuZ",
+      "engagement": "0",
+      "popularity": "9539950",
+      "tw_tweets": "940",
+      "tw_reach": "7028708",
+      "tw_favorites": "131",
+      "tw_retweets": "2841787",
+      "tw_since_id": "1133939154587226112",
+      "fb_shares": "124",
+      "fb_comments": "463",
+      "fb_reactions": "1437",
+      "popularity_updated": "778",
+      "sentiment": "0",
+      "screen_name": "naharoman",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 11:25",
+      "timestamp_published": "1556529916",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "802"
+    },
+    {
+      "id": "409636",
+      "date_published": "2019-04-30 18:00:10",
+      "date_added": "2019-04-30 14:32:14",
+      "date_modified": "2019-04-30 23:42:07",
+      "title": "Rahul Gandhi contempt hearing: Live Updates from Supreme Court",
+      "source": "barandbench.com",
+      "description": "Live updatesf from the hearing in the contempt petition filed by BJP MP Meenakshi Lekhi against Congress President Rahul Gandhi.",
+      "tags": [
+        "bjp",
+        "congress",
+        "meenakshi lekhi",
+        "rahul gandhi",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9iYXJhbmRiZW5jaC5jb20vcmFodWwtZ2FuZGhpLWNvbnRlbXB0LWhlYXJpbmctbGl2\nZS11cGRhdGVzLWZyb20tc3VwcmVtZS1jb3VydC8=",
+      "short_url": "https://barandbench.com/rahul-gandhi-contempt-hearing-live-updates-from-supreme-court/",
+      "engagement": "0",
+      "popularity": "1912340",
+      "tw_tweets": "472",
+      "tw_reach": "1275392",
+      "tw_favorites": "0",
+      "tw_retweets": "635924",
+      "tw_since_id": "1123435669563555842",
+      "fb_shares": "114",
+      "fb_comments": "52",
+      "fb_reactions": "466",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "haritcn",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 18:00",
+      "timestamp_published": "1556640010",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "410274",
+      "date_published": "2019-05-01 13:45:00",
+      "date_added": "2019-05-01 10:17:20",
+      "date_modified": "2019-05-01 10:17:29",
+      "title": "Rahul Gandhi gets legal notice for outrageous comment 'Modi passed law allowing shooting down of tribals'",
+      "source": "www.opindia.com",
+      "description": "BJP has served Rahul Gandhi with a legal notice for saying that Narendra Modi has passed a law in which a provision has been added that allows shooting down of Tribals - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9ianAtc2VuZHMtcmFodWwtZ2FuZGhpLWEt\nbGVnYWwtbm90aWNlLW92ZXItaGlzLXJlbWFyay10aGF0LW1vZGktZ292dC1wYXNzZWQtbGF3LWFs\nbG93aW5nLXNob290aW5nLWRvd24tb2YtYWRpdmFzaXMv",
+      "short_url": "https://www.opindia.com/2019/05/bjp-sends-rahul-gandhi-a-legal-notice-over-his-remark-that-modi-govt-passed-law-allowing-shooting-down-of-adivasis/",
+      "engagement": "0",
+      "popularity": "2610480",
+      "tw_tweets": "727",
+      "tw_reach": "1593269",
+      "tw_favorites": "70",
+      "tw_retweets": "940969",
+      "tw_since_id": "1123659887475548160",
+      "fb_shares": "325",
+      "fb_comments": "153",
+      "fb_reactions": "961",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 13:45",
+      "timestamp_published": "1556711100",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "410972",
+      "date_published": "2019-05-02 08:24:13",
+      "date_added": "2019-05-02 04:57:16",
+      "date_modified": "2019-05-02 09:27:37",
+      "title": "'Will You Still Blame Congress?' Rahul Gandhi Hits Out at Modi Over 55 Deaths in 2 Months",
+      "source": "www.news18.com",
+      "description": "At least 15 security personnel and a driver were killed as Maoists triggered an IED blast on a truck carrying a team of C-60 commandos in Maharashtra’s Gadchiroli earlier on Wednesday.",
+      "tags": [
+        "congress",
+        "maoists",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3dpbGwteW91LXN0aWxsLWJsYW1l\nLWNvbmdyZXNzLXJhaHVsLWdhbmRoaS1oaXRzLW91dC1hdC1tb2RpLW92ZXItNTUtZGVhdGhzLWlu\nLTItbW9udGhzLTIxMjQ3MDMuaHRtbA==",
+      "short_url": "https://www.news18.com/news/politics/will-you-still-blame-congress-rahul-gandhi-hits-out-at-modi-over-55-deaths-in-2-months-2124703.html",
+      "engagement": "0",
+      "popularity": "669854",
+      "tw_tweets": "833",
+      "tw_reach": "405490",
+      "tw_favorites": "9",
+      "tw_retweets": "240989",
+      "tw_since_id": "1123874185997164544",
+      "fb_shares": "225",
+      "fb_comments": "333",
+      "fb_reactions": "921",
+      "popularity_updated": "6",
+      "sentiment": "-1",
+      "screen_name": "Meraindiamahaan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 08:24",
+      "timestamp_published": "1556778253",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "412282",
+      "date_published": "2019-05-03 22:29:41",
+      "date_added": "2019-05-03 19:02:29",
+      "date_modified": "2019-05-04 03:32:22",
+      "title": "On press freedom day, meet the 'fearless' journalist who interviewed Rahul Gandhi and said 'Rafale has entered people's blood' - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Now, as if the India Today interview fiasco wasn't bad enough, another pliant journalist has got the \"once in a lifetime\" opportunity to interview Rahul Gandhi. - Latest India News from Opindia.com",
+      "tags": [
+        "india",
+        "journalist",
+        "rafale",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9zdXByaXlhLWJoYXJkd2FqLXR2LWJoYXJh\ndHZhcnNoLWludGVydmlldy1yYWh1bC1nYW5kaGkv",
+      "short_url": "https://www.opindia.com/2019/05/supriya-bhardwaj-tv-bharatvarsh-interview-rahul-gandhi/",
+      "engagement": "0",
+      "popularity": "1639070",
+      "tw_tweets": "619",
+      "tw_reach": "414303",
+      "tw_favorites": "124",
+      "tw_retweets": "882625",
+      "tw_since_id": "1124599157610692609",
+      "fb_shares": "456",
+      "fb_comments": "149",
+      "fb_reactions": "1006",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "varun26x",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 22:29",
+      "timestamp_published": "1556915381",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "412573",
+      "date_published": "2019-05-04 10:35:31",
+      "date_added": "2019-05-04 07:07:36",
+      "date_modified": "2019-05-04 08:02:34",
+      "title": "Rahul Gandhi's former partner in British company Backops, got defence offset contracts during Congress regime, reveals report - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Reports now reveal that Rahul Gandhi's former partner in the British company Backops, who owned 35% shares, got defence offset contracts during the Congress regime.  - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "offset",
+        "rahul gandhi",
+        "reveal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9yYWh1bC1nYW5kaGktYnJpdGlzaC1jaXRp\nemVuc2hpcC1iYWNrb3BzLWZvcm1lci1wYXJ0bmVyLXVscmlrLW1ja25pZ2gtZGVmZW5jZS1vZmZz\nZXQtY29udHJhY3Qtc2NvcnBlbmUtY29uZ3Jlc3MtZ292ZXJubWVudC8=",
+      "short_url": "https://www.opindia.com/2019/05/rahul-gandhi-british-citizenship-backops-former-partner-ulrik-mcknigh-defence-offset-contract-scorpene-congress-government/",
+      "engagement": "0",
+      "popularity": "1942220",
+      "tw_tweets": "644",
+      "tw_reach": "918083",
+      "tw_favorites": "58",
+      "tw_retweets": "830457",
+      "tw_since_id": "1124744588399218688",
+      "fb_shares": "1108",
+      "fb_comments": "247",
+      "fb_reactions": "1850",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "honeyrahul02",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 10:35",
+      "timestamp_published": "1556958931",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "413758",
+      "date_published": "2019-05-05 22:20:11",
+      "date_added": "2019-05-05 18:52:32",
+      "date_modified": "2019-05-05 18:52:33",
+      "title": "My father taught that hate is a prison for those who carry it: Rahul Gandhi on Rajiv’s death anniversary | India News - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: NEW DELHI: Paying homage to his father, Rajiv Gandhi, on his 27th death anniversary, Congress president Rahul Gandhi on Monday said that the former Pr.",
+      "tags": [
+        "congress",
+        "delhi",
+        "hate",
+        "india india",
+        "rahul gandhi",
+        "rajiv gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaW5kaWEvbXktZmF0aGVyLXRhdWdo\ndC10aGF0LWhhdGUtaXMtYS1wcmlzb24td2hvLWNhcnJ5LWl0LXJhaHVsLWdhbmRoaS1vbi1yYWpp\ndnMtZGVhdGgtYW5uaXZlcnNhcnkvYXJ0aWNsZXNob3cvNjQyNTE2NTUuY21z",
+      "short_url": "https://timesofindia.indiatimes.com/india/my-father-taught-that-hate-is-a-prison-who-carry-it-rahul-gandhi-on-rajivs-death-anniversary/articleshow/64251655.cms",
+      "engagement": "0",
+      "popularity": "4556460",
+      "tw_tweets": "1297",
+      "tw_reach": "835432",
+      "tw_favorites": "1",
+      "tw_retweets": "2610839",
+      "tw_since_id": "1125309633030184960",
+      "fb_shares": "492",
+      "fb_comments": "490",
+      "fb_reactions": "4441",
+      "popularity_updated": "2",
+      "sentiment": "-1",
+      "screen_name": "yolandasousa",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 22:20",
+      "timestamp_published": "1557087611",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "413834",
+      "date_published": "2019-05-06 01:00:10",
+      "date_added": "2019-05-05 21:32:59",
+      "date_modified": "2019-05-08 04:37:41",
+      "title": "\"Baseless\": Amethi Hospital Rejects PM Modi Accusation Of Turning Away Patient",
+      "source": "www.ndtv.com",
+      "description": "Authorities of the Sanjay Gandhi Hospital in Amethi today denied allegations that they had turned away a man in need of medical attention just because he was a beneficiary of the central government's National Health Protection Scheme. The allegation was cited by both Union Minister Smriti Irani and Prime Minister Narendra Modi to target Congress president Rahul Gandhi, who they said was a trustee at the medical institution.",
+      "tags": [
+        "amethi",
+        "narendra modi",
+        "rahul gandhi",
+        "sanjay"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nYW1ldGhpLWhvc3BpdGFsLXJlamVjdHMtcG0tYWNjdXNhdGlvbi1vZi10dXJuaW5nLWF3YXktcGF0\naWVudC0yMDMzMjk5P2FtcD0x",
+      "short_url": "https://www.ndtv.com/india-news/lok-sabha-elections-2019-amethi-hospital-rejects-pm-accusation-of-turning-away-patient-2033299?amp=1",
+      "engagement": "0",
+      "popularity": "1369660",
+      "tw_tweets": "689",
+      "tw_reach": "1058923",
+      "tw_favorites": "0",
+      "tw_retweets": "376146",
+      "tw_since_id": "1125952367113818113",
+      "fb_shares": "915",
+      "fb_comments": "695",
+      "fb_reactions": "3007",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "AAbduldalvi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 01:00",
+      "timestamp_published": "1557097210",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "37"
+    },
+    {
+      "id": "415277",
+      "date_published": "2019-05-07 20:35:36",
+      "date_added": "2019-05-07 17:07:37",
+      "date_modified": "2019-05-20 12:13:50",
+      "title": "1984 anti-Sikh riots victims question Rahul Gandhi for calling Rajiv Gandhi a 'martyr' | India News",
+      "source": "www.timesnownews.com",
+      "description": "Several of the 1984 Anti-Sikh riots victims have written a letter to Congress president Rahul Gandhi for calling his father a \"martyr\" during an election rally in Delhi.",
+      "tags": [
+        "congress",
+        "delhi",
+        "india",
+        "rahul gandhi",
+        "rajiv gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9pbmRpYS9hcnRpY2xlLzE5ODQtYW50aS1zaWto\nLXJpb3RzLXZpY3RpbXMtcXVlc3Rpb24tcmFodWwtZ2FuZGhpLWZvci1jYWxsaW5nLXJhaml2LWdh\nbmRoaS1hLW1hcnR5ci80MTQ1NDc=",
+      "short_url": "https://t.co/pdmGDTlbFE",
+      "engagement": "0",
+      "popularity": "1136550",
+      "tw_tweets": "429",
+      "tw_reach": "506272",
+      "tw_favorites": "0",
+      "tw_retweets": "503259",
+      "tw_since_id": "1130414357177757699",
+      "fb_shares": "171",
+      "fb_comments": "103",
+      "fb_reactions": "396",
+      "popularity_updated": "341",
+      "sentiment": "0",
+      "screen_name": "ITrueIndian",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 20:35",
+      "timestamp_published": "1557254136",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "358"
+    },
+    {
+      "id": "415433",
+      "date_published": "2019-05-08 02:00:02",
+      "date_added": "2019-05-07 22:32:38",
+      "date_modified": "2019-05-08 10:17:14",
+      "title": "121 DU professors write letter extending their support to PM Modi over his remarks on Rajiv Gandhi",
+      "source": "www.opindia.com",
+      "description": "In the letter, the professors express their concern over the 'anti-historical' narrative Congress is trying to set that Rajiv Gandhi's tenure cannot be critically analysed - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi",
+        "rajiv gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS90d2lzdC1pbi10aGUtdGFsZS1ub3ctMTIx\nLWR1LXByb2Zlc3NvcnMtd3JpdGUtbGV0dGVyLWV4dGVuZGluZy10aGVpci1zdXBwb3J0LXRvLXBt\nLW1vZGktb3Zlci1oaXMtcmVtYXJrcy1vbi1yYWppdi1nYW5kaGkv",
+      "short_url": "https://www.opindia.com/2019/05/twist-in-the-tale-now-121-du-professors-write-letter-extending-their-support-to-pm-modi-over-his-remarks-on-rajiv-gandhi/",
+      "engagement": "0",
+      "popularity": "3552990",
+      "tw_tweets": "824",
+      "tw_reach": "496584",
+      "tw_favorites": "0",
+      "tw_retweets": "2110861",
+      "tw_since_id": "1126097195495608322",
+      "fb_shares": "994",
+      "fb_comments": "241",
+      "fb_reactions": "4708",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "greenfpoa",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 02:00",
+      "timestamp_published": "1557273602",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "416532",
+      "date_published": "2019-05-09 13:24:20",
+      "date_added": "2019-05-09 09:57:23",
+      "date_modified": "2019-05-10 06:02:20",
+      "title": "Supreme Court rubbishes plea questioning Rahul Gandhi’s citizenship",
+      "source": "www.nationalheraldindia.com",
+      "description": "A Supreme Court Bench led by Chief Justice of India Ranjan Gogoi on Thursday threw out a petition alleging that the Congress President Rahul Gandhi is a British citizen",
+      "tags": [
+        "congress",
+        "rahul gandhi",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmF0aW9uYWxoZXJhbGRpbmRpYS5jb20vaW5kaWEvc3VwcmVtZS1jb3VydC1y\ndWJiaXNoZXMtcGxlYS1xdWVzdGlvbmluZy1yYWh1bC1nYW5kaGlzLWNpdGl6ZW5zaGlw",
+      "short_url": "https://t.co/ECyJ8mihNn",
+      "engagement": "0",
+      "popularity": "2943130",
+      "tw_tweets": "1026",
+      "tw_reach": "1312021",
+      "tw_favorites": "6",
+      "tw_retweets": "1295348",
+      "tw_since_id": "1126716862589313024",
+      "fb_shares": "778",
+      "fb_comments": "393",
+      "fb_reactions": "5478",
+      "popularity_updated": "9",
+      "sentiment": "0",
+      "screen_name": "MAHENDRAGAUR",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 13:24",
+      "timestamp_published": "1557401060",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "417258",
+      "date_published": "2019-05-10 14:10:12",
+      "date_added": "2019-05-10 10:42:32",
+      "date_modified": "2019-05-10 10:52:22",
+      "title": "Sonia Gandhi's Italian family, whose names appeared in Bofors scam, were onboard INS Viraat",
+      "source": "www.opindia.com",
+      "description": "Prime Minister Narendra Modi stirred a Hornet's nest when recently, he mentioned Rajiv Gandhi's vacation onboard INS Viraat back in 1987 - Latest India News from Opindia.com",
+      "tags": [
+        "1987",
+        "india",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9leGNsdXNpdmUtdGhlLWJvZm9ycy1zY2Ft\nLWFuZ2xlLXRvLXJhaml2LWdhbmRoaXMtdmFjYXRpb24tb24tYm9hcmQtaW5zLXZpcmFhdC8=",
+      "short_url": "https://www.opindia.com/2019/05/exclusive-the-bofors-scam-angle-to-rajiv-gandhis-vacation-on-board-ins-viraat/",
+      "engagement": "0",
+      "popularity": "3916490",
+      "tw_tweets": "1140",
+      "tw_reach": "937222",
+      "tw_favorites": "1",
+      "tw_retweets": "2136892",
+      "tw_since_id": "1127004131866976256",
+      "fb_shares": "906",
+      "fb_comments": "297",
+      "fb_reactions": "1918",
+      "popularity_updated": "7",
+      "sentiment": "0",
+      "screen_name": "manojsirsa",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 14:10",
+      "timestamp_published": "1557490212",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "35"
+    },
+    {
+      "id": "417666",
+      "date_published": "2019-05-11 05:34:49",
+      "date_added": "2019-05-11 02:07:32",
+      "date_modified": "2019-05-11 02:07:32",
+      "title": "PM Modi drops bomb: ‘Give me 5 years, those who looted India will be in jail’",
+      "source": "www.mynation.com",
+      "description": "Without naming them, Narendra Modi promises to go after the scams of Sonia and Rahul Gandhi, Robert Vadra, the Chidambarams and others in election season’s biggest promise\n&nbsp;",
+      "tags": [
+        "miska humaloja",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3MvcG0tbW9kaS1kcm9wcy1ib21iLWdp\ndmUtbWUtNS15ZWFycy1zb25pYS1yYWh1bC1jaGlkYW1iYXJhbS13aG8tbG9vdGVkLWluZGlhLXdp\nbGwtYmUtaW4tamFpbC1wcmE0N28=",
+      "short_url": "https://www.mynation.com/india-news/pm-modi-drops-bomb-give-me-5-years-sonia-rahul-chidambaram-who-looted-india-will-be-in-jail-pra47o",
+      "engagement": "0",
+      "popularity": "2236690",
+      "tw_tweets": "776",
+      "tw_reach": "1282172",
+      "tw_favorites": "25",
+      "tw_retweets": "848998",
+      "tw_since_id": "1127235556579004416",
+      "fb_shares": "60",
+      "fb_comments": "37",
+      "fb_reactions": "240",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "ramadurai_arv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 05:34",
+      "timestamp_published": "1557545689",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "418658",
+      "date_published": "2019-05-12 19:25:39",
+      "date_added": "2019-05-12 15:57:03",
+      "date_modified": "2019-05-14 15:37:53",
+      "title": "Aatish Taseer’s Time essay is part of known agenda: Prop up Rahul, discredit Modi, undermine wisdom of Indian voter - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "Aatish Taseer’s main complaint is that Modi did not spare even the “unassailable” Jawaharlal Nehru, as if Nehru can do no wrong",
+      "tags": [
+        "aatish taseer",
+        "narendra modi",
+        "prince",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9pbmRpYS9hYXRpc2gtdGFzZWVycy10aW1lLWVzc2F5\nLWlzLXBhcnQtb2Yta25vd24tYWdlbmRhLXByb3AtdXAtcmFodWwtZGlzY3JlZGl0LW1vZGktdW5k\nZXJtaW5lLXdpc2RvbS1vZi1pbmRpYW4tdm90ZXItNjYxNzk5MS5odG1s",
+      "short_url": "https://www.firstpost.com/india/aatish-taseers-time-essay-is-part-of-known-agenda-prop-up-rahul-discredit-modi-undermine-wisdom-of-indian-voter-6617991.html",
+      "engagement": "0",
+      "popularity": "4070580",
+      "tw_tweets": "602",
+      "tw_reach": "5010253",
+      "tw_favorites": "90",
+      "tw_retweets": "206436",
+      "tw_since_id": "1128292822811942912",
+      "fb_shares": "211",
+      "fb_comments": "106",
+      "fb_reactions": "800",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "anjansengupta16",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 19:25",
+      "timestamp_published": "1557681939",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "418978",
+      "date_published": "2019-05-13 11:35:12",
+      "date_added": "2019-05-13 08:07:15",
+      "date_modified": "2019-05-15 09:22:45",
+      "title": "NDTV journalists asks Rahul Gandhi about his samosa and jalebi, old video goes viral",
+      "source": "www.opindia.com",
+      "description": "The journalist, NDTV's Umashankar Singh, first asks Rahul Gandhi about the samosa and gets a Samosa in his mouth in return. He then keeps following Gandhi through the crowd repeating the question, how did Rahul like his samosa. - Latest India News from Opindia.com",
+      "tags": [
+        "journalist",
+        "rahul gandhi",
+        "umashankar singh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9zYW1vc2Eta2Fpc2EtbGFnYS1uZHR2LWpv\ndXJuYWxpc3RzLXF1ZXN0aW9uLXRvLXJhaHVsLWdhbmRoaS1nb2VzLXZpcmFsLw==",
+      "short_url": "https://www.opindia.com/2019/05/samosa-kaisa-laga-ndtv-journalists-question-to-rahul-gandhi-goes-viral/",
+      "engagement": "0",
+      "popularity": "934164",
+      "tw_tweets": "249",
+      "tw_reach": "861370",
+      "tw_favorites": "52",
+      "tw_retweets": "191261",
+      "tw_since_id": "1128560343465189377",
+      "fb_shares": "92",
+      "fb_comments": "34",
+      "fb_reactions": "290",
+      "popularity_updated": "213",
+      "sentiment": "0",
+      "screen_name": "UnSubtleDesi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 11:35",
+      "timestamp_published": "1557740112",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "238"
+    },
+    {
+      "id": "419971",
+      "date_published": "2019-05-14 16:35:38",
+      "date_added": "2019-05-14 13:07:16",
+      "date_modified": "2019-05-28 09:07:30",
+      "title": "Will die but won't insult PM Modi's parents, says Rahul Gandhi",
+      "source": "www.abplive.in",
+      "description": "Congress president Rahul Gandhi on Tuesday alleged that Prime Minister Narendra Modi had hatred towards his family, but he does not harbour the same feelings for the PM.",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9yYWh1bC1nYW5kaGlzLWRpZy1hdC1wbS1t\nb2RpLWRvLWFsbC1haXJjcmFmdC1kaXNhcHBlYXItZnJvbS1yYWRhci13aGVuLWl0LXJhaW5zLTk4\nOTA5NQ==",
+      "short_url": "https://www.abplive.in/election/rahul-gandhis-dig-at-pm-modi-do-all-aircraft-disappear-from-radar-when-it-rains-989095",
+      "engagement": "0",
+      "popularity": "1242650",
+      "tw_tweets": "795",
+      "tw_reach": "743355",
+      "tw_favorites": "3",
+      "tw_retweets": "454790",
+      "tw_since_id": "1133267692536778753",
+      "fb_shares": "62",
+      "fb_comments": "197",
+      "fb_reactions": "676",
+      "popularity_updated": "734",
+      "sentiment": "0",
+      "screen_name": "greatairi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-05-2019 16:35",
+      "timestamp_published": "1557844538",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "758"
+    },
+    {
+      "id": "420420",
+      "date_published": "2019-05-15 10:30:42",
+      "date_added": "2019-05-15 07:02:11",
+      "date_modified": "2019-05-17 11:57:12",
+      "title": "Rahul Gandhi says he will consult IAF before cancelling the Rafale deal if he comes to power, but IAF has already spoken - Opindia News",
+      "source": "www.opindia.com",
+      "description": "The Congress President, in his recent interview with News Nation, again displayed his ignorance in the Rafale deal - Latest India News from Opindia.com",
+      "tags": [
+        "congress",
+        "india",
+        "rafale deal",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS93aWxsLWhhdmUtdG8tY29uc3VsdC13aXRo\nLWlhZi10by1zY3JhcC10aGUtcmFmYWxlLWRlYWwtc2F5cy1yYWh1bC1nYW5kaGktYnV0LWlhZi1h\nbHJlYWR5LWdhdmUtY2xlYXJhbmNlLXRvLWl0Lw==",
+      "short_url": "http://bit.ly/2YsnQqQ",
+      "engagement": "0",
+      "popularity": "294127",
+      "tw_tweets": "58",
+      "tw_reach": "371275",
+      "tw_favorites": "0",
+      "tw_retweets": "8408",
+      "tw_since_id": "1129324332717563904",
+      "fb_shares": "224",
+      "fb_comments": "356",
+      "fb_reactions": "714",
+      "popularity_updated": "52",
+      "sentiment": "0",
+      "screen_name": "Let_us_express",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-05-2019 10:30",
+      "timestamp_published": "1557909042",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "72"
+    },
+    {
+      "id": "421488",
+      "date_published": "2019-05-16 20:50:10",
+      "date_added": "2019-05-16 17:23:28",
+      "date_modified": "2019-05-20 00:12:07",
+      "title": "Rahul Gandhi Lies - www.rahulgandhilies.com - capturing lies by RaGa",
+      "source": "www.opindia.com",
+      "description": "A comprehensive collection of all lies and misinformation spread by Congress President Rahul Gandhi",
+      "tags": [
+        "congress",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vcmFodWwtZ2FuZGhpLWxpZXMv",
+      "short_url": "http://rahulgandhilies.com",
+      "engagement": "0",
+      "popularity": "3271840",
+      "tw_tweets": "778",
+      "tw_reach": "1576665",
+      "tw_favorites": "45",
+      "tw_retweets": "1385889",
+      "tw_since_id": "1130229686376833024",
+      "fb_shares": "1104",
+      "fb_comments": "210",
+      "fb_reactions": "2966",
+      "popularity_updated": "96",
+      "sentiment": "0",
+      "screen_name": "neha_aks",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 20:50",
+      "timestamp_published": "1558032610",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "114"
+    },
+    {
+      "id": "421811",
+      "date_published": "2019-05-17 11:00:19",
+      "date_added": "2019-05-17 07:32:28",
+      "date_modified": "2019-05-17 17:17:24",
+      "title": "Exclusive Interview | After Rajiv, Modi was first PM to get a blank cheque... he blew it: Rahul Gandhi",
+      "source": "www.newindianexpress.com",
+      "description": "In an exclusive interview to TNIE, the Congress chief says the entire Opposition shares the objective of seeing Modi defeated, and if the voters so decide, he will approach his task with humility.",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAxOS9tYXkvMTYvZXhjbHVz\naXZlLWludGVydmlldy0tYWZ0ZXItcmFqaXYtbW9kaS13YXMtZmlyc3QtcG0tdG8tZ2V0LWEtYmxh\nbmstY2hlcXVlLWhlLWJsZXctaXQtcmFodWwtZ2FuZGhpLTE5Nzc1MDguaHRtbA==",
+      "short_url": "http://www.newindianexpress.com/nation/2019/may/16/exclusive-interview--after-rajiv-modi-was-first-pm-to-get-a-blank-cheque-he-blew-it-rahul-gandhi-1977508.html",
+      "engagement": "0",
+      "popularity": "11802400",
+      "tw_tweets": "1625",
+      "tw_reach": "2909781",
+      "tw_favorites": "20",
+      "tw_retweets": "6411143",
+      "tw_since_id": "1129612731001200642",
+      "fb_shares": "109",
+      "fb_comments": "64",
+      "fb_reactions": "562",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "hasanbaita",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 11:00",
+      "timestamp_published": "1558083619",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "37"
+    },
+    {
+      "id": "422654",
+      "date_published": "2019-05-18 17:33:47",
+      "date_added": "2019-05-18 14:07:09",
+      "date_modified": "2019-05-18 16:41:12",
+      "title": "Don’t Be Fooled by the Apologies, They Love Godse and Hate Gandhi",
+      "source": "thewire.in",
+      "description": "While Gandhi-bashing ought not to surprise us anymore, praising his assassin takes matters to a different dimension.",
+      "tags": [
+        "hate",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL2RvbnQtYmUtZm9vbGVkLWJ5LXRoZS1hcG9sb2dp\nZXMtdGhleS1sb3ZlLWdvZHNlLWFuZC1oYXRlLWdhbmRoaQ==",
+      "short_url": "https://thewire.in/politics/dont-be-fooled-by-the-apologies-they-love-godse-and-hate-gandhi",
+      "engagement": "0",
+      "popularity": "5021590",
+      "tw_tweets": "735",
+      "tw_reach": "6066107",
+      "tw_favorites": "526",
+      "tw_retweets": "300503",
+      "tw_since_id": "1130042254351933441",
+      "fb_shares": "1838",
+      "fb_comments": "767",
+      "fb_reactions": "6196",
+      "popularity_updated": "70",
+      "sentiment": "-1",
+      "screen_name": "KedarSirohi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 17:33",
+      "timestamp_published": "1558193627",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "173",
+          "query": "\"Swaraj Abhiyan\" OR \"Yogendra Yadav\" OR _YogendraYadav OR _SwarajIndia OR \"Swaraj India\" OR \"Prashant Bhushan\" OR pbhushan1"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "89"
+    },
+    {
+      "id": "423188",
+      "date_published": "2019-05-19 13:55:17",
+      "date_added": "2019-05-19 10:27:34",
+      "date_modified": "2019-05-20 14:07:16",
+      "title": "Deconstructing Rahul Gandhi: Beyond the Pappu image - Janta Ka Reporter 2.0",
+      "source": "www.jantakareporter.com",
+      "description": "Rifat Jawaid travelled with Congress President Rahul Gandhi in one of his campaign flights recently. Here's how he decontructs the the face behind pappu",
+      "tags": [
+        "campaign",
+        "congress",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5qYW50YWthcmVwb3J0ZXIuY29tL2luZGlhL2RlY29uc3RydWN0aW5nLXJhaHVs\nLWdhbmRoaS1iZXlvbmQtdGhlLXBhcHB1LWltYWdlLzI0NzgwMS8=",
+      "short_url": "http://www.jantakareporter.com/india/deconstructing-rahul-gandhi-beyond-the-pappu-image/247801/",
+      "engagement": "0",
+      "popularity": "1378250",
+      "tw_tweets": "388",
+      "tw_reach": "1646293",
+      "tw_favorites": "300",
+      "tw_retweets": "94477",
+      "tw_since_id": "1130443416679018497",
+      "fb_shares": "87",
+      "fb_comments": "22",
+      "fb_reactions": "391",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "JantaKaReporter",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 13:55",
+      "timestamp_published": "1558266917",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "45"
+    },
+    {
+      "id": "424361",
+      "date_published": "2019-05-20 18:29:56",
+      "date_added": "2019-05-20 15:02:34",
+      "date_modified": "2019-05-20 15:02:34",
+      "title": "Narendra Modi’s 2019 Lok Sabha campaign: The art of management, grit and a lesson from the Bhagvad Gita - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "When to introduce which electoral measure, when to shore up the rhetoric, when to attack the Gandhi dynasty even if inviting the chagrin of some for attacking the dead, when to announce some candidates for certain seats; the planning of Amit Shah, the BJP president, and Modi was nothing short of immaculate.",
+      "tags": [
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9wb2xpdGljcy9uYXJlbmRyYS1tb2Rpcy0yMDE5LWxv\nay1zYWJoYS1jYW1wYWlnbi10aGUtYXJ0LW9mLW1hbmFnZW1lbnQtZ3JpdC1hbmQtYS1sZXNzb24t\nZnJvbS10aGUtYmhhZ3ZhZC1naXRhLTY2NjQ3NTEuaHRtbA==",
+      "short_url": "https://www.firstpost.com/politics/narendra-modis-2019-lok-sabha-campaign-the-art-of-management-grit-and-a-lesson-from-the-bhagvad-gita-6664751.html",
+      "engagement": "0",
+      "popularity": "2055800",
+      "tw_tweets": "324",
+      "tw_reach": "2601060",
+      "tw_favorites": "38",
+      "tw_retweets": "69055",
+      "tw_since_id": "1130587065404407808",
+      "fb_shares": "128",
+      "fb_comments": "27",
+      "fb_reactions": "314",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "DevLadpura",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 18:29",
+      "timestamp_published": "1558369796",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "15"
+    },
+    {
+      "id": "424922",
+      "date_published": "2019-05-21 13:49:47",
+      "date_added": "2019-05-21 10:22:50",
+      "date_modified": "2019-05-23 00:17:02",
+      "title": "Results fine but EVM issues remain: Rahul Gandhi on assembly election 2018 outcomes",
+      "source": "zeenews.india.com",
+      "description": "Congress has previously blamed EVMs for electoral losses but barring in Telangana this time, such complaints were missing on Tuesday. ",
+      "tags": [
+        "congress",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9hc3NlbWJseS1lbGVjdGlvbnMvcmVzdWx0cy1maW5l\nLWJ1dC1ldm0taXNzdWVzLXJlbWFpbi1yYWh1bC1nYW5kaGktb24tYXNzZW1ibHktZWxlY3Rpb24t\nMjAxOC1vdXRjb21lcy0yMTYyNzY2Lmh0bWw=",
+      "short_url": "https://zeenews.india.com/assembly-elections/results-fine-but-evm-issues-remain-rahul-gandhi-on-assembly-election-2018-outcomes-2162766.html",
+      "engagement": "0",
+      "popularity": "1282390",
+      "tw_tweets": "372",
+      "tw_reach": "1317083",
+      "tw_favorites": "4",
+      "tw_retweets": "196135",
+      "tw_since_id": "1131315473679699970",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "50",
+      "sentiment": "0",
+      "screen_name": "Work_ant",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 13:49",
+      "timestamp_published": "1558439387",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "75"
+    },
+    {
+      "id": "425644",
+      "date_published": "2019-05-22 16:05:00",
+      "date_added": "2019-05-22 12:37:33",
+      "date_modified": "2019-05-22 12:42:12",
+      "title": "Don't be disheartened by 'fake' exit polls: Rahul Gandhi tells party workers",
+      "source": "www.livemint.com",
+      "description": "Gandhi asked the workers to believe in themselves and the Congress.Most exit polls have predicted a majority for the BJP-led NDA, leaving the UPA far behind",
+      "tags": [
+        "bjp",
+        "congress",
+        "nda",
+        "rahul gandhi",
+        "upa"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL2VsZWN0aW9ucy9sb2stc2FiaGEtZWxlY3Rpb25zL2Rv\nbi10LWJlLWRpc2hlYXJ0ZW5lZC1ieS1mYWtlLWV4aXQtcG9sbHMtcmFodWwtZ2FuZGhpLXRlbGxz\nLXBhcnR5LXdvcmtlcnMtMTU1ODUxNDQ1MjE3MC5odG1s",
+      "short_url": "http://bit.ly/2JU36UU",
+      "engagement": "0",
+      "popularity": "4075130",
+      "tw_tweets": "5",
+      "tw_reach": "5433342",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1131147217010601985",
+      "fb_shares": "1",
+      "fb_comments": "4",
+      "fb_reactions": "49",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "livemint",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-05-2019 16:05",
+      "timestamp_published": "1558533900",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "426866",
+      "date_published": "2019-05-23 17:45:26",
+      "date_added": "2019-05-23 14:19:07",
+      "date_modified": "2019-05-24 13:18:03",
+      "title": "Modi Shining, Rahul a loser.. it's not 2004, but 2014 again - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Prime Minister Modi is set to win and is set to win big. According to trends so far, BJP is set to clock a larger victory than in 2014. - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "india",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tb2RpLXNoaW5pbmctcmFodWwtYS1sb3Nl\nci1pdHMtbm90LTIwMDQtYnV0LTIwMTQtYWdhaW4v",
+      "short_url": "https://www.opindia.com/2019/05/modi-shining-rahul-a-loser-its-not-2004-but-2014-again/",
+      "engagement": "0",
+      "popularity": "22248.5",
+      "tw_tweets": "21",
+      "tw_reach": "24401",
+      "tw_favorites": "0",
+      "tw_retweets": "2365",
+      "tw_since_id": "1131881407607820288",
+      "fb_shares": "16",
+      "fb_comments": "5",
+      "fb_reactions": "147",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "thevikastiwari",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 17:45",
+      "timestamp_published": "1558626326",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "427706",
+      "date_published": "2019-05-24 09:34:48",
+      "date_added": "2019-05-24 06:07:38",
+      "date_modified": "2019-05-26 13:21:46",
+      "title": "Rahul Gandhi likely to resign from the post of Congress President at CWC meeting",
+      "source": "www.abplive.in",
+      "description": "Soon after the results of the polls were out, Gandhi addressed a press conference where he accepted his defeat and congratulated Prime Minister Narendra Modi and his party for their victory.",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9yYWh1bC1nYW5kaGktbGlrZWx5LXRvLXJl\nc2lnbi1mcm9tLXRoZS1wb3N0LW9mLWNvbmdyZXNzLXByZXNpZGVudC1hdC1jd2MtbWVldGluZy05\nOTc4MTQ=",
+      "short_url": "https://www.abplive.in/election/rahul-gandhi-likely-to-resign-from-the-post-of-congress-president-at-cwc-meeting-997814",
+      "engagement": "0",
+      "popularity": "31491500",
+      "tw_tweets": "289",
+      "tw_reach": "41928898",
+      "tw_favorites": "55",
+      "tw_retweets": "29104",
+      "tw_since_id": "1132603847300399105",
+      "fb_shares": "18",
+      "fb_comments": "57",
+      "fb_reactions": "294",
+      "popularity_updated": "285",
+      "sentiment": "0",
+      "screen_name": "abpnewstv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 09:34",
+      "timestamp_published": "1558683288",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "298"
+    },
+    {
+      "id": "428499",
+      "date_published": "2019-05-25 01:26:56",
+      "date_added": "2019-05-24 22:02:11",
+      "date_modified": "2019-05-25 20:32:21",
+      "title": "Why 2024 elections will be much tougher than 2019 for Rahul Gandhi and Opposition",
+      "source": "www.mynation.com",
+      "description": "These 6 crucial factors will make it even more daunting for the Opposition to take on Modi in the next general elections\n&nbsp;",
+      "tags": [
+        "narendra modi",
+        "opposition",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL3ZpZXdzL3doeS0yMDI0LWVsZWN0aW9ucy13aWxsLWJl\nLW11Y2gtdG91Z2hlci10aGFuLTIwMTktZm9yLXJhaHVsLWdhbmRoaS1hbmQtb3Bwb3NpdGlvbi1w\nczBpdjc=",
+      "short_url": "https://www.mynation.com/views/why-2024-elections-will-be-much-tougher-than-2019-for-rahul-gandhi-and-opposition-ps0iv7",
+      "engagement": "0",
+      "popularity": "1189790",
+      "tw_tweets": "294",
+      "tw_reach": "1296960",
+      "tw_favorites": "0",
+      "tw_retweets": "144340",
+      "tw_since_id": "1132367347962920961",
+      "fb_shares": "34",
+      "fb_comments": "4",
+      "fb_reactions": "81",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "Aryanwarlord",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 01:26",
+      "timestamp_published": "1558740416",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "429634",
+      "date_published": "2019-05-26 08:24:03",
+      "date_added": "2019-05-26 04:57:14",
+      "date_modified": "2019-05-26 04:57:14",
+      "title": "Rahul Gandhi promises loan waiver in 10 days of government",
+      "source": "economictimes.indiatimes.com",
+      "description": "Launching a scathing attack on PM Narendra Modi, Rahul Gandhi said that the PM is working in the interest of few industrialists and has waived Rs 3.5 lakh crore of 15 industrialists.",
+      "tags": [
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZWxlY3Rpb25zL3JhamFz\ndGhhbi1hc3NlbWJseS1lbGVjdGlvbnMvcmFodWwtZ2FuZGhpLXByb21pc2VzLWxvYW4td2FpdmVy\nLWluLTEwLWRheXMtb2YtZ292ZXJubWVudC9hcnRpY2xlc2hvdy82NjgxOTg2OC5jbXM/dXRtX3Nv\ndXJjZT10d2l0dGVyX2FtcCZ1dG1fbWVkaXVtPXNvY2lhbCZ1dG1fY2FtcGFpZ249c29jaWFsc2hh\ncmVidXR0b25zJmZyb209bWRy",
+      "short_url": "https://m.economictimes.com/news/elections/rajasthan-assembly-elections/rahul-gandhi-promises-loan-waiver-in-10-days-of-government/articleshow/66819868.cms?utm_source=twitter_amp&utm_medium=social&utm_campaign=socialsharebuttons",
+      "engagement": "0",
+      "popularity": "2021.25",
+      "tw_tweets": "3",
+      "tw_reach": "1167",
+      "tw_favorites": "0",
+      "tw_retweets": "762",
+      "tw_since_id": "1132479984755388418",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "GanpatDaukiya",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 08:24",
+      "timestamp_published": "1558851843",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "430536",
+      "date_published": "2019-05-27 11:55:01",
+      "date_added": "2019-05-27 08:27:14",
+      "date_modified": "2019-05-29 09:57:31",
+      "title": "Get up and smell the coffee",
+      "source": "www.dnaindia.com",
+      "description": "Get up and smell the coffee - Rahul must lead the Congress, but his office needs to be dismantled and a new team put in place",
+      "tags": [
+        "congress",
+        "place",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZG5haW5kaWEuY29tL2FuYWx5c2lzL2NvbHVtbi1nZXQtdXAtYW5kLXNtZWxs\nLXRoZS1jb2ZmZWUtMjc1Mzk2OQ==",
+      "short_url": "http://dnai.in/g8Ff",
+      "engagement": "0",
+      "popularity": "16081600",
+      "tw_tweets": "390",
+      "tw_reach": "21330620",
+      "tw_favorites": "508",
+      "tw_retweets": "54879",
+      "tw_since_id": "1133641491996336128",
+      "fb_shares": "29",
+      "fb_comments": "42",
+      "fb_reactions": "95",
+      "popularity_updated": "40",
+      "sentiment": "0",
+      "screen_name": "ariftasnim",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 11:55",
+      "timestamp_published": "1558950901",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "55"
+    },
+    {
+      "id": "431856",
+      "date_published": "2019-05-28 17:42:19",
+      "date_added": "2019-05-28 14:17:09",
+      "date_modified": "2019-05-30 11:12:06",
+      "title": "Rahul Gandhi Best Person to Lead Party, Too Premature to Write Cong's Obituary: Shashi Tharoor",
+      "source": "www.news18.com",
+      "description": "Shashi Tharoor said the Congress has no time to sit and lick its wounds as it must immediately pick itself up for the upcoming state elections.",
+      "tags": [
+        "congress",
+        "rahul gandhi",
+        "shashi tharoor"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL3JhaHVsLWdhbmRoaS1iZXN0LXBl\ncnNvbi10by1sZWFkLXBhcnR5LXRvby1wcmVtYXR1cmUtdG8td3JpdGUtY29uZ3Mtb2JpdHVhcnkt\nc2hhc2hpLXRoYXJvb3ItMjE2MjQ5OS5odG1s",
+      "short_url": "https://www.news18.com/news/politics/rahul-gandhi-best-person-to-lead-party-too-premature-to-write-congs-obituary-shashi-tharoor-2162499.html",
+      "engagement": "0",
+      "popularity": "571778",
+      "tw_tweets": "402",
+      "tw_reach": "391855",
+      "tw_favorites": "5",
+      "tw_retweets": "178027",
+      "tw_since_id": "1134023193893584896",
+      "fb_shares": "265",
+      "fb_comments": "483",
+      "fb_reactions": "3838",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "manjunathansui",
+      "status": "1",
+      "clicks": "2",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 17:42",
+      "timestamp_published": "1559058139",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "32"
+    },
+    {
+      "id": "432884",
+      "date_published": "2019-05-29 15:35:15",
+      "date_added": "2019-05-29 12:07:55",
+      "date_modified": "2019-05-29 12:07:56",
+      "title": "Now, Congress Chief Ministers likely to skip PM Modi's swearing-in ceremony if Rahul Gandhi doesn't attend: Sources - Republic World",
+      "source": "www.republicworld.com",
+      "description": "Republic Media Network has learnt that the presence of Congress chief ministers in the swearing-in-ceremony of Prime Minister Narendra Modi will be contingent to party president Rahul Gandhi's attendance. ",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLW5ld3Mvbm93\nLWNvbmdyZXNzLWNoaWVmLW1pbmlzdGVycy1saWtlbHktdG8tc2tpcC1wbS1tb2Rpcy1zd2Vhcmlu\nZy1pbi1jZXJlbW9ueS1pZi1yYWh1bC1nYW5kaGktZG9lc250LWF0dGVuZC1zb3VyY2Vz",
+      "short_url": "https://www.republicworld.com/india-news/general-news/now-congress-chief-ministers-likely-to-skip-pm-modis-swearing-in-ceremony-if-rahul-gandhi-doesnt-attend-sources",
+      "engagement": "0",
+      "popularity": "2393830",
+      "tw_tweets": "102",
+      "tw_reach": "3167777",
+      "tw_favorites": "25",
+      "tw_retweets": "7360",
+      "tw_since_id": "1133694551237902336",
+      "fb_shares": "154",
+      "fb_comments": "744",
+      "fb_reactions": "2056",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "republic",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 15:35",
+      "timestamp_published": "1559136915",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "16"
+    },
+    {
+      "id": "433629",
+      "date_published": "2019-05-30 09:25:42",
+      "date_added": "2019-05-30 05:58:19",
+      "date_modified": "2019-05-31 09:38:10",
+      "title": "Shah Rukh Khan, Rahul Dravid, Bill Gates and counting: Star studded guest list for PM Modi's swearing-in | India News",
+      "source": "www.timesnownews.com",
+      "description": "Superstar Shah Rukh Khan, shuttler Saina Nehwal, billionaire Bill Gates and IMF managing director Christine Lagarde have been invited for PM Narendra Modi's swearing-in ceremony on Thursday, May 30.",
+      "tags": [
+        "amit shah",
+        "bill gates",
+        "christine lagarde",
+        "india",
+        "narendra modi",
+        "rahul gandhi",
+        "saina nehwal",
+        "shahid afridi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9pbmRpYS9hcnRpY2xlL3NoYWgtcnVraC1raGFu\nLXJhaHVsLWRyYXZpZC1iaWxsLWdhdGVzLWNvdW50aW5nLXN0YXItc3R1ZGRlZC1ndWVzdC1saXN0\nLWZvci1wbS1tb2Rpcy1zd2VhcmluZy1pbi80Mjc3Nzg=",
+      "short_url": "https://www.timesnownews.com/india/article/shah-rukh-khan-rahul-dravid-bill-gates-counting-star-studded-guest-list-for-pm-modis-swearing-in/427778",
+      "engagement": "0",
+      "popularity": "886941",
+      "tw_tweets": "202",
+      "tw_reach": "1119707",
+      "tw_favorites": "127",
+      "tw_retweets": "27968",
+      "tw_since_id": "1134362791551258624",
+      "fb_shares": "107",
+      "fb_comments": "115",
+      "fb_reactions": "1934",
+      "popularity_updated": "32",
+      "sentiment": "0",
+      "screen_name": "sheeba_desai",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 09:25",
+      "timestamp_published": "1559201142",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "47"
+    },
+    {
+      "id": "434982",
+      "date_published": "2019-05-31 18:45:13",
+      "date_added": "2019-05-31 15:17:41",
+      "date_modified": "2019-05-31 21:06:33",
+      "title": "DMK equates Rahul Gandhi to Jawaharlal Nehru, says victory is possible",
+      "source": "www.indiatoday.in",
+      "description": "The DMK, seeking to lift Rahul Gandhi's spirit, said that only a broad-minded person like him is all that the Congress needs.",
+      "tags": [
+        "broad",
+        "congress",
+        "jawaharlal nehru",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9zdG9yeS9kbWstZXF1YXRlcy1yYWh1bC1n\nYW5kaGktdG8tamF3YWhhcmxhbC1uZWhydS1zYXlzLXZpY3RvcnktaXMtcG9zc2libGUtMTUzOTUz\nMC0yMDE5LTA1LTMx",
+      "short_url": "https://www.indiatoday.in/india/story/dmk-equates-rahul-gandhi-to-jawaharlal-nehru-says-victory-is-possible-1539530-2019-05-31",
+      "engagement": "0",
+      "popularity": "11720900",
+      "tw_tweets": "45",
+      "tw_reach": "15620210",
+      "tw_favorites": "12",
+      "tw_retweets": "444",
+      "tw_since_id": "1134728031707123712",
+      "fb_shares": "94",
+      "fb_comments": "275",
+      "fb_reactions": "1817",
+      "popularity_updated": "24",
+      "sentiment": "0",
+      "screen_name": "IndiaToday",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 18:45",
+      "timestamp_published": "1559321113",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "42"
+    }
+  ],
+  "message": "OK"
+}

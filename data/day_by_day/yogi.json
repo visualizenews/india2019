@@ -1,0 +1,3654 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=417751,401757,386875,394292,385870,426781,403273,390191,421838,416523,383356,432513,407026,397508,387742,402328,383934,406912,434095,415440,427206,405011,415186,419458,422429,394753,395900,423978,409286,392793,384857,389847,411202,424683,431893,408263,428461,391399,399378,405770,410202,413330,414436,418747,421043,417154,392430,399703,388677,377058,382617,397950,411991,435084,400947,430197,385891,419681,403608,423014,408798,420794,429775,376525,376689,379162,412659",
+    "time": 1560434459,
+    "UTCDateTime": "2019-06-13T14:00:59+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "376525",
+      "date_published": "2019-03-24 12:00:31",
+      "date_added": "2019-03-24 07:31:34",
+      "date_modified": "2019-03-24 07:31:34",
+      "title": "No communal riots, corruption-free governance: CM Yogi Adityanath lists achievements on completing two years | India News",
+      "source": "www.timesnownews.com",
+      "description": "Yogi Adityanath stressed that the BJP government has ensured corruption-free governance with law and order in control, as compared to the SP and BSP governments in the past where there was absolute anarchy.",
+      "tags": [
+        "bjp",
+        "india",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9pbmRpYS9hcnRpY2xlL3lvZ2ktYWRpdHlhbmF0\naC11dHRhci1wcmFkZXNoLWNoaWVmLW1pbmlzdGVyLWJqcC1nb3Zlcm5tZW50LXR3by15ZWFycy1j\nb21tdW5hbC1yaW90cy1jb3JydXB0aW9uLWZhcm1lcnMtZGFsaXRzLWJzcC1zcC1sYXctYW5kLW9y\nZGVyLzM4NTIxOQ==",
+      "short_url": "https://www.timesnownews.com/india/article/yogi-adityanath-uttar-pradesh-chief-minister-bjp-government-two-years-communal-riots-corruption-farmers-dalits-bsp-sp-law-and-order/385219",
+      "engagement": "0",
+      "popularity": "100593000",
+      "tw_tweets": "804",
+      "tw_reach": "134073508",
+      "tw_favorites": "1806",
+      "tw_retweets": "22016",
+      "tw_since_id": "1107958041356496896",
+      "fb_shares": "96",
+      "fb_comments": "154",
+      "fb_reactions": "871",
+      "popularity_updated": "0",
+      "sentiment": "0",
+      "screen_name": "azhershareef33",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-03-2019 12:00",
+      "timestamp_published": "1553425231",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "48"
+    },
+    {
+      "id": "376689",
+      "date_published": "2019-03-25 11:50:29",
+      "date_added": "2019-03-25 07:21:26",
+      "date_modified": "2019-03-25 07:21:26",
+      "title": "Congress fed Biryani to terrorists, Modi government fed them bullets and bombs: Yogi Adityanath",
+      "source": "www.opindia.com",
+      "description": "Yogi called Congress member Sam Pitroda a shame for asking for the proof of the number of terrorists killed in the Balakot air strike.",
+      "tags": [
+        "balakot",
+        "congress",
+        "narendra modi",
+        "sam pitroda",
+        "terrorism",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wMy9jb25ncmVzcy1mZWQtYmlyeWFuaS10by10\nZXJyb3Jpc3RzLW1vZGktZ292ZXJubWVudC1mZWQtdGhlbS1idWxsZXRzLWFuZC1ib21icy15b2dp\nLWFkaXR5YW5hdGgv",
+      "short_url": "https://www.opindia.com/2019/03/congress-fed-biryani-to-terrorists-modi-government-fed-them-bullets-and-bombs-yogi-adityanath/",
+      "engagement": "0",
+      "popularity": "3316460",
+      "tw_tweets": "1799",
+      "tw_reach": "3897310",
+      "tw_favorites": "2662",
+      "tw_retweets": "258432",
+      "tw_since_id": "1110057343801151488",
+      "fb_shares": "95",
+      "fb_comments": "24",
+      "fb_reactions": "485",
+      "popularity_updated": "0",
+      "sentiment": "-1",
+      "screen_name": "bcpbhandari",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-03-2019 11:50",
+      "timestamp_published": "1553511029",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "377058",
+      "date_published": "2019-03-26 07:45:18",
+      "date_added": "2019-03-26 03:17:27",
+      "date_modified": "2019-03-26 03:21:54",
+      "title": "Reality Check: BJP's Mathura Challenge",
+      "source": "www.ndtv.com",
+      "description": "Even as UP Chief Minister Yogi Adityanath and Mathura MP Hema Malini shared stage to launch her campaign for 2019, opinion is divided over whether Hema Malini has delivered the goods. Can BJP's star power tackle gathbandhan's alliance power? Reality Check finds out.",
+      "tags": [
+        "bjp",
+        "campaign",
+        "homer",
+        "lamar odom",
+        "malini",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vdmlkZW8vc2hvd3MvcmVhbGl0eS1jaGVjay9yZWFsaXR5LWNo\nZWNrLWJqcC1zLW1hdGh1cmEtY2hhbGxlbmdlLTUxMDIwNg==",
+      "short_url": "https://www.ndtv.com/video/shows/reality-check/reality-check-bjp-s-mathura-challenge-510206",
+      "engagement": "0",
+      "popularity": "8629680",
+      "tw_tweets": "2380",
+      "tw_reach": "4730027",
+      "tw_favorites": "11",
+      "tw_retweets": "3386449",
+      "tw_since_id": "1110549228487475201",
+      "fb_shares": "28",
+      "fb_comments": "2",
+      "fb_reactions": "12",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "imanusttsunami",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-03-2019 07:45",
+      "timestamp_published": "1553582718",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "35"
+    },
+    {
+      "id": "379162",
+      "date_published": "2019-03-27 08:30:01",
+      "date_added": "2019-03-27 04:02:24",
+      "date_modified": "2019-03-27 04:02:24",
+      "title": "Yogi Adityanath slams UPA over dealing with terrorism, questions Rahul Gandhi's relation with Ishrat Jahan",
+      "source": "www.indiatvnews.com",
+      "description": "He also attacked the brother-sister duo and said Rahul and Priyanka Gandhi visit temples only around elections. ",
+      "tags": [
+        "bikram singh majithia",
+        "priyanka gandhi",
+        "rahul gandhi",
+        "terrorism",
+        "upa",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL25ld3MvaW5kaWEteW9naS1hZGl0eWFuYXRoLXNs\nYW1zLXVwYS1vdmVyLWRlYWxpbmctd2l0aC10ZXJyb3Jpc20tcXVlc3Rpb25zLXJhaHVsLWdhbmRo\naXMtcmVsYXRpb24td2l0aC1pc2hyYXQtamFoYW4tNTExMDE2",
+      "short_url": "https://www.indiatvnews.com/news/india-yogi-adityanath-slams-upa-over-dealing-with-terrorism-questions-rahul-gandhis-relation-with-ishrat-jahan-511016",
+      "engagement": "0",
+      "popularity": "1580280",
+      "tw_tweets": "50",
+      "tw_reach": "2105862",
+      "tw_favorites": "9",
+      "tw_retweets": "547",
+      "tw_since_id": "1110875013710671878",
+      "fb_shares": "2",
+      "fb_comments": "0",
+      "fb_reactions": "1",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "indiatvnews",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-03-2019 08:30",
+      "timestamp_published": "1553671801",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "382617",
+      "date_published": "2019-03-28 23:33:38",
+      "date_added": "2019-03-28 23:26:37",
+      "date_modified": "2019-04-29 18:42:02",
+      "title": "Unpopularity Of Modi, CMs, MPs Could Cost NDA 85 Seats in 3 States",
+      "source": "www.thequint.com",
+      "description": "Low popularity of PM Modi, CMs Yogi Adityanath, Palaniswami & Fadnavis can cost NDA 90 seats, shows C-Voter survey",
+      "tags": [
+        "fadnavis",
+        "narendra modi",
+        "nda",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGhlcXVpbnQuY29tL2VsZWN0aW9ucy9wbS1uYXJlbmRyYS1tb2RpLXlvZ2kt\nYWRpdHlhbmF0aC1haWFkbWstY291bGQtY29zdC1uZGEtOTAtc2VhdHM=",
+      "short_url": "https://www.thequint.com/elections/pm-narendra-modi-yogi-adityanath-aiadmk-could-cost-nda-90-seats",
+      "engagement": "0",
+      "popularity": "458719",
+      "tw_tweets": "657",
+      "tw_reach": "587340",
+      "tw_favorites": "2",
+      "tw_retweets": "6860",
+      "tw_since_id": "1122888200299503616",
+      "fb_shares": "458",
+      "fb_comments": "459",
+      "fb_reactions": "2261",
+      "popularity_updated": "647",
+      "sentiment": "0",
+      "screen_name": "mohammadgs2",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-03-2019 23:33",
+      "timestamp_published": "1553812418",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "145",
+          "query": "JanataDal_S OR \"Janata Dal\" OR JanataDal OR AIADMK"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "666"
+    },
+    {
+      "id": "383356",
+      "date_published": "2019-03-29 23:00:01",
+      "date_added": "2019-03-29 18:31:50",
+      "date_modified": "2019-03-29 23:41:07",
+      "title": "Nishad Party Quits SP-BSP Alliance Two Days After Tie-up, May Switch Over to BJP",
+      "source": "www.news18.com",
+      "description": "The break-up, just two days after the tie-up was announced, was followed by the Nishad party chief Sanjay Nishad meeting Uttar Pradesh chief minister Yogi Adityanath in Lucknow.",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "lucknow",
+        "samajwadi party",
+        "sanjay",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL25pc2hhZC1wYXJ0eS1xdWl0cy1z\ncC1ic3AtYWxsaWFuY2UtdHdvLWRheXMtYWZ0ZXItdGllLXVwLW1heS1zd2l0Y2gtb3Zlci10by1i\nanAtMjA4MjU5Ny5odG1s",
+      "short_url": "https://www.news18.com/news/politics/nishad-party-quits-sp-bsp-alliance-two-days-after-tie-up-may-switch-over-to-bjp-2082597.html",
+      "engagement": "0",
+      "popularity": "174997",
+      "tw_tweets": "159",
+      "tw_reach": "233068",
+      "tw_favorites": "19",
+      "tw_retweets": "0",
+      "tw_since_id": "1111684162690473984",
+      "fb_shares": "4",
+      "fb_comments": "0",
+      "fb_reactions": "4",
+      "popularity_updated": "152",
+      "sentiment": "0",
+      "screen_name": "qazifarazahmad",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-03-2019 23:00",
+      "timestamp_published": "1553896801",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "175"
+    },
+    {
+      "id": "383934",
+      "date_published": "2019-03-30 16:38:08",
+      "date_added": "2019-03-30 12:12:37",
+      "date_modified": "2019-03-30 17:01:14",
+      "title": "How can oil and water get mixed : Yogi on SP-BSP alliance in UP - Indian Expose",
+      "source": "indianexpose.com",
+      "description": "Lucknow, Mar 30 (IECurrentAffairs) Uttar Pradesh chief minister Yogi Adityanath hitting out at the grand alliance of SP-BSP and RLD in the state, said that how can oil and water be mixed. “The mahagathbandan is of opposite factor and it cannot be successful as people won’t accept them,” he said. The CM said that people …",
+      "tags": [
+        "bahujan samaj party",
+        "samajwadi party",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHBvc2UuY29tL2hvdy1jYW4tb2lsLWFuZC13YXRlci1nZXQtbWl4ZWQt\neW9naS1vbi1zcC1ic3AtYWxsaWFuY2UtaW4tdXAv",
+      "short_url": "https://indianexpose.com/how-can-oil-and-water-get-mixed-yogi-on-sp-bsp-alliance-in-up/",
+      "engagement": "0",
+      "popularity": "21437",
+      "tw_tweets": "107",
+      "tw_reach": "28320",
+      "tw_favorites": "0",
+      "tw_retweets": "60",
+      "tw_since_id": "1111983108163809282",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "106",
+      "sentiment": "0",
+      "screen_name": "IndianExpose",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-03-2019 16:38",
+      "timestamp_published": "1553960288",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "125"
+    },
+    {
+      "id": "384857",
+      "date_published": "2019-03-31 21:35:38",
+      "date_added": "2019-03-31 18:07:18",
+      "date_modified": "2019-03-31 21:12:15",
+      "title": "BJP's 2 Ways Of Dealing With Terrorists - Bullet Or Bomb: Yogi Adityanath",
+      "source": "www.ndtv.com",
+      "description": "Uttar Pradesh Chief Minister Yogi Adityanath hit out at the Opposition for seeking evidence of the Balakot airstrike, alleging that only two factions were \"pained\" by the post-Pulwama retaliation -- Pakistan and the Opposition.",
+      "tags": [
+        "bjp",
+        "bob armstrong",
+        "evidence",
+        "terrorism",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9ianBzLTItd2F5cy1vZi1kZWFsaW5nLXdp\ndGgtdGVycm9yaXN0cy1idWxsZXQtb3ItYm9tYi15b2dpLWFkaXR5YW5hdGgtMjAxNTYyMw==",
+      "short_url": "https://goo.gl/fb/GjvQCN",
+      "engagement": "0",
+      "popularity": "17303400",
+      "tw_tweets": "14",
+      "tw_reach": "23069442",
+      "tw_favorites": "2",
+      "tw_retweets": "6",
+      "tw_since_id": "1112431983425187841",
+      "fb_shares": "22",
+      "fb_comments": "230",
+      "fb_reactions": "310",
+      "popularity_updated": "6",
+      "sentiment": "-1",
+      "screen_name": "ndtvfeed",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-03-2019 21:35",
+      "timestamp_published": "1554060938",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "385870",
+      "date_published": "2019-04-01 23:55:13",
+      "date_added": "2019-04-01 20:26:47",
+      "date_modified": "2019-04-03 03:37:01",
+      "title": "Yogi refers Indian Army as 'Modi ji ki sena', draws flak from Opposition",
+      "source": "www.aninews.in",
+      "description": "Ghaziabad (Uttar Pradesh) [India], Apr 1 (ANI): Chief Minister Yogi Adityanath has referred the Indian Army as \"Modi ji ki sena\" while drawing a comparison between the steps taken by the BJP-led central government against terrorism and the previous Congress government.",
+      "tags": [
+        "ghaziabad",
+        "india",
+        "narendra modi",
+        "sena",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYW5pbmV3cy5pbi9uZXdzL25hdGlvbmFsL3BvbGl0aWNzL3lvZ2ktcmVmZXJz\nLWluZGlhbi1hcm15LWFzLW1vZGktamkta2ktc2VuYS1kcmF3cy1mbGFrLWZyb20tb3Bwb3NpdGlv\nbjIwMTkwNDAxMjAxNjQ1Lw==",
+      "short_url": "https://www.aninews.in/news/national/politics/yogi-refers-indian-army-as-modi-ji-ki-sena-draws-flak-from-opposition20190401201645/",
+      "engagement": "0",
+      "popularity": "230471",
+      "tw_tweets": "109",
+      "tw_reach": "262455",
+      "tw_favorites": "2",
+      "tw_retweets": "21495",
+      "tw_since_id": "1113253446730153984",
+      "fb_shares": "130",
+      "fb_comments": "65",
+      "fb_reactions": "365",
+      "popularity_updated": "48",
+      "sentiment": "0",
+      "screen_name": "fzkh",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-04-2019 23:55",
+      "timestamp_published": "1554155713",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "64"
+    },
+    {
+      "id": "385891",
+      "date_published": "2019-04-02 00:25:29",
+      "date_added": "2019-04-01 20:57:03",
+      "date_modified": "2019-04-03 05:37:24",
+      "title": "Ex-Navy Chief Says Will Approach Poll Body Over \"Modi Ji Ki Sena\" Comment",
+      "source": "www.ndtv.com",
+      "description": "Former Navy chief Admiral L Ramdas (retired) on Monday said he will approach the Election Commission against Uttar Pradesh Chief Minister Yogi Adityanath for referring to the Army as \"Modi ji ki sena (Modi's army)\" at an election rally last week.",
+      "tags": [
+        "admiral",
+        "ramdas",
+        "sena",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9leC1uYXZ5LWNoaWVmLWFkbWlyYWwtbC1y\nYW1kYXMtc2F5cy13aWxsLWFwcHJvYWNoLXBvbGwtYm9keS1vdmVyLW1vZGktamkta2ktc2VuYS1j\nb21tZW50LTIwMTYyNDE=",
+      "short_url": "https://t.co/EKKg9Cfi7X",
+      "engagement": "0",
+      "popularity": "99422.8",
+      "tw_tweets": "126",
+      "tw_reach": "115519",
+      "tw_favorites": "0",
+      "tw_retweets": "5407",
+      "tw_since_id": "1113283924963266561",
+      "fb_shares": "410",
+      "fb_comments": "296",
+      "fb_reactions": "1282",
+      "popularity_updated": "76",
+      "sentiment": "0",
+      "screen_name": "mdsalikalam",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-04-2019 00:25",
+      "timestamp_published": "1554157529",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "99"
+    },
+    {
+      "id": "386875",
+      "date_published": "2019-04-03 04:52:37",
+      "date_added": "2019-04-03 01:31:45",
+      "date_modified": "2019-04-03 01:31:49",
+      "title": "Dadri Mob Killing Accused Cheer From Front Row At Yogi Adityanath Rally",
+      "source": "www.ndtv.com",
+      "description": "A group of men accused of beating a Muslim man to death in 2015 over beef rumours in Uttar Pradesh's Dadri had front row seats at a rally on Sunday of Chief Minister Yogi Adityanath, who was campaigning for the national election starting April 11.",
+      "tags": [
+        "beef",
+        "muslim",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9kYWRyaS1tb2Ita2lsbGluZy1hY2N1c2Vk\nLW9uLWJhaWwtaW4tZnJvbnQtcm93LWF0LXlvZ2ktYWRpdHlhbmF0aC1yYWxseS1pbi1iaXNhZGEt\nMjAxNTc0Nw==",
+      "short_url": "https://www.ndtv.com/india-news/dadri-mob-killing-accused-on-bail-in-front-row-at-yogi-adityanath-rally-in-bisada-2015747",
+      "engagement": "0",
+      "popularity": "24299.5",
+      "tw_tweets": "16",
+      "tw_reach": "13333",
+      "tw_favorites": "0",
+      "tw_retweets": "786",
+      "tw_since_id": "1113411413270245376",
+      "fb_shares": "971",
+      "fb_comments": "534",
+      "fb_reactions": "4260",
+      "popularity_updated": "4",
+      "sentiment": "-1",
+      "screen_name": "aftabistan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-04-2019 04:52",
+      "timestamp_published": "1554259957",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "387742",
+      "date_published": "2019-04-04 05:58:52",
+      "date_added": "2019-04-04 02:31:58",
+      "date_modified": "2019-04-04 02:32:01",
+      "title": "UP CM Yogi Adityanath gets EC show-cause notice for 'Modi ji ki sena' remark - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "News News: NEW DELHI: The Election Commission is learnt to have issued a show-cause notice to Uttar Pradesh chief minister Yogi Adityanath for his 'Modi ji ki se.",
+      "tags": [
+        "india",
+        "narendra modi",
+        "sena",
+        "uttar",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vZWxlY3Rpb25zL25ld3MvdXAtY20t\neW9naS1hZGl0eWFuYXRoLWdldHMtZWMtc2hvdy1jYXVzZS1ub3RpY2UtZm9yLW1vZGktamkta2kt\nc2VuYS1yZW1hcmsvYXJ0aWNsZXNob3cvNjg3MTExMTcuY21z",
+      "short_url": "https://timesofindia.indiatimes.com/elections/news/up-cm-yogi-adityanath-gets-ec-show-cause-notice-for-modi-ji-ki-sena-remark/articleshow/68711117.cms",
+      "engagement": "0",
+      "popularity": "28125.5",
+      "tw_tweets": "144",
+      "tw_reach": "20686",
+      "tw_favorites": "6",
+      "tw_retweets": "7546",
+      "tw_since_id": "1113710304905416705",
+      "fb_shares": "30",
+      "fb_comments": "140",
+      "fb_reactions": "322",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Nadiassay",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-04-2019 05:58",
+      "timestamp_published": "1554350332",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "388677",
+      "date_published": "2019-04-05 08:20:03",
+      "date_added": "2019-04-05 04:52:00",
+      "date_modified": "2019-04-08 03:42:24",
+      "title": "After Yogi Adityanath, Another BJP Leader's \"Modi Army\" Moment",
+      "source": "www.ndtv.com",
+      "description": "Yogi Adityanath's controversial description of the armed forces as \"Modi-ji ka Sena\" was picked up today by Union minister Mukhtar Abbas Naqvi.",
+      "tags": [
+        "bjp",
+        "mukhtar abbas naqvi",
+        "narendra modi",
+        "shiv sena",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb24tMjAxOS1h\nZnRlci15b2dpLWFkaXR5YW5hdGgtYW5vdGhlci1ianAtbGVhZGVycy1tb2RpLWFybXktbW9tZW50\nLTIwMTgxMTE=",
+      "short_url": "https://t.co/hymPqpwtw6",
+      "engagement": "0",
+      "popularity": "52577.5",
+      "tw_tweets": "145",
+      "tw_reach": "47190",
+      "tw_favorites": "0",
+      "tw_retweets": "11351",
+      "tw_since_id": "1115066768391856129",
+      "fb_shares": "6",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "123",
+      "sentiment": "0",
+      "screen_name": "nitingothra",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-04-2019 08:20",
+      "timestamp_published": "1554445203",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "146"
+    },
+    {
+      "id": "389847",
+      "date_published": "2019-04-06 16:55:40",
+      "date_added": "2019-04-06 13:27:37",
+      "date_modified": "2019-05-01 13:56:18",
+      "title": "\"Modi Code Of Conduct\": Congress Slams Poll Body Over Violations",
+      "source": "www.ndtv.com",
+      "description": "The Congress today asked why the Election Commission let go off Uttar Pradesh Chief Minister Yogi Adityanath with a light rap for his \"Modiji ki sena\" remark, adding that the Uttar Pradesh chief minister \"insults\" the Indian Army and the poll body writes a \"love letter\" to him.",
+      "tags": [
+        "congress",
+        "narendra modi",
+        "shiv sena",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nZWxlY3Rpb24tY29tbWlzc2lvbnMtcmVidWtlLXRvLXlvZ2ktYWRpdHlhbmF0aC1saWtlLWxvdmUt\nbGV0dGVyLXNheXMtY29uZ3JlLTIwMTg5OTQ=",
+      "short_url": "https://www.ndtv.com/india-news/lok-sabha-elections-2019-election-commissions-rebuke-to-yogi-adityanath-like-love-letter-says-congre-2018994",
+      "engagement": "0",
+      "popularity": "61947",
+      "tw_tweets": "108",
+      "tw_reach": "75788",
+      "tw_favorites": "0",
+      "tw_retweets": "2810",
+      "tw_since_id": "1123547178054504448",
+      "fb_shares": "55",
+      "fb_comments": "81",
+      "fb_reactions": "203",
+      "popularity_updated": "20",
+      "sentiment": "0",
+      "screen_name": "thanda_ghosh",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-04-2019 16:55",
+      "timestamp_published": "1554562540",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "38"
+    },
+    {
+      "id": "390191",
+      "date_published": "2019-04-07 01:36:14",
+      "date_added": "2019-04-06 22:12:04",
+      "date_modified": "2019-04-06 22:16:49",
+      "title": "Congress entered 'unholy alliance' with Muslim League: Adityanath",
+      "source": "www.harmukhnews.in",
+      "description": "Uttar Pradesh Chief Minister Yogi Adityanath Saturday alleged that the Congress has entered into an \"unholy alliance\" with the Muslim League",
+      "tags": [
+        "congress",
+        "muslim",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5oYXJtdWtobmV3cy5pbi9uYXRpb25hbC9jb25ncmVzcy1lbnRlcmVkLXVuaG9s\neS1hbGxpYW5jZS13aXRoLW11c2xpbS1sZWFndWUtYWRpdHlhbmF0aC8=",
+      "short_url": "http://www.harmukhnews.in/national/congress-entered-unholy-alliance-with-muslim-league-adityanath/",
+      "engagement": "0",
+      "popularity": "658.25",
+      "tw_tweets": "5",
+      "tw_reach": "865",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1114620347582746626",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "1",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "HarmukhNews",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-04-2019 01:36",
+      "timestamp_published": "1554593774",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "391399",
+      "date_published": "2019-04-08 17:20:31",
+      "date_added": "2019-04-08 13:52:05",
+      "date_modified": "2019-04-08 20:42:14",
+      "title": "The Hastinapur Dharma And Demographics: Why Mahagathbandhan Has An Edge Over The BJP In Baghpat",
+      "source": "swarajyamag.com",
+      "description": "Going by statements of PM Modi, Amit Shah and Yogi Adityanath, the importance of ‘Chaudhary Sahab’ can’t be ignored. ",
+      "tags": [
+        "amit shah",
+        "bjp",
+        "edge",
+        "narendra modi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vcG9saXRpY3MvdGhlLWhhc3RpbmFwdXItZGhhcm1hLWFu\nZC1kZW1vZ3JhcGhpY3Mtd2h5LW1haGFnYXRoYmFuZGhhbi1oYXMtYW4tZWRnZS1vdmVyLXRoZS1i\nanAtaW4tYmFnaHBhdA==",
+      "short_url": "https://swarajyamag.com/politics/the-hastinapur-dharma-and-demographics-why-mahagathbandhan-has-an-edge-over-the-bjp-in-baghpat",
+      "engagement": "0",
+      "popularity": "140441",
+      "tw_tweets": "44",
+      "tw_reach": "185337",
+      "tw_favorites": "96",
+      "tw_retweets": "792",
+      "tw_since_id": "1115476386909696000",
+      "fb_shares": "12",
+      "fb_comments": "1",
+      "fb_reactions": "36",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "harshmadhusudan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-04-2019 17:20",
+      "timestamp_published": "1554736831",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "392430",
+      "date_published": "2019-04-09 18:05:20",
+      "date_added": "2019-04-09 14:37:17",
+      "date_modified": "2019-04-10 13:17:04",
+      "title": "If Cong, SP, BSP have their trust in Ali, BJP has faith in Bajrang Bali: Yogi Adityanath",
+      "source": "indianexpress.com",
+      "description": "Addressing a rally in Meerut, which goes to polls on April 11, Adityanath said the Congress, BSP and SP were wooing the minority community as they knew supporters of Bajrang Bali won't spare them in the elections.",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "congress",
+        "meerut",
+        "samajwadi party",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMveW9naS1hZGl0eWFuYXRoLWNvbmdy\nZXNzLXNwLWJzcC1hbGktYmFqcmFuZy1iYWxpLXV0dGFyLXByYWRlc2gtZWxlY3Rpb25zLTU2Njcx\nNDAv",
+      "short_url": "https://indianexpress.com/elections/yogi-adityanath-congress-sp-bsp-ali-bajrang-bali-uttar-pradesh-elections-5667140/",
+      "engagement": "0",
+      "popularity": "57735.8",
+      "tw_tweets": "19",
+      "tw_reach": "30645",
+      "tw_favorites": "3",
+      "tw_retweets": "38",
+      "tw_since_id": "1115944503981105153",
+      "fb_shares": "1137",
+      "fb_comments": "3116",
+      "fb_reactions": "10811",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "RNS_MOTORS_Ltd",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-04-2019 18:05",
+      "timestamp_published": "1554825920",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "392793",
+      "date_published": "2019-04-10 03:13:47",
+      "date_added": "2019-04-09 23:47:03",
+      "date_modified": "2019-04-11 07:26:14",
+      "title": "Congress, SP-BSP infected by 'green virus', says Yogi Adityanath; claims BJP only option for Hindus - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "Uttar Pradesh chief minister Yogi Adityanath stoked controversy on Tuesday, dubbing the Muslim League a “green virus” and suggesting that Hindu and Muslim voters are in an “Ali-Bajrangbali” contest.",
+      "tags": [
+        "bahujan samaj party",
+        "bjp",
+        "congress",
+        "muslim",
+        "samajwadi party",
+        "vîrus",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9wb2xpdGljcy9jb25ncmVzcy1zcC1ic3AtaW5mZWN0\nZWQtYnktZ3JlZW4tdmlydXMtc2F5cy15b2dpLWFkaXR5YW5hdGgtY2xhaW1zLWJqcC1vbmx5LW9w\ndGlvbi1mb3ItaGluZHVzLTY0MTgyMDEuaHRtbA==",
+      "short_url": "https://www.firstpost.com/politics/congress-sp-bsp-infected-by-green-virus-says-yogi-adityanath-claims-bjp-only-option-for-hindus-6418201.html",
+      "engagement": "0",
+      "popularity": "1544250",
+      "tw_tweets": "103",
+      "tw_reach": "2057768",
+      "tw_favorites": "11",
+      "tw_retweets": "18",
+      "tw_since_id": "1116186577057673216",
+      "fb_shares": "37",
+      "fb_comments": "7",
+      "fb_reactions": "302",
+      "popularity_updated": "96",
+      "sentiment": "0",
+      "screen_name": "anjansengupta16",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-04-2019 03:13",
+      "timestamp_published": "1554858827",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "116"
+    },
+    {
+      "id": "394292",
+      "date_published": "2019-04-11 17:20:44",
+      "date_added": "2019-04-11 13:52:21",
+      "date_modified": "2019-04-11 13:52:22",
+      "title": "BJP MLA Jagan Prasad Garg dies while campaigning",
+      "source": "www.indiatoday.in",
+      "description": "After hearing about Jagan Prasad Garg's demise, Uttar Pradesh Chief Minister Yogi Adityanath rushed to Agra to meet his family.",
+      "tags": [
+        "bjp",
+        "jagan",
+        "jagan prasad garg",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nYmpwLW1sYS1qYWdhbi1wcmFzYWQtZ2FyZy1kaWVzLXdoaWxlLWNhbXBhaWduaW5nLTE0OTk1NDkt\nMjAxOS0wNC0xMQ==",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/bjp-mla-jagan-prasad-garg-dies-while-campaigning-1499549-2019-04-11",
+      "engagement": "0",
+      "popularity": "41251.5",
+      "tw_tweets": "7",
+      "tw_reach": "42868",
+      "tw_favorites": "4",
+      "tw_retweets": "3",
+      "tw_since_id": "1116514658444173314",
+      "fb_shares": "156",
+      "fb_comments": "745",
+      "fb_reactions": "3054",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "mail_today",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-04-2019 17:20",
+      "timestamp_published": "1554996044",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "394753",
+      "date_published": "2019-04-12 11:35:24",
+      "date_added": "2019-04-12 08:07:10",
+      "date_modified": "2019-04-12 17:47:19",
+      "title": "Over 150 Veterans, Including 8 Service Chiefs, Write to President Against Netas Using Military for Poll Gains",
+      "source": "www.news18.com",
+      "description": "The letter registers strong objection to Yogi Adityanath’s ‘Modiji ki Sena’ remark, urging the President to protect the secular and apolitical character of the armed forces.",
+      "tags": [
+        "shiv sena",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL2luZGlhL292ZXItMTUwLXZldGVyYW5zLWluY2x1\nZGluZy04LXNlcnZpY2UtY2hpZWZzLXdyaXRlLXRvLXByZXNpZGVudC1hZ2FpbnN0LW5ldGFzLXVz\naW5nLW1pbGl0YXJ5LWZvci1wb2xsLWdhaW5zLTIwOTk1NTUuaHRtbA==",
+      "short_url": "https://www.news18.com/news/india/over-150-veterans-including-8-service-chiefs-write-to-president-against-netas-using-military-for-poll-gains-2099555.html",
+      "engagement": "0",
+      "popularity": "77604.5",
+      "tw_tweets": "112",
+      "tw_reach": "81887",
+      "tw_favorites": "1",
+      "tw_retweets": "2794",
+      "tw_since_id": "1116886456042180615",
+      "fb_shares": "1059",
+      "fb_comments": "1182",
+      "fb_reactions": "2910",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "ColdCigar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-04-2019 11:35",
+      "timestamp_published": "1555061724",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "41"
+    },
+    {
+      "id": "395900",
+      "date_published": "2019-04-13 17:23:33",
+      "date_added": "2019-04-13 13:56:58",
+      "date_modified": "2019-04-13 15:16:12",
+      "title": "\"Both Ali, Bajrangbali Our Own, Want Both\": Mayawati's Retort To Yogi Adityanath",
+      "source": "www.ndtv.com",
+      "description": "Bahujan Samaj Party chief Mayawati today responded to Uttar Pradesh Chief Minister Yogi Adityanath's recent remark that earned him an election code violation notice as she said both 'Ali' and 'Bajrangbali' were her own people, referring to the Muslim and Hindu communities.",
+      "tags": [
+        "bahujan samaj party",
+        "mayawati",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb24tMjAxOS1t\nYXlhd2F0aXMtcmV0b3J0LXRvLXlvZ2ktYWRpdHlhbmF0aC1ib3RoLWFsaS1iYWpyYW5nYmFsaS1v\ndXItb3duLTIwMjI2MDk=",
+      "short_url": "http://bit.ly/2GojpY5",
+      "engagement": "0",
+      "popularity": "755.5",
+      "tw_tweets": "19",
+      "tw_reach": "361",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1117033077941972992",
+      "fb_shares": "14",
+      "fb_comments": "63",
+      "fb_reactions": "123",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "kumarshammi56",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-04-2019 17:23",
+      "timestamp_published": "1555169013",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "161",
+          "query": "\"Bahujan Samaj Party\" OR BahujanSamajParty OR bspmp1 OR \"BSP-SP\" OR \"SP-BSP\" OR SPBSP"
+        }
+      ],
+      "popularity_logs": "47"
+    },
+    {
+      "id": "397508",
+      "date_published": "2019-04-15 17:49:02",
+      "date_added": "2019-04-15 14:22:10",
+      "date_modified": "2019-05-05 17:16:36",
+      "title": "Yogi Adityanath makes mafia dons lose clout in Lok Sabha elections in Uttar Pradesh",
+      "source": "www.newindianexpress.com",
+      "description": "Mukhtar Ansari is lodged in jail since 2005 on charges of the murder of a BJP MLA Krishnand Rai.",
+      "tags": [
+        "bjp",
+        "dons",
+        "mukhtar ansari",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAxOS9hcHIvMTUveW9naS1h\nZGl0eWFuYXRoLW1ha2VzLW1hZmlhLWRvbnMtbG9zZS1jbG91dC1pbi1sb2stc2FiaGEtZWxlY3Rp\nb25zLWluLXV0dGFyLXByYWRlc2gtMTk2NDYzMy5odG1s",
+      "short_url": "http://www.newindianexpress.com/nation/2019/apr/15/yogi-adityanath-makes-mafia-dons-lose-clout-in-lok-sabha-elections-in-uttar-pradesh-1964633.html",
+      "engagement": "0",
+      "popularity": "3029070",
+      "tw_tweets": "1394",
+      "tw_reach": "2142417",
+      "tw_favorites": "292",
+      "tw_retweets": "945731",
+      "tw_since_id": "1125036842611384322",
+      "fb_shares": "140",
+      "fb_comments": "40",
+      "fb_reactions": "692",
+      "popularity_updated": "1389",
+      "sentiment": "-1",
+      "screen_name": "MuthuRamamoorth",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-04-2019 17:49",
+      "timestamp_published": "1555343342",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "1407"
+    },
+    {
+      "id": "397950",
+      "date_published": "2019-04-16 06:30:01",
+      "date_added": "2019-04-16 03:02:19",
+      "date_modified": "2019-04-16 05:41:21",
+      "title": "After SC prod, EC cracks whip on Yogi Adityanath, Mayawati, Azam Khan, Maneka Gandhi",
+      "source": "indianexpress.com",
+      "description": "CJI bench to poll panel: What are you doing about it?... answer, or we will get CEC",
+      "tags": [
+        "azam khan",
+        "maneka gandhi",
+        "mayawati",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYWZ0ZXItc2MtcHJvZC1lYy1jcmFj\na3Mtd2hpcC1vbi15b2dpLWFkaXR5YW5hdGgtbWF5YXdhdGktYXphbS1raGFuLW1hbmVrYS1nYW5k\naGktNTY3NzQ2OS8=",
+      "short_url": "http://bit.ly/2Pb8Eeh",
+      "engagement": "0",
+      "popularity": "58573000",
+      "tw_tweets": "856",
+      "tw_reach": "77806121",
+      "tw_favorites": "170",
+      "tw_retweets": "144491",
+      "tw_since_id": "1118023045417975809",
+      "fb_shares": "45",
+      "fb_comments": "25",
+      "fb_reactions": "198",
+      "popularity_updated": "80",
+      "sentiment": "0",
+      "screen_name": "IndianExpress",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-04-2019 06:30",
+      "timestamp_published": "1555389001",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "100"
+    },
+    {
+      "id": "399378",
+      "date_published": "2019-04-17 22:01:49",
+      "date_added": "2019-04-17 18:36:29",
+      "date_modified": "2019-04-17 19:01:24",
+      "title": "Yogi Adityanath visits Ayodhya amid EC ban, BSP complains to poll panel",
+      "source": "www.indiatoday.in",
+      "description": "In his complaint to the poll panel, Bahujan Samaj Party Faizabad district president Mahendra Pratap Anand alleged that the chief minister had campaigned in the village which was a violation of the ban order imposed on him by the poll panel.",
+      "tags": [
+        "anand",
+        "bahujan samaj party",
+        "mahendra pratap",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\neW9naS1hZGl0eWFuYXRoLXZpc2l0cy1heW9kaHlhLWVjLWJhbi1ic3AtY29tcGxhaW5zLXBvbGwt\ncGFuZWwtMTUwNDMxNi0yMDE5LTA0LTE3",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/yogi-adityanath-visits-ayodhya-ec-ban-bsp-complains-poll-panel-1504316-2019-04-17",
+      "engagement": "0",
+      "popularity": "50910300",
+      "tw_tweets": "16",
+      "tw_reach": "67879047",
+      "tw_favorites": "309",
+      "tw_retweets": "87",
+      "tw_since_id": "1118553580972023808",
+      "fb_shares": "18",
+      "fb_comments": "62",
+      "fb_reactions": "149",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "IndiaToday",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-04-2019 22:01",
+      "timestamp_published": "1555531309",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "399703",
+      "date_published": "2019-04-18 10:15:24",
+      "date_added": "2019-04-18 06:48:06",
+      "date_modified": "2019-04-27 14:46:32",
+      "title": "Nehru's Statue Removed In Allahabad By Yogi Adityanath",
+      "source": "thefauxy.com",
+      "description": "Nehru's statue in Allahabad has been removed by Yogi Adityanath's government as a part of the beautification drive for the city. If sources are to be believe...",
+      "tags": [
+        "yogi adityanath",
+        "yogi adityanath nehru"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVmYXV4eS5jb20vbmVocnVzLXN0YXR1ZS1yZW1vdmVkLWluLWFsbGFoYWJhZC1i\neS15b2dpLWFkaXR5YW5hdGgtcmVwb3J0ZWRseS13aW5rZWQtYXQtcGFzc2luZy1ieS1sYWRpZXMv",
+      "short_url": "https://thefauxy.com/nehrus-statue-removed-in-allahabad-by-yogi-adityanath-reportedly-winked-at-passing-by-ladies/",
+      "engagement": "0",
+      "popularity": "120540",
+      "tw_tweets": "132",
+      "tw_reach": "149976",
+      "tw_favorites": "51",
+      "tw_retweets": "5067",
+      "tw_since_id": "1122114259092041728",
+      "fb_shares": "11",
+      "fb_comments": "9",
+      "fb_reactions": "101",
+      "popularity_updated": "130",
+      "sentiment": "0",
+      "screen_name": "the_fauxy",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-04-2019 10:15",
+      "timestamp_published": "1555575324",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "142"
+    },
+    {
+      "id": "400947",
+      "date_published": "2019-04-19 21:25:23",
+      "date_added": "2019-04-19 17:57:15",
+      "date_modified": "2019-04-21 03:31:20",
+      "title": "Anti-Romeo squad was formed for people like Azam Khan, says Yogi Adityanath",
+      "source": "www.abplive.in",
+      "description": "Resuming campaigning after 72-hour poll panel ban, Uttar Pradesh Chief Minister Yogi Adityanath on Friday attacked Azam Khan over the latter's 'underwear' jibe.",
+      "tags": [
+        "azam khan",
+        "romeo miller",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9sb2stc2FiaGEtZWxlY3Rpb25zLXV0dGFy\nLXByYWRlc2gtZ292dC1mb3JtZWQtYW50aS1yb21lby1zcXVhZC1mb3ItcGVvcGxlLWxpa2UtYXph\nbS1raGFuLXNheXMteW9naS1hZGl0eWFuYXRoLTk2OTM4MQ==",
+      "short_url": "https://www.abplive.in/election/lok-sabha-elections-uttar-pradesh-govt-formed-anti-romeo-squad-for-people-like-azam-khan-says-yogi-adityanath-969381",
+      "engagement": "0",
+      "popularity": "68404.2",
+      "tw_tweets": "80",
+      "tw_reach": "86198",
+      "tw_favorites": "0",
+      "tw_retweets": "1986",
+      "tw_since_id": "1119769520804171776",
+      "fb_shares": "11",
+      "fb_comments": "33",
+      "fb_reactions": "262",
+      "popularity_updated": "76",
+      "sentiment": "0",
+      "screen_name": "skokare",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-04-2019 21:25",
+      "timestamp_published": "1555701923",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "98"
+    },
+    {
+      "id": "401757",
+      "date_published": "2019-04-20 18:41:52",
+      "date_added": "2019-04-20 15:17:02",
+      "date_modified": "2019-04-20 15:21:35",
+      "title": "Yogi makes mafia dons lose clout in UP elections",
+      "source": "www.business-standard.com",
+      "description": "For the first time in perhaps four decades, criminals are taking a backseat in the Lok Sabha elections in Uttar Pradesh and it is the Yogi Adityanath government that deserves credit for this.",
+      "tags": [
+        "dons",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FydGljbGUvbmV3cy1pYW5zL3lvZ2kt\nbWFrZXMtbWFmaWEtZG9ucy1sb3NlLWNsb3V0LWluLXVwLWVsZWN0aW9ucy0xMTkwNDE1MDA0ODlf\nMS5odG1s",
+      "short_url": "https://mybs.in/2X5I3S9",
+      "engagement": "0",
+      "popularity": "772824",
+      "tw_tweets": "505",
+      "tw_reach": "401551",
+      "tw_favorites": "0",
+      "tw_retweets": "313985",
+      "tw_since_id": "1119616705741848582",
+      "fb_shares": "31",
+      "fb_comments": "3",
+      "fb_reactions": "45",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "ramsumadhu9",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 18:41",
+      "timestamp_published": "1555778512",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "402328",
+      "date_published": "2019-04-21 11:25:48",
+      "date_added": "2019-04-21 07:57:34",
+      "date_modified": "2019-04-22 14:26:12",
+      "title": "'The Wire' journalists caught wrongly attributing Mayawati's casteist remark to Yogi Adityanath",
+      "source": "www.opindia.com",
+      "description": "Rohini Singh, who is notoriously known for her propaganda, along with her colleague Prashant Kanojia, has yet again posted fake news to target the UP Chief Minister Yogi Adityanath. - Latest India News from Opindia.com",
+      "tags": [
+        "mayawati",
+        "propaganda",
+        "yogi adityanath",
+        "yogi adityanath rohini singh"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9zYW1handhZGktcGFydHktZnJpZW5kbHkt\nam91cm5hbGlzdC1hc3NvY2lhdGVkLXdpdGgtdGhlLXdpcmUtY2F1Z2h0LXNwcmVhZGluZy1saWVz\nLWFib3V0LXlvZ2ktYWRpdHlhbmF0aC1kZWxldGVzLXR3ZWV0LWFmdGVyLWdldHRpbmctY2F1Z2h0\nLw==",
+      "short_url": "https://www.opindia.com/2019/04/samajwadi-party-friendly-journalist-associated-with-the-wire-caught-spreading-lies-about-yogi-adityanath-deletes-tweet-after-getting-caught/",
+      "engagement": "0",
+      "popularity": "1137610",
+      "tw_tweets": "667",
+      "tw_reach": "625032",
+      "tw_favorites": "27",
+      "tw_retweets": "443291",
+      "tw_since_id": "1120293344045948929",
+      "fb_shares": "450",
+      "fb_comments": "62",
+      "fb_reactions": "905",
+      "popularity_updated": "200",
+      "sentiment": "0",
+      "screen_name": "illuminatistine",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 11:25",
+      "timestamp_published": "1555838748",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        },
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "217"
+    },
+    {
+      "id": "403273",
+      "date_published": "2019-04-22 15:23:48",
+      "date_added": "2019-04-22 11:56:57",
+      "date_modified": "2019-04-22 12:51:10",
+      "title": "US President Donald Trump said he wants to work like PM Modi, claims Yogi Adityanath fresh out of EC ban",
+      "source": "www.timesnownews.com",
+      "description": "UP CM Yogi Adityanath, while campaigning in UP's Etawah just a day after an EC ban was lifted on him, claimed US President Donald Trump once said that he wants to work like PM Narendra Modi.",
+      "tags": [
+        "donald",
+        "donald trump",
+        "etawah",
+        "narendra modi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9lbGVjdGlvbnMvYXJ0aWNsZS91cy1wcmVzaWRl\nbnQtZG9uYWxkLXRydW1wLXNhaWQtaGUtd2FudHMtdG8td29yay1saWtlLXBtLW1vZGktY2xhaW1z\nLXlvZ2ktYWRpdHlhbmF0aC1mcmVzaC1vdXQtb2YtZWMtYmFuLzQwMzI0NA==",
+      "short_url": "https://www.timesnownews.com/elections/article/us-president-donald-trump-said-he-wants-to-work-like-pm-modi-claims-yogi-adityanath-fresh-out-of-ec-ban/403244",
+      "engagement": "0",
+      "popularity": "3246.5",
+      "tw_tweets": "25",
+      "tw_reach": "2893",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1120264429650583554",
+      "fb_shares": "18",
+      "fb_comments": "103",
+      "fb_reactions": "335",
+      "popularity_updated": "24",
+      "sentiment": "0",
+      "screen_name": "NitishSr29",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 15:23",
+      "timestamp_published": "1555939428",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "44"
+    },
+    {
+      "id": "403608",
+      "date_published": "2019-04-23 00:13:08",
+      "date_added": "2019-04-22 20:46:35",
+      "date_modified": "2019-05-19 14:02:03",
+      "title": "'Liberals' addressing Yogi Adityanath by his birth name is a reflection of their deep seated Hinduphobia - Opindia News",
+      "source": "www.opindia.com",
+      "description": "The elevation of Yogi Adityanath to the seat of Chief Minister of India's most populous state ruffled many feathers and it's hardly surprising that they are throwing everything at him in the desperate hope that something will stick. - Latest India News from Opindia.com",
+      "tags": [
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9saWJlcmFscy1hZGRyZXNzaW5nLXlvZ2kt\nYWRpdHlhbmF0aC1ieS1oaXMtYmlydGgtbmFtZS1pcy1hLXJlZmxlY3Rpb24tb2YtdGhlaXItZGVl\ncC1zZWF0ZWQtaGluZHVwaG9iaWEv",
+      "short_url": "https://www.opindia.com/2019/04/liberals-addressing-yogi-adityanath-by-his-birth-name-is-a-reflection-of-their-deep-seated-hinduphobia/",
+      "engagement": "0",
+      "popularity": "1177870",
+      "tw_tweets": "664",
+      "tw_reach": "1086645",
+      "tw_favorites": "130",
+      "tw_retweets": "240190",
+      "tw_since_id": "1130056157328896005",
+      "fb_shares": "107",
+      "fb_comments": "67",
+      "fb_reactions": "622",
+      "popularity_updated": "422",
+      "sentiment": "0",
+      "screen_name": "Hero1Warrior",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 00:13",
+      "timestamp_published": "1555971188",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "437"
+    },
+    {
+      "id": "405011",
+      "date_published": "2019-04-24 12:39:03",
+      "date_added": "2019-04-24 09:12:25",
+      "date_modified": "2019-05-08 11:11:25",
+      "title": "Yogi Adityanath To Shift Ramzan After It Coincides With Election Dates | The Fauxy",
+      "source": "thefauxy.com",
+      "description": "On Sunday, the Election Commission declared dates for Lok Sabha Elections 2019. Chief Elections Commissioner (CEC) Sunil Arora announced that elections for the 17th Lok Sabha shall be held in seven ph | India's Finest, Fastest & Fictitious News Source",
+      "tags": [
+        "sunil arora",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVmYXV4eS5jb20veW9naS1hZGl0eWFuYXRoLXRvLXNoaWZ0LXJhbXphbi1hZnRl\nci1pdC1jb2luY2lkZXMtd2l0aC1lbGVjdGlvbi1kYXRlcy8=",
+      "short_url": "https://thefauxy.com/yogi-adityanath-to-shift-ramzan-after-it-coincides-with-election-dates/",
+      "engagement": "0",
+      "popularity": "23486.2",
+      "tw_tweets": "43",
+      "tw_reach": "7317",
+      "tw_favorites": "0",
+      "tw_retweets": "9223",
+      "tw_since_id": "1126038836729896960",
+      "fb_shares": "73",
+      "fb_comments": "95",
+      "fb_reactions": "1653",
+      "popularity_updated": "42",
+      "sentiment": "0",
+      "screen_name": "j_rohitreddy",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 12:39",
+      "timestamp_published": "1556102343",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "65"
+    },
+    {
+      "id": "405770",
+      "date_published": "2019-04-25 11:23:22",
+      "date_added": "2019-04-25 07:57:40",
+      "date_modified": "2019-04-25 07:57:40",
+      "title": "'Big shout out to Uttar Pradesh government', UNICEF lauds CM Adityanath's DASTAK campaign against Japanese Encephalitis - The Financial Express",
+      "source": "www.financialexpress.com",
+      "description": "In a big achievement for the Yogi Adityanath, UNICEF India has lauded his government in Uttar Pradesh for successfully immunising all children of the state against Japanese Encephalitis and Acute Encephalitis Syndrome.",
+      "tags": [
+        "campaign",
+        "india",
+        "uttar",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vaW5kaWEtbmV3cy9iaWctc2hvdXQtb3V0\nLXRvLXV0dGFyLXByYWRlc2gtZ292ZXJubWVudC11bmljZWYtbGF1ZHMtY20tYWRpdHlhbmF0aHMt\nZGFzdGFrLWNhbXBhaWduLWFnYWluc3QtamFwYW5lc2UtZW5jZXBoYWxpdGlzLzExNDc3MTYv",
+      "short_url": "https://www.financialexpress.com/india-news/big-shout-out-to-uttar-pradesh-government-unicef-lauds-cm-adityanaths-dastak-campaign-against-japanese-encephalitis/1147716/",
+      "engagement": "0",
+      "popularity": "1010060",
+      "tw_tweets": "344",
+      "tw_reach": "1209903",
+      "tw_favorites": "608",
+      "tw_retweets": "8107",
+      "tw_since_id": "1121473707187118080",
+      "fb_shares": "7047",
+      "fb_comments": "1525",
+      "fb_reactions": "31044",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Toddarmal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 11:23",
+      "timestamp_published": "1556184202",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "406912",
+      "date_published": "2019-04-26 22:32:02",
+      "date_added": "2019-04-26 19:06:41",
+      "date_modified": "2019-04-28 17:01:22",
+      "title": "No power can stop Modi from becoming PM again: Yogi Adityanath",
+      "source": "www.indiatoday.in",
+      "description": "UP CM Yogi Adityanath said every vigilant voter has only one wish and that is to see Narendra Modi as the Prime Minister again.",
+      "tags": [
+        "narendra modi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nbm8tcG93ZXItY2FuLXN0b3AtbW9kaS1iZWNvbWluZy1wbS15b2dpLWFkaXR5YW5hdGgtMTUxMTIw\nNS0yMDE5LTA0LTI2",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/no-power-can-stop-modi-becoming-pm-yogi-adityanath-1511205-2019-04-26",
+      "engagement": "0",
+      "popularity": "2692160",
+      "tw_tweets": "106",
+      "tw_reach": "3572975",
+      "tw_favorites": "0",
+      "tw_retweets": "1243",
+      "tw_since_id": "1122508196428435456",
+      "fb_shares": "223",
+      "fb_comments": "950",
+      "fb_reactions": "3368",
+      "popularity_updated": "104",
+      "sentiment": "0",
+      "screen_name": "IndiaTodayFLASH",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 22:32",
+      "timestamp_published": "1556310722",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "122"
+    },
+    {
+      "id": "407026",
+      "date_published": "2019-04-27 03:09:04",
+      "date_added": "2019-04-26 23:43:13",
+      "date_modified": "2019-04-27 01:51:40",
+      "title": "‘Human rights are for common man, not for criminals, terrorists,’ says UP CM Yogi Adityanath",
+      "source": "www.hindustantimes.com",
+      "description": "Addressing Indian Police Service (IPS) officers on the fifth day of the ongoing police week, Yogi Adityanath said some people tried to shield wrong people in the name of human rights violation.",
+      "tags": [
+        "indian",
+        "terrorism",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvaHVtYW4tcmlnaHRzLWFy\nZS1mb3ItY29tbW9uLW1hbi1ub3QtZm9yLWNyaW1pbmFscy10ZXJyb3Jpc3RzLXNheXMtdXAtY20t\neW9naS1hZGl0eWFuYXRoL3N0b3J5LWMwR1pXSEdTQWQzR25LcUJ1bWtZWksuaHRtbA==",
+      "short_url": "https://goo.gl/cVBHCF",
+      "engagement": "0",
+      "popularity": "62141.2",
+      "tw_tweets": "55",
+      "tw_reach": "6600",
+      "tw_favorites": "0",
+      "tw_retweets": "5390",
+      "tw_since_id": "1121891470267514880",
+      "fb_shares": "2249",
+      "fb_comments": "2039",
+      "fb_reactions": "17286",
+      "popularity_updated": "54",
+      "sentiment": "0",
+      "screen_name": "Rajeev73623309",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 03:09",
+      "timestamp_published": "1556327344",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "75"
+    },
+    {
+      "id": "408263",
+      "date_published": "2019-04-28 21:39:13",
+      "date_added": "2019-04-28 18:12:08",
+      "date_modified": "2019-04-29 11:06:22",
+      "title": "No nationalist will support Congress after reading its manifesto:  CM Yogi Adityanath - Republic World",
+      "source": "www.republicworld.com",
+      "description": "Coming down heavily on the Congress for its promises to amend AFSPA and quash the sedition law, if voted to power, Uttar Pradesh Chief Minister Yogi Adityanath Sunday said the \"hand symbol of the grand old party denotes that it was hand-in-glove with traitors\".",
+      "tags": [
+        "congress",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vZWxlY3Rpb24tbmV3cy9pbmRpYW4tZ2VuZXJh\nbC1lbGVjdGlvbnMvbm8tbmF0aW9uYWxpc3Qtd2lsbC1zdXBwb3J0LWNvbmdyZXNzLWFmdGVyLXJl\nYWRpbmctaXRzLW1hbmlmZXN0by1jbS15b2dpLWFkaXR5YW5hdGg=",
+      "short_url": "https://www.republicworld.com/election-news/indian-general-elections/no-nationalist-will-support-congress-after-reading-its-manifesto-cm-yogi-adityanath",
+      "engagement": "0",
+      "popularity": "19043.8",
+      "tw_tweets": "63",
+      "tw_reach": "20161",
+      "tw_favorites": "0",
+      "tw_retweets": "1336",
+      "tw_since_id": "1122785786481430529",
+      "fb_shares": "76",
+      "fb_comments": "134",
+      "fb_reactions": "600",
+      "popularity_updated": "62",
+      "sentiment": "0",
+      "screen_name": "ok_programmer",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 21:39",
+      "timestamp_published": "1556480353",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "90"
+    },
+    {
+      "id": "408798",
+      "date_published": "2019-04-29 16:38:32",
+      "date_added": "2019-04-29 13:12:01",
+      "date_modified": "2019-05-03 17:36:28",
+      "title": "Lok Sabha elections: Yogi Adityanath to canvass for Smriti Irani in Amethi - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "News News: Elections News: Uttar Pradesh Chief Minister Yogi Adityanath will be campaigning in favour of Union minister and BJP nominee for Amethi Lok Sabha seat Smriti Irani on",
+      "tags": [
+        "bjp",
+        "india",
+        "smriti irani",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vZWxlY3Rpb25zL25ld3MvbHMtZWxl\nY3Rpb25zLWFkaXR5YW5hdGgtdG8tY2FudmFzcy1mb3ItaXJhbmktaW4tYW1ldGhpL2FydGljbGVz\naG93LzY5MDk2MDkwLmNtcw==",
+      "short_url": "https://timesofindia.indiatimes.com/elections/news/ls-elections-adityanath-to-canvass-for-irani-in-amethi/articleshow/69096090.cms",
+      "engagement": "0",
+      "popularity": "346266",
+      "tw_tweets": "95",
+      "tw_reach": "458315",
+      "tw_favorites": "28",
+      "tw_retweets": "36",
+      "tw_since_id": "1124314478739218433",
+      "fb_shares": "19",
+      "fb_comments": "341",
+      "fb_reactions": "648",
+      "popularity_updated": "94",
+      "sentiment": "0",
+      "screen_name": "Sudhipsen",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 16:38",
+      "timestamp_published": "1556548712",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "114"
+    },
+    {
+      "id": "409286",
+      "date_published": "2019-04-30 10:08:55",
+      "date_added": "2019-04-30 06:42:03",
+      "date_modified": "2019-04-30 07:36:08",
+      "title": "Elections 2019: SP chief Akhilesh Yadav seeks '72-year' ban on PM Modi for 'shameful' speech",
+      "source": "www.abplive.in",
+      "description": "Elections 2019: The Election Commission has recently barred several leaders including Uttar Pradesh Chief Minister Yogi Adityanath and Punjab Minister Navjot Singh Sidhu from campaigning for 72 hours due to poll code violations. '",
+      "tags": [
+        "akhilesh yadav",
+        "narendra modi",
+        "navjot singh sidhu",
+        "samajwadi party",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9lbGVjdGlvbnMtMjAxOS1zYW1handhZGkt\ncGFydHktcHJlc2lkZW50LWFraGlsZXNoLXlhZGF2LXNlZWtzLTcyLXllYXItYmFuLW9uLXBtLW1v\nZGktZm9yLXNoYW1lZnVsLXNwZWVjaC05Nzc3MjU=",
+      "short_url": "https://www.abplive.in/election/elections-2019-samajwadi-party-president-akhilesh-yadav-seeks-72-year-ban-on-pm-modi-for-shameful-speech-977725",
+      "engagement": "0",
+      "popularity": "154932000",
+      "tw_tweets": "36",
+      "tw_reach": "206572876",
+      "tw_favorites": "830",
+      "tw_retweets": "283",
+      "tw_since_id": "1123119866129539072",
+      "fb_shares": "35",
+      "fb_comments": "117",
+      "fb_reactions": "381",
+      "popularity_updated": "24",
+      "sentiment": "0",
+      "screen_name": "abpnewstv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 10:08",
+      "timestamp_published": "1556611735",
+      "collections": [
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "47"
+    },
+    {
+      "id": "410202",
+      "date_published": "2019-05-01 11:49:54",
+      "date_added": "2019-05-01 08:22:16",
+      "date_modified": "2019-05-03 03:51:09",
+      "title": "\"Yogi Adityanath Does Not Know How To Use A Laptop\": Akhilesh Yadav",
+      "source": "www.ndtv.com",
+      "description": "Samajwadi Party leader Akhilesh Yadav on Tuesday said that Uttar Pradesh Chief Minister Yogi Adityanath Nath is not distributing laptops to the young people in the state because he does not know how to use one.",
+      "tags": [
+        "akhilesh yadav",
+        "samajwadi party",
+        "yogi adityanath",
+        "yogi adityanath nath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nYWtoaWxlc2gteWFkYXYtc2F5cy15b2dpLWFkaXR5YW5hdGgtZG9lcy1ub3Qta25vdy1ob3ctdG8t\ndXNlLWEtbGFwdG9wLTIwMzEyMjU=",
+      "short_url": "https://goo.gl/fb/iKrSHC",
+      "engagement": "0",
+      "popularity": "51806200",
+      "tw_tweets": "258",
+      "tw_reach": "69068258",
+      "tw_favorites": "0",
+      "tw_retweets": "3152",
+      "tw_since_id": "1124069724697104390",
+      "fb_shares": "6",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "256",
+      "sentiment": "0",
+      "screen_name": "ndtvfeed",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 11:49",
+      "timestamp_published": "1556704194",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "277"
+    },
+    {
+      "id": "411202",
+      "date_published": "2019-05-02 14:42:52",
+      "date_added": "2019-05-02 11:17:10",
+      "date_modified": "2019-05-02 21:36:32",
+      "title": "Yogi Adityanath Vows To Kill 100 Naxals To Avenge Gadchiroli Attack In Which 16 Security Personnel Were Martyred",
+      "source": "swarajyamag.com",
+      "description": "Yogi Vows to Kill 100 Naxals to Avenge the Gadchiroli Attack",
+      "tags": [
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEveW9naS1hZGl0eWFuYXRoLXZvd3MtdG8ta2ls\nbC0xMDAtbmF4YWxzLXRvLWF2ZW5nZS1nYWRjaGlyb2xpLWF0dGFjay1pbi13aGljaC0xNi1zZWN1\ncml0eS1wZXJzb25uZWwtd2VyZS1tYXJ0eXJlZA==",
+      "short_url": "https://swarajyamag.com/insta/yogi-adityanath-vows-to-kill-100-naxals-to-avenge-gadchiroli-attack-in-which-16-security-personnel-were-martyred",
+      "engagement": "0",
+      "popularity": "996414",
+      "tw_tweets": "284",
+      "tw_reach": "1276909",
+      "tw_favorites": "804",
+      "tw_retweets": "22836",
+      "tw_since_id": "1124115488303226880",
+      "fb_shares": "122",
+      "fb_comments": "77",
+      "fb_reactions": "1299",
+      "popularity_updated": "136",
+      "sentiment": "-1",
+      "screen_name": "SwarajyaMag",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 14:42",
+      "timestamp_published": "1556800972",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "159"
+    },
+    {
+      "id": "411991",
+      "date_published": "2019-05-03 13:44:16",
+      "date_added": "2019-05-03 10:17:26",
+      "date_modified": "2019-05-03 10:17:27",
+      "title": "Dais is not for singing 'bhajans' but to attack opposition: Yogi on EC notice",
+      "source": "www.aninews.in",
+      "description": "Lucknow (Uttar Pradesh) [India], May 3 (ANI): Do we go to the dais to sing devotional songs? We go there to defeat the opposition party and hit out at them, Uttar Pradesh Chief Minister Yogi Adityanath said on Friday.",
+      "tags": [
+        "india",
+        "lucknow",
+        "opposition",
+        "uttar pradesh",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYW5pbmV3cy5pbi9uZXdzL25hdGlvbmFsL3BvbGl0aWNzL2RpYXMtaXMtbm90\nLWZvci1zaW5naW5nLWJoYWphbnMtYnV0LXRvLWF0dGFjay1vcHBvc2l0aW9uLXlvZ2ktb24tZWMt\nbm90aWNlMjAxOTA1MDMxMzIxNTcv",
+      "short_url": "https://www.aninews.in/news/national/politics/dias-is-not-for-singing-bhajans-but-to-attack-opposition-yogi-on-ec-notice20190503132157/",
+      "engagement": "0",
+      "popularity": "536027",
+      "tw_tweets": "534",
+      "tw_reach": "582776",
+      "tw_favorites": "0",
+      "tw_retweets": "65600",
+      "tw_since_id": "1124238110521356288",
+      "fb_shares": "3",
+      "fb_comments": "0",
+      "fb_reactions": "2",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Harishsoni_BJP",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 13:44",
+      "timestamp_published": "1556883856",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "412659",
+      "date_published": "2019-05-04 13:09:28",
+      "date_added": "2019-05-04 09:42:14",
+      "date_modified": "2019-05-17 06:46:10",
+      "title": "A Chronicle of the Crime Fiction That is Adityanath's Encounter Raj",
+      "source": "thewire.in",
+      "description": "In the last ten months, UP police has conducted four police encounters per day. The Wire met families of 14 people who were killed in these encounters by the police.",
+      "tags": [
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3JpZ2h0cy9jaHJvbmljbGUtY3JpbWUtZmljdGlvbi1hZGl0eWFu\nYXRocy1lbmNvdW50ZXItcmFq",
+      "short_url": "https://thewire.in/rights/chronicle-crime-fiction-adityanaths-encounter-raj",
+      "engagement": "0",
+      "popularity": "3638400",
+      "tw_tweets": "1258",
+      "tw_reach": "3593359",
+      "tw_favorites": "104",
+      "tw_retweets": "621237",
+      "tw_since_id": "1129221655140548609",
+      "fb_shares": "1075",
+      "fb_comments": "174",
+      "fb_reactions": "3249",
+      "popularity_updated": "499",
+      "sentiment": "-1",
+      "screen_name": "pervez_majeed13",
+      "status": "1",
+      "clicks": "2",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 13:09",
+      "timestamp_published": "1556968168",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "521"
+    },
+    {
+      "id": "413330",
+      "date_published": "2019-05-05 10:30:20",
+      "date_added": "2019-05-05 07:02:53",
+      "date_modified": "2019-05-06 04:02:36",
+      "title": "Lok Sabha elections: Yogi Adityanath unhappy over entry of 'muscleman' Rajan Tiwari in BJP,  meets Amit Shah",
+      "source": "www.abplive.in",
+      "description": "During his meet with Shah in Lucknow, Yogi told him that inducting such leaders damages party’s image. He also expressed objections over inducting Tiwari without any prior information to him.",
+      "tags": [
+        "amit shah",
+        "bjp",
+        "lucknow",
+        "rajan tiwari",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi9sb2stc2FiaGEtZWxlY3Rpb25zLXlvZ2kt\nYWRpdHlhbmF0aC11bmhhcHB5LW92ZXItZW50cnktb2YtbXVzY2xlbWFuLXJhamFuLXRpd2FyaS1p\nbi1ianAtbWVldHMtYW1pdC1zaGFoLTk4MTM4OQ==",
+      "short_url": "https://t.co/fkvR1a4Bzn",
+      "engagement": "0",
+      "popularity": "46252.8",
+      "tw_tweets": "202",
+      "tw_reach": "51167",
+      "tw_favorites": "0",
+      "tw_retweets": "5114",
+      "tw_since_id": "1125201913538961410",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "1",
+      "popularity_updated": "200",
+      "sentiment": "0",
+      "screen_name": "Abhishe39024471",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 10:30",
+      "timestamp_published": "1557045020",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "220"
+    },
+    {
+      "id": "414436",
+      "date_published": "2019-05-06 17:52:46",
+      "date_added": "2019-05-06 14:27:27",
+      "date_modified": "2019-05-22 08:56:33",
+      "title": "BJP ally SBSP quits Yogi Adityanath government in UP",
+      "source": "www.nationalheraldindia.com",
+      "description": "In the midst of Lok Sabha elections, a BJP ally on Monday claimed to have walked out of the Yogi Adityanath govt. Suheldev Bhartiya Samaj Party (SBSP) chief Om Prakash Rajbhar told reporters in Ballia that he has resigned from the Yogi Adityanath govt",
+      "tags": [
+        "bhartiya samaj party",
+        "bjp",
+        "om prakash rajbhar",
+        "sbsp",
+        "suheldev",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmF0aW9uYWxoZXJhbGRpbmRpYS5jb20vbmF0aW9uYWwvYmpwLWFsbHktc2Jz\ncC1xdWl0cy15b2dpLWFkaXR5YW5hdGgtZ292ZXJubWVudC1pbi11cA==",
+      "short_url": "https://www.nationalheraldindia.com/national/bjp-ally-sbsp-quits-yogi-adityanath-government-in-up",
+      "engagement": "0",
+      "popularity": "321741",
+      "tw_tweets": "385",
+      "tw_reach": "397022",
+      "tw_favorites": "74",
+      "tw_retweets": "14599",
+      "tw_since_id": "1131064124887068672",
+      "fb_shares": "95",
+      "fb_comments": "41",
+      "fb_reactions": "578",
+      "popularity_updated": "214",
+      "sentiment": "0",
+      "screen_name": "KSKBLUES",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 17:52",
+      "timestamp_published": "1557157966",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "230"
+    },
+    {
+      "id": "415186",
+      "date_published": "2019-05-07 18:16:20",
+      "date_added": "2019-05-07 14:52:08",
+      "date_modified": "2019-05-09 11:51:36",
+      "title": "Yogi Adityanath has slammed Priyanka Gandhi's behaviour in a viral video where she gigged as children were encouraged to abuse PM Modi in foul language",
+      "source": "www.opindia.com",
+      "description": "Priyanka Gandhi was seen giggling and cheering when children were made to shout abusive and derogatory slogans against the PM. - Latest India News from Opindia.com",
+      "tags": [
+        "mahatma gandhi",
+        "narendra modi",
+        "priyanka",
+        "priyanka gandhi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9nby10ZWFjaC1hYnVzZXMtdG8tY2hpbGRy\nZW4taW4taXRhbHkteW9naS1hZGl0eWFuYXRoLXNsYW1zLXByaXlhbmthLWdhbmRoaS1mb3Itdmlk\nZW8td2hlcmUta2lkcy1hYnVzZWQtcG0tbW9kaS8=",
+      "short_url": "https://www.opindia.com/2019/05/go-teach-abuses-to-children-in-italy-yogi-adityanath-slams-priyanka-gandhi-for-video-where-kids-abused-pm-modi/",
+      "engagement": "0",
+      "popularity": "3031290",
+      "tw_tweets": "792",
+      "tw_reach": "3135466",
+      "tw_favorites": "775",
+      "tw_retweets": "451480",
+      "tw_since_id": "1126421135975796736",
+      "fb_shares": "61",
+      "fb_comments": "13",
+      "fb_reactions": "327",
+      "popularity_updated": "759",
+      "sentiment": "-1",
+      "screen_name": "ShekharGokhale",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 18:16",
+      "timestamp_published": "1557245780",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "781"
+    },
+    {
+      "id": "415440",
+      "date_published": "2019-05-08 02:19:07",
+      "date_added": "2019-05-07 22:52:24",
+      "date_modified": "2019-05-08 02:56:23",
+      "title": "Campaigning for Gambhir, Adityanath says UP has edge over Delhi in infra",
+      "source": "indianexpress.com",
+      "description": "Crediting PM Narendra Modi for bringing “international recognition” to India, Adityanath mentioned several instances, including the listing of Azhar Masood as a global terrorist — which drew the loudest cheer during his 15-minute speech at Mandawali.",
+      "tags": [
+        "azhar masood",
+        "edge",
+        "narendra modi",
+        "terrorism",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvZ2FtYmhpci1hZGl0eWFuYXRoLXVw\nLWRlbGhpLWluZnJhc3RydWN0dXJlLWRlbGhpLWVsZWN0aW9ucy01NzE1OTQ0Lw==",
+      "short_url": "http://bit.ly/2J6ueQK",
+      "engagement": "0",
+      "popularity": "207105000",
+      "tw_tweets": "177",
+      "tw_reach": "276137740",
+      "tw_favorites": "1035",
+      "tw_retweets": "175",
+      "tw_since_id": "1125872204653125632",
+      "fb_shares": "8",
+      "fb_comments": "48",
+      "fb_reactions": "205",
+      "popularity_updated": "176",
+      "sentiment": "0",
+      "screen_name": "IndianExpress",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 02:19",
+      "timestamp_published": "1557274747",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "196"
+    },
+    {
+      "id": "416523",
+      "date_published": "2019-05-09 13:10:02",
+      "date_added": "2019-05-09 09:42:36",
+      "date_modified": "2019-05-10 03:26:16",
+      "title": "The New-Age Chant: From Nita Ambani to Yogi Adityanath, how everyone is making 'bhajans' cool again",
+      "source": "www.dailyo.in",
+      "description": "While our parents might remember buying Anuradha Paudwal cassettes, we literally have bhajans everywhere — in our WhatsApp forwards, in our music download apps and our Bollywood chartbusters.",
+      "tags": [
+        "anuradha paudwal",
+        "nita ambani",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL3ZhcmlldHkvZnJvbS1uaXRhLWFtYmFuaS10by15b2dpLWFk\naXR5YW5hdGgtaG93LWV2ZXJ5b25lLWlzLW1ha2luZy1iaGFqYW5zLXBvcHVsYXIta3VjaC1rdWNo\nLWhvdGEtaGFpLWJvbGx5d29vZC1iaGFqYW5zLWFudXAtamFsb3RhLXQtc2VyaWVzL3N0b3J5LzEv\nMzA1NjIuaHRtbA==",
+      "short_url": "http://ow.ly/8AOO50u4u7q",
+      "engagement": "0",
+      "popularity": "10306600",
+      "tw_tweets": "118",
+      "tw_reach": "13740858",
+      "tw_favorites": "178",
+      "tw_retweets": "140",
+      "tw_since_id": "1126600261580070932",
+      "fb_shares": "6",
+      "fb_comments": "15",
+      "fb_reactions": "180",
+      "popularity_updated": "116",
+      "sentiment": "0",
+      "screen_name": "IndiaTodayFLASH",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 13:10",
+      "timestamp_published": "1557400202",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "138"
+    },
+    {
+      "id": "417154",
+      "date_published": "2019-05-10 10:56:31",
+      "date_added": "2019-05-10 07:32:02",
+      "date_modified": "2019-05-10 10:46:14",
+      "title": "Can solve Ayodhya dispute within 24 hours if SC cannot, says Yogi Adityanath",
+      "source": "www.hindustantimes.com",
+      "description": "The chief minister said, “If Ayodhya dispute is resolved, triple talaq ban is implemented, politics of appeasement in India will end forever.”",
+      "tags": [
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3Mvd2Utd2lsbC1yZXNvbHZl\nLXJhbS1qYW5tYWJob29taS1kaXNwdXRlLXdpdGhpbi0yNC1ob3Vycy1jbS15b2dpLWFkaXR5YW5h\ndGgvc3RvcnktUXNoOUw3R3NHR1BNQm96RFVvcXlCSS5odG1s",
+      "short_url": "https://goo.gl/eKr1ZB",
+      "engagement": "0",
+      "popularity": "178558",
+      "tw_tweets": "81",
+      "tw_reach": "222848",
+      "tw_favorites": "0",
+      "tw_retweets": "3402",
+      "tw_since_id": "1126720150185529347",
+      "fb_shares": "138",
+      "fb_comments": "429",
+      "fb_reactions": "2158",
+      "popularity_updated": "80",
+      "sentiment": "0",
+      "screen_name": "ShravanSRP",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 10:56",
+      "timestamp_published": "1557478591",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "101"
+    },
+    {
+      "id": "417751",
+      "date_published": "2019-05-11 10:11:07",
+      "date_added": "2019-05-11 06:48:11",
+      "date_modified": "2019-05-11 14:46:44",
+      "title": "Ram Temple In Ayodhya Will Soon Come True After Diwali, Says Yogi Adityanath",
+      "source": "www.outlookindia.com",
+      "description": "The statement from the chief minister came a day after Samajwadi Party (SP) leader Azam Khan stated that the Uttar Pradesh government will soon announce a statue for Lord Ram in Ayodhya.",
+      "tags": [
+        "azam khan",
+        "samajwadi party",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3V0bG9va2luZGlhLmNvbS93ZWJzaXRlL3N0b3J5L3JhbS10ZW1wbGUtaW4t\nYXlvZGh5YS13aWxsLXNvb24tY29tZS10cnVlLWFmdGVyLWRpd2FsaS1zYXlzLXlvZ2ktYWRpdHlh\nbmF0aC8zMTk1Nzg=",
+      "short_url": "https://www.outlookindia.com/website/story/ram-temple-in-ayodhya-will-soon-come-true-after-diwali-says-yogi-adityanath/319578",
+      "engagement": "0",
+      "popularity": "66830.2",
+      "tw_tweets": "180",
+      "tw_reach": "73920",
+      "tw_favorites": "27",
+      "tw_retweets": "7290",
+      "tw_since_id": "1127170187826827265",
+      "fb_shares": "2",
+      "fb_comments": "21",
+      "fb_reactions": "85",
+      "popularity_updated": "176",
+      "sentiment": "0",
+      "screen_name": "BhavikaKapoor5",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 10:11",
+      "timestamp_published": "1557562267",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "201"
+    },
+    {
+      "id": "418747",
+      "date_published": "2019-05-12 22:31:55",
+      "date_added": "2019-05-12 19:06:44",
+      "date_modified": "2019-05-13 00:36:09",
+      "title": "Lok Sabha Election 2019: SP, BSP and Congress looted public resources, says Yogi Adityanath - The Financial Express",
+      "source": "www.financialexpress.com",
+      "description": "Adityanath claimed that the SP-BSP-RLD alliance was worried after seeing India \"growing and developing\" each passing day.",
+      "tags": [
+        "bahujan samaj party",
+        "congress",
+        "india",
+        "samajwadi party",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vZWxlY3Rpb25zL2xvay1zYWJoYS1lbGVj\ndGlvbi0yMDE5LXNwLWJzcC1hbmQtY29uZ3Jlc3MtbG9vdGVkLXB1YmxpYy1yZXNvdXJjZXMtc2F5\ncy15b2dpLWFkaXR5YW5hdGgvMTU3NjE1OS8=",
+      "short_url": "https://www.financialexpress.com/elections/lok-sabha-election-2019-sp-bsp-and-congress-looted-public-resources-says-yogi-adityanath/1576159/",
+      "engagement": "0",
+      "popularity": "26242800",
+      "tw_tweets": "199",
+      "tw_reach": "34989226",
+      "tw_favorites": "393",
+      "tw_retweets": "64",
+      "tw_since_id": "1127621395771547652",
+      "fb_shares": "6",
+      "fb_comments": "19",
+      "fb_reactions": "81",
+      "popularity_updated": "198",
+      "sentiment": "0",
+      "screen_name": "FinancialXpress",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 22:31",
+      "timestamp_published": "1557693115",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "224"
+    },
+    {
+      "id": "419458",
+      "date_published": "2019-05-13 22:48:02",
+      "date_added": "2019-05-13 19:22:53",
+      "date_modified": "2019-05-14 00:46:09",
+      "title": "Samajwadi Party's bicycle will puncture under weight of BSP's elephant, says Yogi Adityanath",
+      "source": "www.indiatoday.in",
+      "description": "Uttar Pradesh Chief Minister Yogi Adityanath made the statement to take a dig at SP-BSP alliance in Uttar Pradesh for 2019 Lok Sabha elections.",
+      "tags": [
+        "bahujan samaj party",
+        "samajwadi party",
+        "uttar",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nc2FtYWp3YWRpLXBhcnR5LXMtYmljeWNsZS13aWxsLXB1bmN0dXJlLXVuZGVyLXdlaWdodC1vZi1i\nc3Atcy1lbGVwaGFudC1zYXlzLXlvZ2ktYWRpdHlhbmF0aC0xNTI0MjA3LTIwMTktMDUtMTM=",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/samajwadi-party-s-bicycle-will-puncture-under-weight-of-bsp-s-elephant-says-yogi-adityanath-1524207-2019-05-13",
+      "engagement": "0",
+      "popularity": "43973000",
+      "tw_tweets": "199",
+      "tw_reach": "58627389",
+      "tw_favorites": "0",
+      "tw_retweets": "864",
+      "tw_since_id": "1128006863411396610",
+      "fb_shares": "16",
+      "fb_comments": "80",
+      "fb_reactions": "344",
+      "popularity_updated": "198",
+      "sentiment": "0",
+      "screen_name": "IndiaTodayFLASH",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 22:48",
+      "timestamp_published": "1557780482",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "3",
+          "name": "Mahagathbandhan",
+          "slug": "mahagathbandhan"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "163",
+          "query": "\"Samajwadi Party\" OR SamajwadiParty OR Samajwadi OR \"Abu Azmi\" OR abuasimazmi"
+        }
+      ],
+      "popularity_logs": "212"
+    },
+    {
+      "id": "419681",
+      "date_published": "2019-05-14 08:26:35",
+      "date_added": "2019-05-14 05:01:40",
+      "date_modified": "2019-05-14 21:31:38",
+      "title": "Yogi Adityanath denied permission to hold rallies in West Bengal, says BJP",
+      "source": "www.indiatoday.in",
+      "description": "The Bharatiya Janata Party claimed that permission for Uttar Pradesh Chief Minister Yogi Adityanath's Kolkata rally on May 15 has been denied.",
+      "tags": [
+        "bengal",
+        "bjp",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9wcm9ncmFtbWUvY291bnRkb3duLXdpdGgtcmFqZGVl\ncC1zYXJkZXNhaS92aWRlby95b2dpLWFkaXR5YW5hdGgtZGVuaWVkLXBlcm1pc3Npb24tdG8taG9s\nZC1yYWxsaWVzLWluLXdlc3QtYmVuZ2FsLXNheXMtYmpwLTE1MjQyNjAtMjAxOS0wNS0xMw==",
+      "short_url": "http://bit.ly/2YwoLqp",
+      "engagement": "0",
+      "popularity": "56457",
+      "tw_tweets": "62",
+      "tw_reach": "74998",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1128358401497600000",
+      "fb_shares": "1",
+      "fb_comments": "10",
+      "fb_reactions": "53",
+      "popularity_updated": "60",
+      "sentiment": "0",
+      "screen_name": "NewsWestBengal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-05-2019 08:26",
+      "timestamp_published": "1557815195",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "80"
+    },
+    {
+      "id": "420794",
+      "date_published": "2019-05-15 20:06:00",
+      "date_added": "2019-05-15 16:42:41",
+      "date_modified": "2019-05-16 21:42:03",
+      "title": "‘I do not restrict Durga Puja timings because of Muharram’, says Adityanath",
+      "source": "www.hindustantimes.com",
+      "description": "Adityanath said there was no appeasement of minorities in Uttar Pradesh.",
+      "tags": [
+        "uttar pradesh",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvaS1kby1u\nb3QtcmVzdHJpY3QtZHVyZ2EtcHVqYS10aW1pbmdzLWJlY2F1c2Utb2YtbXVoYXJyYW0tc2F5cy1h\nZGl0eWFuYXRoL3N0b3J5LVBLR09majFoWXh0R3J3MnhCcWVKM08uaHRtbA==",
+      "short_url": "http://www.hindustantimes.com/lok-sabha-elections/i-do-not-restrict-durga-puja-timings-because-of-muharram-says-adityanath/story-PKGOfj1hYxtGrw2xBqeJ3O.html",
+      "engagement": "0",
+      "popularity": "274023000",
+      "tw_tweets": "393",
+      "tw_reach": "365333490",
+      "tw_favorites": "101",
+      "tw_retweets": "11709",
+      "tw_since_id": "1129088673100763136",
+      "fb_shares": "97",
+      "fb_comments": "579",
+      "fb_reactions": "1483",
+      "popularity_updated": "315",
+      "sentiment": "0",
+      "screen_name": "HindustanTimes",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-05-2019 20:06",
+      "timestamp_published": "1557943560",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "331"
+    },
+    {
+      "id": "421043",
+      "date_published": "2019-05-16 08:37:14",
+      "date_added": "2019-05-16 05:11:10",
+      "date_modified": "2019-05-17 10:01:12",
+      "title": "\"PM Modi Will Run Nation For 25 Years\": Yogi Adityanath Invokes RM Lohia",
+      "source": "www.ndtv.com",
+      "description": "Uttar Pradesh Chief Minister Yogi Adityanath on Wednesday invoked Ram Manohar Lohia to suggest that Narendra Modi is set to run the country for many more years because of his focus on providing toilets and fuel for the poor.",
+      "tags": [
+        "narendra modi",
+        "ram manohar lohia",
+        "rm",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy95b2dpLWFkaXR5YW5hdGgtaW52b2tlcy1y\nbS1sb2hpYS1zYXlzLXBtLW1vZGktd2lsbC1ydW4tbmF0aW9uLWZvci0yNS15ZWFycy0yMDM4MzEx",
+      "short_url": "http://bit.ly/2LJm5UH",
+      "engagement": "0",
+      "popularity": "26313600",
+      "tw_tweets": "178",
+      "tw_reach": "35072834",
+      "tw_favorites": "75",
+      "tw_retweets": "1156",
+      "tw_since_id": "1129269067670409216",
+      "fb_shares": "88",
+      "fb_comments": "689",
+      "fb_reactions": "2266",
+      "popularity_updated": "162",
+      "sentiment": "0",
+      "screen_name": "NewsieGear",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 08:37",
+      "timestamp_published": "1557988634",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "182"
+    },
+    {
+      "id": "421838",
+      "date_published": "2019-05-17 12:06:18",
+      "date_added": "2019-05-17 08:42:14",
+      "date_modified": "2019-05-17 10:06:14",
+      "title": "Yogi Adityanath claimes BJP will win more than 74 seats in UP",
+      "source": "www.abplive.in",
+      "description": "Uttar Pradesh chief minister Yogi Adityanath, in an exclusive interview with ABP News claimed that BJP will get more than 74 seats in the state and above 300 seats in Lok Sabha elections.",
+      "tags": [
+        "bjp",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi92aWRlb3MveW9naS1hZGl0eWFuYXRoLWNsYWltZXMtYmpw\nLXdpbGwtd2luLW1vcmUtdGhhbi03NC1zZWF0cy1pbi11cC05OTEzMzc=",
+      "short_url": "https://www.abplive.in/videos/yogi-adityanath-claimes-bjp-will-win-more-than-74-seats-in-up-991337",
+      "engagement": "0",
+      "popularity": "9793.5",
+      "tw_tweets": "37",
+      "tw_reach": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1129274425977839617",
+      "fb_shares": "71",
+      "fb_comments": "947",
+      "fb_reactions": "3213",
+      "popularity_updated": "36",
+      "sentiment": "0",
+      "screen_name": "ssumitkumar568",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 12:06",
+      "timestamp_published": "1558087578",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "60"
+    },
+    {
+      "id": "422429",
+      "date_published": "2019-05-18 09:40:00",
+      "date_added": "2019-05-18 06:12:08",
+      "date_modified": "2019-05-18 09:31:15",
+      "title": "Hindus being persecuted in Mamata's West Bengal: Yogi Adityanath",
+      "source": "www.indiatoday.in",
+      "description": "Yogi Adityanath alleged that Mamata Banerjee was falsely accusing BJP of violence to hide the brutality matted against the Hindu community in West Bengal.",
+      "tags": [
+        "bengal",
+        "bjp",
+        "mamata banerjee",
+        "violence",
+        "west bengal",
+        "yogi adityanath yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\neW9naS1hZGl0eWFuYXRoLWV4Y2x1c2l2ZS1pbnRlcnZpZXctbWFtYXRhLWJhbmVyamVlLXdlc3Qt\nYmVuZ2FsLXZpZHlhc2FnYXItdmFuZGFsaXNtLWhpbmR1cy0xNTI1OTcyLTIwMTktMDUtMTU=",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/yogi-adityanath-exclusive-interview-mamata-banerjee-west-bengal-vidyasagar-vandalism-hindus-1525972-2019-05-15",
+      "engagement": "0",
+      "popularity": "52274.5",
+      "tw_tweets": "91",
+      "tw_reach": "68523",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1129599995835871232",
+      "fb_shares": "9",
+      "fb_comments": "213",
+      "fb_reactions": "106",
+      "popularity_updated": "90",
+      "sentiment": "-1",
+      "screen_name": "VU3UJM",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 09:40",
+      "timestamp_published": "1558165200",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "115"
+    },
+    {
+      "id": "423014",
+      "date_published": "2019-05-19 07:58:01",
+      "date_added": "2019-05-19 04:31:53",
+      "date_modified": "2019-05-19 05:11:35",
+      "title": "BJP will form government for second consecutive time: Yogi Adityanath after exercising his franchise",
+      "source": "www.indiatvnews.com",
+      "description": "Polling is underway for seventh and the last phase of Lok Sabha election 2019, on Sunday. In this phase, 59 constituencies, spread over seven states and one union territory, will go to polls.",
+      "tags": [
+        "bjp",
+        "franchise",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0dm5ld3MuY29tL25ld3MvaW5kaWEtbG9rLXNhYmhhLWVsZWN0aW9u\nLTIwMTktYmpwLXdpbGwtZm9ybS1nb3Zlcm5tZW50LWZvci1zZWNvbmQtY29uc2VjdXRpdmUtdGlt\nZS15b2dpLWFkaXR5YW5hdGgtNTIwOTQy",
+      "short_url": "https://www.indiatvnews.com/news/india-lok-sabha-election-2019-bjp-will-form-government-for-second-consecutive-time-yogi-adityanath-520942",
+      "engagement": "0",
+      "popularity": "9834080",
+      "tw_tweets": "32",
+      "tw_reach": "13110762",
+      "tw_favorites": "512",
+      "tw_retweets": "310",
+      "tw_since_id": "1129949509973233664",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "18",
+      "sentiment": "0",
+      "screen_name": "indiatvnews",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 07:58",
+      "timestamp_published": "1558245481",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "37"
+    },
+    {
+      "id": "423978",
+      "date_published": "2019-05-20 11:10:12",
+      "date_added": "2019-05-20 07:43:01",
+      "date_modified": "2019-05-21 00:51:12",
+      "title": "‘Dismiss OP Rajbhar’: Yogi Adityanath asks Governor to sack disgruntled ally",
+      "source": "www.hindustantimes.com",
+      "description": "Rajbhar, a disgruntled ally of the BJP, allegedly urged supporters to thrash ruling party workers with shoes if they spread “misinformation” about his party.",
+      "tags": [
+        "bjp",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvZGlzbWlzcy1vcC1yYWpi\naGFyLXlvZ2ktYWRpdHlhbmF0aC1hc2tzLWdvdmVybm9yLXRvLXNhY2stZGlzZ3J1bnRsZWQtYWxs\neS9zdG9yeS14M2hUbnY1RmtYd3NyUGNpTlFNRmFMLmh0bWw=",
+      "short_url": "https://www.hindustantimes.com/india-news/dismiss-op-rajbhar-yogi-adityanath-asks-governor-to-sack-disgruntled-ally/story-x3hTnv5FkXwsrPciNQMFaL.html",
+      "engagement": "0",
+      "popularity": "672474",
+      "tw_tweets": "350",
+      "tw_reach": "735705",
+      "tw_favorites": "62",
+      "tw_retweets": "80003",
+      "tw_since_id": "1130676158276575237",
+      "fb_shares": "13",
+      "fb_comments": "7",
+      "fb_reactions": "103",
+      "popularity_updated": "148",
+      "sentiment": "0",
+      "screen_name": "NeerajDhaked",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 11:10",
+      "timestamp_published": "1558343412",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "169"
+    },
+    {
+      "id": "424683",
+      "date_published": "2019-05-21 05:34:11",
+      "date_added": "2019-05-21 02:07:28",
+      "date_modified": "2019-05-21 06:31:12",
+      "title": "Uttar Pradesh CM Yogi Adityanath is now BJP's star campaigner, second only to PM Narendra Modi",
+      "source": "www.newindianexpress.com",
+      "description": "Yogi Adityanath's popularity and crowd pulling capacity has endeared him to the Bharatiya Janata Party and RSS cadres.",
+      "tags": [
+        "bjp",
+        "narendra modi yogi adityanath",
+        "rss",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAxOS9tYXkvMjAvdXR0YXIt\ncHJhZGVzaC1jbS15b2dpLWFkaXR5YW5hdGgtaXMtbm93LWJqcHMtc3Rhci1jYW1wYWlnbmVyLXNl\nY29uZC1vbmx5LXRvLXBtLW5hcmVuZHJhLW1vZGktMTk3OTQ0Ny5odG1s",
+      "short_url": "http://www.newindianexpress.com/nation/2019/may/20/uttar-pradesh-cm-yogi-adityanath-is-now-bjps-star-campaigner-second-only-to-pm-narendra-modi-1979447.html",
+      "engagement": "0",
+      "popularity": "366486",
+      "tw_tweets": "159",
+      "tw_reach": "486755",
+      "tw_favorites": "67",
+      "tw_retweets": "582",
+      "tw_since_id": "1130834590585638912",
+      "fb_shares": "10",
+      "fb_comments": "16",
+      "fb_reactions": "115",
+      "popularity_updated": "147",
+      "sentiment": "0",
+      "screen_name": "Dharma2X",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 05:34",
+      "timestamp_published": "1558409651",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "169"
+    },
+    {
+      "id": "426781",
+      "date_published": "2019-05-23 16:26:00",
+      "date_added": "2019-05-23 13:03:04",
+      "date_modified": "2019-05-23 13:32:25",
+      "title": "Lok Sabha Election 2019: 'There is no place for dynasty rulers, corrupt leaders in this nation' says Yogi Adityanath",
+      "source": "www.wionews.com",
+      "description": "Get set, count! EC has begun with the process that would ultimately decide which party and alliance could form the next government in the country.  'There is no place for dynasty rulers, corrupt leaders in this nation' says Yogi Adityanath",
+      "tags": [
+        "joel embiid",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cud2lvbmV3cy5jb20vdmlkZW9zL2xvay1zYWJoYS1lbGVjdGlvbi0yMDE5LXRo\nZXJlLWlzLW5vLXBsYWNlLWZvci1keW5hc3R5LXJ1bGVycy1jb3JydXB0LWxlYWRlcnMtaW4tdGhp\ncy1uYXRpb24tc2F5cy15b2dpLWFkaXR5YW5hdGgtMjIwOTQ5",
+      "short_url": "https://www.wionews.com/videos/lok-sabha-election-2019-there-is-no-place-for-dynasty-rulers-corrupt-leaders-in-this-nation-says-yogi-adityanath-220949",
+      "engagement": "0",
+      "popularity": "747910",
+      "tw_tweets": "15",
+      "tw_reach": "996638",
+      "tw_favorites": "346",
+      "tw_retweets": "38",
+      "tw_since_id": "1131514109709541376",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "5",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "WIONews",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 16:26",
+      "timestamp_published": "1558621560",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "25"
+    },
+    {
+      "id": "427206",
+      "date_published": "2019-05-24 00:26:28",
+      "date_added": "2019-05-23 21:02:32",
+      "date_modified": "2019-05-24 16:37:29",
+      "title": "Bypoll loss to LS win: How Yogi Adityanath turned game changer",
+      "source": "www.hindustantimes.com",
+      "description": "Heading a BJP government in the state (the saffron party won a near two-thirds majority in the 2017 state polls), Adityanath was seen as having failed to delivered his pocket borough of Gorakhpur to the party.",
+      "tags": [
+        "bjp",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvYnlwb2xs\nLWxvc3MtdG8tbHMtd2luLWhvdy15b2dpLWFkaXR5YW5hdGgtdHVybmVkLWdhbWUtY2hhbmdlci9z\ndG9yeS11Q2g0S25ING9Qc1c5WndiNW90Z0dQLmh0bWw=",
+      "short_url": "http://www.hindustantimes.com/lok-sabha-elections/bypoll-loss-to-ls-win-how-yogi-adityanath-turned-game-changer/story-uCh4KnH4oPsW9Zwb5otgGP.html",
+      "engagement": "0",
+      "popularity": "71509.2",
+      "tw_tweets": "133",
+      "tw_reach": "91756",
+      "tw_favorites": "58",
+      "tw_retweets": "992",
+      "tw_since_id": "1131968661353144321",
+      "fb_shares": "8",
+      "fb_comments": "12",
+      "fb_reactions": "429",
+      "popularity_updated": "78",
+      "sentiment": "0",
+      "screen_name": "HindustanTimes",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 00:26",
+      "timestamp_published": "1558650388",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "93"
+    },
+    {
+      "id": "428461",
+      "date_published": "2019-05-25 00:16:56",
+      "date_added": "2019-05-24 20:52:02",
+      "date_modified": "2019-05-25 08:16:14",
+      "title": "UP voters rejected clan and caste politics: Yogi Adityanath | India News - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: LUCKNOW: Chief minister Yogi Adityanath Friday said the Uttar Pradesh voters rejected the clan, caste and dynasty-driven politics in the state in the .",
+      "tags": [
+        "caste",
+        "india",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaW5kaWEvdXAtdm90ZXJzLXJlamVj\ndGVkLWNsYW4tYW5kLWNhc3RlLXBvbGl0aWNzLXlvZ2ktYWRpdHlhbmF0aC9hcnRpY2xlc2hvdy82\nOTQ4ODY5NC5jbXM=",
+      "short_url": "https://timesofindia.indiatimes.com/india/up-voters-rejected-clan-and-caste-politics-yogi-adityanath/articleshow/69488694.cms",
+      "engagement": "0",
+      "popularity": "1239510",
+      "tw_tweets": "655",
+      "tw_reach": "392043",
+      "tw_favorites": "0",
+      "tw_retweets": "629699",
+      "tw_since_id": "1132255966894776320",
+      "fb_shares": "18",
+      "fb_comments": "8",
+      "fb_reactions": "94",
+      "popularity_updated": "32",
+      "sentiment": "0",
+      "screen_name": "JaideepMathur6",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 00:16",
+      "timestamp_published": "1558736216",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "50"
+    },
+    {
+      "id": "429775",
+      "date_published": "2019-05-26 12:24:00",
+      "date_added": "2019-05-26 08:57:20",
+      "date_modified": "2019-05-28 05:56:11",
+      "title": "Mandate for creating new India's new Uttar Pradesh: Adityanath",
+      "source": "www.indiatoday.in",
+      "description": "Uttar Pradesh Chief Minister Yogi Adityanath said the massive mandate in the Lok Sabha polls was a mandate for creating \"new India's new Uttar Pradesh\".",
+      "tags": [
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvc3RvcnkveW9naS1hZGl0eWFuYXRo\nLW1hbmRhdGUtdXR0YXItcHJhZGVzaC0xNTM0OTMyLTIwMTktMDUtMjY=",
+      "short_url": "https://t.co/uy8cHYKFsU",
+      "engagement": "0",
+      "popularity": "557270",
+      "tw_tweets": "436",
+      "tw_reach": "700895",
+      "tw_favorites": "228",
+      "tw_retweets": "15483",
+      "tw_since_id": "1133205574055866371",
+      "fb_shares": "154",
+      "fb_comments": "510",
+      "fb_reactions": "2706",
+      "popularity_updated": "427",
+      "sentiment": "0",
+      "screen_name": "drrnsing",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 12:24",
+      "timestamp_published": "1558866240",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "447"
+    },
+    {
+      "id": "430197",
+      "date_published": "2019-05-27 01:49:49",
+      "date_added": "2019-05-26 22:22:04",
+      "date_modified": "2019-05-26 22:22:07",
+      "title": "BJP's strong show in UP establishes Yogi Aditaynath saffron party face after Modi, Shah",
+      "source": "www.newindianexpress.com",
+      "description": "BJP’s victory has now established UP CM Yogi Adityanath as the third most prominent face of the party after Narendra Modi and Amit Shah.",
+      "tags": [
+        "amit shah",
+        "bjp",
+        "narendra modi",
+        "yogi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cDovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9uYXRpb24vMjAxOS9tYXkvMjYvYmpwcy1z\ndHJvbmctc2hvdy1pbi11cC1lc3RhYmxpc2hlcy15b2dpLWFkaXRheW5hdGgtc2FmZnJvbi1wYXJ0\neS1mYWNlLWFmdGVyLW1vZGktc2hhaC0xOTgxODQ0Lmh0bWw=",
+      "short_url": "http://www.newindianexpress.com/nation/2019/may/26/bjps-strong-show-in-up-establishes-yogi-aditaynath-saffron-party-face-after-modi-shah-1981844.html",
+      "engagement": "0",
+      "popularity": "1500.5",
+      "tw_tweets": "7",
+      "tw_reach": "1180",
+      "tw_favorites": "0",
+      "tw_retweets": "78",
+      "tw_since_id": "1133036804968370176",
+      "fb_shares": "20",
+      "fb_comments": "22",
+      "fb_reactions": "174",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "shivamrutham",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 01:49",
+      "timestamp_published": "1558914589",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "431893",
+      "date_published": "2019-05-28 18:13:43",
+      "date_added": "2019-05-28 14:48:05",
+      "date_modified": "2019-05-28 16:46:14",
+      "title": "Spurious Liquor Claims 12 Lives in UP’s Barabanki, 40 Taken Ill | NewsClick",
+      "source": "www.newsclick.in",
+      "description": "Adityanath government smells political conspiracy, orders probe.",
+      "tags": [
+        "barabanki",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3c2NsaWNrLmluL3NwdXJpb3VzLWxpcXVvci1jbGFpbXMtMTItbGl2ZXMt\nVVAtYmFyYWJhbmtpLTQwLWlsbA==",
+      "short_url": "https://www.newsclick.in/spurious-liquor-claims-12-lives-UP-barabanki-40-ill",
+      "engagement": "0",
+      "popularity": "279257",
+      "tw_tweets": "30",
+      "tw_reach": "371634",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1133353154441932801",
+      "fb_shares": "6",
+      "fb_comments": "187",
+      "fb_reactions": "9",
+      "popularity_updated": "29",
+      "sentiment": "0",
+      "screen_name": "newsclickin",
+      "status": "1",
+      "clicks": "1",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 18:13",
+      "timestamp_published": "1559060023",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "43"
+    },
+    {
+      "id": "432513",
+      "date_published": "2019-05-29 09:03:03",
+      "date_added": "2019-05-29 05:36:53",
+      "date_modified": "2019-05-30 06:26:12",
+      "title": "Yogi Adityanath govt approves setting up corpus for cow protection",
+      "source": "www.indiatoday.in",
+      "description": "The funding for corpus will be raised through charitable institutions, donations, NGO's, state and central government, individuals and industrial houses, said state health minister Siddharth Nath Singh.",
+      "tags": [
+        "alfred gabriel nathorst",
+        "charanjit singh",
+        "cow",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9zdG9yeS95b2dpLWFkaXR5YW5hdGgtZ292\ndC1hcHByb3Zlcy1zZXR0aW5nLXVwLWNvcnB1cy1mb3ItY293LXByb3RlY3Rpb24tMTUzNzA4Ni0y\nMDE5LTA1LTI5",
+      "short_url": "https://www.indiatoday.in/india/story/yogi-adityanath-govt-approves-setting-up-corpus-for-cow-protection-1537086-2019-05-29",
+      "engagement": "0",
+      "popularity": "51481700",
+      "tw_tweets": "57",
+      "tw_reach": "68624324",
+      "tw_favorites": "757",
+      "tw_retweets": "209",
+      "tw_since_id": "1133932343574634496",
+      "fb_shares": "337",
+      "fb_comments": "945",
+      "fb_reactions": "4082",
+      "popularity_updated": "46",
+      "sentiment": "0",
+      "screen_name": "IndiaToday",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 09:03",
+      "timestamp_published": "1559113383",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "59"
+    },
+    {
+      "id": "434095",
+      "date_published": "2019-05-30 19:38:22",
+      "date_added": "2019-05-30 16:12:15",
+      "date_modified": "2019-05-30 16:36:28",
+      "title": "\"Moment of pride to again hear- 'I, Narendra Damodar Das Modi...'\", UP CM Yogi Adityanath congratulates PM Modi and his council of ministers ahead of oath ceremony - Republic World",
+      "source": "www.republicworld.com",
+      "description": "Post the thumping victory of the BJP in the 2019 Lok Sabha elections, PM Narendra Modi along with his council of ministers will take his oath-of-office in a grand swearing-in ceremony on Thursday, May 30, 2019.",
+      "tags": [
+        "bjp",
+        "narendra modi",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9wb2xpdGljcy9tb21lbnQt\nb2YtcHJpZGUtdG8tYWdhaW4taGVhci1pLW5hcmVuZHJhLWRhbW9kYXItZGFzLW1vZGktZG90LXVw\nLWNtLXlvZ2ktYWRpdHlhbmF0aC1jb25ncmF0dWxhdGVzLXBtLW1vZGktYW5kLWhpcy1jb3VuY2ls\nLW9mLW1pbmlzdGVycy1haGVhZC1vZi1vYXRoLWNlcmVtb255",
+      "short_url": "https://www.republicworld.com/india-news/politics/moment-of-pride-to-again-hear-i-narendra-damodar-das-modi-dot-up-cm-yogi-adityanath-congratulates-pm-modi-and-his-council-of-ministers-ahead-of-oath-ceremony",
+      "engagement": "0",
+      "popularity": "12814",
+      "tw_tweets": "39",
+      "tw_reach": "11443",
+      "tw_favorites": "0",
+      "tw_retweets": "933",
+      "tw_since_id": "1134357829387558912",
+      "fb_shares": "85",
+      "fb_comments": "13",
+      "fb_reactions": "1142",
+      "popularity_updated": "12",
+      "sentiment": "0",
+      "screen_name": "AbhiRockyz",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 19:38",
+      "timestamp_published": "1559237902",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "435084",
+      "date_published": "2019-05-31 21:34:04",
+      "date_added": "2019-05-31 18:07:13",
+      "date_modified": "2019-05-31 22:56:12",
+      "title": "Three women bikers to ride from Varanasi to London: Flag off by Yogi Adityanath",
+      "source": "www.financialexpress.com",
+      "description": "Their journey, which is set to commence on June 5 this year, from the city of Varanasi in the state of Uttar Pradesh, will include covering 23 countries across 3 continents.",
+      "tags": [
+        "flag",
+        "london",
+        "varanasi",
+        "women",
+        "yogi adityanath"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vYXV0by9iaWtlLW5ld3MvdGhyZWUtd29t\nZW4tYmlrZXJzLXRvLXJpZGUtZnJvbS12YXJhbmFzaS10by1sb25kb24tZmxhZy1vZmYtYnkteW9n\naS1hZGl0eWFuYXRoLzE1OTQ0NTgv",
+      "short_url": "https://www.financialexpress.com/auto/bike-news/three-women-bikers-to-ride-from-varanasi-to-london-flag-off-by-yogi-adityanath/1594458/",
+      "engagement": "0",
+      "popularity": "15475.2",
+      "tw_tweets": "119",
+      "tw_reach": "20265",
+      "tw_favorites": "0",
+      "tw_retweets": "84",
+      "tw_since_id": "1134511874014425088",
+      "fb_shares": "4",
+      "fb_comments": "0",
+      "fb_reactions": "10",
+      "popularity_updated": "118",
+      "sentiment": "0",
+      "screen_name": "YogiAjayBisht",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 21:34",
+      "timestamp_published": "1559331244",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "148",
+          "query": "\"Shiromani Akali Dal\" OR ShiromaniAkaliDal OR ShiromaniAkali OR \"Shiv Sena\" OR ShivSena OR \"Yogi Adityanath\" OR Adityanath"
+        }
+      ],
+      "popularity_logs": "136"
+    }
+  ],
+  "ids": [
+    "417751",
+    "401757",
+    "386875",
+    "394292",
+    "385870",
+    "426781",
+    "403273",
+    "390191",
+    "421838",
+    "416523",
+    "383356",
+    "432513",
+    "407026",
+    "397508",
+    "387742",
+    "402328",
+    "383934",
+    "406912",
+    "434095",
+    "415440",
+    "427206",
+    "405011",
+    "415186",
+    "419458",
+    "422429",
+    "394753",
+    "395900",
+    "423978",
+    "409286",
+    "392793",
+    "384857",
+    "389847",
+    "411202",
+    "424683",
+    "431893",
+    "408263",
+    "428461",
+    "391399",
+    "399378",
+    "405770",
+    "410202",
+    "413330",
+    "414436",
+    "418747",
+    "421043",
+    "417154",
+    "392430",
+    "399703",
+    "388677",
+    "377058",
+    "382617",
+    "397950",
+    "411991",
+    "435084",
+    "400947",
+    "430197",
+    "385891",
+    "419681",
+    "403608",
+    "423014",
+    "408798",
+    "420794",
+    "429775",
+    "376525",
+    "376689",
+    "379162",
+    "412659"
+  ],
+  "message": "OK"
+}

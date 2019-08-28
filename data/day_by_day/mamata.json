@@ -1,0 +1,3870 @@
+{
+  "error": false,
+  "properties": {
+    "my_url": "v0/articles/get?ids=418024,401837,387462,394110,385122,427065,403157,390402,422074,416864,383157,432806,407152,397654,387915,402263,383609,406753,434216,415906,427803,404912,415289,419068,422597,394513,395973,424524,409777,393287,384882,389938,410976,425188,431404,408229,428750,391406,399193,405714,410406,413684,414199,418281,421433,417432,391853,400085,389037,377174,379795,398566,412278,434752,400878,430347,386366,419779,404267,423235,425353,396400,408806,420625,429761,376494,376715,379626,412804",
+    "time": 1560434427,
+    "UTCDateTime": "2019-06-13T14:00:27+00:00",
+    "debug": 32767
+  },
+  "errormessage": null,
+  "data": [
+    {
+      "id": "376494",
+      "date_published": "2019-03-24 07:39:32",
+      "date_added": "2019-03-24 03:11:19",
+      "date_modified": "2019-03-26 10:42:18",
+      "title": "Mamata makes false promises, PM Modi spreads hatred: Rahul Gandhi",
+      "source": "www.hindustantimes.com",
+      "description": "Congress president Rahul Gandhi targeted Prime Minister Narendra Modi and West Bengal chief minister Mamata Banerjee at his first election rally in the state on Saturday, but spared the Left parties.",
+      "tags": [
+        "bikram singh majithia",
+        "congress",
+        "mamata",
+        "mamata banerjee",
+        "narendra modi",
+        "rahul gandhi",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvbWFtYXRhLW1ha2VzLWZh\nbHNlLXByb21pc2VzLXBtLW1vZGktc3ByZWFkcy1oYXRyZWQtcmFodWwtZ2FuZGhpL3N0b3J5LXNR\nTUU3SXZWUGRaRGVnUFd2TFJ1ZEouaHRtbA==",
+      "short_url": "https://www.hindustantimes.com/india-news/mamata-makes-false-promises-pm-modi-spreads-hatred-rahul-gandhi/story-sQME7IvVPdZDegPWvLRudJ.html",
+      "engagement": "0",
+      "popularity": "40357300",
+      "tw_tweets": "68",
+      "tw_reach": "53806587",
+      "tw_favorites": "331",
+      "tw_retweets": "186",
+      "tw_since_id": "",
+      "fb_shares": "38",
+      "fb_comments": "208",
+      "fb_reactions": "473",
+      "popularity_updated": "1",
+      "sentiment": "0",
+      "screen_name": "Analytics_Gyan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-03-2019 07:39",
+      "timestamp_published": "1553409572",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "150",
+          "query": "\"National Democratic Alliance\" OR NationalDemocraticAlliance"
+        }
+      ],
+      "popularity_logs": "49"
+    },
+    {
+      "id": "376715",
+      "date_published": "2019-03-25 14:24:53",
+      "date_added": "2019-03-25 09:56:18",
+      "date_modified": "2019-03-25 19:27:11",
+      "title": "Kolkata Police vs Customs: Mamata Banerjee’s nephew Abhishek, wife named in FIR over airport gold seizure | India News",
+      "source": "www.timesnownews.com",
+      "description": "Wife of Mamata Banerjee’s nephew Abhishek Banerjee had arrived from Thailand carrying 2 kg gold in her baggage. When customs officials asked her to open her bag she threatened them with “dire consequences.”",
+      "tags": [
+        "kolkata",
+        "mamata banerjee",
+        "thailand"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9pbmRpYS9hcnRpY2xlL2tvbGthdGEtcG9saWNl\nLW1hbWF0YS1iYW5lcmplZS1hYmhpc2hlay1iYW5lcmplZS1uZXRhamktc3ViaGFzaC1jaGFuZHJh\nLWJvc2UtaW50ZXJuYXRpb25hbC1haXJwb3J0LWJhYnVsLXN1cHJpeW8tYmpwLXRtYy1jaXNmLzM4\nNzk4MA==",
+      "short_url": "https://www.timesnownews.com/india/article/kolkata-police-mamata-banerjee-abhishek-banerjee-netaji-subhash-chandra-bose-international-airport-babul-supriyo-bjp-tmc-cisf/387980",
+      "engagement": "0",
+      "popularity": "4891930",
+      "tw_tweets": "1263",
+      "tw_reach": "968481",
+      "tw_favorites": "11",
+      "tw_retweets": "2771149",
+      "tw_since_id": "1110318539129262080",
+      "fb_shares": "742",
+      "fb_comments": "363",
+      "fb_reactions": "2218",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "lone_wolf_2002",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-03-2019 14:24",
+      "timestamp_published": "1553520293",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "377174",
+      "date_published": "2019-03-26 11:40:05",
+      "date_added": "2019-03-26 07:12:27",
+      "date_modified": "2019-03-26 07:12:28",
+      "title": "West Bengal CM Mamata Banerjee hits out at BJP - Times of India",
+      "source": "timesofindia.indiatimes.com",
+      "description": "India News: KOLKATA: West Bengal chief minister Mamata Banerjee on Monday hit out at BJP without naming it for allegedly dividing people along religious lines and.",
+      "tags": [
+        "bengal",
+        "bjp",
+        "india",
+        "mamata banerjee",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vaW5kaWEvd2VzdC1iZW5nYWwtY20t\nbWFtYXRhLWJhbmVyamVlLWhpdHMtb3V0LWF0LWJqcC9hcnRpY2xlc2hvdy82ODU2NjgzNi5jbXM=",
+      "short_url": "https://ift.tt/2utndjT",
+      "engagement": "0",
+      "popularity": "3534.75",
+      "tw_tweets": "3",
+      "tw_reach": "3639",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1110423656440700928",
+      "fb_shares": "5",
+      "fb_comments": "141",
+      "fb_reactions": "195",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "NewsWestBengal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-03-2019 11:40",
+      "timestamp_published": "1553596805",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "30"
+    },
+    {
+      "id": "379626",
+      "date_published": "2019-03-27 20:20:32",
+      "date_added": "2019-03-27 15:52:46",
+      "date_modified": "2019-03-28 06:27:19",
+      "title": "Mission Shakti: Is Modi going to space? We will complain to EC, says Mamata",
+      "source": "www.aninews.in",
+      "description": "Kolkata (West Bengal) [India], Mar 27 (ANI): West Bengal chief minister Mamata Banerjee on Wednesday alleged that Prime Minister Narendra Modi had violated the Model Code of Conduct with his announcement on India acquiring anti-satellite weapon capabilities.",
+      "tags": [
+        "india",
+        "mamata",
+        "mamata banerjee",
+        "narendra modi",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYW5pbmV3cy5pbi9uZXdzL25hdGlvbmFsL3BvbGl0aWNzL21pc3Npb24tc2hh\na3RpLWlzLW1vZGktZ29pbmctdG8tc3BhY2Utd2Utd2lsbC1jb21wbGFpbi10by1lYy1zYXlzLW1h\nbWF0YTIwMTkwMzI3MTkwMDMzLw==",
+      "short_url": "https://t.co/fi71g7TiRg",
+      "engagement": "0",
+      "popularity": "64374",
+      "tw_tweets": "115",
+      "tw_reach": "61652",
+      "tw_favorites": "0",
+      "tw_retweets": "11873",
+      "tw_since_id": "1111159109443702784",
+      "fb_shares": "7",
+      "fb_comments": "23",
+      "fb_reactions": "61",
+      "popularity_updated": "32",
+      "sentiment": "0",
+      "screen_name": "PakiPsyop007",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-03-2019 20:20",
+      "timestamp_published": "1553714432",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "58"
+    },
+    {
+      "id": "379795",
+      "date_published": "2019-03-28 02:30:36",
+      "date_added": "2019-03-27 22:02:14",
+      "date_modified": "2019-03-27 22:02:14",
+      "title": "Limitless Drama and Publicity Mongering by PM Modi: Mamata Banerjee on Mission Shakti",
+      "source": "www.news18.com",
+      "description": "Mamata Banerjee said that credit should go to scientists & researchers who really deserve it.",
+      "tags": [
+        "mamata banerjee",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2xpbWl0bGVzcy1kcmFtYS1hbmQt\ncHVibGljaXR5LW1vbmdlcmluZy1ieS1wbS1tb2RpLW1hbWF0YS1iYW5lcmplZS1vbi1taXNzaW9u\nLXNoYWt0aS0yMDc5Njk5Lmh0bWw=",
+      "short_url": "https://www.news18.com/news/politics/limitless-drama-and-publicity-mongering-by-pm-modi-mamata-banerjee-on-mission-shakti-2079699.html",
+      "engagement": "0",
+      "popularity": "142305",
+      "tw_tweets": "30",
+      "tw_reach": "187718",
+      "tw_favorites": "0",
+      "tw_retweets": "971",
+      "tw_since_id": "1111325960190619648",
+      "fb_shares": "3",
+      "fb_comments": "3",
+      "fb_reactions": "7",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Ramsrivastava79",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-03-2019 02:30",
+      "timestamp_published": "1553736636",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "383157",
+      "date_published": "2019-03-29 18:04:14",
+      "date_added": "2019-03-29 13:37:07",
+      "date_modified": "2019-03-29 13:37:09",
+      "title": "\"He is just a kid,\" Mamata Banerjee responds to Rahul Gandhi’s criticism about her work in West Bengal",
+      "source": "satyavijayi.com",
+      "description": "Till a few weeks ago, the leaders of the opposition appeared to be sharing a great bonhomie with each other in hopes of getting a nation-wide alliance against the BJP led National Democratic Alliance (NDA). However, with prospects of an alliance dimming, the friendship between the leaders are also falling apart. West Bengal Chief Minister …",
+      "tags": [
+        "bjp",
+        "mamata banerjee",
+        "opposition",
+        "rahul gandhi",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zYXR5YXZpamF5aS5jb20vaGUtaXMtanVzdC1hLWtpZC1tYW1hdGEtYmFuZXJqZWUt\ncmVzcG9uZHMtdG8tcmFodWwtZ2FuZGhpcy1jcml0aWNpc20tYWJvdXQtaGVyLXdvcmstaW4td2Vz\ndC1iZW5nYWwv",
+      "short_url": "https://satyavijayi.com/he-is-just-a-kid-mamata-banerjee-responds-to-rahul-gandhis-criticism-about-her-work-in-west-bengal/",
+      "engagement": "0",
+      "popularity": "2031.25",
+      "tw_tweets": "3",
+      "tw_reach": "429",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1111607495070543872",
+      "fb_shares": "171",
+      "fb_comments": "103",
+      "fb_reactions": "473",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "anuraagfulay",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-03-2019 18:04",
+      "timestamp_published": "1553879054",
+      "collections": [
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "11"
+    },
+    {
+      "id": "383609",
+      "date_published": "2019-03-30 07:38:58",
+      "date_added": "2019-03-30 03:11:38",
+      "date_modified": "2019-03-30 03:11:39",
+      "title": "BJP will stop Mamata Banerjee's appeasement politics in Bengal: Amit Shah",
+      "source": "economictimes.indiatimes.com",
+      "description": "Alipurduar is a Parliamentary constituency in North Bengal, dominated by the tribal population.",
+      "tags": [
+        "amit shah",
+        "bengal",
+        "bjp",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvZWxlY3Rpb25zL2xvay1z\nYWJoYS93ZXN0LWJlbmdhbC9ianAtd2lsbC1zdG9wLW1hbWF0YS1iYW5lcmplZXMtYXBwZWFzZW1l\nbnQtcG9saXRpY3MtaW4tYmVuZ2FsLWFtaXQtc2hhaC9hcnRpY2xlc2hvdy82ODY0MDAxOC5jbXM/\nZnJvbT1tZHI=",
+      "short_url": "https://m.economictimes.com/news/elections/lok-sabha/west-bengal/bjp-will-stop-mamata-banerjees-appeasement-politics-in-bengal-amit-shah/articleshow/68640018.cms",
+      "engagement": "0",
+      "popularity": "25346",
+      "tw_tweets": "5",
+      "tw_reach": "33782",
+      "tw_favorites": "0",
+      "tw_retweets": "3",
+      "tw_since_id": "1111852092317024256",
+      "fb_shares": "0",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "madhuparna_ET",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-03-2019 07:38",
+      "timestamp_published": "1553927938",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "384882",
+      "date_published": "2019-03-31 22:15:39",
+      "date_added": "2019-03-31 18:47:25",
+      "date_modified": "2019-03-31 18:47:25",
+      "title": "\"One Debate, NDTV Can Do It\": Mamata Banerjee Dares PM At Andhra Rally",
+      "source": "www.ndtv.com",
+      "description": "Bengal Chief Minister Mamata Banerjee today did a Rahul Gandhi, challenging Prime Minister Narendra Modi to a debate in the US Presuidential style - complete with television cameras. She even had tips on who should host it, and the process they should follow. The BJP, which had ignored Rahul Gandhi's challenges so far, is yet to respond.",
+      "tags": [
+        "bengal",
+        "mamata banerjee",
+        "narendra modi",
+        "rahul gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nbWFtYXRhLWJhbmVyamVlLWRhcmVzLXBtLXRvLWEtZGViYXRlLWF0LXJhbGx5LWluLWFuZGhyYS1z\nYXlzLW5kdHYtY2FuLWRvLWl0LTIwMTU2MTk=",
+      "short_url": "https://www.google.com/amp/s/www.ndtv.com/india-news/lok-sabha-elections-2019-mamata-banerjee-dares-pm-to-a-debate-at-rally-in-andhra-says-ndtv-can-do-it-2015619%3famp=1&akamai-rum=off",
+      "engagement": "0",
+      "popularity": "542860",
+      "tw_tweets": "851",
+      "tw_reach": "546175",
+      "tw_favorites": "0",
+      "tw_retweets": "87019",
+      "tw_since_id": "1112405559276388354",
+      "fb_shares": "150",
+      "fb_comments": "107",
+      "fb_reactions": "553",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "naashonomics",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-03-2019 22:15",
+      "timestamp_published": "1554063339",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "385122",
+      "date_published": "2019-04-01 06:55:11",
+      "date_added": "2019-04-01 03:27:14",
+      "date_modified": "2019-04-26 08:31:44",
+      "title": "Mamata challenges PM Modi for open debate 'without teleprompters', says ‘ready to fight him politically’",
+      "source": "www.timesnownews.com",
+      "description": "West Bengal Chief Minister Mamata Banerjee has challenged PM Modi for an open debate ahead of the 2019 Lok Sabha elections.",
+      "tags": [
+        "mamata",
+        "mamata banerjee",
+        "narendra modi",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9lbGVjdGlvbnMvYXJ0aWNsZS9tYW1hdGEtYmFu\nZXJqZWUtY2hhbGxlbmdlcy1wbS1tb2RpLWZvci1vcGVuLWRlYmF0ZS13aXRob3V0LXRlbGVwcm9t\ncHRlcnMvMzkyMjA3",
+      "short_url": "https://www.timesnownews.com/elections/article/mamata-banerjee-challenges-pm-modi-for-open-debate-without-teleprompters/392207",
+      "engagement": "0",
+      "popularity": "123796",
+      "tw_tweets": "164",
+      "tw_reach": "115571",
+      "tw_favorites": "0",
+      "tw_retweets": "13127",
+      "tw_since_id": "1121654907033903104",
+      "fb_shares": "332",
+      "fb_comments": "2318",
+      "fb_reactions": "4765",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "rockingsand",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-04-2019 06:55",
+      "timestamp_published": "1554094511",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "386366",
+      "date_published": "2019-04-02 14:30:33",
+      "date_added": "2019-04-02 11:03:08",
+      "date_modified": "2019-04-02 11:03:09",
+      "title": "Mamata Advances Campaign Schedule to Take on PM Modi Head-on in North Bengal",
+      "source": "in.news.yahoo.com",
+      "description": "Mamata Banerjee preponed her April 4 rally to Wednesday to simultaneously address campaigns with Prime Minister Narendra Modi in North Bengal on April 3.",
+      "tags": [
+        "bengal",
+        "campaign",
+        "mamata",
+        "mamata banerjee",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbi5uZXdzLnlhaG9vLmNvbS9tYW1hdGEtYWR2YW5jZXMtY2FtcGFpZ24tc2NoZWR1\nbGUtcG0tMDczNTA0MjQ0Lmh0bWw=",
+      "short_url": "https://in.yahoo.com/news/mamata-advances-campaign-schedule-pm-073504244.html",
+      "engagement": "0",
+      "popularity": "52.5",
+      "tw_tweets": "3",
+      "tw_reach": "51",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1113003271357169664",
+      "fb_shares": "2",
+      "fb_comments": "0",
+      "fb_reactions": "3",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "sydneyroy2",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-04-2019 14:30",
+      "timestamp_published": "1554208233",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "387462",
+      "date_published": "2019-04-03 19:40:36",
+      "date_added": "2019-04-03 16:12:19",
+      "date_modified": "2019-04-04 04:52:53",
+      "title": "Hate for Modi making people speak against India: Modi",
+      "source": "www.aninews.in",
+      "description": "Kolkata (West Bengal) [India], April 3 (ANI): Prime Minister Narendra Modi on Wednesday lambasted the Congress and Mamata Banerjee for asking the proofs of Balakot air strike casualties and said that \"their hatred for him had led to speaking against the country\".",
+      "tags": [
+        "congress",
+        "hate",
+        "india",
+        "mamata banerjee",
+        "narendra modi",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYW5pbmV3cy5pbi9uZXdzL25hdGlvbmFsL3BvbGl0aWNzL2hhdGUtZm9yLW1v\nZGktbWFraW5nLXBlb3BsZS1zcGVhay1hZ2FpbnN0LWluZGlhLW1vZGkyMDE5MDQwMzE5MDAyNS8=",
+      "short_url": "https://www.aninews.in/news/national/politics/hate-for-modi-making-people-speak-against-india-modi20190403190025/",
+      "engagement": "0",
+      "popularity": "107271",
+      "tw_tweets": "77",
+      "tw_reach": "132737",
+      "tw_favorites": "0",
+      "tw_retweets": "5091",
+      "tw_since_id": "1113647134287339527",
+      "fb_shares": "1",
+      "fb_comments": "1",
+      "fb_reactions": "0",
+      "popularity_updated": "18",
+      "sentiment": "-1",
+      "screen_name": "ANKANDUTTA16",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-04-2019 19:40",
+      "timestamp_published": "1554313236",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "387915",
+      "date_published": "2019-04-04 11:25:00",
+      "date_added": "2019-04-04 07:56:50",
+      "date_modified": "2019-04-05 04:21:53",
+      "title": "A day after PM's Siliguri rally, a man found hanging in BJP office",
+      "source": "www.opindia.com",
+      "description": "The incident comes after a day after both PM Modi had launched a scathing attack on Mamata Banerjee for her stance on Balakot strikes and accused her of acting like \"Speedbreaker\" to the development of the state.  - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "mamata banerjee",
+        "narendra modi",
+        "siliguri"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9hLWRheS1hZnRlci1wbS1tb2Rpcy1tYXNz\naXZlLXJhbGx5LWEtbWFucy1ib2R5LWZvdW5kLWhhbmdpbmctYXQtYmpwLW9mZmljZS1pbi1zaWxp\nZ3VyaS8=",
+      "short_url": "https://www.opindia.com/2019/04/a-day-after-pm-modis-massive-rally-a-mans-body-found-hanging-at-bjp-office-in-siliguri/",
+      "engagement": "0",
+      "popularity": "492362",
+      "tw_tweets": "303",
+      "tw_reach": "569905",
+      "tw_favorites": "10",
+      "tw_retweets": "41849",
+      "tw_since_id": "1114019616874016769",
+      "fb_shares": "165",
+      "fb_comments": "79",
+      "fb_reactions": "568",
+      "popularity_updated": "76",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-04-2019 11:25",
+      "timestamp_published": "1554369900",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "96"
+    },
+    {
+      "id": "389037",
+      "date_published": "2019-04-05 17:20:14",
+      "date_added": "2019-04-05 13:52:12",
+      "date_modified": "2019-04-05 13:52:12",
+      "title": "BJP, Trinamool Face-Off Over Stages For Mamata Banerjee, PM's Rallies",
+      "source": "www.ndtv.com",
+      "description": "West Bengal Chief Minister Mamata Banerjee and Prime Minister Narendra Modi have lately been engaged in an intense war of words.",
+      "tags": [
+        "bjp",
+        "mamata banerjee",
+        "narendra modi",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb24tMjAxOS1i\nanAtdHJpbmFtb29sLWZhY2Utb2ZmLW92ZXItc3RhZ2VzLWZvci1tYW1hdGEtYmFuZXJqZWUtcG1z\nLXJhbGxpZXMtMjAxODU0NA==",
+      "short_url": "https://goo.gl/fb/7VHP1H",
+      "engagement": "0",
+      "popularity": "25546900",
+      "tw_tweets": "8",
+      "tw_reach": "34062280",
+      "tw_favorites": "8",
+      "tw_retweets": "9",
+      "tw_since_id": "1114158024883625984",
+      "fb_shares": "9",
+      "fb_comments": "26",
+      "fb_reactions": "36",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "ndtv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-04-2019 17:20",
+      "timestamp_published": "1554477614",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "28"
+    },
+    {
+      "id": "389938",
+      "date_published": "2019-04-06 18:55:39",
+      "date_added": "2019-04-06 15:27:28",
+      "date_modified": "2019-04-06 15:27:28",
+      "title": "Mamata Banerjee writes to Election Commission against transfer of senior police officers - The Financial Express",
+      "source": "www.financialexpress.com",
+      "description": "West Bengal Chief Minister Mamata Banerjee Saturday wrote to the Election Commission protesting transfers of four IPS officers, including Kolkata and Bidhannagar police commissioners.",
+      "tags": [
+        "mamata banerjee",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vZWxlY3Rpb25zL21hbWF0YS1iYW5lcmpl\nZS13cml0ZXMtdG8tZWxlY3Rpb24tY29tbWlzc2lvbi1hZ2FpbnN0LXRyYW5zZmVyLW9mLXNlbmlv\nci1wb2xpY2Utb2ZmaWNlcnMvMTU0MDE0NC8=",
+      "short_url": "https://www.financialexpress.com/elections/mamata-banerjee-writes-to-election-commission-against-transfer-of-senior-police-officers/1540144/",
+      "engagement": "0",
+      "popularity": "771.25",
+      "tw_tweets": "3",
+      "tw_reach": "483",
+      "tw_favorites": "0",
+      "tw_retweets": "3",
+      "tw_since_id": "1114519537569763329",
+      "fb_shares": "3",
+      "fb_comments": "49",
+      "fb_reactions": "121",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "judets",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-04-2019 18:55",
+      "timestamp_published": "1554569739",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "390402",
+      "date_published": "2019-04-07 10:15:24",
+      "date_added": "2019-04-07 06:46:58",
+      "date_modified": "2019-04-07 08:02:16",
+      "title": "Senior police officers behaving like TMC cadres, says Bengal BJP president - Republic World",
+      "source": "www.republicworld.com",
+      "description": "West Bengal BJP president Dilip Ghosh on Saturday, April 6 mocked at Chief Minister Mamata Banerjee for writing to the Election Commission over the transfer of four IPS officers and claimed that many more transfers are in the pipeline",
+      "tags": [
+        "bengal",
+        "bjp",
+        "dilip ghosh",
+        "mamata banerjee",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vZWxlY3Rpb24tbmV3cy93ZXN0LWJlbmdhbC1s\nb2stc2FiaGEtZWxlY3Rpb25zL3Nlbmlvci1wb2xpY2Utb2ZmaWNlcnMtYmVoYXZpbmctbGlrZS10\nbWMtY2FkcmVzLXNheXMtYmVuZ2FsLWJqcC1wcmVzaWRlbnQ=",
+      "short_url": "https://www.republicworld.com/election-news/west-bengal-lok-sabha-elections/senior-police-officers-behaving-like-tmc-cadres-says-bengal-bjp-president",
+      "engagement": "0",
+      "popularity": "20163.2",
+      "tw_tweets": "48",
+      "tw_reach": "22071",
+      "tw_favorites": "0",
+      "tw_retweets": "1814",
+      "tw_since_id": "1114828181104496641",
+      "fb_shares": "33",
+      "fb_comments": "25",
+      "fb_reactions": "313",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "rakkanchat1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-04-2019 10:15",
+      "timestamp_published": "1554624924",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "32"
+    },
+    {
+      "id": "391406",
+      "date_published": "2019-04-08 17:30:09",
+      "date_added": "2019-04-08 14:01:47",
+      "date_modified": "2019-04-09 12:46:44",
+      "title": "Mamata Banerjee launches personal attack on PM Modi, mocks him for not having a family of his own - Opindia News",
+      "source": "www.opindia.com",
+      "description": "It has become a norm for the opposition leaders to resort to personal attacks on PM Modi probably because of their failure to come up with something substantial to confront him with. - Latest Breaking India News from Opindia.com",
+      "tags": [
+        "mamata banerjee",
+        "narendra modi",
+        "opposition",
+        "substantial"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9tYW1hdGEtYmFuZXJqZWUtbGF1bmNoZXMt\ncGVyc29uYWwtYXR0YWNrLW9uLXBtLW1vZGktbW9ja3MtaGltLWZvci1ub3QtaGF2aW5nLWEtZmFt\naWx5LW9mLWhpcy1vd24v",
+      "short_url": "http://bit.ly/2YVX0Z4",
+      "engagement": "0",
+      "popularity": "2927060",
+      "tw_tweets": "326",
+      "tw_reach": "3780150",
+      "tw_favorites": "336",
+      "tw_retweets": "58643",
+      "tw_since_id": "1115552474268483585",
+      "fb_shares": "195",
+      "fb_comments": "442",
+      "fb_reactions": "789",
+      "popularity_updated": "270",
+      "sentiment": "0",
+      "screen_name": "docshah123",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-04-2019 17:30",
+      "timestamp_published": "1554737409",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "292"
+    },
+    {
+      "id": "391853",
+      "date_published": "2019-04-09 04:29:32",
+      "date_added": "2019-04-09 01:02:10",
+      "date_modified": "2019-04-09 03:06:28",
+      "title": "SENSATIONAL: In Child trafficking scandal, Mamata Banerjee accuses BJP of targeting the Missionaries of Charity - Republic World",
+      "source": "www.republicworld.com",
+      "description": "In a stunning development in the utterly shocking child trafficking racket that has come to light at a centre of the Missionaries of Charity in Ranchi, West Bengal Chief Minister Mamata Banerjee has backed the religious congregation in the matter and accused the BJP.",
+      "tags": [
+        "bjp",
+        "mamata banerjee",
+        "ranchi",
+        "sensational"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLW5ld3Mvc2Vu\nc2F0aW9uYWwtaW4tY2hpbGQtdHJhZmZpY2tpbmctc2NhbmRhbC1tYW1hdGEtYmFuZXJqZWUtYWNj\ndXNlcy1ianAtb2YtdGFyZ2V0aW5nLXRoZS1taXNzaW9uYXJpZXMtb2YtY2hhcml0eQ==",
+      "short_url": "https://www.republicworld.com/india-news/general-news/sensational-in-child-trafficking-scandal-mamata-banerjee-accuses-bjp-of-targeting-the-missionaries-of-charity",
+      "engagement": "0",
+      "popularity": "41790.5",
+      "tw_tweets": "57",
+      "tw_reach": "24054",
+      "tw_favorites": "0",
+      "tw_retweets": "8493",
+      "tw_since_id": "1115388738312462336",
+      "fb_shares": "302",
+      "fb_comments": "776",
+      "fb_reactions": "3704",
+      "popularity_updated": "56",
+      "sentiment": "-1",
+      "screen_name": "DhjPvt",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-04-2019 04:29",
+      "timestamp_published": "1554776972",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "73"
+    },
+    {
+      "id": "393287",
+      "date_published": "2019-04-10 14:53:40",
+      "date_added": "2019-04-10 11:26:51",
+      "date_modified": "2019-04-10 11:41:22",
+      "title": "EXCLUSIVE | Sandeep Ssingh: I invite Congress, MNS, Mamata Banerjee and others to watch PM Narendra Modi and get inspired",
+      "source": "www.timesnownews.com",
+      "description": "In an exclusive interview with ZoomTV.com, producer Sandeep Ssingh talks about the controversies surrounding the biopic on Prime Minister Narendra Modi titled PM Narendra Modi.",
+      "tags": [
+        "ann thongprasom",
+        "congress",
+        "mamata banerjee",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9lbnRlcnRhaW5tZW50L25ld3MvYm9sbHl3b29k\nLW5ld3MvYXJ0aWNsZS9zYW5kZWVwLXNzaW5naC1pLWludml0ZS1jb25ncmVzcy1tbnMtbWFtYXRh\nLWJhbmVyamVlLWFuZC1vdGhlcnMtdG8td2F0Y2gtcG0tbmFyZW5kcmEtbW9kaS1hbmQtZ2V0LWlu\nc3BpcmVkLzM5Nzc1MQ==",
+      "short_url": "https://www.timesnownews.com/entertainment/news/bollywood-news/article/sandeep-ssingh-i-invite-congress-mns-mamata-banerjee-and-others-to-watch-pm-narendra-modi-and-get-inspired/397751",
+      "engagement": "0",
+      "popularity": "31732800",
+      "tw_tweets": "11",
+      "tw_reach": "42309686",
+      "tw_favorites": "83",
+      "tw_retweets": "7",
+      "tw_since_id": "1115919081906085888",
+      "fb_shares": "14",
+      "fb_comments": "25",
+      "fb_reactions": "162",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "ZoomTV",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-04-2019 14:53",
+      "timestamp_published": "1554900820",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "27"
+    },
+    {
+      "id": "394110",
+      "date_published": "2019-04-11 13:19:53",
+      "date_added": "2019-04-11 09:52:01",
+      "date_modified": "2019-04-12 05:41:08",
+      "title": "Supreme Court penalises Mamata govt Rs 20 lakh for shadow banning satirical movie",
+      "source": "www.mynation.com",
+      "description": "The Supreme Court had issued a notice to the Banerjee government and directed it to ensure that the film Bhobishyoter Bhoot is screened without unlawful obstruction — when the makers of the movie approached the apex court",
+      "tags": [
+        "benarjee",
+        "hatiras",
+        "mamata banerjee",
+        "supreme"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3Mvc3VwcmVtZS1jb3VydC1wZW5hbGlz\nZXMtbWFtYXRhLWdvdnQtcnMtMjAtbGFraC1mb3Itc2hhZG93LWJhbm5pbmctc2F0aXJpY2FsLW1v\ndmllLXBwc2NyaQ==",
+      "short_url": "https://www.mynation.com/india-news/supreme-court-penalises-mamata-govt-rs-20-lakh-for-shadow-banning-satirical-movie-ppscri",
+      "engagement": "0",
+      "popularity": "236104",
+      "tw_tweets": "97",
+      "tw_reach": "299653",
+      "tw_favorites": "0",
+      "tw_retweets": "7510",
+      "tw_since_id": "1116551101099036674",
+      "fb_shares": "1",
+      "fb_comments": "0",
+      "fb_reactions": "0",
+      "popularity_updated": "26",
+      "sentiment": "0",
+      "screen_name": "BMSinghDr12",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-04-2019 13:19",
+      "timestamp_published": "1554981593",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "43"
+    },
+    {
+      "id": "394513",
+      "date_published": "2019-04-12 01:52:10",
+      "date_added": "2019-04-11 22:26:30",
+      "date_modified": "2019-04-11 22:41:29",
+      "title": "BIG NEWS: Visa on Arrival in West Bengal for Indians if TMC Wins Again, says Mamata Banerjee",
+      "source": "thefauxy.com",
+      "description": "General elections are nearing and political leaders are yet again making unrealistic promises to woo the voters. In one such attempt, TMC leader and West Ben...",
+      "tags": [
+        "bengal",
+        "indians",
+        "mamata banerjee",
+        "west"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVmYXV4eS5jb20vYmlnLW5ld3MtdmlzYS1vbi1hcnJpdmFsLWluLXdlc3QtYmVu\nZ2FsLWZvci1pbmRpYW5zLWlmLXRtYy13aW5zLWFnYWluLXNheXMtbWFtYXRhLWJhbmVyamVlLw==",
+      "short_url": "https://thefauxy.com/big-news-visa-on-arrival-in-west-bengal-for-indians-if-tmc-wins-again-says-mamata-banerjee/",
+      "engagement": "0",
+      "popularity": "38979.2",
+      "tw_tweets": "9",
+      "tw_reach": "675",
+      "tw_favorites": "0",
+      "tw_retweets": "12654",
+      "tw_since_id": "1116436299706056705",
+      "fb_shares": "795",
+      "fb_comments": "1216",
+      "fb_reactions": "6513",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "vinay6_jay",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-04-2019 01:52",
+      "timestamp_published": "1555026730",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "31"
+    },
+    {
+      "id": "395973",
+      "date_published": "2019-04-13 19:18:32",
+      "date_added": "2019-04-13 15:51:47",
+      "date_modified": "2019-04-14 18:06:20",
+      "title": "Mamata Banerjee's actress candidate Mimi Chakraborty seen angrily shouting at voters",
+      "source": "www.opindia.com",
+      "description": "The TMC candidate was earlier seen wearing gloves on her hands while greeting people in her constituency during an election campaign. - Latest India News from Opindia.com",
+      "tags": [
+        "campaign",
+        "india",
+        "mamata banerjee",
+        "mimi chakraborty",
+        "sai tamhankar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9hZnRlci13ZWFyaW5nLWdsb3Zlcy13aGls\nZS1zaGFraW5nLWhhbmRzLXdpdGgtdm90ZXJzLWFjdHJlc3MtdHVybmVkLXRtYy1jYW5kaWRhdGUt\neWVsbHMtYXQtdGhlbS8=",
+      "short_url": "https://www.opindia.com/2019/04/after-wearing-gloves-while-shaking-hands-with-voters-actress-turned-tmc-candidate-yells-at-them/",
+      "engagement": "0",
+      "popularity": "889178",
+      "tw_tweets": "566",
+      "tw_reach": "1051015",
+      "tw_favorites": "912",
+      "tw_retweets": "65540",
+      "tw_since_id": "1117450725645344768",
+      "fb_shares": "81",
+      "fb_comments": "31",
+      "fb_reactions": "386",
+      "popularity_updated": "19",
+      "sentiment": "0",
+      "screen_name": "AazaadKhayaal",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-04-2019 19:18",
+      "timestamp_published": "1555175912",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "45"
+    },
+    {
+      "id": "396400",
+      "date_published": "2019-04-14 11:33:40",
+      "date_added": "2019-04-14 08:06:55",
+      "date_modified": "2019-04-18 04:51:08",
+      "title": "Mamata Banerjee no 'saviour of democracy'; browbeating of filmmakers, poll violence serve to debunk claim - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "Mamata Banerjee frequently claims that she is “fighting to save democracy.” However, the situation in the state run by her tells a different story.",
+      "tags": [
+        "mamata banerjee",
+        "violence"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9wb2xpdGljcy9tYW1hdGEtYmFuZXJqZWUtbm8tc2F2\naW91ci1vZi1kZW1vY3JhY3ktYnJvd2JlYXRpbmctb2YtZmlsbW1ha2Vycy1wb2xsLXZpb2xlbmNl\nLXNlcnZlLXRvLWRlYnVuay1jbGFpbS02NDQzMDYxLmh0bWw=",
+      "short_url": "https://www.firstpost.com/politics/mamata-banerjee-no-saviour-of-democracy-browbeating-of-filmmakers-poll-violence-serve-to-debunk-claim-6443061.html",
+      "engagement": "0",
+      "popularity": "58277",
+      "tw_tweets": "158",
+      "tw_reach": "71305",
+      "tw_favorites": "0",
+      "tw_retweets": "1858",
+      "tw_since_id": "1118684689227587585",
+      "fb_shares": "214",
+      "fb_comments": "87",
+      "fb_reactions": "513",
+      "popularity_updated": "110",
+      "sentiment": "0",
+      "screen_name": "ngnayak",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-04-2019 11:33",
+      "timestamp_published": "1555234420",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "126"
+    },
+    {
+      "id": "397654",
+      "date_published": "2019-04-15 20:49:31",
+      "date_added": "2019-04-15 17:27:09",
+      "date_modified": "2019-04-16 05:31:44",
+      "title": "To 'lure' Muslim votes, Mamata Banerjee's TMC gets Bangladeshi actor to campaign for Lok Sabha elections",
+      "source": "www.opindia.com",
+      "description": "BJP questioned the TMC whether it would Pakistan PM Imran Khan next to campaign for the party in the elections. - Latest India News from Opindia.com",
+      "tags": [
+        "abu talib ibn ‘abd al-muttalib",
+        "bjp",
+        "campaign",
+        "india",
+        "mamata banerjee",
+        "muslim",
+        "pakistan",
+        "pushkar jog",
+        "shahid afridi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9iYW5nbGFkZXNoaS1hY3Rvci1jYW1wYWln\nbnMtZm9yLW1hbWF0YXMtdG1jLWNhbmRpZGF0ZS1ianAtYWxsZWdlcy12aW9sYXRpb24tb2YtbW9k\nZWwtY29kZS1vZi1jb25kdWN0Lw==",
+      "short_url": "https://www.opindia.com/2019/04/bangladeshi-actor-campaigns-for-mamatas-tmc-candidate-bjp-alleges-violation-of-model-code-of-conduct/",
+      "engagement": "0",
+      "popularity": "1645240",
+      "tw_tweets": "898",
+      "tw_reach": "1458135",
+      "tw_favorites": "15",
+      "tw_retweets": "365367",
+      "tw_since_id": "1118075304373678081",
+      "fb_shares": "279",
+      "fb_comments": "151",
+      "fb_reactions": "744",
+      "popularity_updated": "52",
+      "sentiment": "0",
+      "screen_name": "RudraPSinha",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-04-2019 20:49",
+      "timestamp_published": "1555354171",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "71"
+    },
+    {
+      "id": "398566",
+      "date_published": "2019-04-16 20:52:37",
+      "date_added": "2019-04-16 17:27:00",
+      "date_modified": "2019-04-17 07:41:36",
+      "title": "Bangladeshi actor who campaigned for Mamata Banerjee's TMC in West Bengal asked to leave India",
+      "source": "www.opindia.com",
+      "description": "Ferdous Ahmed, Bangladeshi actor who campaigned for Mamata's TMC has been asked to leave the country and his visa is cancelled - Latest India News from Opindia.com",
+      "tags": [
+        "bengal",
+        "ferdous ahmed",
+        "india",
+        "mamata banerjee",
+        "pushkar jog",
+        "west"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9iYW5nbGFkZXNoaS1hY3Rvci1mZXJkb3Vz\nLWFobWVkLW1hbWF0YS1iYW5lcmplZS10bWMtYmxhY2tsaXN0Lw==",
+      "short_url": "https://www.opindia.com/2019/04/bangladeshi-actor-ferdous-ahmed-mamata-banerjee-tmc-blacklist/",
+      "engagement": "0",
+      "popularity": "4308140",
+      "tw_tweets": "461",
+      "tw_reach": "5674521",
+      "tw_favorites": "1353",
+      "tw_retweets": "31263",
+      "tw_since_id": "1118393051553071106",
+      "fb_shares": "292",
+      "fb_comments": "161",
+      "fb_reactions": "1103",
+      "popularity_updated": "64",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-04-2019 20:52",
+      "timestamp_published": "1555440757",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "85"
+    },
+    {
+      "id": "399193",
+      "date_published": "2019-04-17 17:04:28",
+      "date_added": "2019-04-17 13:37:17",
+      "date_modified": "2019-04-17 13:51:55",
+      "title": "Durga puja: Mamata Banerjee says no idol immersion after 6 pm on Dashami till Oct 1 due to Muharram processions - The Financial Express",
+      "source": "www.financialexpress.com",
+      "description": "West Bengal Chief Minister Mamata Banerjee has ordered the stalling of immersion of Durga idols in water bodies post 6 pm on Dashmi - observed on the tenth day of Ashvin month as per Hindu calendar.",
+      "tags": [
+        "bengal",
+        "mamata banerjee",
+        "west"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vaW5kaWEtbmV3cy9kdXJnYS1wdWphLW1h\nbWF0YS1iYW5lcmplZS1zYXlzLW5vLWlkb2wtaW1tZXJzaW9uLWFmdGVyLTYtcG0tb24tZGFzaGFt\naS10aWxsLW9jdC0xLWR1ZS10by1tdWhhcnJhbS1wcm9jZXNzaW9ucy84MjE3Mjkv",
+      "short_url": "https://www.financialexpress.com/india-news/durga-puja-mamata-banerjee-says-no-idol-immersion-after-6-pm-on-dashami-till-oct-1-due-to-muharram-processions/821729/",
+      "engagement": "0",
+      "popularity": "118594",
+      "tw_tweets": "105",
+      "tw_reach": "21784",
+      "tw_favorites": "0",
+      "tw_retweets": "68059",
+      "tw_since_id": "1118505333138137088",
+      "fb_shares": "15",
+      "fb_comments": "0",
+      "fb_reactions": "13",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "Dptoshniwal1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-04-2019 17:04",
+      "timestamp_published": "1555513468",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "400085",
+      "date_published": "2019-04-18 20:05:08",
+      "date_added": "2019-04-18 16:37:11",
+      "date_modified": "2019-04-19 13:46:34",
+      "title": "Won't let BJP play Hindu-Muslim game in West Bengal, says Mamata Banerjee",
+      "source": "www.business-standard.com",
+      "description": "Mamata's comments came just a day after the BJP announced Pragya Singh Thakur or Sadhvi Pragya as its candidate from the prestigious Bhopal constituency",
+      "tags": [
+        "bengal",
+        "bjp",
+        "charanjit singh",
+        "mamata banerjee",
+        "muslim"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FydGljbGUvZWxlY3Rpb25zL3dvbi10\nLWxldC1ianAtcGxheS1oaW5kdS1tdXNsaW0tZ2FtZS1pbi13ZXN0LWJlbmdhbC1zYXlzLW1hbWF0\nYS1iYW5lcmplZS0xMTkwNDE4MDA5MjlfMS5odG1s",
+      "short_url": "https://mybs.in/2X5JQtT",
+      "engagement": "0",
+      "popularity": "1360940",
+      "tw_tweets": "31",
+      "tw_reach": "1813916",
+      "tw_favorites": "15",
+      "tw_retweets": "7",
+      "tw_since_id": "1119201644766474240",
+      "fb_shares": "5",
+      "fb_comments": "41",
+      "fb_reactions": "146",
+      "popularity_updated": "28",
+      "sentiment": "0",
+      "screen_name": "DILIPLOHIA",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-04-2019 20:05",
+      "timestamp_published": "1555610708",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "50"
+    },
+    {
+      "id": "400878",
+      "date_published": "2019-04-19 19:52:25",
+      "date_added": "2019-04-19 16:27:05",
+      "date_modified": "2019-04-19 16:36:39",
+      "title": "Modi failed to give ‘laddoo’ to West Bengal, now BJP will get ‘rosogolla’: Mamata",
+      "source": "www.tribuneindia.com",
+      "description": "BALURGHAT/GANGARAMPUR: You thought the bitter fight for controlling the levers of power in New Delhi just got sweetened a bit on Friday when TMC supremo Mamata Banerjee said the BJP will get a ‘big rosogolla’ in West Bengal.",
+      "tags": [
+        "bengal",
+        "bjp",
+        "mamata banerjee",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudHJpYnVuZWluZGlhLmNvbS9uZXdzL25hdGlvbi9tb2RpLWZhaWxlZC10by1n\naXZlLWxhZGRvby10by13ZXN0LWJlbmdhbC1ub3ctYmpwLXdpbGwtZ2V0LXJvc29nb2xsYS1tYW1h\ndGEvNzYwNzUwLmh0bWw=",
+      "short_url": "https://www.tribuneindia.com/news/nation/modi-failed-to-give-laddoo-to-west-bengal-now-bjp-will-get-rosogolla-mamata/760750.html",
+      "engagement": "0",
+      "popularity": "259361",
+      "tw_tweets": "7",
+      "tw_reach": "345611",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1119244865018060801",
+      "fb_shares": "2",
+      "fb_comments": "6",
+      "fb_reactions": "56",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "thetribunechd",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-04-2019 19:52",
+      "timestamp_published": "1555696345",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "24"
+    },
+    {
+      "id": "401837",
+      "date_published": "2019-04-20 20:35:24",
+      "date_added": "2019-04-20 17:08:15",
+      "date_modified": "2019-04-20 17:31:32",
+      "title": "‘Take oath to defeat BJP’, Mamata tells Bengal’s dalits in border district",
+      "source": "www.hindustantimes.com",
+      "description": "Nadia district is located on the Indo-Bangladesh border and BJP leaders had earlier raised the issue of illegal immigration by Muslims from Bangladesh.",
+      "tags": [
+        "bangladesh",
+        "bjp",
+        "dalit",
+        "mamata banerjee",
+        "muslims"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvdGFrZS1v\nYXRoLXRvLWRlZmVhdC1ianAtbWFtYXRhLXRlbGxzLWJlbmdhbC1zLWRhbGl0cy1pbi1ib3JkZXIt\nZGlzdHJpY3Qvc3RvcnktY0pOeWZMZlhmVG9uVHd1eTZSeW5pSi5odG1s",
+      "short_url": "http://www.hindustantimes.com/lok-sabha-elections/take-oath-to-defeat-bjp-mamata-tells-bengal-s-dalits-in-border-district/story-cJNyfLfXfTonTwuy6RyniJ.html",
+      "engagement": "0",
+      "popularity": "5224.75",
+      "tw_tweets": "7",
+      "tw_reach": "5026",
+      "tw_favorites": "0",
+      "tw_retweets": "4",
+      "tw_since_id": "1119622348179591168",
+      "fb_shares": "18",
+      "fb_comments": "117",
+      "fb_reactions": "493",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "HindustanTimes",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-04-2019 20:35",
+      "timestamp_published": "1555785324",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "402263",
+      "date_published": "2019-04-21 09:25:33",
+      "date_added": "2019-04-21 05:57:21",
+      "date_modified": "2019-04-21 05:57:21",
+      "title": "Just two rounds of polls over, but speed-breaker didi has lost sleep: PM Narendra Modi",
+      "source": "www.dnaindia.com",
+      "description": "Just two rounds of polls over, but speed-breaker didi has lost sleep: PM Narendra Modi - PM Modi, at his 5th rally in Bengal this month, says he too mistook Mamata for a simple woman",
+      "tags": [
+        "bengal",
+        "didi",
+        "mamata banerjee",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZG5haW5kaWEuY29tL2luZGlhL3JlcG9ydC1qdXN0LXR3by1yb3VuZHMtb2Yt\ncG9sbHMtb3Zlci1idXQtc3BlZWQtYnJlYWtlci1kaWRpLWhhcy1sb3N0LXNsZWVwLXBtLW5hcmVu\nZHJhLW1vZGktMjc0MTU5Nw==",
+      "short_url": "http://dnai.in/g4YV",
+      "engagement": "0",
+      "popularity": "1318.75",
+      "tw_tweets": "6",
+      "tw_reach": "1350",
+      "tw_favorites": "0",
+      "tw_retweets": "24",
+      "tw_since_id": "1120007693320638464",
+      "fb_shares": "9",
+      "fb_comments": "4",
+      "fb_reactions": "104",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Sourabh_7406",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-04-2019 09:25",
+      "timestamp_published": "1555831533",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "21"
+    },
+    {
+      "id": "403157",
+      "date_published": "2019-04-22 13:01:57",
+      "date_added": "2019-04-22 09:36:49",
+      "date_modified": "2019-04-28 03:07:09",
+      "title": "Dynasty Vs Democracy: How feudal political families have ruined India's governance and representation",
+      "source": "www.dailyo.in",
+      "description": "So feudal is our politics now, even single politicians like Mamata Banerjee and Mayawati have 'heirs'. This has ruined inner-party democracy and lowered standards of national governance too.",
+      "tags": [
+        "mamata banerjee",
+        "mayawati"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZGFpbHlvLmluL3BvbGl0aWNzL2R5bmFzdGljLXBvbGl0aWNzLXJhaHVsLWdh\nbmRoaS1uZXBvdGlzbS1ianAtbmFyZW5kcmEtbW9kaS1hYmhpc2hlay1iYW5lcmplZS10bWMtbWF5\nYXdhdGktcy1uZXBoZXctZG1rLW9tYXItYWJkdWxsYWgtaW5lZmZpY2llbmN5L3N0b3J5LzEvMzAz\nODIuaHRtbA==",
+      "short_url": "https://www.dailyo.in/politics/dynastic-politics-rahul-gandhi-nepotism-bjp-narendra-modi-abhishek-banerjee-tmc-mayawati-s-nephew-dmk-omar-abdullah-inefficiency/story/1/30382.html",
+      "engagement": "0",
+      "popularity": "5408480",
+      "tw_tweets": "386",
+      "tw_reach": "7143396",
+      "tw_favorites": "354",
+      "tw_retweets": "32804",
+      "tw_since_id": "1122305631287951360",
+      "fb_shares": "51",
+      "fb_comments": "79",
+      "fb_reactions": "302",
+      "popularity_updated": "105",
+      "sentiment": "-1",
+      "screen_name": "suchithkc",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-04-2019 13:01",
+      "timestamp_published": "1555930917",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "155",
+          "query": "\"Rahul Gandhi\" OR RahulGandhi OR \"Sonia Gandhi\" OR SoniaGandhi OR \"Pawar Sharad\" OR Pawar_Sharad OR PawarSharad"
+        }
+      ],
+      "popularity_logs": "118"
+    },
+    {
+      "id": "404267",
+      "date_published": "2019-04-23 16:45:35",
+      "date_added": "2019-04-23 13:17:55",
+      "date_modified": "2019-04-23 15:21:24",
+      "title": "Central forces asking people to vote for BJP in West Bengal, claims Mamata Banerjee",
+      "source": "zeenews.india.com",
+      "description": "In a startling claim, Trinamool Congress (TMC) chief and West Bengal Chief Minister Mamata Banerjee on Mondya said that central forces are working for the Bharatiya Janata Party (BJP) by asking voters to choose the saffron party in West Bengal. Mamata alleged that the voters in Maldaha Dakshin and Balurghat constituencies, where polling is underway, are being asked by centreal forces to cast their votes in favour of the BJP.",
+      "tags": [
+        "aitc",
+        "bharatiya janata party",
+        "bjp",
+        "congress",
+        "mamata banerjee",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9sb2stc2FiaGEtZ2VuZXJhbC1lbGVjdGlvbnMtMjAx\nOS9jZW50cmFsLWZvcmNlcy1hc2tpbmctcGVvcGxlLXRvLXZvdGUtZm9yLWJqcC1pbi13ZXN0LWJl\nbmdhbC1jbGFpbXMtbWFtYXRhLWJhbmVyamVlLTIxOTgwNjAuaHRtbA==",
+      "short_url": "http://bit.ly/2Gnb31i",
+      "engagement": "0",
+      "popularity": "13092300",
+      "tw_tweets": "131",
+      "tw_reach": "17439343",
+      "tw_favorites": "84",
+      "tw_retweets": "2788",
+      "tw_since_id": "1120813683305787392",
+      "fb_shares": "137",
+      "fb_comments": "962",
+      "fb_reactions": "2511",
+      "popularity_updated": "26",
+      "sentiment": "0",
+      "screen_name": "IndiaIndiaNews",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-04-2019 16:45",
+      "timestamp_published": "1556030735",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "45"
+    },
+    {
+      "id": "404912",
+      "date_published": "2019-04-24 10:30:32",
+      "date_added": "2019-04-24 07:03:27",
+      "date_modified": "2019-04-24 07:17:37",
+      "title": "From relationship with Mamata Banerjee to his fashion sense: PM Modi opens up in 'non political' chat with Akshay Kumar | Latest News & Updates at DNAIndia.com",
+      "source": "www.dnaindia.com",
+      "description": "From relationship with Mamata Banerjee to his fashion sense: PM Modi opens up in 'non political' chat with Akshay Kumar - Modi spoke with Akshay Kumar on various issues.",
+      "tags": [
+        "akshay kumar",
+        "mamata banerjee",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZG5haW5kaWEuY29tL2luZGlhL3Bob3RvLWdhbGxlcnktcG0tbW9kaS1lbmdh\nZ2VzLWluLW5vbi1wb2xpdGljYWwtY2hhdC13aXRoLWFrc2hheS1rdW1hci1saXZlLXVwZGF0ZXMt\nMjc0Mjc0Nw==",
+      "short_url": "https://www.dnaindia.com/india/photo-gallery-pm-modi-engages-in-non-political-chat-with-akshay-kumar-live-updates-2742747",
+      "engagement": "0",
+      "popularity": "15724700",
+      "tw_tweets": "620",
+      "tw_reach": "20894213",
+      "tw_favorites": "364",
+      "tw_retweets": "33027",
+      "tw_since_id": "1120928142745411584",
+      "fb_shares": "78",
+      "fb_comments": "170",
+      "fb_reactions": "1283",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "Jawahargoel",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-04-2019 10:30",
+      "timestamp_published": "1556094632",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "405714",
+      "date_published": "2019-04-25 09:55:16",
+      "date_added": "2019-04-25 06:27:09",
+      "date_modified": "2019-04-25 16:11:27",
+      "title": "Mamata Banerjee's TMC caught appealing for votes in Bangladesh",
+      "source": "www.opindia.com",
+      "description": "Mamata's TMC is running as many as 13 ads on Facebook, appealing people to vote for TMC in the ongoing elections - Latest India News from Opindia.com",
+      "tags": [
+        "bangladesh",
+        "india",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9hZnRlci1nZXR0aW5nLWJhbmdsYWRlc2hp\nLWFjdG9ycy10by1jYW1wYWlnbi1tYW1hdGFzLXRtYy1jYXVnaHQtcnVubmluZy1hZHMtaW4tYmFu\nZ2xhZGVzaC1hcHBlYWxpbmctZm9yLXZvdGVzLw==",
+      "short_url": "https://www.opindia.com/2019/04/after-getting-bangladeshi-actors-to-campaign-mamatas-tmc-caught-running-ads-in-bangladesh-appealing-for-votes/",
+      "engagement": "0",
+      "popularity": "591146",
+      "tw_tweets": "114",
+      "tw_reach": "775353",
+      "tw_favorites": "201",
+      "tw_retweets": "4959",
+      "tw_since_id": "1121606376839454720",
+      "fb_shares": "261",
+      "fb_comments": "50",
+      "fb_reactions": "518",
+      "popularity_updated": "24",
+      "sentiment": "0",
+      "screen_name": "nirwamehta",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-04-2019 09:55",
+      "timestamp_published": "1556178916",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        }
+      ],
+      "popularity_logs": "42"
+    },
+    {
+      "id": "406753",
+      "date_published": "2019-04-26 18:11:52",
+      "date_added": "2019-04-26 14:47:04",
+      "date_modified": "2019-04-28 09:16:45",
+      "title": "Mamata Banerjee Threatens To Break PM Modi’s Teeth By Sending Him Sweets Filled With Rocks",
+      "source": "swarajyamag.com",
+      "description": "Mamata Banerjee has threatened to break PM Modi’s teeth by sending him rock filled sweets",
+      "tags": [
+        "mamata banerjee",
+        "narendra modi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9zd2FyYWp5YW1hZy5jb20vaW5zdGEvbWFtYXRhLWJhbmVyamVlLXRocmVhdGVucy10\nby1icmVhay1wbS1tb2Rpcy10ZWV0aC1ieS1zZW5kaW5nLWhpbS1zd2VldHMtZmlsbGVkLXdpdGgt\ncm9ja3M=",
+      "short_url": "https://swarajyamag.com/insta/mamata-banerjee-threatens-to-break-pm-modis-teeth-by-sending-him-sweets-filled-with-rocks",
+      "engagement": "0",
+      "popularity": "2932700",
+      "tw_tweets": "562",
+      "tw_reach": "3526801",
+      "tw_favorites": "178",
+      "tw_retweets": "188550",
+      "tw_since_id": "1122393666062929920",
+      "fb_shares": "190",
+      "fb_comments": "365",
+      "fb_reactions": "1198",
+      "popularity_updated": "543",
+      "sentiment": "0",
+      "screen_name": "d_Vitty18",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-04-2019 18:11",
+      "timestamp_published": "1556295112",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "560"
+    },
+    {
+      "id": "407152",
+      "date_published": "2019-04-27 08:50:21",
+      "date_added": "2019-04-27 05:23:24",
+      "date_modified": "2019-05-06 18:32:54",
+      "title": "Mamata Ji Knows The Size Of PM's Kurtas: Congress Leader Raj Babbar",
+      "source": "www.ndtv.com",
+      "description": "The Congress and the CPM trained its guns on Mamata Banerjee days after Prime Minister Narendra Modi, in an interview to Bollywood star Akshay Kumar, said that the Bengal Chief Minister \"personally\" selected kurtas and sent him as gifts. While senior Congress leader Raj Babbar said he wondered how the Trinamool Congress chief knew the \"size of Modi's kurtas\", CPM General Secretary Sitaram Yechury alleged that there was a secret pact between Bengal's ruling party and the BJP",
+      "tags": [
+        "akshay kumar",
+        "bengal",
+        "bollywood",
+        "congress",
+        "mamata banerjee",
+        "narendra modi",
+        "raj babbar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nY29uZ3Jlc3MtbGVhZGVyLXJhai1iYWJiYXItc2F5cy1tYW1hdGEtYmFuZXJqZWUta25vdy10aGUt\nc2l6ZS1vZi1wcmltZS1taW5pLTIwMjkzNDQ=",
+      "short_url": "https://goo.gl/fb/zhqLS7",
+      "engagement": "0",
+      "popularity": "60891800",
+      "tw_tweets": "522",
+      "tw_reach": "81057576",
+      "tw_favorites": "45",
+      "tw_retweets": "63945",
+      "tw_since_id": "1125437639165747203",
+      "fb_shares": "127",
+      "fb_comments": "215",
+      "fb_reactions": "571",
+      "popularity_updated": "509",
+      "sentiment": "0",
+      "screen_name": "ndtvfeed",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-04-2019 08:50",
+      "timestamp_published": "1556347821",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "2",
+          "name": "United Progressive Alliance",
+          "slug": "upa"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "154",
+          "query": "\"Indian National Congress\" OR \"National Congress\" OR INCIndia"
+        }
+      ],
+      "popularity_logs": "533"
+    },
+    {
+      "id": "408229",
+      "date_published": "2019-04-28 20:10:12",
+      "date_added": "2019-04-28 16:42:13",
+      "date_modified": "2019-05-03 17:21:32",
+      "title": "‘PM Modi doesn’t respect his mother, how can he respect India’: Mamata",
+      "source": "www.hindustantimes.com",
+      "description": "At her second rally at Nimtouri, also in East Midnapore, Banerjee alleged that crores of rupees were being spent on Modi’s rallies but the Election Commission of India (ECI) was not taking any action.",
+      "tags": [
+        "mamata banerjee",
+        "midnapore",
+        "narendra modi",
+        "sion"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xvay1zYWJoYS1lbGVjdGlvbnMvcG0tbW9k\naS1kb2Vzbi10LXJlc3BlY3QtaGlzLW1vdGhlci1ob3ctY2FuLWhlLXJlc3BlY3QtaW5kaWEtbWFt\nYXRhL3N0b3J5LUFiN3VuV3pYanA1YnVHMlhocnl3Tk8uaHRtbA==",
+      "short_url": "http://www.hindustantimes.com/lok-sabha-elections/pm-modi-doesn-t-respect-his-mother-how-can-he-respect-india-mamata/story-Ab7unWzXjp5buG2XhrywNO.html",
+      "engagement": "0",
+      "popularity": "15875100",
+      "tw_tweets": "1147",
+      "tw_reach": "20987389",
+      "tw_favorites": "87",
+      "tw_retweets": "76413",
+      "tw_since_id": "1124315179166998529",
+      "fb_shares": "679",
+      "fb_comments": "1697",
+      "fb_reactions": "5756",
+      "popularity_updated": "1065",
+      "sentiment": "0",
+      "screen_name": "htTweets",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-04-2019 20:10",
+      "timestamp_published": "1556475012",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "1098"
+    },
+    {
+      "id": "408806",
+      "date_published": "2019-04-29 16:40:09",
+      "date_added": "2019-04-29 13:12:28",
+      "date_modified": "2019-04-30 06:37:03",
+      "title": "Are You Canvassing or Horse Trading? Asks TMC After Modi Claims Mamata's 40 MLAs 'in Touch' With Him",
+      "source": "www.news18.com",
+      "description": "PM Modi in his rally address in Sreerampur had accused the West Bengal CM of nepotism for fielding her nephew Abhishek Banerjee in the ongoing polls.",
+      "tags": [
+        "abhishek banerjee",
+        "aitc",
+        "mamata banerjee",
+        "narendra modi",
+        "nathan theodore fielding",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmV3czE4LmNvbS9uZXdzL3BvbGl0aWNzL2FyZS15b3UtY2FudmFzc2luZy1v\nci1ob3JzZS10cmFkaW5nLWFza3MtdG1jLWFmdGVyLW1vZGktd2FybnMtbWFtYXRhLW9mLTQwLW1s\nYXMtaW4tdG91Y2gtd2l0aC1oaW0tMjEyMTYxNy5odG1s",
+      "short_url": "https://www.news18.com/news/politics/are-you-canvassing-or-horse-trading-asks-tmc-after-modi-warns-mamata-of-40-mlas-in-touch-with-him-2121617.html",
+      "engagement": "0",
+      "popularity": "1201990",
+      "tw_tweets": "645",
+      "tw_reach": "565946",
+      "tw_favorites": "0",
+      "tw_retweets": "517016",
+      "tw_since_id": "1123116476418875392",
+      "fb_shares": "82",
+      "fb_comments": "89",
+      "fb_reactions": "423",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "SouzaBenedict",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-04-2019 16:40",
+      "timestamp_published": "1556548809",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "22"
+    },
+    {
+      "id": "409777",
+      "date_published": "2019-04-30 21:21:32",
+      "date_added": "2019-04-30 17:57:14",
+      "date_modified": "2019-05-04 15:17:36",
+      "title": "Did Mamata Banerjee say \"give me 42 seats, I'll make Hindus cry\"? Fake newspaper clipping shared - Alt News",
+      "source": "www.altnews.in",
+      "description": "A purported newspaper clipping of popular Bengali daily বর্তমান (Bartaman) is shared on social media with its headline reading, “৪২টা আসন দিন হিন্দু কীভাবে কাঁদা তে হয় দেখিয়ে দেব: মমতা (Give me 42 seats & I’ll show you how to make the Hindus cry: Mamata)” Mamta says, Win me 42 seats & I’ll …",
+      "tags": [
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWx0bmV3cy5pbi9kaWQtbWFtYXRhLWJhbmVyamVlLXNheS1naXZlLW1lLTQy\nLXNlYXRzLWlsbC1tYWtlLWhpbmR1cy1jcnktZmFrZS1uZXdzcGFwZXItY2xpcHBpbmctc2hhcmVk\nLw==",
+      "short_url": "https://t.co/eqoWJLHjvA",
+      "engagement": "0",
+      "popularity": "1380320",
+      "tw_tweets": "909",
+      "tw_reach": "1634125",
+      "tw_favorites": "255",
+      "tw_retweets": "95945",
+      "tw_since_id": "1124663879886307328",
+      "fb_shares": "835",
+      "fb_comments": "549",
+      "fb_reactions": "2842",
+      "popularity_updated": "823",
+      "sentiment": "0",
+      "screen_name": "TruthOfGujarat",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-04-2019 21:21",
+      "timestamp_published": "1556652092",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        }
+      ],
+      "popularity_logs": "839"
+    },
+    {
+      "id": "410406",
+      "date_published": "2019-05-01 15:58:07",
+      "date_added": "2019-05-01 12:32:26",
+      "date_modified": "2019-05-02 09:41:15",
+      "title": "\"Mamata Banerjee Supporting Those Who Wish To Divide Country\": Amit Shah",
+      "source": "www.ndtv.com",
+      "description": "Stepping up his attack on Mamata Banerjee, BJP president Amit Shah said on Wednesday that the West Bengal chief minister has extended her support to those who wish to divide the country by separating Kashmir from India.",
+      "tags": [
+        "amit shah",
+        "bengal",
+        "bjp",
+        "divide india",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtZWxlY3Rpb25zLTIwMTkt\nYW1pdC1zaGFoLXNheXMtbWFtYXRhLWJhbmVyamVlLWV4dGVuZGluZy1zdXBwb3J0LXRvLXRob3Nl\nLXdoby13aXNoLXRvLWRpdmlkLTIwMzEzODU=",
+      "short_url": "https://goo.gl/fb/GX4QEY",
+      "engagement": "0",
+      "popularity": "25641000",
+      "tw_tweets": "63",
+      "tw_reach": "34185806",
+      "tw_favorites": "0",
+      "tw_retweets": "169",
+      "tw_since_id": "1123843222621556738",
+      "fb_shares": "12",
+      "fb_comments": "235",
+      "fb_reactions": "332",
+      "popularity_updated": "62",
+      "sentiment": "0",
+      "screen_name": "ndtv",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "01-05-2019 15:58",
+      "timestamp_published": "1556719087",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "79"
+    },
+    {
+      "id": "410976",
+      "date_published": "2019-05-02 08:28:33",
+      "date_added": "2019-05-02 05:02:12",
+      "date_modified": "2019-05-02 05:02:12",
+      "title": "BJP failed to tackle J&K, Maoist problems: Mamata | Greater Kashmir",
+      "source": "www.greaterkashmir.com",
+      "description": "West Bengal Chief Minister Mamata Banerjee on Tuesday slammed the NarendraModi government saying that its constant “torture and violence” on the locals had turned Jammu and Kashmir (J&K) into a “burning fire pit”. “Terrorism has increased by 260 per cent under the Modi regime. Kashmir has turned into a burning fire pit. The situation thereRead More",
+      "tags": [
+        "bjp",
+        "j&k",
+        "kashmir",
+        "mamata banerjee",
+        "narendra modi",
+        "violence"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZ3JlYXRlcmthc2htaXIuY29tL25ld3MvaW5kaWEvYmpwLWZhaWxlZC10by10\nYWNrbGUtamstbWFvaXN0LXByb2JsZW1zLW1hbWF0YS8=",
+      "short_url": "https://www.greaterkashmir.com/news/india/bjp-failed-to-tackle-jk-maoist-problems-mamata/",
+      "engagement": "0",
+      "popularity": "2446.25",
+      "tw_tweets": "3",
+      "tw_reach": "2349",
+      "tw_favorites": "0",
+      "tw_retweets": "27",
+      "tw_since_id": "1123783807897939973",
+      "fb_shares": "8",
+      "fb_comments": "44",
+      "fb_reactions": "228",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "SuhailYasir4",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "02-05-2019 08:28",
+      "timestamp_published": "1556778513",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "412278",
+      "date_published": "2019-05-03 22:19:24",
+      "date_added": "2019-05-03 18:52:22",
+      "date_modified": "2019-05-30 07:48:08",
+      "title": "Cyclone Fani Affects Only Non-BJP Ruled States; Mamata Suspects Conspiracy By Modi | The Fauxy",
+      "source": "thefauxy.com",
+      "description": "On Friday morning, Cyclone Fani, one of the strongest storms, made landfall near Puri, India, at more than 120 miles per hour. This cyclone is expected to affect the lives of people living in Odisha, | India's Finest, Fastest & Fictitious News Source",
+      "tags": [
+        "cy young",
+        "india",
+        "mamata banerjee",
+        "narendra modi",
+        "non-bjp",
+        "puri"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVmYXV4eS5jb20vY3ljbG9uZS1mYW5pLWFmZmVjdHMtb25seS1ub24tYmpwLXJ1\nbGVkLXN0YXRlcy1tYW1hdGEtc3VzcGVjdHMtY29uc3BpcmFjeS1ieS1tb2RpLw==",
+      "short_url": "https://thefauxy.com/cyclone-fani-affects-only-non-bjp-ruled-states-mamata-suspects-conspiracy-by-modi/",
+      "engagement": "0",
+      "popularity": "643567",
+      "tw_tweets": "562",
+      "tw_reach": "587840",
+      "tw_favorites": "18",
+      "tw_retweets": "128574",
+      "tw_since_id": "1133972666409340930",
+      "fb_shares": "406",
+      "fb_comments": "371",
+      "fb_reactions": "3291",
+      "popularity_updated": "499",
+      "sentiment": "0",
+      "screen_name": "WordsSlay",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "03-05-2019 22:19",
+      "timestamp_published": "1556914764",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "520"
+    },
+    {
+      "id": "412804",
+      "date_published": "2019-05-04 17:21:54",
+      "date_added": "2019-05-04 13:56:57",
+      "date_modified": "2019-05-06 07:02:57",
+      "title": "Shekhar Gupta justifies TMC's violence in West Bengal, showers praise for fighting 'fire with fire'",
+      "source": "www.opindia.com",
+      "description": "Shekhar Gupta has this to say: \"Fight fire with fire, venom with venom... Mamata in Bengal shows how offence is the best defence to stop the Modi-Shah cavalry...\" - Latest India News from Opindia.com",
+      "tags": [
+        "aitc",
+        "amit shah",
+        "bengal",
+        "india",
+        "mamata banerjee",
+        "michael page",
+        "narendra modi",
+        "shekhar gupta",
+        "violence",
+        "west"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9zaGVraGFyLWd1cHRhLXRoZS1wcmludC1q\ndXN0aWZpZXMtdG1jLXBvbGl0aWNhbC12aW9sZW5jZS13ZXN0LWJlbmdhbC1wcmFpc2UtbWFtYXRh\nLWJhbmVyamVlLw==",
+      "short_url": "https://www.opindia.com/2019/05/shekhar-gupta-the-print-justifies-tmc-political-violence-west-bengal-praise-mamata-banerjee/",
+      "engagement": "0",
+      "popularity": "2056340",
+      "tw_tweets": "1031",
+      "tw_reach": "1050559",
+      "tw_favorites": "197",
+      "tw_retweets": "841814",
+      "tw_since_id": "1125261203427618816",
+      "fb_shares": "453",
+      "fb_comments": "381",
+      "fb_reactions": "1110",
+      "popularity_updated": "176",
+      "sentiment": "0",
+      "screen_name": "amitchitalia",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "04-05-2019 17:21",
+      "timestamp_published": "1556983314",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "208"
+    },
+    {
+      "id": "413684",
+      "date_published": "2019-05-05 19:45:00",
+      "date_added": "2019-05-05 16:17:45",
+      "date_modified": "2019-05-07 17:17:30",
+      "title": "Government officials clarify that while Modi called Mamata over Cyclone Fani, she did not return calls",
+      "source": "www.opindia.com",
+      "description": "The West Bengal CM said that while Modi spoke to Odisha Chief Minister Naveen Patnaik over the phone, he did not bother calling her. - Latest India News from Opindia.com",
+      "tags": [
+        "cy young",
+        "india",
+        "mamata banerjee",
+        "narendra modi",
+        "naveen patnaik",
+        "odisha",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9wbS1tb2RpLWNhbGxlZC1iZW5nYWwtY20t\nbWFtYXRhLWJhbmVyamVlLW92ZXItY3ljbG9uZS1mYW5pLWxhdHRlci1kaWQtbm90LXJldHVybi1j\nYWxscy1vZmZpY2lhbHMv",
+      "short_url": "https://www.opindia.com/2019/05/pm-modi-called-bengal-cm-mamata-banerjee-over-cyclone-fani-latter-did-not-return-calls-officials/",
+      "engagement": "0",
+      "popularity": "597676",
+      "tw_tweets": "150",
+      "tw_reach": "772159",
+      "tw_favorites": "16",
+      "tw_retweets": "11631",
+      "tw_since_id": "1125780649955155969",
+      "fb_shares": "73",
+      "fb_comments": "50",
+      "fb_reactions": "291",
+      "popularity_updated": "148",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "05-05-2019 19:45",
+      "timestamp_published": "1557078300",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "162"
+    },
+    {
+      "id": "414199",
+      "date_published": "2019-05-06 12:55:44",
+      "date_added": "2019-05-06 09:28:07",
+      "date_modified": "2019-05-06 12:23:12",
+      "title": "Cyclone Fani: Mamata govt refuses review meeting with PM Modi",
+      "source": "www.indiatoday.in",
+      "description": "PM Modi, who is currently reviewing the extent of damage caused to Odisha due to Cyclone Fani, said he wanted to do the same for West Bengal. The PMO had even written to the state about the planned review meeting. ",
+      "tags": [
+        "cy young",
+        "mamata banerjee",
+        "pm modi pm modi",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9lbGVjdGlvbnMvbG9rLXNhYmhhLTIwMTkvc3Rvcnkv\nY3ljbG9uZS1mYW5pLW1hbWF0YS1nb3Z0LXJlZnVzZXMtcmV2aWV3LW1lZXRpbmctd2l0aC1wbS1t\nb2RpLTE1MTgwNzAtMjAxOS0wNS0wNg==",
+      "short_url": "https://www.indiatoday.in/elections/lok-sabha-2019/story/cyclone-fani-mamata-govt-refuses-review-meeting-with-pm-modi-1518070-2019-05-06",
+      "engagement": "0",
+      "popularity": "9805750",
+      "tw_tweets": "345",
+      "tw_reach": "12730566",
+      "tw_favorites": "22",
+      "tw_retweets": "167271",
+      "tw_since_id": "1125416350338281472",
+      "fb_shares": "357",
+      "fb_comments": "553",
+      "fb_reactions": "1939",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "mukulnda",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "06-05-2019 12:55",
+      "timestamp_published": "1557140144",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "415289",
+      "date_published": "2019-05-07 21:05:57",
+      "date_added": "2019-05-07 17:41:51",
+      "date_modified": "2019-05-08 13:31:48",
+      "title": "Mamata Banerjee should learn from Naveen Patnaik on how to fulfil constitutional duties, avoid pettiness in political rivalry - Firstpost",
+      "source": "www.firstpost.com",
+      "description": "Odisha CM Naveen Patnaik's work and gesture are a reminder to Mamata Banerjee that one doesn’t need to be petty and irresponsible in executing one’s duties as the CM and meeting the challenge posed by a rival political party",
+      "tags": [
+        "mamata banerjee",
+        "naveen patnaik"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZmlyc3Rwb3N0LmNvbS9wb2xpdGljcy9tYW1hdGEtYmFuZXJqZWUtc2hvdWxk\nLWxlYXJuLWZyb20tbmF2ZWVuLXBhdG5haWstb24taG93LXRvLWZ1bGZpbC1jb25zdGl0dXRpb25h\nbC1kdXRpZXMtYXZvaWQtcGV0dGluZXNzLWluLXBvbGl0aWNhbC1yaXZhbHJ5LTY1ODc5NDEuaHRt\nbA==",
+      "short_url": "https://www.firstpost.com/politics/mamata-banerjee-should-learn-from-naveen-patnaik-on-how-to-fulfil-constitutional-duties-avoid-pettiness-in-political-rivalry-6587941.html",
+      "engagement": "0",
+      "popularity": "838901",
+      "tw_tweets": "483",
+      "tw_reach": "702203",
+      "tw_favorites": "2",
+      "tw_retweets": "199854",
+      "tw_since_id": "1126114029817085954",
+      "fb_shares": "1015",
+      "fb_comments": "456",
+      "fb_reactions": "3804",
+      "popularity_updated": "46",
+      "sentiment": "0",
+      "screen_name": "vaddadi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "07-05-2019 21:05",
+      "timestamp_published": "1557255957",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "65"
+    },
+    {
+      "id": "415906",
+      "date_published": "2019-05-08 17:30:15",
+      "date_added": "2019-05-08 14:02:29",
+      "date_modified": "2019-05-08 14:02:30",
+      "title": "She accepts Pakistan’s PM but not India’s PM, Narendra Modi hits back at Mamata’s ‘not my PM’ remark - Opindia News",
+      "source": "www.opindia.com",
+      "description": "PM Modi said that he will respond to Priyanka Gandhi's attacks by keeping mum - Latest India News from Opindia.com",
+      "tags": [
+        "mamata banerjee",
+        "narendra modi",
+        "pakistan",
+        "priyanka gandhi"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9zaGUtYWNjZXB0cy1wYWtpc3RhbnMtcG0t\nYnV0LW5vdC1pbmRpYXMtcG0tbmFyZW5kcmEtbW9kaS1oaXRzLWJhY2stYXQtbWFtYXRhcy1ub3Qt\nbXktcG0tcmVtYXJrLw==",
+      "short_url": "https://www.opindia.com/2019/05/she-accepts-pakistans-pm-but-not-indias-pm-narendra-modi-hits-back-at-mamatas-not-my-pm-remark/",
+      "engagement": "0",
+      "popularity": "929518",
+      "tw_tweets": "310",
+      "tw_reach": "1170699",
+      "tw_favorites": "1065",
+      "tw_retweets": "32617",
+      "tw_since_id": "1126111579316019201",
+      "fb_shares": "118",
+      "fb_comments": "47",
+      "fb_reactions": "360",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "navaneethkrish2",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "08-05-2019 17:30",
+      "timestamp_published": "1557329415",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "416864",
+      "date_published": "2019-05-09 22:30:01",
+      "date_added": "2019-05-09 19:02:46",
+      "date_modified": "2019-05-09 19:16:45",
+      "title": "Mamata Banerjee's bizarre statement: Lord Rama says 'Sita Maa, Sita Maa', BJP chants 'Ram Naam Satya Hai' for elections - Opindia News",
+      "source": "www.opindia.com",
+      "description": "In a video that has gone viral, Mamata Banerjee can be heard saying, \"Ramchandra calls Sita Maiya, and then says, 'Sita Maa, Sita Maa, there are elections in Bharata it seems'.\" - Latest India News from Opindia.com",
+      "tags": [
+        "bizarre",
+        "bjp",
+        "maa",
+        "mamata banerjee",
+        "rama",
+        "seetha"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW1hdGEtYmFuZXJqZWVzLWJpemFycmUt\nc3RhdGVtZW50LWxvcmQtcmFtYS1zYXlzLXNpdGEtbWFhLXNpdGEtbWFhLWJqcC1jaGFudHMtcmFt\nLW5hYW0tc2F0eWEtaGFpLWZvci1lbGVjdGlvbnMv",
+      "short_url": "http://bit.ly/2PTzB6G",
+      "engagement": "0",
+      "popularity": "1783220",
+      "tw_tweets": "496",
+      "tw_reach": "2112702",
+      "tw_favorites": "468",
+      "tw_retweets": "131383",
+      "tw_since_id": "1126667236482019328",
+      "fb_shares": "42",
+      "fb_comments": "59",
+      "fb_reactions": "184",
+      "popularity_updated": "8",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "09-05-2019 22:30",
+      "timestamp_published": "1557433801",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "26"
+    },
+    {
+      "id": "417432",
+      "date_published": "2019-05-10 19:13:24",
+      "date_added": "2019-05-10 15:47:01",
+      "date_modified": "2019-05-11 19:13:04",
+      "title": "West Bengal: TMC leader gets BJP Bengal youth leader arrested for posting Met Gala-themed meme of CM Mamata Banerjee - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Priyanka Sharma, BJP youth leader has been arrested for posting a meme mocking Banerjee on her Facebook Timeline on May 9 - Latest India News from Opindia.com",
+      "tags": [
+        "aitc",
+        "benarjee",
+        "bengal",
+        "bjp",
+        "gala dalí",
+        "india",
+        "mamata banerjee",
+        "priyanka gandhi",
+        "west bengal",
+        "yash paul sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS93ZXN0LWJlbmdhbC10bWMtbGVhZGVyLWdl\ndHMtYmpwLWJlbmdhbC15b3V0aC1sZWFkZXItYXJyZXN0ZWQtZm9yLXBvc3RpbmctbWV0LWdhbGEt\ndGhlbWVkLW1lbWUtb2YtY20tbWFtYXRhLWJhbmVyamVlLw==",
+      "short_url": "https://www.opindia.com/2019/05/west-bengal-tmc-leader-gets-bjp-bengal-youth-leader-arrested-for-posting-met-gala-themed-meme-of-cm-mamata-banerjee/",
+      "engagement": "0",
+      "popularity": "2806750",
+      "tw_tweets": "677",
+      "tw_reach": "2064213",
+      "tw_favorites": "223",
+      "tw_retweets": "828398",
+      "tw_since_id": "1127251116067098626",
+      "fb_shares": "832",
+      "fb_comments": "569",
+      "fb_reactions": "5243",
+      "popularity_updated": "20",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "10-05-2019 19:13",
+      "timestamp_published": "1557508404",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "41"
+    },
+    {
+      "id": "418024",
+      "date_published": "2019-05-11 18:40:04",
+      "date_added": "2019-05-11 15:13:40",
+      "date_modified": "2019-05-28 10:17:45",
+      "title": "'Where is the award wapsi gang?': Twitterati furious after BJP Yuva morcha leader arrested for posting Mamata meme | Latest News & Updates at DNAIndia.com",
+      "source": "www.dnaindia.com",
+      "description": "'Where is the award wapsi gang?': Twitterati furious after BJP Yuva morcha leader arrested for posting Mamata meme - Twitter slams Banerjee",
+      "tags": [
+        "bjp",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuZG5haW5kaWEuY29tL2luZGlhL3Bob3RvLWdhbGxlcnktd2hlcmUtaXMtdGhl\nLWF3YXJkcy13YXBzaS1nYW5nLXR3aXR0ZXJhdGktZnVyaW91cy1hZnRlci1ianAteXV2YS1tb3Jj\naGEtbGVhZGVyLWFycmVzdGVkLWZvci1wb3N0aW5nLW1hbWF0YS1tZW1lLTI3NDgyNDk=",
+      "short_url": "https://www.dnaindia.com/india/photo-gallery-where-is-the-awards-wapsi-gang-twitterati-furious-after-bjp-yuva-morcha-leader-arrested-for-posting-mamata-meme-2748249",
+      "engagement": "0",
+      "popularity": "753517",
+      "tw_tweets": "408",
+      "tw_reach": "327386",
+      "tw_favorites": "0",
+      "tw_retweets": "336046",
+      "tw_since_id": "1133285461491965953",
+      "fb_shares": "337",
+      "fb_comments": "115",
+      "fb_reactions": "1091",
+      "popularity_updated": "328",
+      "sentiment": "0",
+      "screen_name": "Modi91Raj",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "11-05-2019 18:40",
+      "timestamp_published": "1557592804",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "347"
+    },
+    {
+      "id": "418281",
+      "date_published": "2019-05-12 04:25:41",
+      "date_added": "2019-05-12 00:57:01",
+      "date_modified": "2019-05-16 18:56:56",
+      "title": "BJP youth wing leader held for Didi (Mamata Banerjee) caricature",
+      "source": "indianexpress.com",
+      "description": "Sharma has been charged under Section 500 of the IPC (defamation), and Sections 66A (offensive messages) and the non-bailable 67A (punishment for publishing or transmitting of material containing sexually explicit act, etc., in electronic form) of the Information Technology Act.",
+      "tags": [
+        "bjp",
+        "didi",
+        "mamata banerjee",
+        "sunil chhetri",
+        "yash paul sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9lbGVjdGlvbnMvYmpwLXlvdXRoLXdpbmctbGVhZGVy\nLXByaXlhbmthLXNoYXJtYS1oZWxkLWZvci1kaWRpLWNhcmljYXR1cmUtNTcyMzM1Ni8=",
+      "short_url": "http://bit.ly/2JvyF7e",
+      "engagement": "0",
+      "popularity": "4150990",
+      "tw_tweets": "1332",
+      "tw_reach": "1223574",
+      "tw_favorites": "39",
+      "tw_retweets": "2153248",
+      "tw_since_id": "1129067541203177472",
+      "fb_shares": "272",
+      "fb_comments": "93",
+      "fb_reactions": "541",
+      "popularity_updated": "545",
+      "sentiment": "0",
+      "screen_name": "1sttHuman",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "12-05-2019 04:25",
+      "timestamp_published": "1557627941",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "573"
+    },
+    {
+      "id": "419068",
+      "date_published": "2019-05-13 13:34:11",
+      "date_added": "2019-05-13 10:07:06",
+      "date_modified": "2019-05-20 05:51:50",
+      "title": "SPOILER ALERT: Mamata Banerjee – The Dragon Queen Without Any Dragons #GameofThrones | The Fauxy",
+      "source": "thefauxy.com",
+      "description": "\"Aamar Dragons kothaaye? (Where are my Dragons?)\" asked Mamata Banerjee angered at the thought of Amit Shah landing in West Bengal's soil with his iron-Dragon. \"You do not have any Dragons, my Queen. | India's Finest, Fastest & Fictitious News Source",
+      "tags": [
+        "amit shah",
+        "mamata banerjee",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGVmYXV4eS5jb20vc3BvaWxlci1hbGVydC1tYW1hdGEtYmFuZXJqZWUtdGhlLWRy\nYWdvbi1xdWVlbi13aXRob3V0LWFueS1kcmFnb25zLWdhbWVvZnRocm9uZXMv",
+      "short_url": "https://thefauxy.com/spoiler-alert-mamata-banerjee-the-dragon-queen-without-any-dragons-gameofthrones/",
+      "engagement": "0",
+      "popularity": "40381.8",
+      "tw_tweets": "49",
+      "tw_reach": "46254",
+      "tw_favorites": "0",
+      "tw_retweets": "3083",
+      "tw_since_id": "1130317428976754688",
+      "fb_shares": "26",
+      "fb_comments": "21",
+      "fb_reactions": "403",
+      "popularity_updated": "48",
+      "sentiment": "0",
+      "screen_name": "me_sandeep_",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "13-05-2019 13:34",
+      "timestamp_published": "1557747251",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "69"
+    },
+    {
+      "id": "419779",
+      "date_published": "2019-05-14 11:39:44",
+      "date_added": "2019-05-14 08:12:14",
+      "date_modified": "2019-05-14 08:12:14",
+      "title": "'Intolerance gang missing?': Netizens question Bollywood's deafening silence on BJP activist Priyanka Sharma's arrest over viral Mamata Banerjee meme - Republic World",
+      "source": "www.republicworld.com",
+      "description": "The Supreme Court on Tuesday will hear a plea filed by BJP Youth Wing Worker Priyanka Sharma against her arrest by West Bengal Police for sharing a morphed picture of Chief Minister Mamata Banerjee.",
+      "tags": [
+        "bjp",
+        "bollywood",
+        "mamata banerjee",
+        "priyanka gandhi",
+        "supreme",
+        "yash paul sharma"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cucmVwdWJsaWN3b3JsZC5jb20vaW5kaWEtbmV3cy9nZW5lcmFsLW5ld3MvaW50\nb2xlcmFuY2UtZ2FuZy1taXNzaW5nLW5ldGl6ZW5zLXF1ZXN0aW9uLWJvbGx5d29vZHMtZGVhZmVu\naW5nLXNpbGVuY2Utb24tYmpwLWFjdGl2aXN0LXByaXlhbmthLXNoYXJtYXMtYXJyZXN0LW92ZXIt\ndmlyYWwtbWFtYXRhLWJhbmVyamVlLW1lbWU=",
+      "short_url": "https://www.republicworld.com/india-news/general-news/intolerance-gang-missing-netizens-question-bollywoods-deafening-silence-on-bjp-activist-priyanka-sharmas-arrest-over-viral-mamata-banerjee-meme",
+      "engagement": "0",
+      "popularity": "2168270",
+      "tw_tweets": "907",
+      "tw_reach": "893384",
+      "tw_favorites": "13",
+      "tw_retweets": "981721",
+      "tw_since_id": "1128569707181666304",
+      "fb_shares": "2758",
+      "fb_comments": "854",
+      "fb_reactions": "7286",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "amgomekar",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "14-05-2019 11:39",
+      "timestamp_published": "1557826784",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "23"
+    },
+    {
+      "id": "420625",
+      "date_published": "2019-05-15 16:24:15",
+      "date_added": "2019-05-15 12:57:21",
+      "date_modified": "2019-05-16 20:42:10",
+      "title": "Mamata Banerjee: I can capture BJP headquarter in Delhi, your houses in one second",
+      "source": "www.mynation.com",
+      "description": "Bengal chief minister Mamata Banerjee launched a scathing attack on BJP president Amit Shah. The Trinamool chief reportedly asked whether Shah is any God that no one can protest against him.&nbsp;",
+      "tags": [
+        "aitc",
+        "amit shah",
+        "benarjee",
+        "bengal",
+        "bjp",
+        "delhi",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3MvaS1jYW4tY2FwdHVyZS1ianAtaGVh\nZHF1YXJ0ZXItaW4tZGVsaGkteW91ci1ob3VzZXMtaW4tb25lLXNlY29uZC1tYW1hdGEtYmFuZXJq\nZWUtcHJqZTlu",
+      "short_url": "https://www.mynation.com/india-news/i-can-capture-bjp-headquarter-in-delhi-your-houses-in-one-second-mamata-banerjee-prje9n",
+      "engagement": "0",
+      "popularity": "2794890",
+      "tw_tweets": "664",
+      "tw_reach": "559668",
+      "tw_favorites": "26",
+      "tw_retweets": "1579984",
+      "tw_since_id": "1129094083404652544",
+      "fb_shares": "227",
+      "fb_comments": "416",
+      "fb_reactions": "1299",
+      "popularity_updated": "14",
+      "sentiment": "0",
+      "screen_name": "nikhildwivedi20",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "15-05-2019 16:24",
+      "timestamp_published": "1557930255",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "36"
+    },
+    {
+      "id": "421433",
+      "date_published": "2019-05-16 18:45:00",
+      "date_added": "2019-05-16 15:17:19",
+      "date_modified": "2019-05-18 09:08:18",
+      "title": "Mamata lied: TMC student leader who was injured by 'BJP workers' admits he was actually injured earlier - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Mamata Banerjee has been accusing the BJP of causing violence although it appears it was Trinamool who started it. - Latest India News from Opindia.com",
+      "tags": [
+        "aitc",
+        "bjp",
+        "india",
+        "mamata banerjee",
+        "violence"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW1hdGEtbGllZC10bWMtc3R1ZGVudC1s\nZWFkZXItd2hvLXdhcy1pbmp1cmVkLWJ5LWJqcC13b3JrZXJzLWFkbWl0cy1oZS13YXMtYWN0dWFs\nbHktaW5qdXJlZC1lYXJsaWVyLw==",
+      "short_url": "http://bit.ly/2YAykVk",
+      "engagement": "0",
+      "popularity": "1189160",
+      "tw_tweets": "234",
+      "tw_reach": "831193",
+      "tw_favorites": "36",
+      "tw_retweets": "374053",
+      "tw_since_id": "1129644054210404353",
+      "fb_shares": "476",
+      "fb_comments": "81",
+      "fb_reactions": "1395",
+      "popularity_updated": "20",
+      "sentiment": "-1",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "16-05-2019 18:45",
+      "timestamp_published": "1558025100",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "34"
+    },
+    {
+      "id": "422074",
+      "date_published": "2019-05-17 18:45:47",
+      "date_added": "2019-05-17 15:17:39",
+      "date_modified": "2019-05-23 19:13:01",
+      "title": "Bengal school textbook labels Khudiram Bose and Prafulla Chaki as terrorists",
+      "source": "www.indiatoday.in",
+      "description": "The Mamata Banerjee-led government in West Bengal has found itself in the midst of yet another raging controversy for labelling revolutionary freedom fighters as \"terrorists\" in the Class 8 history textbooks.",
+      "tags": [
+        "bengal",
+        "khudiram bose",
+        "mamata banerjee",
+        "prafulla chaki",
+        "terrorism"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9pbmRpYS9lYXN0L3N0b3J5L21hbWF0YS1iYW5lcmpl\nZS1nb3Zlcm5tZW50LWhpc3RvcnktdGV4dGJvb2tzLWZyZWVkb20tZmlnaHRlcnMtdGVycm9yaXN0\ncy0yMDMxMTEtMjAxNC0wOC0wNw==",
+      "short_url": "https://www.indiatoday.in/india/east/story/mamata-banerjee-government-history-textbooks-freedom-fighters-terrorists-203111-2014-08-07",
+      "engagement": "0",
+      "popularity": "894574",
+      "tw_tweets": "709",
+      "tw_reach": "636745",
+      "tw_favorites": "43",
+      "tw_retweets": "234508",
+      "tw_since_id": "1131602158451695617",
+      "fb_shares": "4970",
+      "fb_comments": "4962",
+      "fb_reactions": "18184",
+      "popularity_updated": "686",
+      "sentiment": "0",
+      "screen_name": "samanta_om",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "17-05-2019 18:45",
+      "timestamp_published": "1558111547",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "708"
+    },
+    {
+      "id": "422597",
+      "date_published": "2019-05-18 15:25:00",
+      "date_added": "2019-05-18 11:57:15",
+      "date_modified": "2019-05-18 14:46:44",
+      "title": "Proof in hand, CBI hints at Mamata confidant Rajeev Kumar’s arrest after 6 days",
+      "source": "www.hindustantimes.com",
+      "description": "The calls are from the period when Kumar was Bidhan Nagar commissioner of police and the multi-crore ponzi scam broke out in 2012-13.",
+      "tags": [
+        "kumar",
+        "mamata banerjee",
+        "rajeev"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvY2FsbC1yZWNvcmRzLWxp\nbmtpbmcta29sa2F0YS1leC10b3AtY29wLXNhcmFkaGEtbWFzdGVybWluZC1zLWFpZGUtZm91bmQt\nY2JpL3N0b3J5LXlRWEc0NjE5anJlOUZ2NVVBd3JwZk8uaHRtbA==",
+      "short_url": "http://bit.ly/2JKzTLU",
+      "engagement": "0",
+      "popularity": "20475500",
+      "tw_tweets": "198",
+      "tw_reach": "27274503",
+      "tw_favorites": "382",
+      "tw_retweets": "12641",
+      "tw_since_id": "1130043335647752192",
+      "fb_shares": "28",
+      "fb_comments": "1",
+      "fb_reactions": "22",
+      "popularity_updated": "22",
+      "sentiment": "0",
+      "screen_name": "htTweets",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "18-05-2019 15:25",
+      "timestamp_published": "1558185900",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "43"
+    },
+    {
+      "id": "423235",
+      "date_published": "2019-05-19 15:05:41",
+      "date_added": "2019-05-19 11:37:41",
+      "date_modified": "2019-05-21 22:22:09",
+      "title": "India elections 2019: Can Mamata didi stop the onslaught of Modi and Shah’s 'dhokla mafia'?",
+      "source": "gulfnews.com",
+      "description": "Mamata decimated the Opposition, BJP filled the vacuum with Left cadres migrating to it",
+      "tags": [
+        "amit shah",
+        "bjp",
+        "dieter hallervorden",
+        "india",
+        "mamata banerjee",
+        "narendra modi",
+        "opposition"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly9ndWxmbmV3cy5jb20vd29ybGQvYXNpYS9pbmRpYS9pbmRpYS1lbGVjdGlvbnMtMjAx\nOS1jYW4tbWFtYXRhLWRpZGktc3RvcC10aGUtb25zbGF1Z2h0LW9mLW1vZGktYW5kLXNoYWhzLWRo\nb2tsYS1tYWZpYS0xLjE1NTgyNTQyMDEwODI=",
+      "short_url": "https://gulfnews.com/world/asia/india/india-elections-2019-can-mamata-didi-stop-the-onslaught-of-modi-and-shahs-dhokla-mafia-1.1558254201082",
+      "engagement": "0",
+      "popularity": "94259",
+      "tw_tweets": "81",
+      "tw_reach": "94998",
+      "tw_favorites": "0",
+      "tw_retweets": "15178",
+      "tw_since_id": "1130930918321938433",
+      "fb_shares": "23",
+      "fb_comments": "11",
+      "fb_reactions": "37",
+      "popularity_updated": "40",
+      "sentiment": "0",
+      "screen_name": "Poole30967822",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "19-05-2019 15:05",
+      "timestamp_published": "1558271141",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "143",
+          "query": "\"Narendra Modi\" OR NarendraModi OR Modi OR \"Pm Modi\" OR Modiji"
+        }
+      ],
+      "popularity_logs": "66"
+    },
+    {
+      "id": "424524",
+      "date_published": "2019-05-20 22:46:11",
+      "date_added": "2019-05-20 19:22:02",
+      "date_modified": "2019-05-20 19:27:02",
+      "title": "Mamata Banerjee tweets thanks to Opposition leaders for support | News - Times of India Videos",
+      "source": "timesofindia.indiatimes.com",
+      "description": "Mamata Banerjee tweets thanks to Opposition leaders for support. West Bengal CM Mamata Banerjee thanked the leaders of opposition parties via a tweet, for coming out in her support as she protested against the Election Commission's decision to cut short the poll campaign duration in the state. The poll panel on Wednesday cut short campaigning for the last round of voting in West Bengal, in the wake of violence between the BJP and the TMC workers in Kolkata.",
+      "tags": [
+        "india",
+        "mamata banerjee",
+        "opposition",
+        "tweet",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vdmlkZW9zL2NpdHkva29sa2F0YS9t\nYW1hdGEtYmFuZXJqZWUtdHdlZXRzLXRoYW5rcy10by1vcHBvc2l0aW9uLWxlYWRlcnMtZm9yLXN1\ncHBvcnQvdmlkZW9zaG93LzY5MzU1MjE3LmNtcw==",
+      "short_url": "https://timesofindia.indiatimes.com/videos/city/kolkata/mamata-banerjee-tweets-thanks-to-opposition-leaders-for-support/videoshow/69355217.cms",
+      "engagement": "0",
+      "popularity": "4224.5",
+      "tw_tweets": "5",
+      "tw_reach": "0",
+      "tw_favorites": "0",
+      "tw_retweets": "0",
+      "tw_since_id": "1130522621869584384",
+      "fb_shares": "34",
+      "fb_comments": "399",
+      "fb_reactions": "1398",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "SarthakKshetra1",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "20-05-2019 22:46",
+      "timestamp_published": "1558385171",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "32"
+    },
+    {
+      "id": "425188",
+      "date_published": "2019-05-21 21:30:36",
+      "date_added": "2019-05-21 18:02:52",
+      "date_modified": "2019-05-22 11:23:15",
+      "title": "BJP candidate Arjun Singh may be killed in encounter: Kailash Vijayvargiya",
+      "source": "www.mynation.com",
+      "description": "Vijayvargiya took to Twitter to claim that Singh is on the hit list of Bengal chief minister Mamata Banerjee and may be killed in an encounter soon",
+      "tags": [
+        "arjun",
+        "bengal",
+        "bjp",
+        "charanjit singh",
+        "kailash vijayvargiya",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL2luZGlhLW5ld3MvYmpwLWNhbmRpZGF0ZS1hcmp1bi1z\naW5naC1tYXktYmUta2lsbGVkLWluLWVuY291bnRlci1rYWlsYXNoLXZpamF5dmFyZ2l5YS1wcnV3\nenc=",
+      "short_url": "https://www.mynation.com/india-news/bjp-candidate-arjun-singh-may-be-killed-in-encounter-kailash-vijayvargiya-pruwzw",
+      "engagement": "0",
+      "popularity": "821666",
+      "tw_tweets": "60",
+      "tw_reach": "1085137",
+      "tw_favorites": "8",
+      "tw_retweets": "5126",
+      "tw_since_id": "1131179939217043456",
+      "fb_shares": "3",
+      "fb_comments": "0",
+      "fb_reactions": "22",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "drrishibjpwb",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "21-05-2019 21:30",
+      "timestamp_published": "1558467036",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "425353",
+      "date_published": "2019-05-22 06:35:12",
+      "date_added": "2019-05-22 03:07:15",
+      "date_modified": "2019-05-22 03:41:19",
+      "title": "Accept defeat with grace: Ravi Shankar Prasad tells opposition",
+      "source": "zeenews.india.com",
+      "description": "Ravi Shankar Praasd said that there were no problem with the EVMs Mamata Banerjee, N Chandrababu Naidu and Amarinder Singh won elections and became chief minister",
+      "tags": [
+        "amarinder singh",
+        "chandrababu",
+        "mamata banerjee",
+        "n. chandrababu naidu",
+        "opposition",
+        "ravi",
+        "ravi shankar prasad",
+        "shankar"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9sb2stc2FiaGEtZ2VuZXJhbC1lbGVjdGlvbnMtMjAx\nOS9hY2NlcHQtZGVmZWF0LXdpdGgtZ3JhY2UtcmF2aS1zaGFua2FyLXByYXNhZC10ZWxscy1vcHBv\nc2l0aW9uLTIyMDUwNjUuaHRtbA==",
+      "short_url": "http://bit.ly/2Jy23L3",
+      "engagement": "0",
+      "popularity": "409.75",
+      "tw_tweets": "17",
+      "tw_reach": "0",
+      "tw_favorites": "14",
+      "tw_retweets": "0",
+      "tw_since_id": "1131003039798759424",
+      "fb_shares": "7",
+      "fb_comments": "3",
+      "fb_reactions": "158",
+      "popularity_updated": "16",
+      "sentiment": "0",
+      "screen_name": "GHOSHAL2408",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "22-05-2019 06:35",
+      "timestamp_published": "1558499712",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "39"
+    },
+    {
+      "id": "427065",
+      "date_published": "2019-05-23 21:15:19",
+      "date_added": "2019-05-23 17:48:18",
+      "date_modified": "2019-05-23 17:48:18",
+      "title": "Mamata regime may not survive till November after BJP’s Bengal coup",
+      "source": "www.mynation.com",
+      "description": "BJP has tasted blood in Elections 2019 and the Trinamool regime is not shy of spilling blood. A deadline has been drawn up. One battle ends and a bigger one begins in turbulent Bengal.",
+      "tags": [
+        "aitc",
+        "bjp",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cubXluYXRpb24uY29tL3ZpZXdzL2xvay1zYWJoYS1lbGVjdGlvbi1yZXN1bHRz\nLTIwMTktbGF0ZXN0LXVwZGF0ZXMtbWFtYXRhLWdvdnQtbWF5LW5vdC1zdXJ2aXZlLXRpbGwtbm92\nZW1iZXItcHJ5ZWg5",
+      "short_url": "https://www.mynation.com/views/lok-sabha-election-results-2019-latest-updates-mamata-govt-may-not-survive-till-november-pryeh9",
+      "engagement": "0",
+      "popularity": "216880",
+      "tw_tweets": "96",
+      "tw_reach": "228344",
+      "tw_favorites": "124",
+      "tw_retweets": "29930",
+      "tw_since_id": "1131614850164056064",
+      "fb_shares": "31",
+      "fb_comments": "12",
+      "fb_reactions": "181",
+      "popularity_updated": "2",
+      "sentiment": "0",
+      "screen_name": "Hindu_GJ",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "23-05-2019 21:15",
+      "timestamp_published": "1558638919",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "17"
+    },
+    {
+      "id": "427803",
+      "date_published": "2019-05-24 11:14:19",
+      "date_added": "2019-05-24 07:47:49",
+      "date_modified": "2019-05-25 13:57:03",
+      "title": "In 2019, West Bengal is all set to throw up the greatest surprise of the election season and Mamata Banerjee won't be happy - Opindia News",
+      "source": "www.opindia.com",
+      "description": "With a massive upswing in 2019 Lok Sabha Elections, BJP is poised to pull off a political coup in West Bengal. The only question now is: How would Mamata Banerjee react? - Latest India News from Opindia.com",
+      "tags": [
+        "bjp",
+        "mamata banerjee",
+        "muhammad ali",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNC9pbi0yMDE5LXdlc3QtYmVuZ2FsLWJqcC1p\ncy1hbGwtc2V0LXRvLXRocm93LXVwLXRoZS1ncmVhdGVzdC1zdXJwcmlzZS1vZi10aGUtZWxlY3Rp\nb24tc2Vhc29uLWFuZC1tYW1hdGEtYmFuZXJqZWUtd29udC1iZS1oYXBweS8=",
+      "short_url": "https://www.opindia.com/2019/04/in-2019-west-bengal-bjp-is-all-set-to-throw-up-the-greatest-surprise-of-the-election-season-and-mamata-banerjee-wont-be-happy/",
+      "engagement": "0",
+      "popularity": "480974",
+      "tw_tweets": "98",
+      "tw_reach": "620965",
+      "tw_favorites": "81",
+      "tw_retweets": "8221",
+      "tw_since_id": "1132252817274441729",
+      "fb_shares": "193",
+      "fb_comments": "89",
+      "fb_reactions": "926",
+      "popularity_updated": "96",
+      "sentiment": "0",
+      "screen_name": "UnSubtleDesi",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "24-05-2019 11:14",
+      "timestamp_published": "1558689259",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "109"
+    },
+    {
+      "id": "428750",
+      "date_published": "2019-05-25 08:45:42",
+      "date_added": "2019-05-25 05:18:15",
+      "date_modified": "2019-05-27 05:37:13",
+      "title": "West Bengal: BJP worker shot dead in Nadia, days after quitting TMC",
+      "source": "www.abplive.in",
+      "description": "Now, the BJP is blaming Mamata’s party for the party worker Santu Ghosh’s murder.",
+      "tags": [
+        "aitc",
+        "bjp",
+        "mamata banerjee",
+        "nadia",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi93ZXN0LWJlbmdhbC1ianAtd29ya2VyLXNo\nb3QtZGVhZC1pbi1uYWRpYS1kYXlzLWFmdGVyLXF1aXR0aW5nLXRtYy05OTg3NDQ=",
+      "short_url": "https://www.abplive.in/election/west-bengal-bjp-worker-shot-dead-in-nadia-days-after-quitting-tmc-998744",
+      "engagement": "0",
+      "popularity": "2028220",
+      "tw_tweets": "527",
+      "tw_reach": "335844",
+      "tw_favorites": "0",
+      "tw_retweets": "1182751",
+      "tw_since_id": "1132852692768792578",
+      "fb_shares": "100",
+      "fb_comments": "21",
+      "fb_reactions": "623",
+      "popularity_updated": "369",
+      "sentiment": "-1",
+      "screen_name": "Sujitbombay",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "25-05-2019 08:45",
+      "timestamp_published": "1558766742",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        }
+      ],
+      "popularity_logs": "384"
+    },
+    {
+      "id": "429761",
+      "date_published": "2019-05-26 12:02:53",
+      "date_added": "2019-05-26 08:38:05",
+      "date_modified": "2019-05-29 13:02:05",
+      "title": "Foreign nations involved in ensuring BJP's victory, won’t say more in nation’s interest: Mamata Banerjee | India News",
+      "source": "www.timesnownews.com",
+      "description": "West Bengal Chief Minister Mamata Banerjee claimed that foreign nations were behind BJP’s historic victory in Lok Sabha elections and added that the EVMs were programmed.",
+      "tags": [
+        "bjp",
+        "mamata banerjee",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cudGltZXNub3duZXdzLmNvbS9pbmRpYS9hcnRpY2xlL2ZvcmVpZ24tbmF0aW9u\ncy1pbnZvbHZlZC1pbi1lbnN1cmluZy1ianBzLXZpY3Rvcnktd29uLXQtc2F5LW1vcmUtaW4tbmF0\naW9uLXMtaW50ZXJlc3QtbWFtYXRhLWJhbmVyamVlLzQyNTM1NA==",
+      "short_url": "https://www.timesnownews.com/india/article/foreign-nations-involved-in-ensuring-bjps-victory-won-t-say-more-in-nation-s-interest-mamata-banerjee/425354",
+      "engagement": "0",
+      "popularity": "140020",
+      "tw_tweets": "116",
+      "tw_reach": "108940",
+      "tw_favorites": "20",
+      "tw_retweets": "5368",
+      "tw_since_id": "1133688562082340864",
+      "fb_shares": "1108",
+      "fb_comments": "4883",
+      "fb_reactions": "15745",
+      "popularity_updated": "56",
+      "sentiment": "0",
+      "screen_name": "abhi_dekh",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "26-05-2019 12:02",
+      "timestamp_published": "1558864973",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "79"
+    },
+    {
+      "id": "430347",
+      "date_published": "2019-05-27 08:10:35",
+      "date_added": "2019-05-27 04:42:32",
+      "date_modified": "2019-05-28 06:11:29",
+      "title": "Third BJP leader murdered in West Bengal in 3 days; Party blames Mamata's TMC",
+      "source": "www.abplive.in",
+      "description": "The BJP worker who was murdered in 24 Paragana was only 25-year-old. The    onus of the killing has been levied on TMC leaders, therefore BJP workers were seen staging a protest at 24 Paragana after the bone-chilling murder of their party worker. They also sought an arrest of those behind murder.",
+      "tags": [
+        "aitc",
+        "bengal",
+        "bjp",
+        "mamata banerjee",
+        "west"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWJwbGl2ZS5pbi9lbGVjdGlvbi90aGlyZC1ianAtbGVhZGVyLW11cmRlcmVk\nLWluLXdlc3QtYmVuZ2FsLWluLTMtZGF5cy1wYXJ0eS1ibGFtZXMtbWFtYXRhcy10bWMtOTk5ODcw",
+      "short_url": "https://t.co/lRuZvGjRW8",
+      "engagement": "0",
+      "popularity": "164966",
+      "tw_tweets": "320",
+      "tw_reach": "101766",
+      "tw_favorites": "0",
+      "tw_retweets": "57836",
+      "tw_since_id": "1133221875360837633",
+      "fb_shares": "106",
+      "fb_comments": "60",
+      "fb_reactions": "524",
+      "popularity_updated": "304",
+      "sentiment": "-1",
+      "screen_name": "VaydeJanak318",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "27-05-2019 08:10",
+      "timestamp_published": "1558937435",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        },
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        },
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "169",
+          "query": "Trinamool OR (AITC AND India) OR (AITC AND \"Lok Sabha\")OR AITCofficial OR \"All India Trinamool Congress\" OR (TMC AND India)"
+        }
+      ],
+      "popularity_logs": "322"
+    },
+    {
+      "id": "431404",
+      "date_published": "2019-05-28 10:00:00",
+      "date_added": "2019-05-28 06:32:35",
+      "date_modified": "2019-05-28 06:47:06",
+      "title": "Pro-TMC Bengali newspaper owned by Rose Valley abuses tribals and Gorkhas for voting for BJP, calls them ‘Corrupt Hill Dwellers’ - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Bengali newspaper owned by Rose Valley group says hill dwellers took development money from Mamata but voted for BJP - Latest India News from Opindia.com",
+      "tags": [
+        "aitc",
+        "bjp",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9wcm8tdG1jLWJlbmdhbGktbmV3c3BhcGVy\nLW93bmVkLWJ5LXJvc2UtdmFsbGV5LWFidXNlcy10cmliYWxzLWFuZC1nb3JraGFzLWZvci12b3Rp\nbmctZm9yLWJqcC1jYWxscy10aGVtLWNvcnJ1cHQtaGlsbC1kd2VsbGVycy8=",
+      "short_url": "http://bit.ly/2WsJi1u",
+      "engagement": "0",
+      "popularity": "858078",
+      "tw_tweets": "258",
+      "tw_reach": "678214",
+      "tw_favorites": "34",
+      "tw_retweets": "230831",
+      "tw_since_id": "1133282840714465280",
+      "fb_shares": "288",
+      "fb_comments": "141",
+      "fb_reactions": "835",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "28-05-2019 10:00",
+      "timestamp_published": "1559030400",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        }
+      ],
+      "popularity_logs": "18"
+    },
+    {
+      "id": "432806",
+      "date_published": "2019-05-29 14:24:11",
+      "date_added": "2019-05-29 10:57:07",
+      "date_modified": "2019-05-29 10:57:08",
+      "title": "Mamata Banerjee Is Back in Her Street Fighter Role – and That Should Worry the BJP",
+      "source": "thewire.in",
+      "description": "This is the militant politics that honed Mamata Banerjee's skills as a politician.",
+      "tags": [
+        "bjp",
+        "mamata banerjee"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly90aGV3aXJlLmluL3BvbGl0aWNzL21hbWF0YS1iYW5lcmplZS1rb2xrYXRhLWRoYXJu\nYS1ianAtbW9kaQ==",
+      "short_url": "https://thewire.in/politics/mamata-banerjee-kolkata-dharna-bjp-modi",
+      "engagement": "0",
+      "popularity": "15668",
+      "tw_tweets": "5",
+      "tw_reach": "885",
+      "tw_favorites": "0",
+      "tw_retweets": "1595",
+      "tw_since_id": "1133657778159902720",
+      "fb_shares": "450",
+      "fb_comments": "675",
+      "fb_reactions": "4403",
+      "popularity_updated": "4",
+      "sentiment": "0",
+      "screen_name": "pulkitpurohlt",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "29-05-2019 14:24",
+      "timestamp_published": "1559132651",
+      "collections": [
+        {
+          "id": "1",
+          "name": "National Democratic Alliance",
+          "slug": "nda"
+        },
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "141",
+          "query": "BJP OR \"Bharatiya Janata Party\" OR BharatiyaJanataParty OR BJP4India"
+        },
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "20"
+    },
+    {
+      "id": "434216",
+      "date_published": "2019-05-30 22:45:00",
+      "date_added": "2019-05-30 19:17:10",
+      "date_modified": "2019-05-31 15:52:17",
+      "title": "Mamata Banerjee again loses cool after hearing ‘Jai Shri Ram’, asks cops to arrest people who chanted the slogan - Opindia News",
+      "source": "www.opindia.com",
+      "description": "Mamata Banerjee says that people were abusing her by chanting Jai Shri Ram, asks police to arrest them - Latest India News from Opindia.com",
+      "tags": [
+        "mamata banerjee",
+        "opindia.com"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAxOS8wNS9tYW1hdGEtYmFuZXJqZWUtYWdhaW4tbG9z\nZXMtY29vbC1hZnRlci1oZWFyaW5nLWphaS1zaHJpLXJhbS1hc2tzLWNvcHMtdG8tYXJyZXN0LXBl\nb3BsZS13aG8tY2hhbnRlZC10aGUtc2xvZ2FuLw==",
+      "short_url": "https://www.opindia.com/2019/05/mamata-banerjee-again-loses-cool-after-hearing-jai-shri-ram-asks-cops-to-arrest-people-who-chanted-the-slogan/",
+      "engagement": "0",
+      "popularity": "977026",
+      "tw_tweets": "274",
+      "tw_reach": "1193662",
+      "tw_favorites": "59",
+      "tw_retweets": "48610",
+      "tw_since_id": "1134478712080961536",
+      "fb_shares": "585",
+      "fb_comments": "581",
+      "fb_reactions": "2561",
+      "popularity_updated": "10",
+      "sentiment": "0",
+      "screen_name": "OpIndia_com",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "30-05-2019 22:45",
+      "timestamp_published": "1559249100",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "33"
+    },
+    {
+      "id": "434752",
+      "date_published": "2019-05-31 13:26:06",
+      "date_added": "2019-05-31 10:02:49",
+      "date_modified": "2019-05-31 11:51:45",
+      "title": "Mamata Banerjee taunted with 'Jai Shri Ram' slogans at Raj Bhavan? No, it is an edited video - Alt News",
+      "source": "www.altnews.in",
+      "description": "A video currently doing the rounds on social media shows West Bengal CM Mamata Banerjee being greeted with chants of ‘Jai Shri Ram’. It has been claimed that the incident took place at the Raj Bhavan in Kolkata. BJP MP from Karnataka, Shobha Karandlaje is among those who have shared this video …",
+      "tags": [
+        "mamata banerjee",
+        "ram",
+        "shri",
+        "west bengal"
+      ],
+      "image": "",
+      "url": "https://india.elezioni.io/click?u=aHR0cHM6Ly93d3cuYWx0bmV3cy5pbi9tYW1hdGEtYmFuZXJqZWUtdGF1bnRlZC13aXRoLWphaS1z\naHJpLXJhbS1zbG9nYW5zLWF0LXJhai1iaGF2YW4tbm8taXQtaXMtYW4tZWRpdGVkLXZpZGVvLw==",
+      "short_url": "https://t.co/kFBacU5bBd",
+      "engagement": "0",
+      "popularity": "867222",
+      "tw_tweets": "19",
+      "tw_reach": "1146737",
+      "tw_favorites": "2",
+      "tw_retweets": "4022",
+      "tw_since_id": "1134571947738710016",
+      "fb_shares": "103",
+      "fb_comments": "23",
+      "fb_reactions": "367",
+      "popularity_updated": "6",
+      "sentiment": "0",
+      "screen_name": "ashlypradhan",
+      "status": "1",
+      "clicks": "0",
+      "notes": null,
+      "scraped": "0",
+      "type": "article",
+      "short_published": "31-05-2019 13:26",
+      "timestamp_published": "1559301966",
+      "collections": [
+        {
+          "id": "4",
+          "name": "Others",
+          "slug": "others"
+        }
+      ],
+      "topics": [
+        {
+          "id": "170",
+          "query": "MamataOfficial OR \"Mamata Banerjee\" OR (TMC AND Lok Sabha)"
+        }
+      ],
+      "popularity_logs": "21"
+    }
+  ],
+  "message": "OK"
+}
